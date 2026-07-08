@@ -1,0 +1,107 @@
+# Λέξεις-κλειδιά προ-φιλτραρίσματος (case-insensitive, substring match).
+# Ένα άρθρο περνά στην ταξινόμηση αν πιάσει ΕΣΤΩ ΜΙΑ λέξη.
+
+keywords:
+  # Ελληνοτουρκικά / Αιγαίο
+  - greece
+  - greek
+  - aegean
+  - ελλάδα
+  - ελλην
+  - αιγαίο
+  - yunanistan
+  - ege
+  - kardak
+  - imia
+  - ίμια
+  - casus belli
+  - demilitariz
+  - αποστρατιωτικοποί
+  - υφαλοκρηπίδα
+  - continental shelf
+  - χωρικά ύδατα
+  - territorial waters
+  - navtex
+  - notam
+  - mavi vatan
+  - blue homeland
+  - γαλάζια πατρίδα
+
+  # Κυπριακό
+  - cyprus
+  - cypriot
+  - κύπρος
+  - κυπριακ
+  - varosha
+  - βαρώσια
+  - trnc
+  - kıbrıs
+  - αοζ
+  - eez
+  - exclusive economic zone
+
+  # Θράκη / μειονότητα
+  - thrace
+  - θράκη
+  - western thrace
+  - batı trakya
+  - μειονότητα
+  - minority
+  - μουφτ
+  - mufti
+
+  # Άμυνα / εξοπλισμοί με ελληνοτουρκικό ενδιαφέρον
+  - f-16
+  - f-35
+  - kaan
+  - rafale
+  - belharra
+  - fdi
+  - meteor
+  - s-400
+  - patriot
+  - bayraktar
+  - akinci
+  - kizilelma
+  - tayfun
+  - typhoon missile
+  - steadfast
+  - aspides
+
+  # Πρόσωπα
+  - erdogan
+  - ερντογάν
+  - fidan
+  - φιντάν
+  - mitsotakis
+  - μητσοτάκης
+  - γεραπετρίτης
+  - gerapetritis
+  - dendias
+  - δένδιας
+  - christodoulides
+  - χριστοδουλίδης
+  - tatar
+  - akar
+  - güler
+
+  # Μεταναστευτικό (εργαλειοποίηση)
+  - migrant
+  - μεταναστ
+  - evros
+  - έβρος
+  - frontex
+  - pushback
+  - instrumentaliz
+
+  # Ενέργεια / ΑΟΖ
+  - east med
+  - eastmed
+  - oruc reis
+  - abdulhamid han
+  - piri reis
+  - drilling
+  - γεώτρηση
+  - hydrocarbon
+  - chevron
+  - exxon
