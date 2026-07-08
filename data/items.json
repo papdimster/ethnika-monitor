@@ -1,9 +1,358 @@
 {
- "updated": "2026-07-08T09:20:00+00:00",
- "count": 3,
+ "updated": "2026-07-08T16:30:46.323703+00:00",
+ "count": 18,
  "items": [
-  {"id":"demo1","title":"Turkey issues NAVTEX for seismic survey south of Kastellorizo","link":"https://example.com/1","summary_raw":"","source":"Hurriyet Daily News","side":"turkish_media","lang":"en","published":"2026-07-08T07:40:00+00:00","collected":"2026-07-08T08:20:00+00:00","keywords_hit":["navtex","kastellorizo"],"category":"Αιγαίο-ΑΟΖ","severity":4,"summary_el":"Η Άγκυρα εξέδωσε NAVTEX για σεισμικές έρευνες του Oruc Reis νότια του Καστελλόριζου, σε περιοχή που τέμνει την ελληνική υφαλοκρηπίδα.","angle":"Σύγκριση με την κρίση του 2020 — τι άλλαξε στη στάση της Αθήνας.","turkish_narrative":false},
-  {"id":"demo2","title":"Erdogan: 'Aegean islands must be demilitarized per treaties'","link":"https://example.com/2","summary_raw":"","source":"Anadolu Agency (EN)","side":"turkish_state","lang":"en","published":"2026-07-08T06:10:00+00:00","collected":"2026-07-08T07:20:00+00:00","keywords_hit":["erdogan","aegean","demilitariz"],"category":"Ελληνοτουρκικά","severity":3,"summary_el":"Ο Ερντογάν επανέφερε το αφήγημα περί αποστρατιωτικοποίησης των νησιών του Αιγαίου, επικαλούμενος τις Συνθήκες Λωζάννης και Παρισίων.","angle":"Γιατί το τουρκικό επιχείρημα καταρρέει νομικά — οι απαντήσεις του διεθνούς δικαίου.","turkish_narrative":true},
-  {"id":"demo3","title":"Greece receives third Belharra frigate ahead of schedule","link":"https://example.com/3","summary_raw":"","source":"Kathimerini (EN)","side":"greek_media","lang":"en","published":"2026-07-07T18:30:00+00:00","collected":"2026-07-07T19:20:00+00:00","keywords_hit":["belharra"],"category":"Άμυνα-Εξοπλισμοί","severity":2,"summary_el":"Το ΠΝ παρέλαβε την τρίτη φρεγάτα Belharra νωρίτερα από το χρονοδιάγραμμα, ενισχύοντας την αποτρεπτική ισχύ στο Αιγαίο.","angle":null,"turkish_narrative":false}
+  {
+   "id": "165d08a1b9e51ae4",
+   "title": "Trump praises Turkish President Erdogan, calls NATO summit in Ankara a success",
+   "link": "https://www.aa.com.tr/en/turkiye/trump-praises-turkish-president-erdogan-calls-nato-summit-in-ankara-a-success/3991674",
+   "summary_raw": "'We just concluded a very successful NATO summit here in Türkiye,' says US president",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-07-08T16:20:56+00:00",
+   "collected": "2026-07-08T16:28:57.595361+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "summary_el": "Ο πρόεδρος Τραμπ εξήρε τον Ερντογάν και χαρακτήρισε επιτυχημένη τη Σύνοδο Κορυφής του ΝΑΤΟ στην Άγκυρα. Η διοργάνωση της Συνόδου στην Τουρκία ενισχύει το διεθνές κύρος του Ερντογάν σε κρίσιμη για την Ελλάδα συγκυρία.",
+   "angle": "Πώς η αναβάθμιση του Ερντογάν μέσω της ΝΑΤΟ Συνόδου στην Άγκυρα επηρεάζει τα ελληνικά διπλωματικά χαρτιά.",
+   "turkish_narrative": true
+  },
+  {
+   "id": "f60bd28a1c88dbc9",
+   "title": "Το μήνυμα Μητσοτάκη σε ΝΑΤΟ και Ευρωπαίους, οι ισορροπίες Τραμπ και η τουρκική ρητορική για την Κύπρο",
+   "link": "https://www.ertnews.gr/eidiseis/to-minyma-mitsotaki-se-nato-kai-eyropaious-oi-isorropies-tramp-kai-i-tourkiki-ritoriki-gia-tin-kypro/",
+   "summary_raw": "<img alt=\"Turkey NATO Summit\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/ap26189346176341-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Σε μια αποτίμηση των όσων συνέβησαν στη Σύνοδο Κορυφής του ΝΑΤΟ προχώρησε ο διπλωματικός συντάκτης του ΕΡΤnews, Νίκος Μελέτης, εστιάζοντας στο μήνυμα που έστειλε ο πρωθυπουργός Κυριάκος Μητσοτάκης για το τουρκικό casus belli, στις ισορροπίες που διαμορφώνονται εντός της Συμμαχίας, αλλά και στις εξελίξεις γύρω από την Ουκρανία και τα ελληνοτουρκικά. Σύμφωνα με τον τον ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/to-minyma-mitsotaki-se-nato-kai-eyropaious-oi-isorropies-tramp-kai-i-tourkiki-ritoriki-gia-tin-kypro/\" title=\"Το μήνυμα Μητσοτάκη σε ΝΑΤΟ και Ευρωπαίους, οι ισορροπίες Τραμπ και η τουρκική ρητορική για την Κύπρο\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-08T16:09:34+00:00",
+   "collected": "2026-07-08T16:28:59.792558+00:00",
+   "keywords_hit": [
+    "ελλην",
+    "casus belli",
+    "μητσοτάκης"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "summary_el": "Ο διπλωματικός συντάκτης της ΕΡΤ αποτιμά τη Σύνοδο ΝΑΤΟ στην Άγκυρα εστιάζοντας στο μήνυμα Μητσοτάκη για το τουρκικό casus belli και στην τουρκική ρητορική για το Κυπριακό. Αναδεικνύονται οι ισορροπίες εντός της Συμμαχίας σε κρίσιμη για Ελλάδα και Κύπρο συγκυρία.",
+   "angle": "Τι κέρδισε και τι έχασε η Ελλάδα στη Σύνοδο ΝΑΤΟ της Άγκυρας: πλήρης απολογισμός.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "303cfe4126e41314",
+   "title": "Turkish, Syrian leaders meet in Ankara for talks",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-syrian-leaders-meet-in-ankara-for-talks/3991630",
+   "summary_raw": "Recep Tayyip Erdogan, Ahmed al-Sharaa hold talks at presidential complex on sidelines of NATO summit",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-07-08T16:03:24+00:00",
+   "collected": "2026-07-08T16:28:57.595476+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Ο Ερντογάν συναντήθηκε με τον Σύριο ηγέτη Αχμέντ αλ-Σαράα στο περιθώριο της Συνόδου ΝΑΤΟ στην Άγκυρα. Η Τουρκία αναδεικνύεται σε κεντρικό διαμεσολαβητή για τη Συρία, γεγονός που έχει άμεσες επιπτώσεις στο προσφυγικό και την περιφερειακή ισορροπία.",
+   "angle": "Η τουρκική επιρροή στη νέα Συρία και οι συνέπειες για τις ελληνικές προτεραιότητες στο μεταναστευτικό.",
+   "turkish_narrative": true
+  },
+  {
+   "id": "47ad873a31f561e5",
+   "title": "Germany’s Merz: Türkiye key ‘strategic ally’ for us in foreign, security policy",
+   "link": "https://www.aa.com.tr/en/turkiye/germany-s-merz-turkiye-key-strategic-ally-for-us-in-foreign-security-policy/3991578",
+   "summary_raw": "Chancellor praises Ankara’s ‘enormous contribution’ to regional stability, highlighting President Erdogan’s indispensable role in Syria",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-07-08T15:39:30+00:00",
+   "collected": "2026-07-08T16:28:57.595643+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "summary_el": "Ο Γερμανός Καγκελάριος Μερτς χαρακτήρισε την Τουρκία «στρατηγικό σύμμαχο» και επαίνεσε τη «τεράστια συνεισφορά» της Άγκυρας στη σταθερότητα της περιοχής. Η διπλωματική αναβάθμιση της Τουρκίας από βασικό ευρωπαϊκό εταίρο εγείρει ερωτήματα για τον χειρισμό των ελληνοτουρκικών διαφορών στο ευρωπαϊκό επίπεδο.",
+   "angle": "Αναβάθμιση Τουρκίας από τη Γερμανία: τι σημαίνει για την ελληνική στρατηγική στην ΕΕ και το ΝΑΤΟ.",
+   "turkish_narrative": true
+  },
+  {
+   "id": "16028ec618ac2f47",
+   "title": "Τραμπ: Πολύ πιθανό να χτυπήσουμε το Ιράν απόψε – Θα δώσουμε άδεια στην Ουκρανία για την παραγωγή συστημάτων Patriot",
+   "link": "https://www.ertnews.gr/eidiseis/diethni/tramp-poly-pithano-na-xtypisoume-to-iran-apopse-tha-dosoume-adeia-stin-oukrania-gia-tin-paragogi-systimaton-patriot/",
+   "summary_raw": "<img alt=\"APTOPIX Turkey NATO Summit Trump\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/ap26189465228898-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Ο πρόεδρος των ΗΠΑ, Ντόναλντ Τραμπ σε δηλώσεις που έκανε πριν από τη συνάντηση με τον Ουκρανό ομόλογό του, Βολοντίμιρ Ζελένσκι στο περιθώριο της Συνόδου Κορυφής του ΝΑΤΟ στην Άγκυρα, προειδοποίησε το Ιράν ότι οι Ηνωμένες Πολιτείες είναι πιθανό να εξαπολύσουν και νέα πλήγματα την Τετάρτη (8/7) μετά τις χθεσινές επιθέσεις. «Τους χτυπήσαμε πολύ σκληρά ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/tramp-poly-pithano-na-xtypisoume-to-iran-apopse-tha-dosoume-adeia-stin-oukrania-gia-tin-paragogi-systimaton-patriot/\" title=\"Τραμπ: Πολύ πιθανό να χτυπήσουμε το Ιράν απόψε &#8211; Θα δώσουμε άδεια στην Ουκρανία για την παραγωγή συστημάτων Patriot\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-08T14:37:33+00:00",
+   "collected": "2026-07-08T16:28:59.793533+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "summary_el": "Ο Τραμπ προειδοποίησε για νέα πλήγματα κατά του Ιράν και ανακοίνωσε χορήγηση άδειας στην Ουκρανία για παραγωγή συστημάτων Patriot στο περιθώριο της Συνόδου ΝΑΤΟ στην Άγκυρα. Οι εξελίξεις αυτές διαμορφώνουν νέα δεδομένα στην ευρύτερη περιφερειακή ασφάλεια που αφορά και την Ελλάδα.",
+   "angle": "Η κλιμάκωση ΗΠΑ-Ιράν και η μεταφορά Patriot στην Ουκρανία: επιπτώσεις στην ελληνική αμυντική θωράκιση.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "c79caff359433628",
+   "title": "Ρούτε: Η Συμμαχία είναι πιο ενωμένη από ποτέ – «Δεν σχολιάζω» είπε για τα ελληνοτουρκικά",
+   "link": "https://www.ertnews.gr/eidiseis/route-i-symmaxia-einai-pio-enomeni-apo-pote-den-sxoliazo-eipe-gia-ta-ellinotourkika/",
+   "summary_raw": "<img alt=\"Turkey NATO Summit\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/ap26189480410644-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Μήνυμα ενότητας επιχείρησε να εκπέμψει ο γενικός γραμματέας του ΝΑΤΟ, Μαρκ Ρούτε, μετά την ολοκλήρωση της Συνόδου Κορυφής στην Άγκυρα, παρά τις εντάσεις που προκάλεσαν οι παρεμβάσεις του Ντόναλντ Τραμπ για την Ισπανία, τη Γροιλανδία και το Ιράν. Απέφυγε ωσόσο να λάβει θέση τόσο για το ζήτημα των S-400 όσο και για τις ελληνοτουρκικές διαφορές ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/route-i-symmaxia-einai-pio-enomeni-apo-pote-den-sxoliazo-eipe-gia-ta-ellinotourkika/\" title=\"Ρούτε: Η Συμμαχία είναι πιο ενωμένη από ποτέ &#8211; «Δεν σχολιάζω» είπε για τα ελληνοτουρκικά\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-08T14:15:18+00:00",
+   "collected": "2026-07-08T16:28:59.793846+00:00",
+   "keywords_hit": [
+    "ελλην",
+    "s-400"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 3,
+   "summary_el": "Ο Γενικός Γραμματέας του ΝΑΤΟ Μαρκ Ρούτε αρνήθηκε να σχολιάσει τις ελληνοτουρκικές διαφορές και το ζήτημα των S-400, εκπέμποντας μήνυμα ενότητας μετά τη Σύνοδο Κορυφής στην Άγκυρα. Η αποχή Ρούτε από θέση επί των ελληνοτουρκικών αφήνει αναπάντητα κρίσιμα ζητήματα για την Αθήνα.",
+   "angle": "Η σιωπή Ρούτε για τα ελληνοτουρκικά: αδιαφορία ή στρατηγική αποστασιοποίηση του ΝΑΤΟ;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "b073b4c1dba44539",
+   "title": "Μητσοτάκης: Ιστορική ανορθογραφία το casus belli – Υπάρχουν νομικά εμπόδια για τα F-35 της Τουρκίας",
+   "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/mitsotakis-istoriki-anorthografia-to-casus-belli-yparxoun-nomika-empodia-gia-ta-f-35-tis-tourkias/",
+   "summary_raw": "<img alt=\"ΤΟΥΡΚΙΑ ΜΗΤΣΟΤΑΚΗΣ Κ ΣΥΝΟΔΟΣ ΚΟΡΥΦΗΣ ΤΟΥ ΝΑΤΟ\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1708\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/32099880-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Σαφές μήνυμα προς την Τουρκία, αλλά και έμφαση στον ενισχυμένο ρόλο της Ελλάδας στη νέα αρχιτεκτονική ασφαλείας του ΝΑΤΟ, περιείχαν οι δηλώσεις του πρωθυπουργού, Κυριάκου Μητσοτάκη, μετά τη Σύνοδο Κορυφής του ΝΑΤΟ. Στο επίκεντρο των τοποθετήσεών του κ. Μητσοτάκη βρέθηκαν το casus belli της Τουρκίας, η προοπτική απόκτησης μαχητικών F-35 από την Άγκυρα, η αύξηση ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ellada/politiki/mitsotakis-istoriki-anorthografia-to-casus-belli-yparxoun-nomika-empodia-gia-ta-f-35-tis-tourkias/\" title=\"Μητσοτάκης: Ιστορική ανορθογραφία το casus belli &#8211; Υπάρχουν νομικά εμπόδια για τα F-35 της Τουρκίας\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-08T14:04:44+00:00",
+   "collected": "2026-07-08T16:28:59.793973+00:00",
+   "keywords_hit": [
+    "ελλάδα",
+    "casus belli",
+    "f-35",
+    "mitsotakis",
+    "μητσοτάκης"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "summary_el": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης χαρακτήρισε «ιστορική ανορθογραφία» το τουρκικό casus belli και επισήμανε νομικά εμπόδια στην απόκτηση F-35 από την Τουρκία, στέλνοντας σαφές μήνυμα στην Άγκυρα από τη Σύνοδο ΝΑΤΟ. Οι δηλώσεις αυτές εντάσσονται στη στρατηγική ανάδειξης του ενισχυμένου ρόλου της Ελλάδας στη νέα αρχιτεκτονική ασφαλείας της Συμμαχίας.",
+   "angle": "Μητσοτάκης εναντίον τουρκικού casus belli και F-35: η Ελλάδα παίζει σκληρό χαρτί στο ΝΑΤΟ.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "1445743ada6bbc43",
+   "title": "Απαγορεύτηκε στην Τουρκία ελλιμενισμός κρουαζιερόπλοιου με ΛΟΑΤΚΙ+ επιβάτες",
+   "link": "https://www.ertnews.gr/roi-idiseon/apagoreytike-stin-tourkia-ellimenismos-krouazieroploiou-me-loatki-epivates/",
+   "summary_raw": "<img alt=\"scarlet-lady-in-liverpool-february-2020-cropped\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"582\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/scarlet-lady-in-liverpool-february-2020-cropped.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>Οι τουρκικές αρχές απαγόρευσαν τον ελλιμενισμό κρουαζιερόπλοιου που απευθύνεται σε ταξιδιώτες της ΛΟΑΤΚΙ+ κοινότητας, επικαλούμενες «ηθικά πρότυπα» και «οικογενειακές αξίες», σύμφωνα με τον διευθύνοντα σύμβουλο της εταιρείας διοργάνωσης του ταξιδιού. Η κρουαζιέρα «Athens to Venice», η οποία απέπλευσε από την Ελλάδα στις 5 Ιουλίου, επρόκειτο να προσεγγίσει το τουρκικό λιμάνι του Κουσάντασι δύο ημέρες αργότερα ... <a class=\"read-more\" href=\"https://www.ertnews.gr/roi-idiseon/apagoreytike-stin-tourkia-ellimenismos-krouazieroploiou-me-loatki-epivates/\" title=\"Απαγορεύτηκε στην Τουρκία ελλιμενισμός κρουαζιερόπλοιου με ΛΟΑΤΚΙ+ επιβάτες\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-08T13:32:47+00:00",
+   "collected": "2026-07-08T16:28:59.794377+00:00",
+   "keywords_hit": [
+    "ελλάδα"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Τουρκικές αρχές απαγόρευσαν τον ελλιμενισμό κρουαζιερόπλοιου ΛΟΑΤΚΙ+ επιβατών που πραγματοποιούσε δρομολόγιο «Αθήνα-Βενετία», επικαλούμενες «ηθικά πρότυπα» και «οικογενειακές αξίες». Η απόφαση αφορά εταιρεία που διοργανώνει κρουαζιέρες αποκλειστικά για την ΛΟΑΤΚΙ+ κοινότητα.",
+   "angle": "Η Τουρκία ως τουριστικός προορισμός απορρίπτει ΛΟΑΤΚΙ+ επισκέπτες: τι σημαίνει αυτό για τον ανταγωνισμό με την Ελλάδα στον κλάδο της κρουαζιέρας στη Μεσόγειο.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "demo1",
+   "title": "Turkey issues NAVTEX for seismic survey south of Kastellorizo",
+   "link": "https://example.com/1",
+   "summary_raw": "",
+   "source": "Hurriyet Daily News",
+   "side": "turkish_media",
+   "lang": "en",
+   "published": "2026-07-08T07:40:00+00:00",
+   "collected": "2026-07-08T08:20:00+00:00",
+   "keywords_hit": [
+    "navtex",
+    "kastellorizo"
+   ],
+   "category": "Αιγαίο-ΑΟΖ",
+   "severity": 4,
+   "summary_el": "Η Άγκυρα εξέδωσε NAVTEX για σεισμικές έρευνες του Oruc Reis νότια του Καστελλόριζου, σε περιοχή που τέμνει την ελληνική υφαλοκρηπίδα.",
+   "angle": "Σύγκριση με την κρίση του 2020 — τι άλλαξε στη στάση της Αθήνας.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "demo2",
+   "title": "Erdogan: 'Aegean islands must be demilitarized per treaties'",
+   "link": "https://example.com/2",
+   "summary_raw": "",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-07-08T06:10:00+00:00",
+   "collected": "2026-07-08T07:20:00+00:00",
+   "keywords_hit": [
+    "erdogan",
+    "aegean",
+    "demilitariz"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 3,
+   "summary_el": "Ο Ερντογάν επανέφερε το αφήγημα περί αποστρατιωτικοποίησης των νησιών του Αιγαίου, επικαλούμενος τις Συνθήκες Λωζάννης και Παρισίων.",
+   "angle": "Γιατί το τουρκικό επιχείρημα καταρρέει νομικά — οι απαντήσεις του διεθνούς δικαίου.",
+   "turkish_narrative": true
+  },
+  {
+   "id": "demo3",
+   "title": "Greece receives third Belharra frigate ahead of schedule",
+   "link": "https://example.com/3",
+   "summary_raw": "",
+   "source": "Kathimerini (EN)",
+   "side": "greek_media",
+   "lang": "en",
+   "published": "2026-07-07T18:30:00+00:00",
+   "collected": "2026-07-07T19:20:00+00:00",
+   "keywords_hit": [
+    "belharra"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "summary_el": "Το ΠΝ παρέλαβε την τρίτη φρεγάτα Belharra νωρίτερα από το χρονοδιάγραμμα, ενισχύοντας την αποτρεπτική ισχύ στο Αιγαίο.",
+   "angle": null,
+   "turkish_narrative": false
+  },
+  {
+   "id": "6c7e51bc64ef5903",
+   "title": "NATO summit becomes Erdogan’s show of force to wipe out remaining opposition at home",
+   "link": "https://nordicmonitor.com/2026/07/nato-summit-becomes-erdogans-show-of-force-to-wipe-out-remaining-opposition-at-home/",
+   "summary_raw": "Levent Kenez/Stockholm When 75-year-old retired teacher and environmental volunteer Ayten Yakut boarded a bus for a birdwatching trip outside Ankara, she expected to return home with photographs of migratory birds and memories of a summer day spent in nature. She never imagined the excursion would end with a raid on her home and questions about [&#8230;]",
+   "source": "Nordic Monitor",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-07-06T22:01:04+00:00",
+   "collected": "2026-07-08T16:29:00.613460+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Σύμφωνα με το Nordic Monitor, ο Ερντογάν εκμεταλλεύτηκε τη Σύνοδο Κορυφής του ΝΑΤΟ για να επιδείξει ισχύ εσωτερικά, ενώ ταυτόχρονα εντείνεται η καταστολή κατά της αντιπολίτευσης — με χαρακτηριστικό παράδειγμα την έφοδο σε σπίτι 75χρονης εθελόντριας περιβαλλοντολόγου.",
+   "angle": "Πώς ο Ερντογάν χρησιμοποιεί τις ΝΑΤΟ Συνόδους Κορυφής ως βήμα εσωτερικής νομιμοποίησης, ενώ παράλληλα καταπνίγει την αντιπολίτευση.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "ad6f8d9cc82e6553",
+   "title": "Former spy chief transformed Turkey’s Foreign Ministry into a platform for intelligence operations abroad",
+   "link": "https://nordicmonitor.com/2026/07/former-spy-chief-transformed-turkeys-foreign-ministry-into-a-platform-for-intelligence-operations-abroad/",
+   "summary_raw": "Abdullah Bozkurt/Stockholm The transformation of Turkey’s diplomatic service into an intelligence and security apparatus under former spy chief Hakan Fidan has been moving at full speed according to a newly published report by the Foreign Ministry that outlines strategic priorities, institutional objectives and performance indicators for the coming years. Fidan, who led Turkey’s notorious intelligence [&#8230;]",
+   "source": "Nordic Monitor",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-07-05T22:57:07+00:00",
+   "collected": "2026-07-08T16:29:00.613527+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "summary_el": "Νέα έκθεση αποκαλύπτει ότι ο Χακάν Φιντάν, πρώην επικεφαλής της τουρκικής ΜΙΤ και νυν ΥΠΕΞ, μετέτρεψε το τουρκικό Υπουργείο Εξωτερικών σε εργαλείο κατασκοπευτικών επιχειρήσεων στο εξωτερικό. Η μετατροπή αυτή τεκμηριώνεται σε επίσημο έγγραφο στρατηγικών προτεραιοτήτων του ίδιου του υπουργείου.",
+   "angle": "Ο Φιντάν ως «κατάσκοπος-διπλωμάτης»: τι σημαίνει για Ελλάδα και Κύπρο η μετατροπή της τουρκικής διπλωματίας σε μηχανισμό πληροφοριών.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "d6820d5670b051de",
+   "title": "German Intelligence again flags Turkey as key security threat",
+   "link": "https://nordicmonitor.com/2026/07/german-intelligence-again-flags-turkey-as-key-security-threat/",
+   "summary_raw": "Levent Kenez/Stockholm The long arm of Turkish President Recep Tayyip Erdogan has once again been caught in the crosshairs of German domestic intelligence as Berlin sounded the alarm over intensifying covert state operations, diaspora surveillance and an expanding web of foreign-backed extremist networks operating on German soil. The Federal Office for the Protection of the [&#8230;]",
+   "source": "Nordic Monitor",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-07-02T22:01:09+00:00",
+   "collected": "2026-07-08T16:29:00.613575+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "summary_el": "Η γερμανική εσωτερική υπηρεσία πληροφοριών (BfV) εντοπίζει για άλλη μια φορά την Τουρκία ως βασική απειλή ασφαλείας, καταγράφοντας εντατικοποίηση κρυφών επιχειρήσεων, παρακολούθηση ομογενών και χρηματοδότηση εξτρεμιστικών δικτύων στο γερμανικό έδαφος.",
+   "angle": "Αν η Γερμανία βλέπει την Τουρκία ως κατασκοπευτική απειλή, τι πρέπει να ανησυχεί η Ελλάδα για τις τουρκικές δραστηριότητες στη Θράκη και στην ελληνική ομογένεια;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "054d0933f6819b2c",
+   "title": "Erdogan’s deteriorating health triggers power struggle among family and loyalists in Turkey",
+   "link": "https://nordicmonitor.com/2026/07/erdogans-deteriorating-health-triggers-power-struggle-among-family-and-loyalists-in-turkey/",
+   "summary_raw": "Abdullah Bozkurt/Stockholm Turkish President Recep Tayyip Erdogan&#8217;s increasingly frequent verbal slips, apparent moments of confusion, memory lapses, angry outbursts and visible signs of fatigue have renewed questions about the 72-year-old leader&#8217;s health and whether age-related decline compounded by a longstanding neurological condition may be affecting his performance in office. Concerns over his deteriorating condition have [&#8230;]",
+   "source": "Nordic Monitor",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-06-30T22:33:38+00:00",
+   "collected": "2026-07-08T16:29:00.613673+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "summary_el": "Αναλυτές και πηγές του Nordic Monitor εκτιμούν ότι η επιδεινούμενη υγεία του 72χρονου Ερντογάν — με γλωσσικά σφάλματα, σύγχυση και νευρολογικά προβλήματα — έχει πυροδοτήσει κρυφό αγώνα εξουσίας μεταξύ οικογένειας και πιστών στελεχών του. Η αβεβαιότητα για τη διαδοχή ανησυχεί τις δυτικές πρωτεύουσες.",
+   "angle": "Η πιθανή μεταβατική περίοδος στην Τουρκία μετά τον Ερντογάν: ευκαιρία ή αστάθεια για την Ελλάδα και τις ελληνοτουρκικές σχέσεις;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "ef8862a690df1640",
+   "title": "Turkey’s spy agency allegedly cultivated journalist as intelligence asset to run psyops",
+   "link": "https://nordicmonitor.com/2026/06/turkeys-spy-agency-allegedly-cultivated-journalist-as-intelligence-asset-to-run-psyops/",
+   "summary_raw": "Abdullah Bozkurt/Stockholm A journalist who has long presented himself as an independent figure in Turkey was allegedly recruited and handled for years as an intelligence asset by a clandestine unit within the National Intelligence Organization (Milli İstihbarat Teşkilatı, MIT), the country&#8217;s main spy agency, according to a former senior investigator. The investigator alleged that the [&#8230;]",
+   "source": "Nordic Monitor",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-06-28T22:32:38+00:00",
+   "collected": "2026-07-08T16:29:00.613770+00:00",
+   "keywords_hit": [
+    "ege"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Πρώην ανώτερος ερευνητής καταγγέλλει ότι γνωστός δημοσιογράφος στην Τουρκία στρατολογήθηκε από μυστική μονάδα της ΜΙΤ για τη διεξαγωγή επιχειρήσεων ψυχολογικής επιρροής (psyops). Η καταγγελία αναδεικνύει τη συστηματική χρήση μέσων ενημέρωσης από την τουρκική κατασκοπεία.",
+   "angle": "Τουρκικά ΜΜΕ ως εργαλεία ΜΙΤ: πώς η Ελλάδα πρέπει να αξιολογεί τις τουρκικές δημοσιογραφικές πηγές σε ευαίσθητα διμερή ζητήματα.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "5bc66606a4369043",
+   "title": "Erdogan gov’t increasingly weaponizes internet regulations against opposition groups, report finds",
+   "link": "https://nordicmonitor.com/2026/06/erdogan-government-increasingly-weaponizes-online-censorship-tightens-grip-on-dissent/",
+   "summary_raw": "Levent Kenez/Stockholm More than 1.5 million websites and domain names had been blocked in Turkey by the end of 2025, according to a new report that documents a dramatic expansion of government control over the digital sphere and describes the emergence of a system in which online censorship has become a routine instrument of political [&#8230;]",
+   "source": "Nordic Monitor",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-06-25T22:01:17+00:00",
+   "collected": "2026-07-08T16:29:00.613824+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Νέα έκθεση καταγράφει ότι στην Τουρκία έχουν αποκλειστεί πάνω από 1,5 εκατομμύριο ιστότοποι και domain names έως το τέλος του 2025, με τον ψηφιακό λογοκρισία να αποτελεί πλέον συστηματικό εργαλείο πολιτικής καταστολής.",
+   "angle": "Ψηφιακή αυταρχική Τουρκία: ένα κράτος με 1,5 εκατ. αποκλεισμένες ιστοσελίδες διεκδικεί ρόλο αξιόπιστου εταίρου στο ΝΑΤΟ και στην Ανατολική Μεσόγειο;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "5a10be7c55c71ef7",
+   "title": "A man whose family has extensive links to Turkish government indicted in US over alleged plot to poison, kill, terrorize pro-Israel targets",
+   "link": "https://nordicmonitor.com/2026/06/a-man-whose-family-has-extensive-links-to-turkish-government-indicted-in-us-over-alleged-plot-to-poison-kill-terrorize-pro-israel-targets/",
+   "summary_raw": "Abdullah Bozkurt/Stockholm A man who has family members in the Turkish government has been indicted in the United States on federal charges stemming from an alleged campaign of intimidation and violence that included discussions about poisoning victims, targeting their children, burning down homes and carrying out other attacks against individuals perceived as supporting Israel. Ahmet Kerem [&#8230;]",
+   "source": "Nordic Monitor",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-06-24T22:51:16+00:00",
+   "collected": "2026-07-08T16:29:00.613879+00:00",
+   "keywords_hit": [
+    "ege"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "summary_el": "Αμερικανικές αρχές απήγγειλαν κατηγορίες σε άτομο με ισχυρούς οικογενειακούς δεσμούς με την τουρκική κυβέρνηση για σχέδιο δολοφονίας και τρομοκράτησης φιλο-ισραηλινών στόχων στις ΗΠΑ — συμπεριλαμβανομένης συνομιλίας για δηλητηρίαση θυμάτων και εμπρησμό κατοικιών.",
+   "angle": "Τουρκικά κυβερνητικά δίκτυα πίσω από αμερικανικό κατηγορητήριο δολοφονικής συνωμοσίας: τι αποκαλύπτει αυτό για τη χρήση παρακρατικών δικτύων από την Άγκυρα.",
+   "turkish_narrative": false
+  }
  ]
 }
