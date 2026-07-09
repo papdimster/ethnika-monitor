@@ -1,62 +1,136 @@
-# Πηγές παρακολούθησης — RSS feeds
-# Πρόσθεσε/αφαίρεσε ελεύθερα. Το url πρέπει να είναι RSS/Atom feed.
+# Πηγές παρακολούθησης
+# feeds: RSS/Atom | telegram: δημόσια κανάλια | html_pages: σελίδες χωρίς RSS
 
 feeds:
-  # --- Τουρκικά ΜΜΕ (αγγλόφωνες εκδόσεις) ---
+  # --- Τουρκικά ΜΜΕ ---
   - name: Hurriyet Daily News
     url: https://www.hurriyetdailynews.com/rss
     lang: en
     side: turkish_media
-
   - name: Daily Sabah
     url: https://www.dailysabah.com/rss
     lang: en
     side: turkish_media
-
   - name: Anadolu Agency (EN)
     url: https://www.aa.com.tr/en/rss/default?cat=guncel
     lang: en
     side: turkish_state
-
   - name: TRT World
     url: https://www.trtworld.com/feed
     lang: en
     side: turkish_state
+  - name: Turkish Minute
+    url: https://www.turkishminute.com/feed/
+    lang: en
+    side: turkish_opposition
+  - name: Yeni Safak (EN)
+    url: https://www.yenisafak.com/en/rss
+    lang: en
+    side: turkish_media
 
   # --- Ελληνικά ΜΜΕ ---
   - name: Kathimerini (EN)
     url: https://www.ekathimerini.com/feed/
     lang: en
     side: greek_media
-
   - name: Newsbomb
     url: https://www.newsbomb.gr/rss
     lang: el
     side: greek_media
-
   - name: ΕΡΤ News
     url: https://www.ertnews.gr/feed/
     lang: el
     side: greek_media
+
+  # --- Ελληνικά αμυντικά ---
+  - name: Defence Point
+    url: https://defence-point.gr/feed
+    lang: el
+    side: greek_defense
+  - name: Πτήση & Διάστημα
+    url: https://www.ptisidiastima.com/feed/
+    lang: el
+    side: greek_defense
+  - name: OnAlert
+    url: https://www.onalert.gr/feed/
+    lang: el
+    side: greek_defense
+
+  # --- Θράκη ---
+  - name: Χρόνος (Κομοτηνή)
+    url: https://www.xronos.gr/feed
+    lang: el
+    side: thrace_greek
+  - name: Παρατηρητής της Θράκης
+    url: https://www.paratiritis-news.gr/feed
+    lang: el
+    side: thrace_greek
+  - name: Evros News
+    url: https://evros-news.gr/feed
+    lang: el
+    side: thrace_greek
+
+  # --- Κύπρος ---
+  - name: Cyprus Mail
+    url: https://cyprus-mail.com/feed/
+    lang: en
+    side: cypriot_media
+  - name: in-cyprus (Philenews)
+    url: https://in-cyprus.philenews.com/feed/
+    lang: en
+    side: cypriot_media
 
   # --- Διεθνή / εξειδικευμένα ---
   - name: Reuters World
     url: https://feeds.reuters.com/Reuters/worldNews
     lang: en
     side: international
-
   - name: Al-Monitor Turkey
     url: https://www.al-monitor.com/rss/turkey.xml
     lang: en
     side: international
-
   - name: Nordic Monitor
     url: https://nordicmonitor.com/feed/
     lang: en
     side: international
+  - name: Naval News
+    url: https://www.navalnews.com/feed/
+    lang: en
+    side: defense_intl
+  - name: The War Zone
+    url: https://www.twz.com/feed
+    lang: en
+    side: defense_intl
+  - name: Breaking Defense
+    url: https://breakingdefense.com/feed/
+    lang: en
+    side: defense_intl
+  - name: Middle East Eye
+    url: https://www.middleeasteye.net/rss
+    lang: en
+    side: international
 
-# TODO v2:
-# - NAVTEX Τουρκίας (shodb.gov.tr) — θέλει scraper, όχι RSS
-# - Ελληνική Υδρογραφική Υπηρεσία (hnhs.gr)
-# - Ανακοινώσεις ΥΠΕΞ / ΓΕΕΘΑ / τουρκικού MSB
-# - X/Twitter accounts (θέλει API key ή nitter instance)
+# --- Δημόσια κανάλια Telegram (το username από το t.me/XXXX) ---
+telegram:
+  - username: clashreport
+    lang: en
+    side: telegram_osint
+  # Πρόσθεσε κι άλλα έτσι:
+  # - username: ONOMA_KANALIOU
+  #   lang: tr
+  #   side: telegram_turkish
+
+# --- Σελίδες χωρίς RSS ---
+html_pages:
+  - name: Millet Gazetesi (Batı Trakya)
+    url: https://www.milletgazetesi.gr/bati-trakya
+    link_pattern: /bati-trakya/
+    lang: tr
+    side: thrace_minority_media
+    skip_keywords: true   # ό,τι γράφει εδώ μας αφορά — δεν φιλτράρεται
+  - name: Millet Gazetesi (Yunanistan)
+    url: https://www.milletgazetesi.gr/yunanistan
+    link_pattern: /yunanistan/
+    lang: tr
+    side: thrace_minority_media
+    skip_keywords: true
