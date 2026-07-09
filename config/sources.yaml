@@ -110,9 +110,46 @@ feeds:
     lang: en
     side: international
 
+  # --- Μεταναστευτικό ---
+  - name: InfoMigrants
+    url: https://www.infomigrants.net/en/rss
+    lang: en
+    side: migration
+  - name: Aegean Boat Report
+    url: https://aegeanboatreport.com/feed
+    lang: en
+    side: migration_ngo
+  - name: ECRE (European Council on Refugees)
+    url: https://ecre.org/feed/
+    lang: en
+    side: migration_ngo
+
+  # --- Λιβύη / Βόρεια Αφρική ---
+  - name: Libya Review
+    url: https://libyareview.com/feed/
+    lang: en
+    side: north_africa
+  - name: Libya Observer
+    url: https://libyaobserver.ly/rss.xml
+    lang: en
+    side: north_africa
+
+  # --- Ευρώπη / Βαλκάνια ---
+  - name: Balkan Insight
+    url: https://balkaninsight.com/feed/
+    lang: en
+    side: balkans
+  - name: Politico Europe
+    url: https://www.politico.eu/feed/
+    lang: en
+    side: europe
+
 # --- Δημόσια κανάλια Telegram (το username από το t.me/XXXX) ---
 telegram:
   - username: clashreport
+    lang: en
+    side: telegram_osint
+  - username: OSINTdefender
     lang: en
     side: telegram_osint
   # Πρόσθεσε κι άλλα έτσι:
