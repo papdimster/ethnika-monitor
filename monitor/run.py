@@ -17,6 +17,20 @@ RETENTION_DAYS = 14
 DROP_CATEGORIES = {"Άσχετο"}
 
 
+def min_severity_map(cfg) -> dict:
+    m = {}
+    for f in cfg.get("feeds", []) or []:
+        if f.get("min_severity"):
+            m[f["name"]] = int(f["min_severity"])
+    for t in cfg.get("telegram", []) or []:
+        if t.get("min_severity"):
+            m["Telegram @" + t["username"].lstrip("@")] = int(t["min_severity"])
+    for p in cfg.get("html_pages", []) or []:
+        if p.get("min_severity"):
+            m[p["name"]] = int(p["min_severity"])
+    return m
+
+
 def main():
     existing = []
     if os.path.exists(DATA):
@@ -38,6 +52,12 @@ def main():
     if fresh:
         fresh = classify(fresh)
         fresh = [it for it in fresh if it["category"] not in DROP_CATEGORIES]
+        min_sev = min_severity_map(cfg)
+        before = len(fresh)
+        fresh = [it for it in fresh
+                 if it["severity"] >= min_sev.get(it["source"], 1)]
+        if before != len(fresh):
+            print(f"[=] Κόπηκαν {before - len(fresh)} items κάτω από το κατώφλι πηγής")
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)).isoformat()
     merged = [it for it in existing + fresh

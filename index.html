@@ -39,6 +39,10 @@
       font-family:inherit;border:1px solid var(--shallow);border-radius:2px;
       background:var(--panel);color:var(--ink)}
   input[type=search]:focus{outline:2px solid var(--teal)}
+  select{font-size:13px;padding:5px 10px;border:1px solid var(--shallow);
+      border-radius:2px;background:var(--panel);color:var(--ink);
+      font-family:inherit;margin-bottom:6px}
+  select:focus{outline:2px solid var(--teal)}
 
   /* Dispatch cards */
   .card{background:var(--panel);border:1px solid var(--shallow);
@@ -79,13 +83,14 @@
 
   <div class="filters" id="catFilters"></div>
   <div class="filters" id="sevFilters"></div>
+  <select id="srcSel" aria-label="Φίλτρο πηγής"></select>
   <input type="search" id="q" placeholder="Αναζήτηση σε τίτλους και συνόψεις…" aria-label="Αναζήτηση">
 
   <div id="list"><div class="empty">ΦΟΡΤΩΣΗ ΔΕΔΟΜΕΝΩΝ…</div></div>
 </div>
 
 <script>
-let items = [], activeCat = null, minSev = 1, query = "";
+let items = [], activeCat = null, minSev = 1, query = "", activeSrc = null;
 
 const fmt = iso => {
   const d = new Date(iso);
@@ -98,6 +103,7 @@ function render(){
   const q = query.toLowerCase();
   const shown = items.filter(it =>
     (!activeCat || it.category === activeCat) &&
+    (!activeSrc || it.source === activeSrc) &&
     (it.severity >= minSev) &&
     (!q || (it.title + " " + (it.summary_el||"")).toLowerCase().includes(q))
   );
@@ -138,6 +144,12 @@ function buildFilters(){
     b.classList.add("on"); minSev = +b.dataset.s; render();
   });
 
+  const srcs = [...new Set(items.map(i=>i.source))].sort((a,b)=>a.localeCompare(b,"el"));
+  const sel = document.getElementById("srcSel");
+  sel.innerHTML = '<option value="">Όλες οι πηγές</option>' +
+    srcs.map(s=>`<option value="${s}">${s}</option>`).join("");
+  sel.onchange = () => { activeSrc = sel.value || null; render(); };
+
   document.getElementById("q").oninput = e => { query = e.target.value; render(); };
 }
 
@@ -157,7 +169,7 @@ fetch("data/items.json?t=" + Date.now())
   .then(d => {
     items = d.items || [];
     document.getElementById("stamp").textContent =
-      "ΕΝΗΜΕΡΩΣΗ " + fmt(d.updated) + " UTC · " + items.length + " ΚΑΤΑΧΩΡΙΣΕΙΣ";
+      "ΕΝΗΜΕΡΩΣΗ " + fmt(d.updated) + " · " + items.length + " ΚΑΤΑΧΩΡΙΣΕΙΣ";
     buildStrip(); buildFilters(); render();
   })
   .catch(() => {
