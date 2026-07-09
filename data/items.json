@@ -1,7 +1,148 @@
 {
- "updated": "2026-07-09T11:26:34.669317+00:00",
- "count": 105,
+ "updated": "2026-07-09T11:42:04.809246+00:00",
+ "count": 114,
  "items": [
+  {
+   "id": "c787ba7a48665255",
+   "title": "Greek Defense Minister Nikos Dendias says Greece will \"try hard\" to prevent the sale of F-35 fighter jets to Türkiye.",
+   "link": "https://t.me/ClashReport/88616",
+   "summary_raw": "Greek Defense Minister Nikos Dendias says Greece will \"try hard\" to prevent the sale of F-35 fighter jets to Türkiye.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-09T11:30:31+00:00",
+   "collected": "2026-07-09T11:38:00.878525+00:00",
+   "keywords_hit": [
+    "greece",
+    "greek",
+    "f-35",
+    "dendias"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "summary_el": "Ο υπουργός Εθνικής Άμυνας Νίκος Δένδιας δήλωσε ότι η Ελλάδα θα καταβάλει κάθε προσπάθεια για να αποτρέψει την πώληση μαχητικών F-35 στην Τουρκία. Η δήλωση αντικατοπτρίζει τις έντονες ελληνικές ανησυχίες για τη στρατιωτική ισορροπία στην περιοχή.",
+   "angle": "Πόσο ρεαλιστική είναι η ελληνική παρέμβαση κατά των F-35 στην Τουρκία και ποιες διπλωματικές κινήσεις σχεδιάζει το Πεντάγωνο;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "7467e8700ac850a5",
+   "title": "Ελληνική Αεροπορική Ισχύς",
+   "link": "https://flight.com.gr/greek-air-force/?utm_source=rss&utm_medium=rss&utm_campaign=greek-air-force",
+   "summary_raw": "<p>Ανακαλύψτε την Ελληνινή Αεροπορική Ισχύ ΕΔΩ<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/greek-air-force/\">Ελληνική Αεροπορική Ισχύς</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">Πτήση</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-07-09T11:30:00+00:00",
+   "collected": "2026-07-09T11:37:41.627751+00:00",
+   "keywords_hit": [
+    "greek",
+    "ελλην"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 1,
+   "summary_el": "Το site Πτήση & Διάστημα παρουσιάζει άρθρο για την ελληνική αεροπορική ισχύ, χωρίς συγκεκριμένο νέο περιεχόμενο στο διαθέσιμο απόσπασμα.",
+   "angle": null,
+   "turkish_narrative": false
+  },
+  {
+   "id": "fe503f15c9ac641a",
+   "title": "ΕΚΤΑΚΤΟ: Αναγκαστική προσγείωση F-16 στη Ζάκυνθο – σώος ο χειριστής",
+   "link": "https://flight.com.gr/zakinthos-f-16/?utm_source=rss&utm_medium=rss&utm_campaign=zakinthos-f-16",
+   "summary_raw": "<p>Ένα μαχητικό F-16 της Πολεμικής Αεροπορίας πραγματοποίησε σήμερα αναγκαστική προσγείωση στο αεροδρόμιο της Ζακύνθου, λόγω μηχανικής βλάβης. Το αεροσκάφος είχε απογειωθεί από την 116 Πτέρυγα Μάχης στον Άραξο, συμμετέχοντας σε άσκηση. Ο πιλότος κατάφερε να προσγειώσει με ασφάλεια το μαχητικό, ενώ σύμφωνα με πληροφορίες είναι καλά στην υγεία του. Άμεσα στο σημείο έσπευσαν πυροσβεστικές δυνάμεις [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/zakinthos-f-16/\">ΕΚΤΑΚΤΟ: Αναγκαστική προσγείωση F-16 στη Ζάκυνθο &#8211; σώος ο χειριστής</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">Πτήση</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-07-09T11:27:24+00:00",
+   "collected": "2026-07-09T11:37:41.627954+00:00",
+   "keywords_hit": [
+    "f-16"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "summary_el": "F-16 της Πολεμικής Αεροπορίας από την 116 Πτέρυγα Μάχης στον Άραξο πραγματοποίησε αναγκαστική προσγείωση στο αεροδρόμιο της Ζακύνθου λόγω μηχανικής βλάβης κατά τη διάρκεια άσκησης. Ο χειριστής διασώθηκε αβλαβής.",
+   "angle": "Έρευνα για την αξιοπιστία του στόλου F-16 της ΠΑ και το πρωτόκολλο διαχείρισης έκτακτων καταστάσεων σε συνθήκες άσκησης.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "eb9d9536556c5002",
+   "title": "Κομισιόν για την τριμερή συνάντηση Κόστα  και φον ντερ Λάιεν με Ερντογάν – Ποια η τύχη του «δώρου» του Τούρκου προέδρου",
+   "link": "https://www.ertnews.gr/eidiseis/komision-gia-tin-trimeri-synantisi-kosta-kai-fon-nter-laien-me-erntogan-poia-i-tyxi-tou-dorou-tou-tourkou-proedrou/",
+   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"800\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/erdogan.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>Για την ατζέντα των θεμάτων που συζητήθηκαν στην τριμερή συνάντηση της Προέδρου της Ευρωπαϊκής Επιτροπής, Ούρσουλα φον ντερ Λάιεν, με τον Πρόεδρο του Ευρωπαϊκού Συμβουλίου, Αντόνιο Κόστα, και τον Πρόεδρο της Τουρκίας, Ρετζέπ Ταγίπ Ερντογάν, ρωτήθηκε ο εκπρόσωπος Τύπου της Κομισιόν, Όλαφ Γκιλ. Ανταπόκριση &#8211; Βρυξέλλες: Έλενα Αποστολίδου Όπως τόνισε, καλύφθηκε ένα ευρύ φάσμα θεμάτων, ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/komision-gia-tin-trimeri-synantisi-kosta-kai-fon-nter-laien-me-erntogan-poia-i-tyxi-tou-dorou-tou-tourkou-proedrou/\" title=\"Κομισιόν για την τριμερή συνάντηση Κόστα  και φον ντερ Λάιεν με Ερντογάν &#8211; Ποια η τύχη του «δώρου» του Τούρκου προέδρου\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-09T11:26:49+00:00",
+   "collected": "2026-07-09T11:37:40.602817+00:00",
+   "keywords_hit": [
+    "erdogan",
+    "ερντογάν"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "summary_el": "Εκπρόσωπος της Ευρωπαϊκής Επιτροπής Όλαφ Γκιλ σχολίασε την τριμερή συνάντηση της Προέδρου Ούρσουλα φον ντερ Λάιεν, του Προέδρου Αντόνιο Κόστα και του Τούρκου προέδρου Ερντογάν, επιβεβαιώνοντας ότι καλύφθηκε ευρύ φάσμα θεμάτων. Στο επίκεντρο βρέθηκε και το δώρο που παρέδωσε ο Ερντογάν στους Ευρωπαίους αξιωματούχους.",
+   "angle": "Τι συζητήθηκε πραγματικά στην τριμερή ΕΕ-Ερντογάν: τα ανοιχτά ζητήματα μεταξύ Βρυξελλών και Άγκυρας και ο ρόλος της Ελλάδας στη διαμόρφωση της ευρωτουρκικής ατζέντας.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "e12861616900a4c6",
+   "title": "Christodoulides informs small parties of Cyprus problem progress",
+   "link": "https://cyprus-mail.com/2026/07/09/christodoulides-informs-small-parties-of-cyprus-problem-progress",
+   "summary_raw": "The leaders of the three political parties which lost all their seats in parliament at May’s election, Dipa, the Ecologists’ Movement, and Edek, were on Thursday invited to the presidential palace to be informed by President Nikos Christodoulides of the latest developments on the Cyprus problem. All three made statements after the meeting, with Edek [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-07-09T11:26:34+00:00",
+   "collected": "2026-07-09T11:37:49.051599+00:00",
+   "keywords_hit": [
+    "cyprus",
+    "christodoulides"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "summary_el": "Ο Πρόεδρος Νίκος Χριστοδουλίδης ενημέρωσε τους ηγέτες τριών μικρών κομμάτων (Δίπα, Κίνηση Οικολόγων, ΕΔΕΚ) για τις τελευταίες εξελίξεις στο Κυπριακό, σε συνάντηση στο Προεδρικό Μέγαρο. Τα κόμματα αυτά έχασαν όλες τις έδρες τους στις εκλογές του Μαΐου.",
+   "angle": "Τι αποκάλυψε ο Χριστοδουλίδης για το Κυπριακό και ποια είναι η στάση των μικρών κομμάτων απέναντι στη διαπραγματευτική γραμμή;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "0f6e14b659a46b0d",
+   "title": "A Greek Air Force F-16 fighter jet made an emergency landing at Zakynthos Airport on Thursday after reportedly catching fire during flight.  The pilot landed safely and was unharme…",
+   "link": "https://t.me/ClashReport/88613",
+   "summary_raw": "A Greek Air Force F-16 fighter jet made an emergency landing at Zakynthos Airport on Thursday after reportedly catching fire during flight.  The pilot landed safely and was unharmed.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-09T11:24:39+00:00",
+   "collected": "2026-07-09T11:38:00.878254+00:00",
+   "keywords_hit": [
+    "greek",
+    "f-16"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "summary_el": "Μαχητικό αεροσκάφος F-16 της Πολεμικής Αεροπορίας πραγματοποίησε αναγκαστική προσγείωση στο αεροδρόμιο Ζακύνθου την Πέμπτη, αφού φέρεται να εκδηλώθηκε πυρκαγιά στον αέρα. Ο πιλότος προσγειώθηκε με ασφάλεια και δεν τραυματίστηκε.",
+   "angle": "Τι αποκαλύπτει το συμβάν για την επιχειρησιακή κατάσταση και τη συντήρηση των F-16 της ΠΑ εν μέσω εντατικών εκπαιδευτικών πτήσεων;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "f66e838fd77b562e",
+   "title": "Μέτσολα: Η Ελλάδα αντιλήφθηκε έγκαιρα τις νέες γεωπολιτικές προκλήσεις και επένδυσε συστηματικά στην άμυνά της",
+   "link": "https://www.ertnews.gr/roi-idiseon/metsola-i-ellada-antilifthike-egkaira-tis-nees-geopolitikes-prokliseis-kai-ependyse-systimatika-stin-amyna-tis/",
+   "summary_raw": "<img alt=\"metsola\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1066\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/06/metsola.jpeg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1600\" /><p>Η Πρόεδρος του Ευρωπαϊκού Κοινοβουλίου,Ρομπέρτα Μέτσολα, εκφράζει την πεποίθηση ότι, μέσω του διαλόγου και της διπλωματίας, μπορούν να επιλυθούν τα εκκρεμή ζητήματα μεταξύ Ελλάδας και Τουρκίας. Mε αφορμή την επίσκεψή της στην Αθήνα, η κα Μέτσολα παραχώρησε συνέντευξη στο CNN Greece, όπου μεταξύ άλλων υπογράμμισε ότι η συνεργασία με την Τουρκία είναι αναγκαία σε τομείς ... <a class=\"read-more\" href=\"https://www.ertnews.gr/roi-idiseon/metsola-i-ellada-antilifthike-egkaira-tis-nees-geopolitikes-prokliseis-kai-ependyse-systimatika-stin-amyna-tis/\" title=\"Μέτσολα: Η Ελλάδα αντιλήφθηκε έγκαιρα τις νέες γεωπολιτικές προκλήσεις και επένδυσε συστηματικά στην άμυνά της\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-09T11:20:05+00:00",
+   "collected": "2026-07-09T11:37:40.604197+00:00",
+   "keywords_hit": [
+    "greece",
+    "ελλάδα"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "summary_el": "Η Πρόεδρος του Ευρωπαϊκού Κοινοβουλίου Ρομπέρτα Μέτσολα, κατά την επίσκεψή της στην Αθήνα, δήλωσε ότι η Ελλάδα αντιλήφθηκε έγκαιρα τις νέες γεωπολιτικές προκλήσεις και επένδυσε συστηματικά στην άμυνά της, εκφράζοντας παράλληλα αισιοδοξία για επίλυση των ελληνοτουρκικών εκκρεμοτήτων μέσω διαλόγου.",
+   "angle": "Η αναγνώριση της ελληνικής αμυντικής στρατηγικής από την ηγεσία του Ευρωπαϊκού Κοινοβουλίου ως πρότυπο για την Ευρώπη σε εποχή γεωπολιτικής αστάθειας.",
+   "turkish_narrative": false
+  },
   {
    "id": "b5accdd1db90225d",
    "title": "Trump’s visit a win for Erdogan, NATO tensions aside",
@@ -38,6 +179,25 @@
    "severity": 3,
    "summary_el": "Μαχητικό F-16 της Πολεμικής Αεροπορίας πραγματοποίησε αναγκαστική προσγείωση στο αεροδρόμιο της Ζακύνθου το μεσημέρι της Πέμπτης, καθώς σύμφωνα με πληροφορίες εκδηλώθηκε φωτιά στο αεροσκάφος. Ο πιλότος διασώθηκε αβλαβής.",
    "angle": "Ποια είναι η κατάσταση επιχειρησιακής ετοιμότητας και συντήρησης του στόλου F-16 της ΠΑ, ενόψει της αναβάθμισής του σε Viper;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "31fc541b718a9a9b",
+   "title": "Αναγκαστική προσγείωση μαχητικού F16 στο αεροδρόμιο της Ζακύνθου – Καλά στην υγεία του ο χειριστής",
+   "link": "https://www.ertnews.gr/eidiseis/anagkastiki-prosgeiosi-maxitikou-f16-sto-aerodromio-tis-zakynthou-kala-stin-ygeia-tou-o-xeiristis/",
+   "summary_raw": "<img alt=\"f16-zakunthos\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"899\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/f16-zakunthos.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1448\" /><p>Έκτακτη προσγείωση μαχητικού F-16 έγινε το μεσημέρι της Πέμπτης στηΖάκυνθο. Το μαχητικό αεροσκάφος σύμφωνα με πληροφορίες έπιασε φωτιά και ο χειριστής του το προσγείωσε αναγκαστικά στο αεροδρόμιο του νησιού. Ο χειριστής είναι καλά στην υγεία του, ενώ επί τόπου έσπευσαν πυροσβεστικά οχήματα.</p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-09T11:07:44+00:00",
+   "collected": "2026-07-09T11:37:40.604385+00:00",
+   "keywords_hit": [
+    "f-16"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "summary_el": "Μαχητικό F-16 της Πολεμικής Αεροπορίας πραγματοποίησε αναγκαστική προσγείωση στο αεροδρόμιο της Ζακύνθου το μεσημέρι της Πέμπτης έπειτα από φωτιά που εκδηλώθηκε στο αεροσκάφος. Ο χειριστής είναι σώος και αβλαβής.",
+   "angle": "Τεχνικό περιστατικό με F-16 στη Ζάκυνθο: ερωτήματα για την επιχιαλιακή ετοιμότητα και την ασφάλεια του στόλου της Πολεμικής Αεροπορίας.",
    "turkish_narrative": false
   },
   {
@@ -1283,6 +1443,25 @@
    "severity": 2,
    "summary_el": "Ο πρόεδρος Τραμπ ανακοίνωσε κατά τη διμερή σύνοδο στο περιθώριο της Συνόδου Κορυφής του ΝΑΤΟ στην Άγκυρα ότι οι ΗΠΑ θα χορηγήσουν στην Ουκρανία άδεια παραγωγής συστημάτων Patriot.",
    "angle": "Η απόφαση Τραμπ για Patriot στην Ουκρανία και οι επιπτώσεις στα αμυντικά ισοζύγια της ευρύτερης περιοχής.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "6a983ee69607d8b3",
+   "title": "Φώτης Μάρης: Αποχωρεί ο Πρύτανης ΔΠΘ που επί ημερών του ήρθαν 4 νέες Πανεπιστημιακές Σχολές στον Έβρο",
+   "link": "https://www.evros-news.gr/2026/07/08/fotis-maris-apochorei-o-prytanis-dpth-pou-epi-imeron-tou-irthan-4-nees-panepistimiakes-scholes-ston-evro/",
+   "summary_raw": "Η 112η Σύνοδος Πρυτάνεων των Ελληνικών Πανεπιστημίων, που φιλοξενήθηκε στη Σάμο από τις 2 έως τις 3 Ιουλίου 2026, ήταν η τελευταία στην οποία συμμετείχε [&#8230;]",
+   "source": "Evros News",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-07-08T17:44:00+00:00",
+   "collected": "2026-07-09T11:37:48.341869+00:00",
+   "keywords_hit": [
+    "ελλην"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "summary_el": "Αποχωρεί ο Πρύτανης του ΔΠΘ Φώτης Μάρης, επί της θητείας του οποίου εγκαταστάθηκαν 4 νέες Πανεπιστημιακές Σχολές στον Έβρο, ενισχύοντας την ακαδημαϊκή παρουσία στη Θράκη.",
+   "angle": "Πώς η ενίσχυση του ΔΠΘ με νέες σχολές συμβάλλει στη δημογραφική και αναπτυξιακή σταθεροποίηση της Θράκης.",
    "turkish_narrative": false
   },
   {
