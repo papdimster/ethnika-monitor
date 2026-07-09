@@ -40,8 +40,19 @@ def main():
         fresh = [it for it in fresh if it["category"] not in DROP_CATEGORIES]
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)).isoformat()
-    merged = [it for it in existing + fresh if it["published"] >= cutoff]
+    merged = [it for it in existing + fresh
+              if it["published"] >= cutoff and not it["id"].startswith("demo")]
     merged.sort(key=lambda x: x["published"], reverse=True)
+
+    # Αποφυγή διπλοεγγραφών: ίδια πηγή + σχεδόν ίδιος τίτλος = κρατάμε ένα
+    seen_titles, deduped = set(), []
+    for it in merged:
+        key = (it["source"], "".join(ch for ch in it["title"].lower() if ch.isalnum())[:70])
+        if key in seen_titles:
+            continue
+        seen_titles.add(key)
+        deduped.append(it)
+    merged = deduped
 
     os.makedirs(os.path.dirname(DATA), exist_ok=True)
     with open(DATA, "w", encoding="utf-8") as f:

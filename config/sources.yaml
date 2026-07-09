@@ -23,6 +23,7 @@ feeds:
     url: https://www.turkishminute.com/feed/
     lang: en
     side: turkish_opposition
+    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
   - name: Yeni Safak (EN)
     url: https://www.yenisafak.com/en/rss
     lang: en
@@ -93,6 +94,7 @@ feeds:
     url: https://nordicmonitor.com/feed/
     lang: en
     side: international
+    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
   - name: Naval News
     url: https://www.navalnews.com/feed/
     lang: en
@@ -119,6 +121,7 @@ feeds:
     url: https://aegeanboatreport.com/feed
     lang: en
     side: migration_ngo
+    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
   - name: ECRE (European Council on Refugees)
     url: https://ecre.org/feed/
     lang: en
@@ -129,10 +132,12 @@ feeds:
     url: https://libyareview.com/feed/
     lang: en
     side: north_africa
+    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
   - name: Libya Observer
     url: https://libyaobserver.ly/rss.xml
     lang: en
     side: north_africa
+    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
 
   # --- Ευρώπη / Βαλκάνια ---
   - name: Balkan Insight

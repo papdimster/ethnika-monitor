@@ -8,6 +8,8 @@ import re
 import urllib.request
 from datetime import datetime, timezone
 
+from monitor.collector import matches_keywords
+
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 
@@ -61,8 +63,7 @@ def scrape_telegram(channel_cfg: dict, keywords: list[str],
         if len(text) < 15:
             continue
 
-        low = text.lower()
-        hits = [k for k in keywords if k.lower() in low]
+        hits = matches_keywords(text, keywords)
         if not hits and not channel_cfg.get("skip_keywords"):
             continue
 
@@ -115,8 +116,7 @@ def scrape_page(page_cfg: dict, keywords: list[str],
             continue
 
         if not page_cfg.get("skip_keywords"):
-            low = raw_title.lower()
-            if not [k for k in keywords if k.lower() in low]:
+            if not matches_keywords(raw_title, keywords):
                 continue
 
         items.append({

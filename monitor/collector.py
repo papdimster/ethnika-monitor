@@ -17,8 +17,19 @@ def item_id(link: str) -> str:
 
 
 def matches_keywords(text: str, keywords: list[str]) -> list[str]:
+    """Σύντομες λατινικές λέξεις (<=4 χαρ.) πιάνονται μόνο ως αυτόνομες λέξεις,
+    ώστε π.χ. το 'ege' να μην πιάνεται μέσα στο 'allegedly'."""
+    import re as _re
     low = text.lower()
-    return [k for k in keywords if k.lower() in low]
+    hits = []
+    for k in keywords:
+        kl = k.lower()
+        if len(kl) <= 4 and kl.isascii():
+            if _re.search(r"(?<![a-z0-9])" + _re.escape(kl) + r"(?![a-z0-9])", low):
+                hits.append(k)
+        elif kl in low:
+            hits.append(k)
+    return hits
 
 
 def parse_date(entry) -> str:
@@ -54,7 +65,7 @@ def collect(sources_path: str, keywords_path: str, known_ids: set[str]) -> list[
 
             summary = getattr(entry, "summary", "") or ""
             hits = matches_keywords(f"{title} {summary}", keywords)
-            if not hits:
+            if not hits and not src.get("skip_keywords"):
                 continue
 
             fresh.append({
