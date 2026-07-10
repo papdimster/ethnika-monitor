@@ -1,7 +1,279 @@
 {
- "updated": "2026-07-10T17:13:44.147144+00:00",
- "count": 266,
+ "updated": "2026-07-10T18:51:54.294279+00:00",
+ "count": 282,
  "items": [
+  {
+   "id": "27b855cf71b58ba5",
+   "title": "Tufan Erhurman hospitalised",
+   "link": "https://cyprus-mail.com/2026/07/10/tufan-erhurman-hospitalised",
+   "summary_raw": "Turkish Cypriot leader Tufan Erhurman was on Friday evening taken by ambulance to hospital after falling ill at an art exhibition.  According to news website Haber Kibris, an ambulance was called to the Quirini bastion mansion in Nicosia’s old town, where the exhibition was being held, and Erhurman was taken to hospital. No public statement [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-07-10T18:35:44+00:00",
+   "collected": "2026-07-10T18:45:44.107375+00:00",
+   "keywords_hit": [
+    "cypriot"
+   ],
+   "category": "Κυπριακό",
+   "severity": 2,
+   "summary_el": "Ο Τουρκοκύπριος ηγέτης Τουφάν Ερχουρμάν διακομίστηκε με ασθενοφόρο στο νοσοκομείο αφού αισθάνθηκε αδιαθεσία κατά τη διάρκεια έκθεσης τέχνης στην παλιά Λευκωσία.",
+   "angle": "Πώς η ασθένεια του Ερχουρμάν ενδέχεται να επηρεάσει τις εξελισσόμενες διαδικασίες επανέναρξης των διαπραγματεύσεων για το Κυπριακό.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "b7df91ced45c54f0",
+   "title": "Turkish FM Fidan on a possible conflict with Israel and NATO's Article 5:  The conditions for Article 5 are very clear. The provisions are very clear.  Our president is a leader of…",
+   "link": "https://t.me/ClashReport/88787",
+   "summary_raw": "Turkish FM Fidan on a possible conflict with Israel and NATO's Article 5:  The conditions for Article 5 are very clear. The provisions are very clear.  Our president is a leader of peace and wisdom. When you look at his policies in the region over the more than 20 years that he has been leading this country, that has been demonstrated again and again.  Apart from fighting against terrorism, he has always sought the best ways of cooperating with regional governments and the international community.  Source: The National News",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-10T18:25:13+00:00",
+   "collected": "2026-07-10T18:45:52.798022+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Ο Τούρκος ΥΠΕΞ Φιντάν απέκλεισε έμμεσα την ενεργοποίηση του Άρθρου 5 του ΝΑΤΟ σε σενάριο τουρκο-ισραηλινής σύγκρουσης, εξαίροντας παράλληλα τον Ερντογάν ως «ηγέτη ειρήνης».",
+   "angle": "Η τουρκική αμφισημία γύρω από το Άρθρο 5 επαναφέρει ερωτήματα για την αξιοπιστία της Άγκυρας εντός της Ατλαντικής Συμμαχίας.",
+   "turkish_narrative": true
+  },
+  {
+   "id": "5d84cec3d65af567",
+   "title": "Turkish vice president, Turkish Republic of Northern Cyprus president discuss economic projects",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-vice-president-turkish-republic-of-northern-cyprus-president-discuss-economic-projects/3994617",
+   "summary_raw": "Türkiye, TRNC sign agreement to develop 101-km undersea natural gas pipeline",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-07-10T18:20:05+00:00",
+   "collected": "2026-07-10T18:45:33.572748+00:00",
+   "keywords_hit": [
+    "cyprus",
+    "trnc"
+   ],
+   "category": "Κυπριακό",
+   "severity": 4,
+   "summary_el": "Η Τουρκία και το ψευδοκράτος υπέγραψαν συμφωνία για την κατασκευή υποθαλάσσιου αγωγού φυσικού αερίου μήκους 101 χιλιομέτρων, εμβαθύνοντας τους ενεργειακούς δεσμούς Άγκυρας-Κατεχομένων. Η κίνηση ενισχύει de facto την τουρκική παρουσία στην Κύπρο και θέτει νέα δεδομένα στην ενεργειακή γεωπολιτική της Ανατολικής Μεσογείου.",
+   "angle": "Πώς ο τουρκο-ψευδοκρατικός αγωγός αερίου αποτελεί νέα πρόκληση για την κυπριακή ΑΟΖ και τις ενεργειακές διεκδικήσεις της Λευκωσίας.",
+   "turkish_narrative": true
+  },
+  {
+   "id": "587d98ebe01b35cf",
+   "title": "Turkish Foreign Minister Hakan Fidan on Syria:  There is one risk for Syria—the policies of Israel.   We are not sure if Israel wants to see a stable, good, powerful, evolving, dev…",
+   "link": "https://t.me/ClashReport/88785",
+   "summary_raw": "Turkish Foreign Minister Hakan Fidan on Syria:  There is one risk for Syria—the policies of Israel.   We are not sure if Israel wants to see a stable, good, powerful, evolving, developed Syria.   Israel is trying to destabilize Syria. This is something that we don't want to see.   This is something that we want to communicate to the Israelis together with the regional governments. Look, stop a strategy that sees your security should come from someone else's insecurity and division.   Let's change this. You know, when other countries in the region become stable and secure, that might also work well for you.  Source: The National News",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-10T18:07:39+00:00",
+   "collected": "2026-07-10T18:45:52.797751+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Ο Τούρκος ΥΠΕΞ Φιντάν κατηγόρησε το Ισραήλ για αποσταθεροποίηση της Συρίας, υποστηρίζοντας ότι η ισραηλινή πολιτική αποτελεί τον μεγαλύτερο κίνδυνο για τη σταθερότητα της περιοχής.",
+   "angle": null,
+   "turkish_narrative": true
+  },
+  {
+   "id": "1eafafe1610acfe7",
+   "title": "ΣΥΓΚΡΙΤΙΚΟ ΑΝΤΙΠΛΟΪΚΩΝ ΒΛΗΜΑΤΩΝ: NSM – Exocet MM40 Block 3C – RBS15 Mk4 για το ΠΝ",
+   "link": "https://flight.com.gr/nsm-vs-exocet-vs-rbs15-for-pn/?utm_source=rss&utm_medium=rss&utm_campaign=nsm-vs-exocet-vs-rbs15-for-pn",
+   "summary_raw": "<p>Το Πολεμικό Ναυτικό μπαίνει σε μια περίοδο όπου η ανανέωση των αντιπλοϊκών βλημάτων του είναι βασική προϋπόθεση επιβίωσης και αποτροπής. Οι FDI HN θα έχουν Exocet MM40 Block 3C για πολλά χρόνια, άρα οι νέες γαλλικές φρεγάτες είναι καλυμμένες σε επίπεδο κύριου όπλου επιφανείας. Αυτό όμως δεν κλείνει το ζήτημα. Η Ελλάδα χρειάζεται νέα βλήματα [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/nsm-vs-exocet-vs-rbs15-for-pn/\">ΣΥΓΚΡΙΤΙΚΟ ΑΝΤΙΠΛΟΪΚΩΝ ΒΛΗΜΑΤΩΝ: NSM &#8211; Exocet MM40 Block 3C &#8211; RBS15 Mk4 για το ΠΝ</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-07-10T18:05:00+00:00",
+   "collected": "2026-07-10T18:45:38.247530+00:00",
+   "keywords_hit": [
+    "ελλάδα",
+    "fdi"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "summary_el": "Αναλυτική σύγκριση των αντιπλοϊκών βλημάτων NSM, Exocet MM40 Block 3C και RBS15 Mk4 για τις ανάγκες του Πολεμικού Ναυτικού, με φόντο την ανανέωση του οπλοστασίου πέραν των FDI HN που είναι ήδη εξοπλισμένες με Exocet.",
+   "angle": "Ποιο αντιπλοϊκό βλήμα εξυπηρετεί καλύτερα τη στρατηγική αποτροπής του ΠΝ και τι συνεπάγεται η επιλογή για τις ελληνοτουρκικές ισορροπίες στο Αιγαίο.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "d4025bb8f1075a12",
+   "title": "Turkish Foreign Minister Hakan Fidan on Iran:  When we heard President Trump, it was our understanding that he doesn't really mean that the ceasefire is over.   I think he was basi…",
+   "link": "https://t.me/ClashReport/88784",
+   "summary_raw": "Turkish Foreign Minister Hakan Fidan on Iran:  When we heard President Trump, it was our understanding that he doesn't really mean that the ceasefire is over.   I think he was basically referring that there is a retaliation actually to what was happening between Iran and the United States.  I think there was a lack of communication and misunderstanding between both sides in terms of how to implement the passage through the Strait of Hormuz.  They need to have better communication and better deconflicting mechanisms.  Source: The National News",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-10T18:03:05+00:00",
+   "collected": "2026-07-10T18:45:52.797512+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Ο Τούρκος ΥΠΕΞ Φιντάν σχολίασε τις εξελίξεις στα Στενά του Ορμούζ, εκτιμώντας ότι οι δηλώσεις Τραμπ για λήξη της εκεχειρίας ήταν αποτέλεσμα παρεξήγησης και κακής επικοινωνίας μεταξύ ΗΠΑ και Ιράν.",
+   "angle": null,
+   "turkish_narrative": false
+  },
+  {
+   "id": "b1be19b5ddb15281",
+   "title": "Q: Would we potentially see the S-400s going to the UAE, for example?  Turkish FM Fidan: This is an ongoing process, and there have been discussions and talks within the government…",
+   "link": "https://t.me/ClashReport/88783",
+   "summary_raw": "Q: Would we potentially see the S-400s going to the UAE, for example?  Turkish FM Fidan: This is an ongoing process, and there have been discussions and talks within the government. There has to be a healthy discussion with the Russians as well, because I cannot name any country, process, or type of solution at this moment.   As I said, there is a political will between the two presidents.   Russia should be part of the discussions as well because this is where the S-400 was bought from.  Source: The National News",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-10T18:00:20+00:00",
+   "collected": "2026-07-10T18:45:52.797331+00:00",
+   "keywords_hit": [
+    "s-400",
+    "fidan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "summary_el": "Ο Τούρκος ΥΠΕΞ Φιντάν επιβεβαίωσε ότι βρίσκονται σε εξέλιξη συζητήσεις για πιθανή μεταπώληση των S-400 σε τρίτη χώρα, χωρίς να κατονομάσει αποδέκτη, επισημαίνοντας ότι απαιτείται και συναίνεση της Ρωσίας.",
+   "angle": "Η τουρκική κίνηση απεμπλοκής από τα S-400 ως διπλωματική χειραγώγηση για την απόκτηση F-35: ευκαιρία ή παγίδα για τη Δύση;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "1c844ebd08ac4e2e",
+   "title": "Turkish Foreign Minister Hakan Fidan:  There will be no problem for Türkiye to get the F-35 that we had paid for long before, five or six years ago.   We paid for those F-35s. They…",
+   "link": "https://t.me/ClashReport/88782",
+   "summary_raw": "Turkish Foreign Minister Hakan Fidan:  There will be no problem for Türkiye to get the F-35 that we had paid for long before, five or six years ago.   We paid for those F-35s. They've been sitting in a hangar to be picked up by us.  Source: The National News",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-10T17:58:44+00:00",
+   "collected": "2026-07-10T18:45:52.797140+00:00",
+   "keywords_hit": [
+    "f-35",
+    "fidan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "summary_el": "Ο Τούρκος ΥΠΕΞ Χακάν Φιντάν δήλωσε ότι η Τουρκία δεν αντιμετωπίζει εμπόδια για την παραλαβή των F-35 για τα οποία έχει ήδη πληρώσει εδώ και 5-6 χρόνια, υπονοώντας προσεχή επίλυση της εκκρεμότητας με τις ΗΠΑ.",
+   "angle": "Ενδεχόμενη ένταξη της Τουρκίας στο πρόγραμμα F-35 αναδιαμορφώνει τις αεροπορικές ισορροπίες στο Αιγαίο — τι σημαίνει αυτό για την Πολεμική Αεροπορία;",
+   "turkish_narrative": true
+  },
+  {
+   "id": "006f11a013f15711",
+   "title": "F-35: Αντισταθμιστικά οφέλη πάνω από το 70% της παραγγελίας πετυχαίνει η Ελβετία – Εμείς;",
+   "link": "https://flight.com.gr/swiss-f-35-offsets-gr/?utm_source=rss&utm_medium=rss&utm_campaign=swiss-f-35-offsets-gr",
+   "summary_raw": "<p>Η ελβετική παραγγελία για μαχητικά F-35A, μετά από τα πολλά προβλήματα αύξησης κόστους που διαπιστώθηκαν, έχει και καλά νέα: Καθώς η Armasuisse (η ομοσπονδιακή υπηρεσία που χειρίζεται θέματα εξοπλισμών) και η Lockheed Martin υπέγραψαν συμπληρωματική συμφωνία αντισταθμιστικών ωφελημάτων που υπερβαίνει τους αρχικούς στόχους. Σύμφωνα με ανακοίνωση της ελβετικής κυβέρνησης στις 7 Ιουλίου, τα νέα έργα [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/swiss-f-35-offsets-gr/\">F-35: Αντισταθμιστικά οφέλη πάνω από το 70% της παραγγελίας πετυχαίνει η Ελβετία &#8211; Εμείς;</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-07-10T17:40:00+00:00",
+   "collected": "2026-07-10T18:45:38.247762+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "summary_el": "Η Ελβετία εξασφάλισε αντισταθμιστικά οφέλη άνω του 70% στην παραγγελία F-35A μέσω συμπληρωματικής συμφωνίας Armasuisse–Lockheed Martin (7 Ιουλίου 2026), θέτοντας ερωτήματα για το αντίστοιχο ελληνικό πρόγραμμα.",
+   "angle": "Τι αντισταθμιστικά οφέλη διεκδικεί η Ελλάδα στην εν εξελίξει διαπραγμάτευση για F-35 και πού υστερεί έναντι άλλων ευρωπαϊκών χωρών.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "984b3627bdaed4d9",
+   "title": "#ME  Turkey is reportedly preparing to sell its Russian S-400 air defense systems to a Gulf country, likely either the United Arab Emirates or Qatar. This move aims to satisfy U.S.…",
+   "link": "https://t.me/OSINTdefender/19446",
+   "summary_raw": "#ME  Turkey is reportedly preparing to sell its Russian S-400 air defense systems to a Gulf country, likely either the United Arab Emirates or Qatar. This move aims to satisfy U.S. demands and restore defense cooperation with Washington.  Subscribe to @OSINTdefender Chat room",
+   "source": "Telegram @OSINTdefender",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-10T17:33:42+00:00",
+   "collected": "2026-07-10T18:45:53.388518+00:00",
+   "keywords_hit": [
+    "s-400"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "summary_el": "Η Τουρκία προετοιμάζει, σύμφωνα με πληροφορίες, την πώληση των ρωσικών S-400 σε χώρα του Κόλπου — πιθανότατα ΗΑΕ ή Κατάρ — με στόχο την αποκατάσταση της αμυντικής συνεργασίας με τις ΗΠΑ και την απόκτηση F-35.",
+   "angle": "Αν η Τουρκία αποκτήσει F-35 αποβάλλοντας τα S-400, η Ελλάδα οφείλει να επαναξιολογήσει άμεσα τα σχέδια αεράμυνας και τη στρατηγική ισορροπία στο Αιγαίο.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "16958fe6ebac981a",
+   "title": "Russia Confirms Talks With Turkey Over Fate Of S-400s Amid F-35 Push",
+   "link": "https://www.twz.com/air/russia-confirms-talks-with-turkey-over-fate-of-s-400s-amid-f-35-push",
+   "summary_raw": "<p>Ankara is reportedly eyeing the transfer of the Russian-made SAM systems to a Gulf country in a bid to have Washington lift its F-35 embargo.</p>\n<p>The post <a href=\"https://www.twz.com/air/russia-confirms-talks-with-turkey-over-fate-of-s-400s-amid-f-35-push\">Russia Confirms Talks With Turkey Over Fate Of S-400s Amid F-35 Push</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+   "source": "The War Zone",
+   "side": "defense_intl",
+   "lang": "en",
+   "published": "2026-07-10T17:12:08+00:00",
+   "collected": "2026-07-10T18:45:47.030442+00:00",
+   "keywords_hit": [
+    "f-35",
+    "s-400"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "summary_el": "Η Ρωσία επιβεβαίωσε διαπραγματεύσεις με την Τουρκία για τη μεταβίβαση των S-400 σε χώρα του Κόλπου, με στόχο την άρση του αμερικανικού εμπάργκο στα F-35. Η εξέλιξη ανατρέπει τις ισορροπίες στις ΝΑΤΟϊκές δυνατότητες και επηρεάζει άμεσα την αεράμυνα στο Αιγαίο.",
+   "angle": "Εάν η Τουρκία αποκτήσει F-35 μετά την απόρριψη των S-400, πώς διαφοροποιείται η αεροπορική ισχύς στο Αιγαίο σε σχέση με την Ελλάδα;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "9b64a922e60de078",
+   "title": "Cyprus decries Turkey’s energy MoU with north",
+   "link": "https://cyprus-mail.com/2026/07/10/cyprus-decries-turkeys-energy-mou-with-north",
+   "summary_raw": "Cyprus has decried the signing of a memorandum of understanding between Turkey and the occupied north for the development of an undersea natural gas pipeline. The foreign ministry said on Friday that the MoU in question constituted “yet another manifestation” of Turkey’s policy in the eastern Mediterranean and was “part of the ongoing efforts to [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-07-10T17:10:13+00:00",
+   "collected": "2026-07-10T18:45:44.108247+00:00",
+   "keywords_hit": [
+    "cyprus"
+   ],
+   "category": "Κυπριακό",
+   "severity": 4,
+   "summary_el": "Η Κύπρος καταδίκασε την υπογραφή Μνημονίου Κατανόησης μεταξύ Τουρκίας και κατεχομένων για την ανάπτυξη υποθαλάσσιου αγωγού φυσικού αερίου, χαρακτηρίζοντάς το «εκδήλωση της τουρκικής πολιτικής στην ανατολική Μεσόγειο».",
+   "angle": "Το τουρκοκυπριακό ενεργειακό MoU ως νέο εργαλείο αποκρυστάλλωσης του διαχωρισμού της Κύπρου και πρόκληση για την ΕΕ και την Αθήνα.",
+   "turkish_narrative": false
+  },
+  {
+   "id": "51ceef003d52a1a7",
+   "title": "Turkish president hosts Lebanese premier in Istanbul",
+   "link": "https://www.aa.com.tr/en/politics/turkish-president-hosts-lebanese-premier-in-istanbul/3994563",
+   "summary_raw": "Recep Tayyip Erdogan, Nawaf Salam discuss bilateral ties, regional issues during meeting",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-07-10T17:06:14+00:00",
+   "collected": "2026-07-10T18:45:33.572998+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Ο Τούρκος Πρόεδρος Ερντογάν συναντήθηκε στην Κωνσταντινούπολη με τον Λιβανέζο Πρωθυπουργό Nawaf Salam για συζήτηση διμερών σχέσεων και περιφερειακών ζητημάτων. Η συνάντηση αντικατοπτρίζει τις τουρκικές φιλοδοξίες επέκτασης επιρροής στον αραβικό κόσμο.",
+   "angle": null,
+   "turkish_narrative": true
+  },
+  {
+   "id": "eec969c5fec282f9",
+   "title": "Erhurman acclaims ‘harmony’ with Turkey as Cyprus problem efforts continue",
+   "link": "https://cyprus-mail.com/2026/07/10/erhurman-acclaims-harmony-with-turkey-as-cyprus-problem-efforts-continue",
+   "summary_raw": "Turkish Cypriot leader Tufan Erhurman on Friday evening extolled the “harmony” of his cooperation with the Turkish government, as he met Turkish Vice President Cevdet Yilmaz at his official residence in Nicosia, with efforts both on the island and abroad ramping up with the aim of bringing about a resumption of negotiations in earnest on [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-07-10T17:04:00+00:00",
+   "collected": "2026-07-10T18:45:44.108403+00:00",
+   "keywords_hit": [
+    "cyprus",
+    "cypriot"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "summary_el": "Ο Τουρκοκύπριος ηγέτης Τουφάν Ερχουρμάν εξύμνησε την «αρμονία» στη συνεργασία του με την Τουρκία, κατά τη συνάντησή του με τον Τούρκο Αντιπρόεδρο Τζεβντέτ Γιλμάζ στη Λευκωσία, εν μέσω εντατικοποίησης προσπαθειών για επανέναρξη των διαπραγματεύσεων.",
+   "angle": "Η επίδειξη τουρκοκυπριακής-τουρκικής «αρμονίας» αποκαλύπτει τα στενά όρια αυτονομίας του Ερχουρμάν ενόψει τυχόν διαπραγματεύσεων.",
+   "turkish_narrative": true
+  },
   {
    "id": "224a37f3e2cb42da",
    "title": "Defence ministry, Oev sign crisis pact",
@@ -236,6 +508,25 @@
    "turkish_narrative": true
   },
   {
+   "id": "0ef1926f980df7e3",
+   "title": "NATO should build a shared ecosystem, not just share burdens, says Turkish foreign minister",
+   "link": "https://www.aa.com.tr/en/turkiye/nato-should-build-a-shared-ecosystem-not-just-share-burdens-says-turkish-foreign-minister/3994470",
+   "summary_raw": "Türkiye is 'taking necessary steps' to resolve issue of CAATSA sanctions with US, says Turkish Foreign Minister Hakan Fidan",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-07-10T15:09:56+00:00",
+   "collected": "2026-07-10T18:45:33.574009+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "summary_el": "Ο Τούρκος ΥΠΕΞ Χακάν Φιντάν δήλωσε ότι η Τουρκία προχωρά σε βήματα για την επίλυση του ζητήματος των κυρώσεων CAATSA λόγω της αγοράς S-400 από τις ΗΠΑ, και πρότεινε η NATO να οικοδομεί «κοινό οικοσύστημα». Η αποκατάσταση των τουρκο-αμερικανικών αμυντικών σχέσεων μπορεί να επηρεάσει τις ισορροπίες εντός της Συμμαχίας σε βάρος ελληνικών συμφερόντων.",
+   "angle": "Τι σημαίνει για την Ελλάδα η πιθανή άρση των κυρώσεων CAATSA στην Τουρκία και η επανένταξή της στο F-35 πρόγραμμα.",
+   "turkish_narrative": true
+  },
+  {
    "id": "b021589b80312aa7",
    "title": "Turkey, Turkish Cypriots sign deal for natural gas pipeline",
    "link": "https://cyprus-mail.com/2026/07/10/turkey-turkish-cypriots-sign-deal-for-natural-gas-pipeline",
@@ -290,6 +581,26 @@
    "severity": 2,
    "summary_el": "Αστυνομικές δυνάμεις εισέβαλαν στα γραφεία του CHP στην Κωνσταντινούπολη κατόπιν δικαστικής εντολής που αντικατέστησε την εκλεγμένη ηγεσία του κόμματος, σε νέα κλιμάκωση της εσωτερικής πολιτικής κρίσης στην Τουρκία.",
    "angle": "Η δικαστική επέμβαση κατά του CHP αποτελεί νέο δείκτη αποδόμησης της δημοκρατίας στην Τουρκία—πώς επηρεάζει τις σχέσεις Αθήνας-Άγκυρας και τη στάση της ΕΕ;",
+   "turkish_narrative": false
+  },
+  {
+   "id": "44b9d52ee6e0f59b",
+   "title": "Το 7ο Balkan Forum ανέδειξε τις νέες προοπτικές της Βόρειας Ελλάδας στη ναυτιλία, την διασυνδεσιμότητα των λιμανιών της και τις συνδυασμένες μεταφορές",
+   "link": "https://www.ertnews.gr/ert3/to-7o-balkan-forum-anedeikse-tis-nees-prooptikes-tis-voreias-elladas-sti-naytilia-tin-diasyndesimotita-ton-limanion-tis-kai-tis-syndyasmenes-metafores/",
+   "summary_raw": "<img alt=\"7o-balkan-forum-1\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"745\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/7o-balkan-forum-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1122\" /><p>Τις σημαντικές δυνατότητες της Βόρειας Ελλάδας στη ναυτιλία, την διασυνδεσιμότητα των λιμένων, τις λιμενικές υποδομές, τα logistics και τις συνδυασμένες μεταφορές ανέδειξε το 7ο Balkan Forum, που διοργανώθηκε την Δευτέρα, 6 Ιουλίου 2026, από το Υπουργείο Εσωτερικών – Τομέας Μακεδονίας και Θράκης και το Μέγαρο Μουσικής Θεσσαλονίκης, με θέμα: «Ναυτιλία και Βόρεια Ελλάδα: Προκλήσεις, Ευκαιρίες ... <a class=\"read-more\" href=\"https://www.ertnews.gr/ert3/to-7o-balkan-forum-anedeikse-tis-nees-prooptikes-tis-voreias-elladas-sti-naytilia-tin-diasyndesimotita-ton-limanion-tis-kai-tis-syndyasmenes-metafores/\" title=\"Το 7ο Balkan Forum ανέδειξε τις νέες προοπτικές της Βόρειας Ελλάδας στη ναυτιλία, την διασυνδεσιμότητα των λιμανιών της και τις συνδυασμένες μεταφορές\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-10T14:23:00+00:00",
+   "collected": "2026-07-10T18:45:37.267780+00:00",
+   "keywords_hit": [
+    "ελλάδα",
+    "θράκη"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "summary_el": "Το 7ο Balkan Forum, που διοργανώθηκε στις 6 Ιουλίου 2026 από το Υπουργείο Εσωτερικών, ανέδειξε τις προοπτικές της Βόρειας Ελλάδας στη ναυτιλία, τη διασυνδεσιμότητα λιμένων και τις συνδυασμένες μεταφορές σε βαλκανικό επίπεδο.",
+   "angle": "Πώς η Θεσσαλονίκη και οι βορειοελλαδικοί λιμένες μπορούν να αναδειχθούν σε διαμετακομιστικό κόμβο για τα Βαλκάνια, κεφαλαιοποιώντας τη γεωστρατηγική θέση της χώρας.",
    "turkish_narrative": false
   },
   {
