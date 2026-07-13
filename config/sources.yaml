@@ -239,6 +239,18 @@ telegram:
   - username: OSINTdefender
     lang: en
     side: telegram_osint
+  - username: Osinttechnical
+    lang: en
+    side: telegram_osint
+  - username: intelcrab
+    lang: en
+    side: telegram_osint
+  - username: me_observer_TG
+    lang: en
+    side: telegram_middle_east
+  - username: AMK_Mapping
+    lang: en
+    side: telegram_middle_east
 
 # --- Σελίδες χωρίς RSS ---
 html_pages:
