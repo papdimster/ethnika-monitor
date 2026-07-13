@@ -7,20 +7,11 @@ from twscrape.logger import set_log_level
 from monitor.collector import item_id, matches_keywords
 
 set_log_level("ERROR")
-
-async def scrape_x_accounts(keywords: list, known_ids: set, hours_back: int = 6):
-    """Scrapes X accounts για εθνικά θέματα"""
+async def scrape_x_accounts(accounts: list, keywords: list, known_ids: set, hours_back: int = 6):
+    """Scrapes given X accounts"""
     api = API()
     fresh = []
     since = (datetime.now(timezone.utc) - timedelta(hours=hours_back)).strftime("%Y-%m-%d")
-
-    # Λίστα accounts (μπορείς να προσθέσεις/αφαιρέσεις εδώ)
-    accounts = [
-        "HellenicNavy", "HellenicAirForce", "mod_greece", "GreeceMFA",
-        "DendiasNikos", "geoanalyst_gr", "SpyrosKtenas",
-        "tcsavunma", "TC_Disisleri", "TurkishNavy", "fahrettinaltun",
-        "IDF", "IsraelMFA", "Osinttechnical", "oryxspioenkop", "RALee85"
-    ]
 
     try:
         for username in accounts:
