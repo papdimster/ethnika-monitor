@@ -8,7 +8,6 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from monitor.collector import collect, load_yaml  # noqa: E402
 from monitor.classifier import classify  # noqa: E402
 from monitor.scrapers import scrape_telegram, scrape_page  # noqa: E402
-from monitor.x_scraper import scrape_x_accounts  # νέο import
 from monitor.alerts import send_alerts  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -49,12 +48,6 @@ def main():
         fresh += scrape_telegram(ch, keywords, known)
     for pg in cfg.get("html_pages", []) or []:
         fresh += scrape_page(pg, keywords, known)
-    # X/Twitter scraping από config
-    import asyncio
-    for x_group in cfg.get("x_accounts", []) or []:
-        accounts = x_group.get("accounts", [])
-        if accounts:
-            fresh += asyncio.run(scrape_x_accounts(accounts, keywords, known, hours_back=24))
 
     print(f"[=] Νέα items προς ταξινόμηση: {len(fresh)}")
 

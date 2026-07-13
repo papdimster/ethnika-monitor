@@ -94,7 +94,7 @@ feeds:
 
   # --- Διεθνή / εξειδικευμένα ---
   - name: Reuters World
-    url: https://feeds.reuters.com/Reuters/worldNews
+    url: https://news.google.com/rss/search?q=site:reuters.com/world&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: international
   - name: Al-Monitor Turkey
@@ -263,6 +263,193 @@ feeds:
     url: https://medyascope.tv/feed/
     lang: tr
     side: turkish_opposition
+
+# ══════════ ΠΡΑΣΙΝΗ ΡΟΗ ══════════
+# Όλες με skip_keywords (μονοθεματικές) + κατώφλι ΣΟΒ 3.
+# Ο ταξινομητής τις στέλνει στην κατηγορία «Ενέργεια-Περιβάλλον»
+# και βαθμολογεί με κριτήριο τη δημοσιογραφική αξία του θέματος.
+
+  # --- Ελληνικές / επίσημες ---
+  - name: ΥΠΕΝ
+    url: https://ypen.gov.gr/feed/
+    lang: el
+    side: green_official
+    skip_keywords: true
+    min_severity: 3
+  - name: B2Green
+    url: https://www.b2green.gr/feed
+    lang: el
+    side: green_greek
+    skip_keywords: true
+    min_severity: 3
+  - name: Ecopress
+    url: https://ecopress.gr/feed/
+    lang: el
+    side: green_greek
+    skip_keywords: true
+    min_severity: 3
+
+  # --- Διεθνή ενεργειακά/κλιματικά ΜΜΕ ---
+  - name: Bloomberg Green
+    url: https://feeds.bloomberg.com/green/news.rss
+    lang: en
+    side: green_intl
+    skip_keywords: true
+    min_severity: 3
+  - name: Reuters Sustainability
+    url: https://news.google.com/rss/search?q=site:reuters.com/sustainability&hl=en-US&gl=US&ceid=US:en
+    lang: en
+    side: green_intl
+    skip_keywords: true
+    min_severity: 3
+  - name: Euronews Green
+    url: https://www.euronews.com/rss?level=vertical&name=green
+    lang: en
+    side: green_intl
+    skip_keywords: true
+    min_severity: 3
+  - name: ESG Today
+    url: https://www.esgtoday.com/feed/
+    lang: en
+    side: green_esg
+    skip_keywords: true
+    min_severity: 3
+  - name: Guardian Environment
+    url: https://www.theguardian.com/environment/rss
+    lang: en
+    side: green_intl
+    skip_keywords: true
+    min_severity: 3
+  - name: Inside Climate News
+    url: https://insideclimatenews.org/feed/
+    lang: en
+    side: green_intl
+    skip_keywords: true
+    min_severity: 3
+  - name: Grist
+    url: https://grist.org/feed/
+    lang: en
+    side: green_intl
+    skip_keywords: true
+    min_severity: 3
+  - name: EcoWatch
+    url: https://www.ecowatch.com/feed
+    lang: en
+    side: green_intl
+    skip_keywords: true
+    min_severity: 3
+
+  # --- Ηλεκτροκίνηση ---
+  - name: Electrive (EU ηλεκτροκίνηση)
+    url: https://www.electrive.com/feed/
+    lang: en
+    side: green_emobility
+    skip_keywords: true
+    min_severity: 3
+
+  # --- Διεθνείς οργανισμοί ---
+  - name: IEA
+    url: https://news.google.com/rss/search?q=site:iea.org&hl=en-US&gl=US&ceid=US:en
+    lang: en
+    side: green_org
+    skip_keywords: true
+    min_severity: 3
+  - name: European Environment Agency
+    url: https://www.eea.europa.eu/highlights/rss
+    lang: en
+    side: green_org
+    skip_keywords: true
+    min_severity: 3
+  - name: EU Energy (Κομισιόν)
+    url: https://news.google.com/rss/search?q=site:energy.ec.europa.eu&hl=en-US&gl=US&ceid=US:en
+    lang: en
+    side: green_org
+    skip_keywords: true
+    min_severity: 3
+
+  # --- Μεταναστευτικό: πρωτογενείς τοπικές πηγές ---
+  - name: Στο Νησί (Λέσβος)
+    url: https://www.stonisi.gr/feed
+    lang: el
+    side: migration_local
+    domestic: true
+  - name: Lesvos News
+    url: https://www.lesvosnews.net/feed
+    lang: el
+    side: migration_local
+    domestic: true
+  - name: Astraparis (Χίος)
+    url: https://astraparis.gr/feed
+    lang: el
+    side: migration_local
+    domestic: true
+  - name: Samos24
+    url: https://samos24.gr/feed
+    lang: el
+    side: migration_local
+    domestic: true
+  - name: Δημοκρατική Ρόδου
+    url: https://www.dimokratiki.gr/feed
+    lang: el
+    side: migration_local
+    domestic: true
+  - name: Nea Kriti
+    url: https://www.neakriti.gr/feed
+    lang: el
+    side: migration_local
+    domestic: true
+  - name: Cretalive
+    url: https://www.cretalive.gr/feed
+    lang: el
+    side: migration_local
+    domestic: true
+  - name: Zarpanews (Χανιά)
+    url: https://www.zarpanews.gr/feed
+    lang: el
+    side: migration_local
+    domestic: true
+  - name: e-Evros
+    url: https://www.e-evros.gr/rss
+    lang: el
+    side: migration_local
+    domestic: true
+
+  # --- Μεγάλα ελληνικά ΜΜΕ (εθνικά + μεταναστευτικό) ---
+  - name: Πρώτο Θέμα
+    url: https://www.protothema.gr/rss
+    lang: el
+    side: greek_mainstream
+    domestic: true
+  - name: ΣΚΑΪ
+    url: https://www.skai.gr/rss.xml
+    lang: el
+    side: greek_mainstream
+    domestic: true
+  - name: Καθημερινή
+    url: https://www.kathimerini.gr/rss
+    lang: el
+    side: greek_mainstream
+    domestic: true
+  - name: in.gr
+    url: https://www.in.gr/feed
+    lang: el
+    side: greek_mainstream
+    domestic: true
+  - name: Τα Νέα
+    url: https://www.tanea.gr/feed
+    lang: el
+    side: greek_mainstream
+    domestic: true
+  - name: iefimerida
+    url: https://www.iefimerida.gr/rss
+    lang: el
+    side: greek_mainstream
+    domestic: true
+  - name: Εφημερίδα των Συντακτών
+    url: https://www.efsyn.gr/rss
+    lang: el
+    side: greek_mainstream
+    domestic: true
 
 # --- Δημόσια κανάλια Telegram ---
 telegram:
