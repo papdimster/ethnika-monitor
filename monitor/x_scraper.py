@@ -9,36 +9,31 @@ from monitor.collector import item_id, matches_keywords
 set_log_level("ERROR")
 
 async def scrape_x_accounts(keywords: list, known_ids: set, hours_back: int = 6):
-    """Scrapes specific accounts + keyword searches"""
+    """Scrapes X accounts για εθνικά θέματα"""
     api = API()
-    
-    # TODO: Εδώ θα προσθέσεις τα accounts σου (θα τα βάλουμε σε config)
-    accounts = [
-        # Ελληνικά επίσημα / αναλυτές
-        "HellenicNavy", "HellenicAirForce", "mod_greece", "GreeceMFA",
-        # Τουρκικά
-        "tcsavunma", "TC_Disisleri", "TurkishNavy", 
-        # Ισραηλινά
-        "IDF", "IsraelMFA", 
-        # Άλλα χρήσιμα
-        # "NATO", "EU_EEAS", κλπ.
-    ]
-    
     fresh = []
     since = (datetime.now(timezone.utc) - timedelta(hours=hours_back)).strftime("%Y-%m-%d")
-    
+
+    # Λίστα accounts (μπορείς να προσθέσεις/αφαιρέσεις εδώ)
+    accounts = [
+        "HellenicNavy", "HellenicAirForce", "mod_greece", "GreeceMFA",
+        "DendiasNikos", "geoanalyst_gr", "SpyrosKtenas",
+        "tcsavunma", "TC_Disisleri", "TurkishNavy", "fahrettinaltun",
+        "IDF", "IsraelMFA", "Osinttechnical", "oryxspioenkop", "RALee85"
+    ]
+
     try:
         for username in accounts:
             try:
-                tweets = await gather(api.search(f"from:{username} since:{since}", limit=20))
+                tweets = await gather(api.search(f"from:{username} since:{since}", limit=15))
                 for t in tweets:
                     iid = item_id(t.url)
                     if iid in known_ids:
                         continue
-                        
+
                     text = f"{t.rawContent} {t.user.username}"
                     hits = matches_keywords(text, keywords)
-                    
+
                     if hits:
                         fresh.append({
                             "id": iid,
@@ -46,8 +41,9 @@ async def scrape_x_accounts(keywords: list, known_ids: set, hours_back: int = 6)
                             "link": t.url,
                             "summary_raw": t.rawContent,
                             "source": f"X @{t.user.username}",
-                            "side": "neutral",  # μπορείς να βάλεις logic
-                            "lang": "el" if "Greece" in t.user.username else "tr" if "TC" in t.user.username or "Turkish" in t.user.username else "en",
+                            "side": "neutral",
+                            "lang": "el" if any(x in t.user.username.lower() for x in ["greece", "hellenic"]) else 
+                                   "tr" if any(x in t.user.username.lower() for x in ["tc", "turkish"]) else "en",
                             "published": t.date.isoformat(),
                             "collected": datetime.now(timezone.utc).isoformat(),
                             "keywords_hit": hits[:8],
@@ -56,8 +52,7 @@ async def scrape_x_accounts(keywords: list, known_ids: set, hours_back: int = 6)
             except Exception as e:
                 print(f"[!] X @{username}: {e}")
                 continue
-                
     except Exception as e:
         print(f"[!] X Scraper error: {e}")
-    
+
     return fresh
