@@ -23,7 +23,7 @@ feeds:
     url: https://www.turkishminute.com/feed/
     lang: en
     side: turkish_opposition
-    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
+    skip_keywords: true
   - name: Yeni Safak (EN)
     url: https://www.yenisafak.com/en/rss
     lang: en
@@ -105,7 +105,7 @@ feeds:
     url: https://nordicmonitor.com/feed/
     lang: en
     side: international
-    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
+    skip_keywords: true
   - name: Naval News
     url: https://www.navalnews.com/feed/
     lang: en
@@ -132,7 +132,7 @@ feeds:
     url: https://aegeanboatreport.com/feed
     lang: en
     side: migration_ngo
-    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
+    skip_keywords: true
   - name: ECRE (European Council on Refugees)
     url: https://ecre.org/feed/
     lang: en
@@ -143,12 +143,12 @@ feeds:
     url: https://libyareview.com/feed/
     lang: en
     side: north_africa
-    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
+    skip_keywords: true
   - name: Libya Observer
     url: https://libyaobserver.ly/rss.xml
     lang: en
     side: north_africa
-    skip_keywords: true   # μονοθεματική πηγή — όλα σχετικά
+    skip_keywords: true
 
   # --- Ευρώπη / Βαλκάνια ---
   - name: Balkan Insight
@@ -231,7 +231,7 @@ feeds:
     lang: en
     side: international
 
-# --- Δημόσια κανάλια Telegram (το username από το t.me/XXXX) ---
+# --- Δημόσια κανάλια Telegram ---
 telegram:
   - username: clashreport
     lang: en
@@ -239,10 +239,6 @@ telegram:
   - username: OSINTdefender
     lang: en
     side: telegram_osint
-  # Πρόσθεσε κι άλλα έτσι:
-  # - username: ONOMA_KANALIOU
-  #   lang: tr
-  #   side: telegram_turkish
 
 # --- Σελίδες χωρίς RSS ---
 html_pages:
@@ -251,9 +247,10 @@ html_pages:
     link_pattern: /bati-trakya/
     lang: tr
     side: thrace_minority_media
-    skip_keywords: true   # ό,τι γράφει εδώ μας αφορά — δεν φιλτράρεται
-    min_severity: 3       # κρατάμε μόνο ΣΟΒ 3+ (κόβει φιέστες/στατιστικά)
-- name: Millet Gazetesi (Yunanistan)
+    skip_keywords: true
+    min_severity: 3
+
+  - name: Millet Gazetesi (Yunanistan)
     url: https://www.milletgazetesi.gr/yunanistan
     link_pattern: /yunanistan/
     lang: tr
@@ -261,7 +258,7 @@ html_pages:
     skip_keywords: true
     min_severity: 3
 
-# === X/Twitter Accounts ===
+# ==================== X/TWITTER ACCOUNTS ====================
 x_accounts:
   - name: "Ελληνικά Επίσημα & Αναλυτές"
     accounts:
