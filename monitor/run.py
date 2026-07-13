@@ -51,6 +51,12 @@ def main():
 
     print(f"[=] Νέα items προς ταξινόμηση: {len(fresh)}")
 
+    # Θεραπεία: ξαναταξινομούμε παλιά Αταξινόμητα, έως 40 ανά τρέξιμο
+    retry_pool = [it for it in existing if it.get("category") == "Αταξινόμητο"][:40]
+    if retry_pool:
+        print(f"[=] Επαναταξινόμηση {len(retry_pool)} παλιών αταξινόμητων")
+        classify(retry_pool)  # ενημερώνει τα αντικείμενα επιτόπου
+
     if fresh:
         fresh = classify(fresh)
         fresh = [it for it in fresh if it["category"] not in DROP_CATEGORIES]
@@ -64,7 +70,10 @@ def main():
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)).isoformat()
     merged = [it for it in existing + fresh
-              if it["published"] >= cutoff and not it["id"].startswith("demo")]
+              if it["published"] >= cutoff
+              and not it["id"].startswith("demo")
+              and it.get("category") not in DROP_CATEGORIES
+              and it.get("severity", 2) >= 2]
     merged.sort(key=lambda x: x["published"], reverse=True)
 
     # Αποφυγή διπλοεγγραφών: ίδια πηγή + σχεδόν ίδιος τίτλος = κρατάμε ένα
