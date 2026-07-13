@@ -8,6 +8,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from monitor.collector import collect, load_yaml  # noqa: E402
 from monitor.classifier import classify  # noqa: E402
 from monitor.scrapers import scrape_telegram, scrape_page  # noqa: E402
+from monitor.x_scraper import scrape_x_accounts  # νέο import
 from monitor.alerts import send_alerts  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
