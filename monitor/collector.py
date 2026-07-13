@@ -3,8 +3,24 @@ import hashlib
 import time
 from datetime import datetime, timezone
 
+import urllib.request
+
 import feedparser
 import yaml
+
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
+
+
+def fetch_feed(url: str):
+    """Κατεβάζει το feed με browser User-Agent — πολλά sites (Cloudflare)
+    μπλοκάρουν το προεπιλεγμένο UA του feedparser και γυρνούν 0 entries."""
+    req = urllib.request.Request(url, headers={
+        "User-Agent": UA,
+        "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    })
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return feedparser.parse(r.read())
 
 
 def load_yaml(path):
@@ -51,7 +67,7 @@ def collect(sources_path: str, keywords_path: str, known_ids: set[str]) -> list[
     for src in sources:
         keywords = topics if src.get("domestic") else topics + broad
         try:
-            parsed = feedparser.parse(src["url"])
+            parsed = fetch_feed(src["url"])
         except Exception as e:
             print(f"[!] {src['name']}: {e}")
             continue
