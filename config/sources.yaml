@@ -253,14 +253,16 @@ html_pages:
     side: thrace_minority_media
     skip_keywords: true   # ό,τι γράφει εδώ μας αφορά — δεν φιλτράρεται
     min_severity: 3       # κρατάμε μόνο ΣΟΒ 3+ (κόβει φιέστες/στατιστικά)
-  - name: Millet Gazetesi (Yunanistan)
+- name: Millet Gazetesi (Yunanistan)
     url: https://www.milletgazetesi.gr/yunanistan
     link_pattern: /yunanistan/
     lang: tr
     side: thrace_minority_media
     skip_keywords: true
     min_severity: 3
-    x_accounts:
+
+# === X/Twitter Accounts ===
+x_accounts:
   - name: "Ελληνικά Επίσημα & Αναλυτές"
     accounts:
       - "HellenicNavy"
