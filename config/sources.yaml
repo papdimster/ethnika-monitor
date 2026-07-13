@@ -231,6 +231,39 @@ feeds:
     lang: en
     side: international
 
+  # --- Κύμα 3 ---
+  - name: Energypress
+    url: https://energypress.gr/feed
+    lang: el
+    side: greek_energy
+    domestic: true
+  - name: The National Herald
+    url: https://www.thenationalherald.com/feed/
+    lang: en
+    side: greek_diaspora
+    domestic: true
+  - name: Kathimerini Cyprus (EN)
+    url: https://knews.kathimerini.com.cy/feed
+    lang: en
+    side: cypriot_media
+    domestic: true
+  - name: Defense News
+    url: https://www.defensenews.com/arc/outboundfeeds/rss/
+    lang: en
+    side: defense_intl
+  - name: Overt Defense
+    url: https://www.overtdefense.com/feed/
+    lang: en
+    side: defense_intl
+  - name: ECFR
+    url: https://ecfr.eu/feed/
+    lang: en
+    side: eu_thinktank
+  - name: Medyascope (τουρκική αντιπολίτευση)
+    url: https://medyascope.tv/feed/
+    lang: tr
+    side: turkish_opposition
+
 # --- Δημόσια κανάλια Telegram ---
 telegram:
   - username: clashreport
@@ -248,6 +281,9 @@ telegram:
   - username: me_observer_TG
     lang: en
     side: telegram_middle_east
+  - username: OSINTLive          # καθρέφτης κορυφαίων OSINT λογαριασμών X
+    lang: en
+    side: telegram_x_mirror
   - username: AMK_Mapping
     lang: en
     side: telegram_middle_east
