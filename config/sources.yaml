@@ -260,39 +260,30 @@ html_pages:
     side: thrace_minority_media
     skip_keywords: true
     min_severity: 3
-  # X/Twitter accounts - Επίσημα + Δημοφιλείς αναλυτές + OSINT
-  x_accounts:
-    - name: "Ελληνικά Επίσημα & Αναλυτές"
-      accounts:
-        - "HellenicNavy"
-        - "HellenicAirForce"
-        - "mod_greece"
-        - "GreeceMFA"
-        - "DendiasNikos"
-        - "geoanalyst_gr"
-        - "SpyrosKtenas"
-        - "BabiniotisG"
-        - "hellasarmy"
-      min_severity: 3
+    x_accounts:
+  - name: "Ελληνικά Επίσημα & Αναλυτές"
+    accounts:
+      - "HellenicNavy"
+      - "HellenicAirForce"
+      - "mod_greece"
+      - "GreeceMFA"
+      - "DendiasNikos"
+      - "geoanalyst_gr"
+      - "SpyrosKtenas"
+    min_severity: 3
 
-    - name: "Τουρκικά Επίσημα & Αναλυτές"
-      accounts:
-        - "tcsavunma"
-        - "TC_Disisleri"
-        - "TurkishNavy"
-        - "fahrettinaltun"
-        - "yusufbuluc"
-        - "Akparti"
-        - "EmreOzgurY"
-      min_severity: 3
+  - name: "Τουρκικά Επίσημα & Αναλυτές"
+    accounts:
+      - "tcsavunma"
+      - "TC_Disisleri"
+      - "TurkishNavy"
+      - "fahrettinaltun"
+    min_severity: 3
 
-    - name: "Ισραηλινά & Διεθνή OSINT"
-      accounts:
-        - "IDF"
-        - "IsraelMFA"
-        - "IAFsite"
-        - "Osinttechnical"
-        - "SentDefence"
-        - "oryxspioenkop"
-        - "RALee85"
-      min_severity: 3
+  - name: "Ισραηλινά & OSINT"
+    accounts:
+      - "IDF"
+      - "IsraelMFA"
+      - "Osinttechnical"
+      - "oryxspioenkop"
+    min_severity: 3
