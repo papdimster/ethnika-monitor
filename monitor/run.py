@@ -54,7 +54,7 @@ def main():
     for x_group in cfg.get("x_accounts", []) or []:
         accounts = x_group.get("accounts", [])
         if accounts:
-            fresh += asyncio.run(scrape_x_accounts(accounts, keywords, known))
+            fresh += asyncio.run(scrape_x_accounts(accounts, keywords, known, hours_back=24))
 
     print(f"[=] Νέα items προς ταξινόμηση: {len(fresh)}")
 
