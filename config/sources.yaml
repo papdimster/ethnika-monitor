@@ -34,52 +34,63 @@ feeds:
     url: https://www.ekathimerini.com/feed/
     lang: en
     side: greek_media
+    domestic: true
   - name: Newsbomb
     url: https://www.newsbomb.gr/rss
     lang: el
     side: greek_media
+    domestic: true
   - name: ΕΡΤ News
     url: https://www.ertnews.gr/feed/
     lang: el
     side: greek_media
+    domestic: true
 
   # --- Ελληνικά αμυντικά ---
   - name: Defence Point
     url: https://defence-point.gr/feed
     lang: el
     side: greek_defense
+    domestic: true
   - name: Πτήση & Διάστημα
     url: https://www.ptisidiastima.com/feed/
     lang: el
     side: greek_defense
+    domestic: true
   - name: OnAlert
     url: https://www.onalert.gr/feed/
     lang: el
     side: greek_defense
+    domestic: true
 
   # --- Θράκη ---
   - name: Χρόνος (Κομοτηνή)
     url: https://www.xronos.gr/feed
     lang: el
     side: thrace_greek
+    domestic: true
   - name: Παρατηρητής της Θράκης
     url: https://www.paratiritis-news.gr/feed
     lang: el
     side: thrace_greek
+    domestic: true
   - name: Evros News
     url: https://evros-news.gr/feed
     lang: el
     side: thrace_greek
+    domestic: true
 
   # --- Κύπρος ---
   - name: Cyprus Mail
     url: https://cyprus-mail.com/feed/
     lang: en
     side: cypriot_media
+    domestic: true
   - name: in-cyprus (Philenews)
     url: https://in-cyprus.philenews.com/feed/
     lang: en
     side: cypriot_media
+    domestic: true
 
   # --- Διεθνή / εξειδικευμένα ---
   - name: Reuters World
@@ -148,6 +159,77 @@ feeds:
     url: https://www.politico.eu/feed/
     lang: en
     side: europe
+
+  # --- Ελληνικές επίσημες πηγές ---
+  - name: ΓΕΕΘΑ
+    url: https://geetha.mil.gr/feed/
+    lang: el
+    side: greek_official
+    skip_keywords: true
+    min_severity: 2
+  - name: Υπουργείο Μετανάστευσης
+    url: https://migration.gov.gr/feed/
+    lang: el
+    side: greek_official
+    skip_keywords: true
+    min_severity: 2
+
+  # --- Ελληνικά γεωπολιτικά / αναλύσεις ---
+  - name: SLpress
+    url: https://slpress.gr/feed/
+    lang: el
+    side: greek_analysis
+    domestic: true
+  - name: Πενταπόσταγμα
+    url: https://www.pentapostagma.gr/rss.xml
+    lang: el
+    side: greek_defense
+    domestic: true
+  - name: Greek City Times
+    url: https://greekcitytimes.com/feed/
+    lang: en
+    side: greek_diaspora
+    domestic: true
+
+  # --- Τουρκικά αμυντικά (τουρκόφωνα) ---
+  - name: SavunmaSanayiST
+    url: https://www.savunmasanayist.com/feed/
+    lang: tr
+    side: turkish_defense
+  - name: DefenceTurk
+    url: https://www.defenceturk.net/feed
+    lang: tr
+    side: turkish_defense
+
+  # --- Κύπρος (επιπλέον) ---
+  - name: Philenews
+    url: https://www.philenews.com/feed/
+    lang: el
+    side: cypriot_media
+    domestic: true
+  - name: Yeni Düzen (κατεχόμενα)
+    url: https://www.yeniduzen.com/rss.xml
+    lang: tr
+    side: trnc_media
+
+  # --- Think tanks / αναλύσεις ---
+  - name: ΕΛΙΑΜΕΠ
+    url: https://www.eliamep.gr/feed/
+    lang: el
+    side: greek_thinktank
+    domestic: true
+  - name: SETA (τουρκικό think tank)
+    url: https://www.setav.org/en/feed/
+    lang: en
+    side: turkish_thinktank
+  - name: War on the Rocks
+    url: https://warontherocks.com/feed/
+    lang: en
+    side: defense_intl
+  - name: Al Jazeera English
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    lang: en
+    side: international
 
 # --- Δημόσια κανάλια Telegram (το username από το t.me/XXXX) ---
 telegram:

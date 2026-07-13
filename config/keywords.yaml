@@ -1,13 +1,6 @@
-# Λέξεις-κλειδιά προ-φιλτραρίσματος (case-insensitive, substring match).
-# Ένα άρθρο περνά στην ταξινόμηση αν πιάσει ΕΣΤΩ ΜΙΑ λέξη.
-
+# ΘΕΜΑΤΙΚΑ keywords — ισχύουν για ΟΛΕΣ τις πηγές
 keywords:
-  # Ελληνοτουρκικά / Αιγαίο
-  - greece
-  - greek
   - aegean
-  - ελλάδα
-  - ελλην
   - αιγαίο
   - yunanistan
   - ege
@@ -26,12 +19,6 @@ keywords:
   - mavi vatan
   - blue homeland
   - γαλάζια πατρίδα
-
-  # Κυπριακό
-  - cyprus
-  - cypriot
-  - κύπρος
-  - κυπριακ
   - varosha
   - βαρώσια
   - trnc
@@ -39,8 +26,6 @@ keywords:
   - αοζ
   - eez
   - exclusive economic zone
-
-  # Θράκη / μειονότητα
   - thrace
   - θράκη
   - western thrace
@@ -49,8 +34,6 @@ keywords:
   - minority
   - μουφτ
   - mufti
-
-  # Άμυνα / εξοπλισμοί με ελληνοτουρκικό ενδιαφέρον
   - f-16
   - f-35
   - kaan
@@ -67,14 +50,10 @@ keywords:
   - typhoon missile
   - steadfast
   - aspides
-
-  # Πρόσωπα
   - erdogan
   - ερντογάν
   - fidan
   - φιντάν
-  - mitsotakis
-  - μητσοτάκης
   - γεραπετρίτης
   - gerapetritis
   - dendias
@@ -84,8 +63,6 @@ keywords:
   - tatar
   - akar
   - güler
-
-  # Μεταναστευτικό (εργαλειοποίηση)
   - migrant
   - μεταναστ
   - evros
@@ -93,8 +70,6 @@ keywords:
   - frontex
   - pushback
   - instrumentaliz
-
-  # Ενέργεια / ΑΟΖ
   - east med
   - eastmed
   - oruc reis
@@ -105,14 +80,8 @@ keywords:
   - hydrocarbon
   - chevron
   - exxon
-
-  # Θράκη — τουρκικοί & ελληνικοί όροι
   - gümülcine
   - iskeçe
-  - komotini
-  - κομοτηνή
-  - ξάνθη
-  - xanthi
   - soydaş
   - azınlık
   - müfti
@@ -122,17 +91,10 @@ keywords:
   - lausanne
   - λωζάν
   - dedeağaç
-  - αλεξανδρούπολη
-  - alexandroupoli
-
-  # Γενικά ελληνοτουρκικά (τουρκικοί όροι)
   - yunan
   - atina
-  - miçotakis
   - kıta sahanlığı
   - karasuları
-
-  # Μεταναστευτικό / Λιβύη / διαδρομές
   - libya
   - λιβύη
   - tobruk
@@ -142,8 +104,6 @@ keywords:
   - haftar
   - χαφτάρ
   - tripoli
-  - crete
-  - κρήτη
   - gavdos
   - γαύδος
   - smuggl
@@ -159,8 +119,6 @@ keywords:
   - lampedusa
   - balkan route
   - βαλκανική οδός
-
-  # Κατασκοπεία / υπηρεσίες πληροφοριών
   - espionage
   - istihbarat
   - psyop
@@ -168,3 +126,27 @@ keywords:
   - μυστικών υπηρεσιών
   - intelligence agency
   - intelligence operation
+
+# ΓΕΩΓΡΑΦΙΚΑ keywords — ισχύουν ΜΟΝΟ για ξένες πηγές.
+# Στις εγχώριες (domestic: true στο sources.yaml) αγνοούνται,
+# αλλιώς "Ελλάδα"/"Cyprus" θα έπιαναν κάθε άρθρο τους.
+broad_geo_keywords:
+  - greece
+  - greek
+  - ελλάδα
+  - ελλην
+  - cyprus
+  - cypriot
+  - κύπρος
+  - κυπριακ
+  - mitsotakis
+  - μητσοτάκης
+  - komotini
+  - κομοτηνή
+  - ξάνθη
+  - xanthi
+  - αλεξανδρούπολη
+  - alexandroupoli
+  - miçotakis
+  - crete
+  - κρήτη
