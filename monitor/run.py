@@ -8,12 +8,13 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from monitor.collector import collect, load_yaml  # noqa: E402
 from monitor.classifier import classify  # noqa: E402
 from monitor.scrapers import scrape_telegram, scrape_page  # noqa: E402
+from monitor.alerts import send_alerts  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "items.json")
 SOURCES = os.path.join(ROOT, "config", "sources.yaml")
 KEYWORDS = os.path.join(ROOT, "config", "keywords.yaml")
-RETENTION_DAYS = 14
+RETENTION_DAYS = 7
 DROP_CATEGORIES = {"Άσχετο"}
 
 
@@ -39,7 +40,8 @@ def main():
     known = {it["id"] for it in existing}
 
     cfg = load_yaml(SOURCES)
-    keywords = load_yaml(KEYWORDS)["keywords"]
+    kw_cfg = load_yaml(KEYWORDS)
+    keywords = kw_cfg["keywords"] + kw_cfg.get("broad_geo_keywords", [])
 
     fresh = collect(SOURCES, KEYWORDS, known)
     for ch in cfg.get("telegram", []) or []:
@@ -55,9 +57,10 @@ def main():
         min_sev = min_severity_map(cfg)
         before = len(fresh)
         fresh = [it for it in fresh
-                 if it["severity"] >= min_sev.get(it["source"], 1)]
+                 if it["severity"] >= max(2, min_sev.get(it["source"], 1))]
         if before != len(fresh):
             print(f"[=] Κόπηκαν {before - len(fresh)} items κάτω από το κατώφλι πηγής")
+        send_alerts(fresh)
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)).isoformat()
     merged = [it for it in existing + fresh

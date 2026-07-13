@@ -43,6 +43,12 @@
       border-radius:2px;background:var(--panel);color:var(--ink);
       font-family:inherit;margin-bottom:6px}
   select:focus{outline:2px solid var(--teal)}
+  .digest{background:var(--panel);border:1px solid var(--shallow);
+      border-left:4px solid var(--teal);border-radius:2px;
+      padding:12px 14px;margin:0 0 16px}
+  .digest summary{cursor:pointer;font-family:'IBM Plex Mono',monospace;
+      font-size:12.5px;color:var(--teal);font-weight:500;letter-spacing:.03em}
+  .digest-text{white-space:pre-wrap;font-size:14px;margin-top:10px}
 
   /* Dispatch cards */
   .card{background:var(--panel);border:1px solid var(--shallow);
@@ -80,6 +86,10 @@
   </header>
 
   <div class="strip" id="strip"></div>
+  <details class="digest" id="digestBox" style="display:none" open>
+    <summary id="digestTitle">ΠΡΩΙΝΟ ΔΕΛΤΙΟ</summary>
+    <div class="digest-text" id="digestText"></div>
+  </details>
 
   <div class="filters" id="catFilters"></div>
   <div class="filters" id="sevFilters"></div>
@@ -90,7 +100,7 @@
 </div>
 
 <script>
-let items = [], activeCat = null, minSev = 1, query = "", activeSrc = null;
+let items = [], activeCat = null, minSev = 3, query = "", activeSrc = null;
 
 const fmt = iso => {
   const d = new Date(iso);
@@ -137,7 +147,7 @@ function buildFilters(){
   });
 
   const sf = document.getElementById("sevFilters");
-  sf.innerHTML = [1,3,4].map(s=>`<button class="chip ${s===1?'on':''}" data-s="${s}">${
+  sf.innerHTML = [1,3,4].map(s=>`<button class="chip ${s===3?'on':''}" data-s="${s}">${
     s===1?'Κάθε σοβαρότητα':'ΣΟΒ ≥ '+s}</button>`).join("");
   sf.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{
     sf.querySelectorAll(".chip").forEach(x=>x.classList.remove("on"));
@@ -163,6 +173,19 @@ function buildStrip(){
     `<span class="sig">ΣΟΒ 3: <b>${md}</b></span>` +
     `<span class="sig ${hi?'hot':''}">ΣΟΒ 4-5: <b>${hi}</b></span>`;
 }
+
+fetch("data/digest.json?t=" + Date.now())
+  .then(r => r.ok ? r.json() : null)
+  .then(d => {
+    if(!d || !d.text) return;
+    const age = Date.now() - new Date(d.generated).getTime();
+    if(age > 36*3600*1000) return; // μπαγιάτικο δελτίο δεν εμφανίζεται
+    document.getElementById("digestTitle").textContent =
+      "ΠΡΩΙΝΟ ΔΕΛΤΙΟ — " + fmt(d.generated);
+    document.getElementById("digestText").textContent = d.text;
+    document.getElementById("digestBox").style.display = "block";
+  })
+  .catch(()=>{});
 
 fetch("data/items.json?t=" + Date.now())
   .then(r => r.json())

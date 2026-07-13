@@ -43,10 +43,13 @@ def parse_date(entry) -> str:
 def collect(sources_path: str, keywords_path: str, known_ids: set[str]) -> list[dict]:
     """Επιστρέφει νέα items που πιάνουν keywords και δεν υπάρχουν ήδη."""
     sources = load_yaml(sources_path)["feeds"]
-    keywords = load_yaml(keywords_path)["keywords"]
+    kw_cfg = load_yaml(keywords_path)
+    topics = kw_cfg["keywords"]
+    broad = kw_cfg.get("broad_geo_keywords", [])
     fresh = []
 
     for src in sources:
+        keywords = topics if src.get("domestic") else topics + broad
         try:
             parsed = feedparser.parse(src["url"])
         except Exception as e:
