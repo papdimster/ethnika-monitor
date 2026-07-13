@@ -1,22 +1,17 @@
-"""X/Twitter Scraper για εθνικά θέματα - χωρίς επίσημο API"""
-import asyncio
-from datetime import datetime, timezone, timedelta
-from twscrape import API, gather
-from twscrape.logger import set_log_level
-
-from monitor.collector import item_id, matches_keywords
-
-set_log_level("ERROR")
 async def scrape_x_accounts(accounts: list, keywords: list, known_ids: set, hours_back: int = 6):
-    """Scrapes given X accounts"""
+    """Scrapes given X accounts with logging"""
     api = API()
     fresh = []
     since = (datetime.now(timezone.utc) - timedelta(hours=hours_back)).strftime("%Y-%m-%d")
+
+    print(f"[X] Ξεκινά scraping {len(accounts)} accounts από {since}")
 
     try:
         for username in accounts:
             try:
                 tweets = await gather(api.search(f"from:{username} since:{since}", limit=15))
+                matched = 0
+
                 for t in tweets:
                     iid = item_id(t.url)
                     if iid in known_ids:
@@ -26,6 +21,7 @@ async def scrape_x_accounts(accounts: list, keywords: list, known_ids: set, hour
                     hits = matches_keywords(text, keywords)
 
                     if hits:
+                        matched += 1
                         fresh.append({
                             "id": iid,
                             "title": t.rawContent[:140] + "..." if len(t.rawContent) > 140 else t.rawContent,
@@ -40,10 +36,15 @@ async def scrape_x_accounts(accounts: list, keywords: list, known_ids: set, hour
                             "keywords_hit": hits[:8],
                             "x_data": {"username": t.user.username, "likes": t.likeCount, "retweets": t.retweetCount}
                         })
-            except Exception as e:
-                print(f"[!] X @{username}: {e}")
-                continue
-    except Exception as e:
-        print(f"[!] X Scraper error: {e}")
 
+                print(f"[X] @{username}: {len(tweets)} tweets, {matched} matched keywords")
+
+            except Exception as e:
+                print(f"[!] X @{username} error: {e}")
+                continue
+
+    except Exception as e:
+        print(f"[!] X Scraper general error: {e}")
+
+    print(f"[X] Συνολικά νέα X items: {len(fresh)}")
     return fresh
