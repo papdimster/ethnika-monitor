@@ -1,3 +1,15 @@
+"""X/Twitter Scraper για εθνικά θέματα - χωρίς επίσημο API"""
+import asyncio
+from datetime import datetime, timezone, timedelta
+
+from twscrape import API, gather
+from twscrape.logger import set_log_level
+
+from monitor.collector import item_id, matches_keywords
+
+set_log_level("ERROR")
+
+
 async def scrape_x_accounts(accounts: list, keywords: list, known_ids: set, hours_back: int = 6):
     """Scrapes given X accounts with logging"""
     api = API()
@@ -29,7 +41,7 @@ async def scrape_x_accounts(accounts: list, keywords: list, known_ids: set, hour
                             "summary_raw": t.rawContent,
                             "source": f"X @{t.user.username}",
                             "side": "neutral",
-                            "lang": "el" if any(x in t.user.username.lower() for x in ["greece", "hellenic"]) else 
+                            "lang": "el" if any(x in t.user.username.lower() for x in ["greece", "hellenic"]) else
                                    "tr" if any(x in t.user.username.lower() for x in ["tc", "turkish"]) else "en",
                             "published": t.date.isoformat(),
                             "collected": datetime.now(timezone.utc).isoformat(),
