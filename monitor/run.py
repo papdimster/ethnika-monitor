@@ -51,8 +51,10 @@ def main():
         fresh += scrape_page(pg, keywords, known)
     # X/Twitter scraping από config
     import asyncio
-    for x_cfg in cfg.get("x_accounts", []) or []:
-        fresh += asyncio.run(scrape_x_accounts(keywords, known))
+    for x_group in cfg.get("x_accounts", []) or []:
+        accounts = x_group.get("accounts", [])
+        if accounts:
+            fresh += asyncio.run(scrape_x_accounts(accounts, keywords, known))
 
     print(f"[=] Νέα items προς ταξινόμηση: {len(fresh)}")
 
