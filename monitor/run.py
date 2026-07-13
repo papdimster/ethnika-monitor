@@ -49,6 +49,8 @@ def main():
         fresh += scrape_telegram(ch, keywords, known)
     for pg in cfg.get("html_pages", []) or []:
         fresh += scrape_page(pg, keywords, known)
+            # X/Twitter scraping import asyncio
+    fresh += asyncio.run(scrape_x_accounts(keywords, known))
 
     print(f"[=] Νέα items προς ταξινόμηση: {len(fresh)}")
 
