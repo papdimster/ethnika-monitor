@@ -5,8 +5,8 @@ import sys
 from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from monitor.collector import collect, load_yaml  # noqa: E402
-from monitor.classifier import classify  # noqa: E402
+from monitor.collector import collect, load_yaml, title_key  # noqa: E402
+from monitor.classifier import classify, enrich  # noqa: E402
 from monitor.scrapers import scrape_telegram, scrape_page  # noqa: E402
 from monitor.alerts import send_alerts  # noqa: E402
 
@@ -38,12 +38,13 @@ def main():
         with open(DATA, encoding="utf-8") as f:
             existing = json.load(f).get("items", [])
     known = {it["id"] for it in existing}
+    known_titles = {title_key(it["source"], it["title"]) for it in existing}
 
     cfg = load_yaml(SOURCES)
     kw_cfg = load_yaml(KEYWORDS)
     keywords = kw_cfg["keywords"] + kw_cfg.get("broad_geo_keywords", [])
 
-    fresh = collect(SOURCES, KEYWORDS, known)
+    fresh = collect(SOURCES, KEYWORDS, known, known_titles)
     for ch in cfg.get("telegram", []) or []:
         fresh += scrape_telegram(ch, keywords, known)
     for pg in cfg.get("html_pages", []) or []:
@@ -51,11 +52,15 @@ def main():
 
     print(f"[=] Νέα items προς ταξινόμηση: {len(fresh)}")
 
-    # Θεραπεία: ξαναταξινομούμε παλιά Αταξινόμητα, έως 40 ανά τρέξιμο
-    retry_pool = [it for it in existing if it.get("category") == "Αταξινόμητο"][:40]
+    # Θεραπεία: ξαναταξινομούμε παλιά Αταξινόμητα, έως 25 ανά τρέξιμο
+    retry_pool = [it for it in existing if it.get("category") == "Αταξινόμητο"][:25]
     if retry_pool:
-        print(f"[=] Επαναταξινόμηση {len(retry_pool)} παλιών αταξινόμητων")
+        print(f"[=] Επαναδιαλογή {len(retry_pool)} παλιών αταξινόμητων")
         classify(retry_pool)  # ενημερώνει τα αντικείμενα επιτόπου
+        healed = [it for it in retry_pool
+                  if it["category"] not in ("Αταξινόμητο", "Άσχετο")
+                  and it["severity"] >= 2]
+        enrich(healed)
 
     if fresh:
         fresh = classify(fresh)
@@ -66,6 +71,7 @@ def main():
                  if it["severity"] >= max(2, min_sev.get(it["source"], 1))]
         if before != len(fresh):
             print(f"[=] Κόπηκαν {before - len(fresh)} items κάτω από το κατώφλι πηγής")
+        enrich(fresh)  # σύνοψη/γωνία μόνο σε όσα κρατήσαμε
         send_alerts(fresh)
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)).isoformat()

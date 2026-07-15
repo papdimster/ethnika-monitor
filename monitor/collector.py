@@ -56,8 +56,17 @@ def parse_date(entry) -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
-def collect(sources_path: str, keywords_path: str, known_ids: set[str]) -> list[dict]:
+def title_key(source: str, title: str) -> str:
+    """Σταθερή ταυτότητα άρθρου: πηγή + κανονικοποιημένος τίτλος.
+    Προστατεύει από feeds (π.χ. Google News) που αλλάζουν URL στο ίδιο άρθρο."""
+    norm = "".join(ch for ch in title.lower() if ch.isalnum())[:80]
+    return f"{source}::{norm}"
+
+
+def collect(sources_path: str, keywords_path: str, known_ids: set[str],
+            known_titles: set[str] | None = None) -> list[dict]:
     """Επιστρέφει νέα items που πιάνουν keywords και δεν υπάρχουν ήδη."""
+    known_titles = known_titles or set()
     sources = load_yaml(sources_path)["feeds"]
     kw_cfg = load_yaml(keywords_path)
     topics = kw_cfg["keywords"]
@@ -81,6 +90,10 @@ def collect(sources_path: str, keywords_path: str, known_ids: set[str]) -> list[
             iid = item_id(link)
             if iid in known_ids:
                 continue
+            tkey = title_key(src["name"], title)
+            if tkey in known_titles:
+                continue
+            known_titles.add(tkey)  # και εντός τρεξίματος, για διπλά στο ίδιο feed
 
             summary = getattr(entry, "summary", "") or ""
             hits = matches_keywords(f"{title} {summary}", keywords)
