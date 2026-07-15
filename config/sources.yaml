@@ -451,6 +451,50 @@ feeds:
     side: greek_mainstream
     domestic: true
 
+# ══════════ ΣΥΝΤΗΡΗΤΙΚΗ ΑΤΖΕΝΤΑ (Ευρώπη/ΗΠΑ) ══════════
+  - name: Remix News
+    url: https://rmx.news/feed/
+    lang: en
+    side: conservative_eu
+    skip_keywords: true
+    min_severity: 3
+  - name: Brussels Signal
+    url: https://brusselssignal.eu/feed/
+    lang: en
+    side: conservative_eu
+    skip_keywords: true
+    min_severity: 3
+  - name: The European Conservative
+    url: https://europeanconservative.com/feed/
+    lang: en
+    side: conservative_eu
+    skip_keywords: true
+    min_severity: 3
+  - name: UnHerd
+    url: https://unherd.com/feed/
+    lang: en
+    side: conservative_uk
+    skip_keywords: true
+    min_severity: 3
+  - name: Spiked
+    url: https://www.spiked-online.com/feed/
+    lang: en
+    side: conservative_uk
+    skip_keywords: true
+    min_severity: 3
+  - name: Breitbart
+    url: https://feeds.feedburner.com/breitbart
+    lang: en
+    side: conservative_us
+    skip_keywords: true
+    min_severity: 3
+  - name: Daily Signal
+    url: https://www.dailysignal.com/feed/
+    lang: en
+    side: conservative_us
+    skip_keywords: true
+    min_severity: 3
+
 # --- Δημόσια κανάλια Telegram ---
 telegram:
   - username: clashreport
