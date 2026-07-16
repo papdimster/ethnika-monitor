@@ -64,8 +64,16 @@ def title_key(source: str, title: str) -> str:
 
 
 def collect(sources_path: str, keywords_path: str, known_ids: set[str],
-            known_titles: set[str] | None = None) -> list[dict]:
-    """Επιστρέφει νέα items που πιάνουν keywords και δεν υπάρχουν ήδη."""
+            known_titles: set[str] | None = None,
+            min_published: str | None = None) -> list[dict]:
+    """Επιστρέφει νέα items που πιάνουν keywords και δεν υπάρχουν ήδη.
+
+    min_published: ISO timestamp — άρθρα παλαιότερα από αυτό αγνοούνται
+    ΠΡΙΝ φτάσουν σε ταξινόμηση/alerts. Χωρίς αυτό, ένα παλιό άρθρο που
+    ένα feed συνεχίζει να δείχνει (π.χ. "καρφιτσωμένο" post) θα έμοιαζε
+    "καινούργιο" σε κάθε τρέξιμο μόλις παλιώσει αρκετά ώστε να έχει ήδη
+    διαγραφεί από τη ροή λόγω διατήρησης — άπειρος κύκλος επανα-alert.
+    """
     known_titles = known_titles or set()
     sources = load_yaml(sources_path)["feeds"]
     kw_cfg = load_yaml(keywords_path)
@@ -93,6 +101,11 @@ def collect(sources_path: str, keywords_path: str, known_ids: set[str],
             tkey = title_key(src["name"], title)
             if tkey in known_titles:
                 continue
+
+            published = parse_date(entry)
+            if min_published and published < min_published:
+                continue  # εκτός παραθύρου — ποτέ δεν "φαίνεται καινούργιο"
+
             known_titles.add(tkey)  # και εντός τρεξίματος, για διπλά στο ίδιο feed
 
             summary = getattr(entry, "summary", "") or ""
@@ -108,7 +121,7 @@ def collect(sources_path: str, keywords_path: str, known_ids: set[str],
                 "source": src["name"],
                 "side": src.get("side", "unknown"),
                 "lang": src.get("lang", "en"),
-                "published": parse_date(entry),
+                "published": published,
                 "collected": datetime.now(timezone.utc).isoformat(),
                 "keywords_hit": hits[:8],
             })

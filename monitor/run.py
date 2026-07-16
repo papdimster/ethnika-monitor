@@ -44,7 +44,8 @@ def main():
     kw_cfg = load_yaml(KEYWORDS)
     keywords = kw_cfg["keywords"] + kw_cfg.get("broad_geo_keywords", [])
 
-    fresh = collect(SOURCES, KEYWORDS, known, known_titles)
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)).isoformat()
+    fresh = collect(SOURCES, KEYWORDS, known, known_titles, min_published=cutoff)
     for ch in cfg.get("telegram", []) or []:
         fresh += scrape_telegram(ch, keywords, known)
     for pg in cfg.get("html_pages", []) or []:
@@ -74,7 +75,6 @@ def main():
         enrich(fresh)  # σύνοψη/γωνία μόνο σε όσα κρατήσαμε
         send_alerts(fresh)
 
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)).isoformat()
     merged = [it for it in existing + fresh
               if it["published"] >= cutoff
               and not it["id"].startswith("demo")
