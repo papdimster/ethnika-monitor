@@ -5,7 +5,11 @@ import os
 import urllib.request
 
 ALERT_MIN_SEVERITY = 4
-MAX_ALERTS_PER_RUN = 8   # ασφάλεια για το πρώτο τρέξιμο
+MAX_ALERTS_PER_RUN = 8    # συνολικό πλαφόν ανά τρέξιμο
+MAX_PER_SOURCE = 1        # ΣΟΒ 4-5 πολλαπλά από ΤΗΝ ΙΔΙΑ πηγή στο ίδιο
+                           # τρέξιμο σχεδόν πάντα σημαίνει τακτική/επαναλαμβανόμενη
+                           # αναφορά (π.χ. ημερήσιο μέτρημα), όχι πολλά ξεχωριστά
+                           # έκτακτα — στέλνουμε μόνο το πρώτο, το πιο πρόσφατο.
 
 SEV_ICON = {4: "🟠", 5: "🔴"}
 
@@ -35,7 +39,15 @@ def send_alerts(items: list[dict]) -> None:
         return  # δεν έχουν ρυθμιστεί ειδοποιήσεις — συνεχίζουμε σιωπηλά
 
     hot = [it for it in items if it.get("severity", 0) >= ALERT_MIN_SEVERITY]
-    hot = hot[:MAX_ALERTS_PER_RUN]
+    hot.sort(key=lambda it: it.get("published", ""), reverse=True)
+    capped, per_source = [], {}
+    for it in hot:
+        src = it["source"]
+        if per_source.get(src, 0) >= MAX_PER_SOURCE:
+            continue
+        per_source[src] = per_source.get(src, 0) + 1
+        capped.append(it)
+    hot = capped[:MAX_ALERTS_PER_RUN]
     sent = 0
     for it in hot:
         icon = SEV_ICON.get(it["severity"], "🟠")
