@@ -11,11 +11,55 @@ import urllib.request
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
 
-GEMINI_MODEL = "gemini-2.5-flash-lite"
-GEMINI_URL = (f"https://generativelanguage.googleapis.com/v1beta/models/"
-              f"{GEMINI_MODEL}:generateContent")
+GEMINI_LIST_URL = "https://generativelanguage.googleapis.com/v1beta/models"
+_gemini_model_cache = {}  # ανά διεργασία — ένα resolve, πολλαπλή χρήση
+
+# Προτίμηση: φθηνότερο/γρηγορότερο πρώτα. Η Google αλλάζει συχνά ονόματα
+# μοντέλων· εδώ δοκιμάζουμε λίστα υποψηφίων και επιβεβαιώνουμε ότι
+# πραγματικά υπάρχει στο ListModels πριν το χρησιμοποιήσουμε.
+GEMINI_CANDIDATES = [
+    "gemini-2.5-flash-lite", "gemini-flash-lite-latest",
+    "gemini-2.0-flash-lite", "gemini-2.5-flash", "gemini-flash-latest",
+]
 
 BATCH = 8
+
+
+def _parse_json_array(text: str) -> list:
+    """Ανθεκτικό parsing: αγνοεί τυχόν περιττά στοιχεία μετά το πρώτο
+    έγκυρο JSON (κάποια μοντέλα προσθέτουν άσχετο κείμενο/κενές γραμμές
+    μετά το array, που έσπαγε το αυστηρό json.loads)."""
+    text = text.strip()
+    decoder = json.JSONDecoder()
+    obj, _ = decoder.raw_decode(text)
+    return obj
+
+
+def _resolve_gemini_model(api_key: str) -> str | None:
+    """Ρωτάει τη Google ποια μοντέλα πραγματικά υποστηρίζει το κλειδί
+    και διαλέγει το πρώτο διαθέσιμο από τη λίστα προτίμησης. Cache ανά
+    τρέξιμο — μία κλήση ListModels συνολικά, όχι ανά batch."""
+    if api_key in _gemini_model_cache:
+        return _gemini_model_cache[api_key]
+    try:
+        req = urllib.request.Request(f"{GEMINI_LIST_URL}?key={api_key}")
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read())
+        available = {
+            m["name"].split("/")[-1] for m in data.get("models", [])
+            if "generateContent" in m.get("supportedGenerationMethods", [])
+        }
+        for cand in GEMINI_CANDIDATES:
+            if cand in available:
+                print(f"[i] Gemini μοντέλο: {cand}")
+                _gemini_model_cache[api_key] = cand
+                return cand
+        print(f"[!] Κανένα γνωστό Gemini μοντέλο δεν βρέθηκε διαθέσιμο "
+              f"(διαθέσιμα: {sorted(available)[:5]}...)")
+    except Exception as e:
+        print(f"[!] Αποτυχία ListModels στο Gemini: {e}")
+    _gemini_model_cache[api_key] = None
+    return None
 
 
 def _clean(text: str) -> str:
@@ -84,19 +128,24 @@ def explain_api_error(e) -> str:
 def _call_gemini(system: str, payload, api_key: str, max_tokens: int):
     """Στάδιο Α (triage) μέσω Gemini Flash-Lite — 10x φθηνότερο, μόνο για
     κατηγορία/σοβαρότητα (μηχανική δουλειά, όχι ελληνική πρόζα)."""
+    model = _resolve_gemini_model(api_key)
+    if not model:
+        raise RuntimeError("Κανένα διαθέσιμο Gemini μοντέλο")
+    url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{model}:generateContent")
     body = json.dumps({
         "systemInstruction": {"parts": [{"text": system}]},
         "contents": [{"parts": [{"text": json.dumps(payload, ensure_ascii=False)}]}],
         "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0},
     }).encode("utf-8")
     req = urllib.request.Request(
-        f"{GEMINI_URL}?key={api_key}", data=body,
+        f"{url}?key={api_key}", data=body,
         headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=120) as resp:
         data = json.loads(resp.read())
     text = data["candidates"][0]["content"]["parts"][0]["text"]
     text = text.replace("```json", "").replace("```", "").strip()
-    return {r["id"]: r for r in json.loads(text)}
+    return {r["id"]: r for r in _parse_json_array(text)}
 
 
 def _call(system: str, payload, api_key: str, max_tokens: int):
@@ -117,7 +166,7 @@ def _call(system: str, payload, api_key: str, max_tokens: int):
         data = json.loads(resp.read())
     text = "".join(b.get("text", "") for b in data.get("content", []))
     text = text.replace("```json", "").replace("```", "").strip()
-    return {r["id"]: r for r in json.loads(text)}
+    return {r["id"]: r for r in _parse_json_array(text)}
 
 
 def _resilient(system, chunk_payload, api_key, max_tokens):

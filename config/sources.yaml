@@ -16,27 +16,27 @@ feeds:
     lang: en
     side: turkish_state
   - name: TRT World
-    url: https://www.trtworld.com/feed
+    url: https://news.google.com/rss/search?q=site:trtworld.com&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: turkish_state
   - name: Turkish Minute
-    url: https://www.turkishminute.com/feed/
+    url: https://news.google.com/rss/search?q=site:turkishminute.com&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: turkish_opposition
     skip_keywords: true
   - name: Yeni Safak (EN)
-    url: https://www.yenisafak.com/en/rss
+    url: https://news.google.com/rss/search?q=site:yenisafak.com/en&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: turkish_media
 
   # --- Ελληνικά ΜΜΕ ---
   - name: Kathimerini (EN)
-    url: https://www.ekathimerini.com/feed/
+    url: https://feeds.feedburner.com/ekathimerini/sKip
     lang: en
     side: greek_media
     domestic: true
   - name: Newsbomb
-    url: https://www.newsbomb.gr/rss
+    url: https://news.google.com/rss/search?q=site:newsbomb.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: greek_media
     domestic: true
@@ -48,7 +48,7 @@ feeds:
 
   # --- Ελληνικά αμυντικά ---
   - name: Defence Point
-    url: https://defence-point.gr/feed
+    url: https://news.google.com/rss/search?q=site:defence-point.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: greek_defense
     domestic: true
@@ -65,12 +65,12 @@ feeds:
 
   # --- Θράκη ---
   - name: Χρόνος (Κομοτηνή)
-    url: https://www.xronos.gr/feed
+    url: https://news.google.com/rss/search?q=site:xronos.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: thrace_greek
     domestic: true
   - name: Παρατηρητής της Θράκης
-    url: https://www.paratiritis-news.gr/feed
+    url: https://news.google.com/rss/search?q=site:paratiritis-news.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: thrace_greek
     domestic: true
@@ -98,11 +98,11 @@ feeds:
     lang: en
     side: international
   - name: Al-Monitor Turkey
-    url: https://www.al-monitor.com/rss/turkey.xml
+    url: https://news.google.com/rss/search?q=site:al-monitor.com&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: international
   - name: Nordic Monitor
-    url: https://nordicmonitor.com/feed/
+    url: https://news.google.com/rss/search?q=site:nordicmonitor.com&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: international
     skip_keywords: true
@@ -115,7 +115,7 @@ feeds:
     lang: en
     side: defense_intl
   - name: Breaking Defense
-    url: https://breakingdefense.com/feed/
+    url: https://news.google.com/rss/search?q=site:breakingdefense.com&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: defense_intl
   - name: Middle East Eye
@@ -125,7 +125,7 @@ feeds:
 
   # --- Μεταναστευτικό ---
   - name: InfoMigrants
-    url: https://www.infomigrants.net/en/rss
+    url: https://news.google.com/rss/search?q=site:infomigrants.net&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: migration
   - name: Aegean Boat Report
@@ -145,7 +145,7 @@ feeds:
     side: north_africa
     skip_keywords: true
   - name: Libya Observer
-    url: https://libyaobserver.ly/rss.xml
+    url: https://news.google.com/rss/search?q=site:libyaobserver.ly&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: north_africa
     skip_keywords: true
@@ -162,7 +162,7 @@ feeds:
 
   # --- Ελληνικές επίσημες πηγές ---
   - name: ΓΕΕΘΑ
-    url: https://geetha.mil.gr/feed/
+    url: https://news.google.com/rss/search?q=site:geetha.mil.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: greek_official
     skip_keywords: true
@@ -176,7 +176,7 @@ feeds:
 
   # --- Ελληνικά γεωπολιτικά / αναλύσεις ---
   - name: SLpress
-    url: https://slpress.gr/feed/
+    url: https://news.google.com/rss/search?q=site:slpress.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: greek_analysis
     domestic: true
@@ -208,7 +208,7 @@ feeds:
     side: cypriot_media
     domestic: true
   - name: Yeni Düzen (κατεχόμενα)
-    url: https://www.yeniduzen.com/rss.xml
+    url: https://news.google.com/rss/search?q=site:yeniduzen.com&hl=en-US&gl=US&ceid=US:en
     lang: tr
     side: trnc_media
 
@@ -219,7 +219,7 @@ feeds:
     side: greek_thinktank
     domestic: true
   - name: SETA (τουρκικό think tank)
-    url: https://www.setav.org/en/feed/
+    url: https://news.google.com/rss/search?q=site:setav.org&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: turkish_thinktank
   - name: War on the Rocks
@@ -233,7 +233,7 @@ feeds:
 
   # --- Κύμα 3 ---
   - name: Energypress
-    url: https://energypress.gr/feed
+    url: https://news.google.com/rss/search?q=site:energypress.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: greek_energy
     domestic: true
@@ -243,7 +243,7 @@ feeds:
     side: greek_diaspora
     domestic: true
   - name: Kathimerini Cyprus (EN)
-    url: https://knews.kathimerini.com.cy/feed
+    url: https://news.google.com/rss/search?q=site:knews.kathimerini.com.cy&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: cypriot_media
     domestic: true
@@ -271,19 +271,19 @@ feeds:
 
   # --- Ελληνικές / επίσημες ---
   - name: ΥΠΕΝ
-    url: https://ypen.gov.gr/feed/
+    url: https://news.google.com/rss/search?q=site:ypen.gov.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: green_official
     skip_keywords: true
     min_severity: 3
   - name: B2Green
-    url: https://www.b2green.gr/feed
+    url: https://news.google.com/rss/search?q=site:b2green.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: green_greek
     skip_keywords: true
     min_severity: 3
   - name: Ecopress
-    url: https://ecopress.gr/feed/
+    url: https://news.google.com/rss/search?q=site:ecopress.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: green_greek
     skip_keywords: true
@@ -291,7 +291,7 @@ feeds:
 
   # --- Διεθνή ενεργειακά/κλιματικά ΜΜΕ ---
   - name: Bloomberg Green
-    url: https://feeds.bloomberg.com/green/news.rss
+    url: https://news.google.com/rss/search?q=site:bloomberg.com/green&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: green_intl
     skip_keywords: true
@@ -303,7 +303,7 @@ feeds:
     skip_keywords: true
     min_severity: 3
   - name: Euronews Green
-    url: https://www.euronews.com/rss?level=vertical&name=green
+    url: https://news.google.com/rss/search?q=site:euronews.com/green&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: green_intl
     skip_keywords: true
@@ -355,7 +355,7 @@ feeds:
     skip_keywords: true
     min_severity: 3
   - name: European Environment Agency
-    url: https://www.eea.europa.eu/highlights/rss
+    url: https://news.google.com/rss/search?q=site:eea.europa.eu&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: green_org
     skip_keywords: true
@@ -369,12 +369,12 @@ feeds:
 
   # --- Μεταναστευτικό: πρωτογενείς τοπικές πηγές ---
   - name: Στο Νησί (Λέσβος)
-    url: https://www.stonisi.gr/feed
+    url: https://news.google.com/rss/search?q=site:stonisi.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: migration_local
     domestic: true
   - name: Lesvos News
-    url: https://www.lesvosnews.net/feed
+    url: https://news.google.com/rss/search?q=site:lesvosnews.net&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: migration_local
     domestic: true
@@ -394,12 +394,12 @@ feeds:
     side: migration_local
     domestic: true
   - name: Nea Kriti
-    url: https://www.neakriti.gr/feed
+    url: https://news.google.com/rss/search?q=site:neakriti.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: migration_local
     domestic: true
   - name: Cretalive
-    url: https://www.cretalive.gr/feed
+    url: https://news.google.com/rss/search?q=site:cretalive.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: migration_local
     domestic: true
@@ -409,7 +409,7 @@ feeds:
     side: migration_local
     domestic: true
   - name: e-Evros
-    url: https://www.e-evros.gr/rss
+    url: https://news.google.com/rss/search?q=site:e-evros.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: migration_local
     domestic: true
@@ -426,7 +426,7 @@ feeds:
     side: greek_mainstream
     domestic: true
   - name: Καθημερινή
-    url: https://www.kathimerini.gr/rss
+    url: https://feeds.feedburner.com/kathimerini/DJpy
     lang: el
     side: greek_mainstream
     domestic: true
@@ -441,7 +441,7 @@ feeds:
     side: greek_mainstream
     domestic: true
   - name: iefimerida
-    url: https://www.iefimerida.gr/rss
+    url: https://news.google.com/rss/search?q=site:iefimerida.gr&hl=el&gl=GR&ceid=GR:el
     lang: el
     side: greek_mainstream
     domestic: true
