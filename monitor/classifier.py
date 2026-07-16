@@ -8,8 +8,13 @@ import re as _re
 import urllib.error
 import urllib.request
 
-API_URL = "https://api.anthropic.com/v1/messages"
-MODEL = "claude-haiku-4-5-20251001"
+ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
+ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
+
+GEMINI_MODEL = "gemini-2.5-flash-lite"
+GEMINI_URL = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+              f"{GEMINI_MODEL}:generateContent")
+
 BATCH = 8
 
 
@@ -76,16 +81,34 @@ def explain_api_error(e) -> str:
     return f"HTTP {e.code}: {body}"
 
 
+def _call_gemini(system: str, payload, api_key: str, max_tokens: int):
+    """Στάδιο Α (triage) μέσω Gemini Flash-Lite — 10x φθηνότερο, μόνο για
+    κατηγορία/σοβαρότητα (μηχανική δουλειά, όχι ελληνική πρόζα)."""
+    body = json.dumps({
+        "systemInstruction": {"parts": [{"text": system}]},
+        "contents": [{"parts": [{"text": json.dumps(payload, ensure_ascii=False)}]}],
+        "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0},
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        f"{GEMINI_URL}?key={api_key}", data=body,
+        headers={"Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        data = json.loads(resp.read())
+    text = data["candidates"][0]["content"]["parts"][0]["text"]
+    text = text.replace("```json", "").replace("```", "").strip()
+    return {r["id"]: r for r in json.loads(text)}
+
+
 def _call(system: str, payload, api_key: str, max_tokens: int):
     body = json.dumps({
-        "model": MODEL,
+        "model": ANTHROPIC_MODEL,
         "max_tokens": max_tokens,
         "system": [{"type": "text", "text": system,
                     "cache_control": {"type": "ephemeral"}}],
         "messages": [{"role": "user",
                       "content": json.dumps(payload, ensure_ascii=False)}],
     }).encode("utf-8")
-    req = urllib.request.Request(API_URL, data=body, headers={
+    req = urllib.request.Request(ANTHROPIC_URL, data=body, headers={
         "Content-Type": "application/json",
         "x-api-key": api_key,
         "anthropic-version": "2023-06-01",
@@ -118,10 +141,23 @@ def _resilient(system, chunk_payload, api_key, max_tokens):
         return res
 
 
+def _triage_batch(payload, anthropic_key, gemini_key):
+    """Gemini Flash-Lite πρώτα (10x φθηνότερο) — αν δεν υπάρχει κλειδί ή
+    αποτύχει με οποιονδήποτε τρόπο (δίκτυο, quota, κακό JSON), πέφτουμε
+    αυτόματα πίσω στο Anthropic Haiku, χωρίς να χαθεί ούτε ένα item."""
+    if gemini_key:
+        try:
+            return _call_gemini(SYSTEM_TRIAGE, payload, gemini_key, 2000)
+        except Exception as e:
+            print(f"[!] Gemini απέτυχε ({e}) — fallback σε Haiku για αυτή την παρτίδα")
+    return _resilient(SYSTEM_TRIAGE, payload, anthropic_key, 2000)
+
+
 def classify(items: list[dict]) -> list[dict]:
     """Στάδιο Α σε όλα: κατηγορία/σοβαρότητα. Σύνοψη/γωνία μπαίνουν
     αργότερα με το enrich() μόνο σε όσα επιβιώσουν."""
     api_key = os.environ.get("ANTHROPIC_API_KEY")
+    gemini_key = os.environ.get("GOOGLE_API_KEY")
     if not api_key:
         print("[!] Λείπει ANTHROPIC_API_KEY — τα items μένουν αταξινόμητα")
         for it in items:
@@ -130,13 +166,16 @@ def classify(items: list[dict]) -> list[dict]:
                        "angle": None, "turkish_narrative": False})
         return items
 
+    if gemini_key:
+        print("[i] Triage μέσω Gemini Flash-Lite (fallback: Haiku)")
+
     for i in range(0, len(items), BATCH):
         chunk = items[i:i + BATCH]
         payload = [{"id": it["id"], "side": it["side"],
                     "title": _clean(it["title"]),
                     "summary": _clean(it["summary_raw"])[:300]}
                    for it in chunk]
-        results = _resilient(SYSTEM_TRIAGE, payload, api_key, 2000)
+        results = _triage_batch(payload, api_key, gemini_key)
         for it in chunk:
             r = results.get(it["id"], {})
             it.update({

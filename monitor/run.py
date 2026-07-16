@@ -60,7 +60,7 @@ def main():
         classify(retry_pool)  # ενημερώνει τα αντικείμενα επιτόπου
         healed = [it for it in retry_pool
                   if it["category"] not in ("Αταξινόμητο", "Άσχετο")
-                  and it["severity"] >= 2]
+                  and it["severity"] >= 3]
         enrich(healed)
 
     if fresh:
@@ -72,7 +72,12 @@ def main():
                  if it["severity"] >= max(2, min_sev.get(it["source"], 1))]
         if before != len(fresh):
             print(f"[=] Κόπηκαν {before - len(fresh)} items κάτω από το κατώφλι πηγής")
-        enrich(fresh)  # σύνοψη/γωνία μόνο σε όσα κρατήσαμε
+        # Το ακριβό enrich (ελληνική σύνοψη+γωνία) μόνο σε ΣΟΒ 3+ — αυτά
+        # που πραγματικά βλέπεις στο default view. Τα ΣΟΒ 2 μένουν με την
+        # ωμή περίληψη πηγής· είναι ήδη κρυμμένα πίσω από το προεπιλεγμένο
+        # φίλτρο, δεν έχει νόημα να πληρώνουμε πλήρη επεξεργασία γι' αυτά.
+        worth_enrich = [it for it in fresh if it["severity"] >= 3]
+        enrich(worth_enrich)
         send_alerts(fresh)
 
     merged = [it for it in existing + fresh
