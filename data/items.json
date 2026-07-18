@@ -1,7 +1,105 @@
 {
- "updated": "2026-07-18T18:13:39.677971+00:00",
- "count": 1037,
+ "updated": "2026-07-18T19:38:01.936916+00:00",
+ "count": 1042,
  "items": [
+  {
+   "id": "ed421869cfc9604f",
+   "title": "#KSA #USA  The Trump administration has tentatively agreed to allow Saudi Arabia to enrich uranium without implementing international safeguards designed to prevent nuclear weapons…",
+   "link": "https://t.me/OSINTdefender/19528",
+   "summary_raw": "#KSA #USA  The Trump administration has tentatively agreed to allow Saudi Arabia to enrich uranium without implementing international safeguards designed to prevent nuclear weapons development.  Subscribe to @OSINTdefender Chat room",
+   "source": "Telegram @OSINTdefender",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-18T19:02:19+00:00",
+   "collected": "2026-07-18T19:35:44.408435+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η κυβέρνηση Trump συμφώνησε να επιτρέψει στη Σαουδική Αραβία να εμπλουτίσει ουράνιο χωρίς διεθνείς ασφαλιστικούς ελέγχους που αποτρέπουν την ανάπτυξη πυρηνικών όπλων.",
+   "angle": null
+  },
+  {
+   "id": "30dd24557d0a28cc",
+   "title": "Ακάρ: Η Τουρκία θα επιστρέψει στο πρόγραμμα παραγωγής των F-35 - Ποιά μέτρα πρέπει να πάρει ΑΜΕΣΑ η Ελλάδα;",
+   "link": "https://www.pentapostagma.gr/ethnika-themata/ellinotoyrkika/7380962_akar-i-toyrkia-tha-epistrepsei-sto-programma-paragogis-ton-f",
+   "summary_raw": "«Έχουμε ευθύνες στο πρόγραμμα, συμπεριλαμβανομένων των εργασιών κατασκευής εξαρτημάτων για τα F-35, και θα τις...",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-07-18T18:48:42+00:00",
+   "collected": "2026-07-18T19:35:04.876908+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ο Τούρκος υπουργός Άμυνας Ακάρ δήλωσε ότι η Τουρκία θα επιστρέψει στο πρόγραμμα παραγωγής των F-35, συμπεριλαμβανομένης της κατασκευής εξαρτημάτων για τα μαχητικά αεροσκάφη.",
+   "angle": "Τι σημαίνει για την ασφάλεια της Ελλάδας και τη στρατηγική ισορροπία στο Αιγαίο η επιστροφή της Τουρκίας στο F-35 program;"
+  },
+  {
+   "id": "b3f428d98ce84a53",
+   "title": "WSJ: Η Άγκυρα εξετάζει τη μεταφορά των S-400 στα ΗΑΕ για να ανοίξει ο δρόμος προς τα F-35",
+   "link": "https://www.tanea.gr/2026/07/18/world/wsj-i-agkyra-eksetazei-ti-metafora-ton-s-400-sta-iae-gia-na-anoiksei-o-dromos-pros-ta-f-35/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://www.tanea.gr/wp-content/uploads/2026/07/59ba40965578f-1024x576.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Η Άγκυρα φέρεται να εξετάζει την απομάκρυνση των ρωσικών αντιαεροπορικών συστημάτων από το έδαφός της, σε μια προσπάθεια να αρθούν οι αμερικανικές κυρώσεις και να επανενταχθεί στο πρόγραμμα των μαχητικών πέμπτης γενιάς.",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-18T18:35:27+00:00",
+   "collected": "2026-07-18T19:35:35.149834+00:00",
+   "keywords_hit": [
+    "f-35",
+    "s-400",
+    "πομάκ"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η Άγκυρα εξετάζει την απομάκρυνση των ρωσικών S-400 από το έδαφός της ώστε να αρθούν οι αμερικανικές κυρώσεις και να επανενταχθεί στο πρόγραμμα F-35.",
+   "angle": "Τι σημαίνει η αποχώρηση της Τουρκίας από τα ρωσικά S-400 για τη γεωπολιτική ισορροπία στη Μεσόγειο;"
+  },
+  {
+   "id": "f3e0d2e4ee1aefd4",
+   "title": "Wall Street Journal: «Κούρσα» της Τουρκίας για να... ξεφορτωθεί τους S-400 και να πάρει τα F-35, βρίσκεται σε διαπραγματεύσεις με τα Εμιράτα",
+   "link": "https://www.protothema.gr/world/article/1853006/wall-street-journal-koursa-tis-tourkias-gia-na-xefortothei-tous-s-400-kai-na-parei-ta-f-35-vrisketai/?utm_source=rss",
+   "summary_raw": "Τα Ηνωμένα Αραβικά Εμιράτα επιδιώκουν να ενισχύσουν την αεράμυνά τους, μετά τις επιθέσεις με ιρανικά drones και πυραύλους, που έχουν πλήξει τις χώρες του Κόλπου κατά τη διάρκεια του πολέμου",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-18T18:34:00+00:00",
+   "collected": "2026-07-18T19:35:31.901877+00:00",
+   "keywords_hit": [
+    "f-35",
+    "s-400"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Σύμφωνα με το Wall Street Journal, η Τουρκία διαπραγματεύεται με τα Ηνωμένα Αραβικά Εμιράτα τη μεταφορά των S-400 για να ξεφορτωθεί τα ρωσικά συστήματα και να αποκτήσει τα αμερικανικά F-35.",
+   "angle": "Ποια είναι η ρωσική αντίδραση στο σχέδιο της Τουρκίας να ξεφορτωθεί τα S-400 και τι συνέπειες θα έχει για τη Μόσχα;"
+  },
+  {
+   "id": "c2cd66b84fea3d6b",
+   "title": "Ανάλυση: Ποιές είναι οι κόκκινες γραμμές Ελλάδας-Κύπρου-Ισραήλ και γιατί έχουν λόγο στην πώληση των S-400 της Τουρκίας;",
+   "link": "https://www.pentapostagma.gr/ethnika-themata/ellinotoyrkika/7380783_analysi-poies-einai-oi-kokkines-grammes-elladas-kyproy",
+   "summary_raw": "Η Ελληνική- Κυπριακή-Ισραηλινή διπλωματία θα πρέπει να επαγρυπνούν, αποσαφηνίζοντας τις θέσεις-ενστάσεις τους στις ΗΠΑ...",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-07-18T18:29:25+00:00",
+   "collected": "2026-07-18T19:35:04.877162+00:00",
+   "keywords_hit": [
+    "s-400"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η Ελλάδα, Κύπρος και Ισραήλ πρέπει να συντονίσουν τη διπλωματική τους θέση απέναντι στις ΗΠΑ σχετικά με τα τουρκικά S-400 και τις επιπτώσεις τους στην περιοχή.",
+   "angle": "Πώς μπορεί ο τριμερής άξονας Ελλάδας-Κύπρου-Ισραήλ να σταματήσει την πώληση ή τη μεταφορά των S-400;"
+  },
   {
    "id": "c9f78cd5b9dfa985",
    "title": "Γιατί τα μελλοντικά F-35 μας θα πετούν πιο αργά από τα Phantom",
@@ -135,6 +233,25 @@
    "turkish_narrative": false,
    "summary_el": "Η ΕΕ εξετάζει την επέκταση της επιχείρησης «Ασπίδες» στην Ερυθρά Θάλασσα, καθώς το Ιράν έχει ζητήσει από τους Χούθι να απειλήσουν με κλείσιμο του Στενού Μπαμπ Ελ-Μαντέμπ.",
    "angle": "Η κρίση του Ερυθρού Πελάγους: πόσο θα κοστίσει η ευρωπαϊκή στρατιωτική παρουσία στο εμπόριο και την οικονομία;"
+  },
+  {
+   "id": "a1abb79b779b8ba5",
+   "title": "Διευρύνεται η πρόσβαση παιδιών πολύτεκνων οικογενειών σε δομές φροντίδας και προσχολικής εκπαίδευσης - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLTBJa1NnSXpxTHdrYlBvUGg5R1pBZVdHb0ZLdjFPeXZhcFAwVy1leThkRTRoZmpOUDJGZXdzREEteWM3N1E3SHQxbVhPaGpDWDQwUEtIMEZKZjZhaTZ3enB2YTJvY3lXT3FHWjNrWVMycFZkblBlMVIyNWJzOXB5dXNTVUpJNkZrbl9YSVl1alZDV2ZSUHptX0d4VHBQSEM1LUVGcjlielRGRTZ3ZFkzMHNDUnhaT3lnOUI0UEh1emhwY1BwTFk2YVNEdXU1X0pDQ1ZtWHlLT0JvSHR5?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLTBJa1NnSXpxTHdrYlBvUGg5R1pBZVdHb0ZLdjFPeXZhcFAwVy1leThkRTRoZmpOUDJGZXdzREEteWM3N1E3SHQxbVhPaGpDWDQwUEtIMEZKZjZhaTZ3enB2YTJvY3lXT3FHWjNrWVMycFZkblBlMVIyNWJzOXB5dXNTVUpJNkZrbl9YSVl1alZDV2ZSUHptX0d4VHBQSEM1LUVGcjlielRGRTZ3ZFkzMHNDUnhaT3lnOUI0UEh1emhwY1BwTFk2YVNEdXU1X0pDQ1ZtWHlLT0JvSHR5?oc=5\" target=\"_blank\">Διευρύνεται η πρόσβαση παιδιών πολύτεκνων οικογενειών σε δομές φροντίδας και προσχολικής εκπαίδευσης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-07-18T16:00:00+00:00",
+   "collected": "2026-07-18T19:34:45.893081+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Διευρύνεται η πρόσβαση παιδιών πολύτεκνων οικογενειών σε δομές φροντίδας και προσχολικής εκπαίδευσης Παρατηρητής της Θράκης",
+   "angle": null
   },
   {
    "id": "322e543e31f5005b",
@@ -3934,6 +4051,23 @@
    "turkish_narrative": false,
    "summary_el": "Η MAN επενδύει 1 δισ. ευρώ στο εργοστάσιό της στο Κρακοβία της Πολωνίας για παραγωγή ηλεκτρικών φορτηγών, με έναρξη σειριακής παραγωγής του eTGL τον Ιούλιο.",
    "angle": "Κρακοβία: Το νέο κέντρο του ηλεκτρικού φορτηγού στην Ευρώπη—η μεγάλη στοίχηση της MAN"
+  },
+  {
+   "id": "eb70263ba90b56bf",
+   "title": "Αδικημένοι Εξοικονομώ: Οι κατηγορίες δικαιούχων που αποκλείονται από την παράταση - B2Green",
+   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOUXp1RGJGemRkMVpJZE4tTmZCUFdpQ3pUR0t1cTVqbXo5MFcxQXh6YnRJd0xGVlNuSXpaaU5KcjdQeHY1MVhKVmFhYmc1alJMb2lRMXF2dnpScHR1QnR2QmdjT2EwNVJzaDVPSjczeWpJX0VFdDRmcVVGeVEtcEp0QWxoeG1UM08zOUR3RG96LWZOQ3hidFdoRVYxU3NsZ3hIaEMwV25ZTnVFYnBhZmNpWlVQUUlFMkpLOTU5NDIwSEdWalNSUzNsbGxPWVRUQTVTVFhqcjhnREJaUGZIenkzTURBc19pV2J1ZXBqZjhJTUdzc1dYRWJwOGQ5d3JhNVJYV09wS2hnVm5RX1FkQ0VUaXoxOXRRYWxQMlR3ZUIzRk1xTTZHcmpwVGV2dVdqVFJoWmE1NnE5VHRGUk5SYW5jaGZTbHEwbS1z?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxOUXp1RGJGemRkMVpJZE4tTmZCUFdpQ3pUR0t1cTVqbXo5MFcxQXh6YnRJd0xGVlNuSXpaaU5KcjdQeHY1MVhKVmFhYmc1alJMb2lRMXF2dnpScHR1QnR2QmdjT2EwNVJzaDVPSjczeWpJX0VFdDRmcVVGeVEtcEp0QWxoeG1UM08zOUR3RG96LWZOQ3hidFdoRVYxU3NsZ3hIaEMwV25ZTnVFYnBhZmNpWlVQUUlFMkpLOTU5NDIwSEdWalNSUzNsbGxPWVRUQTVTVFhqcjhnREJaUGZIenkzTURBc19pV2J1ZXBqZjhJTUdzc1dYRWJwOGQ5d3JhNVJYV09wS2hnVm5RX1FkQ0VUaXoxOXRRYWxQMlR3ZUIzRk1xTTZHcmpwVGV2dVdqVFJoWmE1NnE5VHRGUk5SYW5jaGZTbHEwbS1z?oc=5\" target=\"_blank\">Αδικημένοι Εξοικονομώ: Οι κατηγορίες δικαιούχων που αποκλείονται από την παράταση</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B2Green</font>",
+   "source": "B2Green",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-07-17T09:52:52+00:00",
+   "collected": "2026-07-18T19:35:15.626716+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ορισμένες κατηγορίες δικαιούχων αποκλείονται από την παράταση του προγράμματος ενεργειακής εξοικονόμησης Εξοικονομώ B2Green.",
+   "angle": null
   },
   {
    "id": "eb14a01eeffcdf08",
@@ -19540,45 +19674,6 @@
    "severity": 4,
    "summary_el": "Η Centcom επιβεβαίωσε στις 19:15 ΕΤ αμερικανικά πλήγματα εναντίον Ιράν ως απάντηση στην επίθεση του IRGC στο κυπριακής σημαίας M/V GFS Galaxy, που αδυνατεί να συνεχίσει τον πλου λόγω πυρκαγιάς. Ένας ναύτης παραμένει αγνοούμενος.",
    "angle": "Τρίτος κύκλος αμερικανικών πληγμάτων κατά Ιράν με αφορμή κυπριακής σημαίας πλοίο: αυξάνεται ο κίνδυνος για ελληνικά και κυπριακά ναυτιλιακά συμφέροντα στον Ορμούζ.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "3b0458dc3d6b53cf",
-   "title": "Νέα διάσωση προσφύγων και μεταναστών ανοιχτά της Γαύδου",
-   "link": "https://www.ertnews.gr/eidiseis/nea-diasosi-prosfygon-kai-metanaston-anoixta-tis-gaydou/",
-   "summary_raw": "<img alt=\"maketa-gavdos\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"674\" src=\"https://www.ertnews.gr/wp-content/uploads/2025/06/maketa-gavdos.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1299\" /><p>Μια ακόμα διάσωση προσφύγων κα μεταναστών ολοκληρώθηκε απόψε ανοιχτά της Γαύδου. Πρόκειται για 35 άτομα που επέβαιναν σε λέμβο 1,2 ναυτικά μίλια δυτικά, νοτιοδυτικά του νησιού. Εντοπ[ίστηκαν από περιπολικό σκάφος του Λιμενικού Σώματος και αυτήν την ώρα μεταφέρονται στο λιμάνι της Γαύδου. Την επιχείρηση που έγινε με καλό καιρό συντόνισε το ενιαίο κέντρο έρευνας και ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/nea-diasosi-prosfygon-kai-metanaston-anoixta-tis-gaydou/\" title=\"Νέα διάσωση προσφύγων και μεταναστών ανοιχτά της Γαύδου\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-07-11T18:41:59+00:00",
-   "collected": "2026-07-11T19:32:30.828960+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "gavdos"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "summary_el": "Το Λιμενικό Σώμα διέσωσε 35 μετανάστες και πρόσφυγες που επέβαιναν σε λέμβο 1,2 ναυτικά μίλια δυτικά-νοτιοδυτικά της Γαύδου. Οι διασωθέντες μεταφέρθηκαν στο λιμάνι του νησιού.",
-   "angle": "Η Γαύδος παραμένει σημείο εισόδου μεταναστευτικών ροών από τη Λιβύη — πόσο πιέζεται η υποδομή του μικρότερου κατοικημένου νησιού της ΕΕ;",
-   "turkish_narrative": false
-  },
-  {
-   "id": "ac119a95e3b0931b",
-   "title": "Libya Placed 21st in Global Security Risk Index",
-   "link": "https://libyareview.com/66796/libya-placed-21st-in-global-security-risk-index/",
-   "summary_raw": "<p>Libya has been ranked among the world’s highest-risk countries by security risk analysis platform GeoBit AI, receiving a composite threat score of 80 and placing 21st globally in its latest assessment. According to the report, recent diplomatic initiatives, including political talks held in Misrata and Malta, as well as discussions on security cooperation between the [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/66796/libya-placed-21st-in-global-security-risk-index/\">Libya Placed 21st in Global Security Risk Index</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-07-11T18:29:37+00:00",
-   "collected": "2026-07-11T19:32:43.781385+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "summary_el": "Η Λιβύη κατατάσσεται 21η παγκοσμίως σε δείκτη κινδύνου ασφαλείας της πλατφόρμας GeoBit AI, με σύνθετο σκορ 80, παρά τις πρόσφατες διπλωματικές πρωτοβουλίες στη Μισράτα και τη Μάλτα.",
-   "angle": "Η αστάθεια στη Λιβύη ως παράγοντας μεταναστευτικής και ενεργειακής πίεσης στην Ελλάδα — τι σημαίνει για την ελληνολιβυκή ΑΟΖ το νέο προφίλ κινδύνου;",
    "turkish_narrative": false
   }
  ]
