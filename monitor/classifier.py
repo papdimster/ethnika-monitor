@@ -18,9 +18,10 @@ _gemini_model_cache = {}  # ανά διεργασία — ένα resolve, πολ
 # μοντέλων· εδώ δοκιμάζουμε λίστα υποψηφίων και επιβεβαιώνουμε ότι
 # πραγματικά υπάρχει στο ListModels πριν το χρησιμοποιήσουμε.
 GEMINI_CANDIDATES = [
-    "gemini-2.5-flash-lite", "gemini-flash-lite-latest",
-    "gemini-2.0-flash-lite", "gemini-2.5-flash", "gemini-flash-latest",
+    "gemini-flash-lite-latest", "gemini-2.5-flash-lite",
+    "gemini-2.0-flash-lite", "gemini-flash-latest", "gemini-2.5-flash",
 ]
+_gemini_blacklist = set()  # μοντέλα που αρνήθηκαν να δουλέψουν ΑΥΤΟ το τρέξιμο
 
 BATCH = 8
 
@@ -50,7 +51,7 @@ def _resolve_gemini_model(api_key: str) -> str | None:
             if "generateContent" in m.get("supportedGenerationMethods", [])
         }
         for cand in GEMINI_CANDIDATES:
-            if cand in available:
+            if cand in available and cand not in _gemini_blacklist:
                 print(f"[i] Gemini μοντέλο: {cand}")
                 _gemini_model_cache[api_key] = cand
                 return cand
@@ -125,9 +126,14 @@ def explain_api_error(e) -> str:
     return f"HTTP {e.code}: {body}"
 
 
-def _call_gemini(system: str, payload, api_key: str, max_tokens: int):
+def _call_gemini(system: str, payload, api_key: str, max_tokens: int,
+                  _tries_left: int = None):
     """Στάδιο Α (triage) μέσω Gemini Flash-Lite — 10x φθηνότερο, μόνο για
-    κατηγορία/σοβαρότητα (μηχανική δουλειά, όχι ελληνική πρόζα)."""
+    κατηγορία/σοβαρότητα (μηχανική δουλειά, όχι ελληνική πρόζα).
+    Αν ένα μοντέλο έχει αποσυρθεί, το μαυρίζουμε και δοκιμάζουμε αυτόματα
+    το επόμενο υποψήφιο — χωρίς νέο deploy."""
+    if _tries_left is None:
+        _tries_left = len(GEMINI_CANDIDATES)
     model = _resolve_gemini_model(api_key)
     if not model:
         raise RuntimeError("Κανένα διαθέσιμο Gemini μοντέλο")
@@ -146,6 +152,12 @@ def _call_gemini(system: str, payload, api_key: str, max_tokens: int):
             data = json.loads(resp.read())
     except urllib.error.HTTPError as e:
         detail = e.read().decode("utf-8", errors="replace")[:400]
+        if e.code == 404 and "no longer available" in detail and _tries_left > 1:
+            print(f"[!] Το μοντέλο '{model}' αποσύρθηκε — δοκιμάζω επόμενο υποψήφιο")
+            _gemini_blacklist.add(model)
+            _gemini_model_cache.pop(api_key, None)
+            return _call_gemini(system, payload, api_key, max_tokens,
+                                 _tries_left=_tries_left - 1)
         raise RuntimeError(f"HTTP {e.code} στο μοντέλο '{model}': {detail}") from None
     text = data["candidates"][0]["content"]["parts"][0]["text"]
     text = text.replace("```json", "").replace("```", "").strip()

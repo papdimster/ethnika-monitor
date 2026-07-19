@@ -501,7 +501,7 @@ feeds:
     lang: en
     side: osint_middle_east
   - name: Liveuamap Middle East
-    url: https://mideast.liveuamap.com/rss
+    url: https://news.google.com/rss/search?q=site:liveuamap.com+middle+east&hl=en-US&gl=US&ceid=US:en
     lang: en
     side: osint_middle_east
 
