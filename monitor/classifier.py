@@ -141,8 +141,12 @@ def _call_gemini(system: str, payload, api_key: str, max_tokens: int):
     req = urllib.request.Request(
         f"{url}?key={api_key}", data=body,
         headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=120) as resp:
-        data = json.loads(resp.read())
+    try:
+        with urllib.request.urlopen(req, timeout=120) as resp:
+            data = json.loads(resp.read())
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode("utf-8", errors="replace")[:400]
+        raise RuntimeError(f"HTTP {e.code} στο μοντέλο '{model}': {detail}") from None
     text = data["candidates"][0]["content"]["parts"][0]["text"]
     text = text.replace("```json", "").replace("```", "").strip()
     return {r["id"]: r for r in _parse_json_array(text)}
