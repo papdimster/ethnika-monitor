@@ -6,6 +6,8 @@
 <title>Δελτίο εθνικών θεμάτων</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Literata:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap&subset=greek" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
   :root{
     --paper:#EDF3F4; --ink:#12303E; --shallow:#C9DCE0; --panel:#F7FAFB;
@@ -71,8 +73,24 @@
   .flag{display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;
         color:var(--buoy);border:1px solid var(--buoy);padding:1px 6px;
         border-radius:2px;margin-left:6px;vertical-align:1px}
+  .corrob{display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;
+        color:var(--teal);border:1px solid var(--teal);padding:1px 6px;
+        border-radius:2px;margin-left:6px;vertical-align:1px}
   .empty{text-align:center;color:var(--muted);padding:50px 0;
          font-family:'IBM Plex Mono',monospace;font-size:13px}
+  .viewToggle{display:flex;gap:6px;margin-bottom:10px}
+  .viewToggle button{font-size:13px;padding:6px 14px;border:1px solid var(--shallow);
+        background:var(--panel);border-radius:16px;cursor:pointer;color:var(--ink);
+        font-family:inherit}
+  .viewToggle button.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+  #mapView{display:none;height:520px;border:1px solid var(--shallow);
+        border-radius:2px;margin-bottom:14px;background:var(--panel)}
+  .leaflet-popup-content{font-family:'IBM Plex Sans',sans-serif;font-size:13px;max-width:240px}
+  .leaflet-popup-content b{display:block;margin-bottom:4px}
+  .leaflet-popup-content a{color:var(--teal)}
+  .pin-count{background:var(--ink);color:var(--paper);border-radius:50%;
+        width:26px;height:26px;display:flex;align-items:center;justify-content:center;
+        font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:500}
   @media (prefers-reduced-motion:no-preference){
     .card{transition:border-left-color .15s}
   }
@@ -96,11 +114,17 @@
   <select id="srcSel" aria-label="Φίλτρο πηγής"></select>
   <input type="search" id="q" placeholder="Αναζήτηση σε τίτλους και συνόψεις…" aria-label="Αναζήτηση">
 
+  <div class="viewToggle">
+    <button id="btnListView" class="on">☰ Λίστα</button>
+    <button id="btnMapView">🗺 Χάρτης</button>
+  </div>
+  <div id="mapView"></div>
   <div id="list"><div class="empty">ΦΟΡΤΩΣΗ ΔΕΔΟΜΕΝΩΝ…</div></div>
 </div>
 
 <script>
 let items = [], activeCat = null, minSev = 3, query = "", activeSrc = null;
+let currentView = "list", leafletMap = null, markerLayer = null;
 
 const fmt = iso => {
   const d = new Date(iso);
@@ -108,15 +132,78 @@ const fmt = iso => {
     hour:"2-digit",minute:"2-digit"});
 };
 
-function render(){
-  const list = document.getElementById("list");
+function filteredItems(){
   const q = query.toLowerCase();
-  const shown = items.filter(it =>
+  return items.filter(it =>
     (!activeCat || it.category === activeCat) &&
     (!activeSrc || it.source === activeSrc) &&
     (it.severity >= minSev) &&
     (!q || (it.title + " " + (it.summary_el||"")).toLowerCase().includes(q))
   );
+}
+
+const SEV_COLOR = {1:"#5B7480", 2:"#5B7480", 3:"#C07C1F", 4:"#B3372B", 5:"#B3372B"};
+
+function ensureMap(){
+  if(leafletMap) return;
+  leafletMap = L.map("mapView").setView([37.5, 27.5], 6);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© OpenStreetMap",
+    maxZoom: 18,
+  }).addTo(leafletMap);
+  markerLayer = L.layerGroup().addTo(leafletMap);
+}
+
+function renderMap(shown){
+  ensureMap();
+  markerLayer.clearLayers();
+  // Ομαδοποίηση θεμάτων ανά τοποθεσία, ώστε πολλά άρθρα στο ίδιο σημείο
+  // να μη στοιβάζονται αόρατα το ένα πάνω στο άλλο.
+  const byLoc = new Map();
+  shown.forEach(it => {
+    (it.locations || []).forEach(loc => {
+      const key = loc.name;
+      if(!byLoc.has(key)) byLoc.set(key, {loc, arts: []});
+      byLoc.get(key).arts.push(it);
+    });
+  });
+  byLoc.forEach(({loc, arts}) => {
+    const maxSev = Math.max(...arts.map(a=>a.severity));
+    const color = SEV_COLOR[maxSev] || "#5B7480";
+    const marker = L.circleMarker([loc.lat, loc.lon], {
+      radius: 8 + Math.min(arts.length, 6),
+      color, fillColor: color, fillOpacity: 0.75, weight: 2,
+    }).addTo(markerLayer);
+    const list = arts.slice(0, 6).map(a =>
+      `<div style="margin-bottom:6px"><b>ΣΟΒ${a.severity}</b> · ${a.source}<br>
+       <a href="${a.link}" target="_blank" rel="noopener">${a.title.slice(0,90)}</a></div>`
+    ).join("");
+    marker.bindPopup(`<b>${loc.name} (${arts.length} θέμα${arts.length>1?'τα':''})</b>${list}
+      ${arts.length>6 ? `<div style="color:var(--muted)">+${arts.length-6} ακόμα</div>` : ""}`);
+  });
+}
+
+function setView(view){
+  currentView = view;
+  document.getElementById("btnListView").classList.toggle("on", view==="list");
+  document.getElementById("btnMapView").classList.toggle("on", view==="map");
+  document.getElementById("list").style.display = view==="list" ? "" : "none";
+  document.getElementById("mapView").style.display = view==="map" ? "block" : "none";
+  if(view==="map"){
+    renderMap(filteredItems());
+    setTimeout(()=>{ if(leafletMap) leafletMap.invalidateSize(); }, 50);
+  }
+}
+
+document.getElementById("btnListView").onclick = () => setView("list");
+document.getElementById("btnMapView").onclick = () => setView("map");
+
+function render(){
+  const list = document.getElementById("list");
+  const shown = filteredItems();
+  if(currentView === "map"){
+    renderMap(shown);
+  }
   if(!shown.length){
     list.innerHTML = '<div class="empty">ΚΑΝΕΝΑ ΑΠΟΤΕΛΕΣΜΑ ΜΕ ΑΥΤΑ ΤΑ ΦΙΛΤΡΑ</div>';
     return;
@@ -130,8 +217,14 @@ function render(){
         <span class="sev">ΣΟΒ ${it.severity}/5</span>
       </div>
       <h2><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a>${
-        it.turkish_narrative ? '<span class="flag">ΤΟΥΡΚΙΚΟ ΑΦΗΓΗΜΑ</span>' : ''}</h2>
-      <div class="sum">${it.summary_el||""}</div>
+        it.turkish_narrative ? '<span class="flag">ΤΟΥΡΚΙΚΟ ΑΦΗΓΗΜΑ</span>' : ''}${
+        it.corroborated_by && it.corroborated_by.length
+          ? `<span class="corrob" title="${it.corroborated_by.join(', ')}">✓ ΕΠΙΒΕΒΑΙΩΝΕΤΑΙ ΑΠΟ ${it.corroborated_by.length} ΑΚΟΜΑ</span>`
+          : ''}</h2>
+      <div class="sum">${it.summary_el||""}${
+        it.locations && it.locations.length
+          ? ` <span style="color:var(--teal);font-size:12px">📍 ${it.locations.map(l=>l.name).join(', ')}</span>`
+          : ''}</div>
       ${it.angle ? `<div class="angle">${it.angle}</div>` : ""}
     </article>`).join("");
 }

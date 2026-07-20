@@ -7,6 +7,8 @@ from datetime import datetime, timedelta, timezone
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from monitor.collector import collect, load_yaml, title_key  # noqa: E402
 from monitor.classifier import classify, enrich  # noqa: E402
+from monitor.corroborate import boost_corroborated  # noqa: E402
+from monitor.geotag import tag_locations  # noqa: E402
 from monitor.scrapers import scrape_telegram, scrape_page  # noqa: E402
 from monitor.alerts import send_alerts  # noqa: E402
 
@@ -66,6 +68,11 @@ def main():
     if fresh:
         fresh = classify(fresh)
         fresh = [it for it in fresh if it["category"] not in DROP_CATEGORIES]
+        boosted = boost_corroborated(fresh)
+        if boosted:
+            print(f"[=] Αναβαθμίστηκαν {boosted} items λόγω διασταύρωσης πηγών")
+        tagged = tag_locations(fresh)
+        print(f"[=] Γεωσήμανση: {tagged}/{len(fresh)} items με τοποθεσία")
         min_sev = min_severity_map(cfg)
         before = len(fresh)
         fresh = [it for it in fresh

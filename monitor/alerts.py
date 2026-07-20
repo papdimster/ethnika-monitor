@@ -51,10 +51,14 @@ def send_alerts(items: list[dict]) -> None:
     sent = 0
     for it in hot:
         icon = SEV_ICON.get(it["severity"], "🟠")
+        corrob = it.get("corroborated_by") or []
+        corrob_line = (f"\n✓ Επιβεβαιώνεται από: {html.escape(', '.join(corrob))}"
+                       if corrob else "")
         text = (
             f"{icon} <b>ΣΟΒ {it['severity']} · {html.escape(it.get('category', ''))}</b>\n"
             f"<b>{html.escape(it['title'][:200])}</b>\n\n"
-            f"{html.escape(it.get('summary_el', '')[:500])}\n\n"
+            f"{html.escape(it.get('summary_el', '')[:500])}"
+            f"{corrob_line}\n\n"
             f"{it['link']}"
         )
         if _send(token, chat_id, text):
