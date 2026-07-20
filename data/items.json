@@ -1,7 +1,217 @@
 {
- "updated": "2026-07-20T18:25:11.033743+00:00",
- "count": 1324,
+ "updated": "2026-07-20T20:46:08.838303+00:00",
+ "count": 1322,
  "items": [
+  {
+   "id": "27d854b81442bcb7",
+   "title": "Yunanistan'ın farklı bölgelerinde yangınlar çıktı",
+   "link": "https://www.milletgazetesi.gr/yunanistan/yunanistanin-farkli-bolgelerinde-yanginlar-cikti",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Yunanistan)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-07-20T20:44:20.965715+00:00",
+   "collected": "2026-07-20T20:44:20.965729+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Πυρκαγιές ξέσπασαν σε διάφορες περιοχές της Ελλάδας, με τις δυνάμεις πυροσβεσίας στο έργο.",
+   "angle": "Δύσκολη κατάσταση στη χώρα: Ποιες περιοχές της Ελλάδας πλήττονται από πυρκαγιές;"
+  },
+  {
+   "id": "cf07784a33bbde67",
+   "title": "‘QUITE IRONIC’: Suspect With Anti-ICE Sign Who Set off Fireworks at Federal Building Only Injured One Person, an Immigrant",
+   "link": "https://www.dailysignal.com/2026/07/20/quite-ironic-anti-ice-rioter-who-set-off-fireworks-at-federal-building-only-injured-one-person-immigrant/",
+   "summary_raw": "A suspect whom the Department of Homeland Security called an &#8220;anti-ICE rioter&#8221; set off fireworks outside a federal office building in New York and injured only one person—an immigrant who was there for an immigration status hearing. &#8220;The one civilian victim was an immigrant that had a hearing today for their immigration status, so that&#8217;s...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-20T20:40:23+00:00",
+   "collected": "2026-07-20T20:44:11.946497+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ένας ύποπτος που κατέθεσε πυροτεχνήματα έξω από ένα ομοσπονδιακό κτήριο στη Νέα Υόρκη τραυμάτισε μόνον έναν άνθρωπο—έναν μετανάστη που βρισκόταν για ακρόαση για το καθεστώς του.",
+   "angle": null
+  },
+  {
+   "id": "3f26340c61f272fd",
+   "title": "Iran Air Defenses Active Near Bushehr",
+   "link": "https://www.osint613.com/post/iran-air-defenses-active-near-bushehr-17933",
+   "summary_raw": "Iran reports air defenses activated near the Bushehr nuclear power plant.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-07-20T20:26:38+00:00",
+   "collected": "2026-07-20T20:44:12.149625+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Το Ιράν ενεργοποίησε τα συστήματα αεράμυνας κοντά στο πυρηνικό εργοστάσιο του Bushehr, σύμφωνα με ανακοίνωση των ιρανικών αρχών.",
+   "angle": "Αυξημένη ένταση στην περιοχή: Γιατί το Ιράν ενεργοποιεί τα αμυντικά του συστήματα κοντά στις πυρηνικές του εγκαταστάσεις;"
+  },
+  {
+   "id": "4a9a756cbc94e6ad",
+   "title": "Wildfires break out across several regions of Greece amid scorching heat",
+   "link": "https://www.aa.com.tr/en/europe/wildfires-break-out-across-several-regions-of-greece-amid-scorching-heat/4004108",
+   "summary_raw": "Authorities battle multiple blazes as temperatures are forecast to reach 42C before storms bring cooler weather later this week",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-07-20T20:23:56+00:00",
+   "collected": "2026-07-20T20:43:06.989842+00:00",
+   "keywords_hit": [
+    "greece"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Πυρκαγιές ξέσπασαν σε πολλές περιοχές της Ελλάδας καθώς οι θερμοκρασίες αναμένεται να φτάσουν τους 42°C, πριν ψυχρά μέτωπα φέρουν ανακούφιση στο τέλος της εβδομάδας.",
+   "angle": "Η αντιμετώπιση της καταστροφικής πυρκαγιακής περιόδου του καλοκαιριού: πόσο έτοιμη είναι η χώρα;"
+  },
+  {
+   "id": "3377a87b7df0e6ea",
+   "title": "Κλιμάκιο του ΠΑΣΟΚ με επικεφαλής τον Μ. Κατρίνη αύριο στον Έβρο - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1R0UFNXRU90RHR6SmQ1QWdYVGxnekhKU1M1bzdETTFzX0pFMHBSRmg3dThDci1INVhjYjdoTGNyUVdIUDVCMHdhcG0xRS0zbGFrS2pzN0lzcjVlMDEyeEVtOW5pZk0zTkRCYnZ6aThpVGZlSFBxZGVWTlBPN2c3M0s0dWUtZllKRGI3dnJzUW1kSWRVOVBVdnduNEZiZ09sazBIekhLUQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1R0UFNXRU90RHR6SmQ1QWdYVGxnekhKU1M1bzdETTFzX0pFMHBSRmg3dThDci1INVhjYjdoTGNyUVdIUDVCMHdhcG0xRS0zbGFrS2pzN0lzcjVlMDEyeEVtOW5pZk0zTkRCYnZ6aThpVGZlSFBxZGVWTlBPN2c3M0s0dWUtZllKRGI3dnJzUW1kSWRVOVBVdnduNEZiZ09sazBIekhLUQ?oc=5\" target=\"_blank\">Κλιμάκιο του ΠΑΣΟΚ με επικεφαλής τον Μ. Κατρίνη αύριο στον Έβρο</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-07-20T20:00:00+00:00",
+   "collected": "2026-07-20T20:43:14.895577+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Κλιμάκιο του ΠΑΣΟΚ με επικεφαλής τον Μ. Κατρίνη αύριο στον Έβρο Παρατηρητής της Θράκης",
+   "angle": null
+  },
+  {
+   "id": "4ede8f4a77186af9",
+   "title": "«Καμία στοχοποίηση»: Η απάντηση του υπ. Παιδείας για την αναστολή στα μειονοτικά σχολεία στη Θράκη",
+   "link": "https://www.kathimerini.gr/society/564355852/synepeia-toy-dimografikoy-provlimatos-i-apantisi-toy-yp-paideias-gia-tin-anastoli-sta-meionotika-scholeia-sti-thraki/",
+   "summary_raw": "«Ακολουθούν και αυτά τη συρρίκνωση που παρατηρείται σε όλη τη χώρα ως συνέπεια του δημογραφικού προβλήματος που ταλανίζει ολόκληρη την ευρωπαϊκή ήπειρο», σημειώνεται.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-20T19:42:43+00:00",
+   "collected": "2026-07-20T20:44:03.058645+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Το υπουργείο Παιδείας αρνείται στοχοποίηση αναφορικά με την αναστολή λειτουργίας μειονοτικών σχολείων στη Θράκη, αποδίδοντάς την στο δημογραφικό πρόβλημα.",
+   "angle": null
+  },
+  {
+   "id": "b00761192bc37df7",
+   "title": "Christodoulides draws red line on sovereignty as UN chief and EU envoy set to visit Cyprus",
+   "link": "https://en.philenews.com/politics/christodoulides-draws-red-line-on-sovereignty-as-un-chief-and-eu-envoy-set-to-visit-cyprus/",
+   "summary_raw": "President Nikos Christodoulides declared on Monday that the uninterrupted continuation of the Republic of Cyprus remains a non-negotiable red line, explicitly rejecting two-state proposals or disguised confederations ahead of crucial diplomatic visits to the island. Speaking at a memorial event at the Presidential Palace marking 52 years since the 1974 coup and Turkish invasion, Christodoulides [&#8230;]",
+   "source": "in-cyprus (Philenews)",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-07-20T19:40:18+00:00",
+   "collected": "2026-07-20T20:43:20.594768+00:00",
+   "keywords_hit": [
+    "christodoulides"
+   ],
+   "category": "Κυπριακό",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Ο Πρόεδρος Χριστοδουλίδης ανακοίνωσε ότι η συνέχιση της Κυπριακής Δημοκρατίας είναι απαράβατη κόκκινη γραμμή, απορρίπτοντας σχέδια δύο κρατών πριν από σημαντικές διπλωματικές επισκέψεις.",
+   "angle": "Χριστοδουλίδης θέτει τελικά όρια: ποιες κινήσεις συζητούνται πίσω από τις κλειστές πόρτες;"
+  },
+  {
+   "id": "426e187e5ce94bc4",
+   "title": "Η πλειοψηφία των Αμερικανών διαφωνεί με τον Τραμπ: Τα ακραία καιρικά φαινόμενα σχετίζονται με την κλιματική κρίση",
+   "link": "https://www.ertnews.gr/eidiseis/diethni/i-pleiopsifia-ton-amerikanon-diafonei-me-ton-tramp-ta-akraia-kairika-fainomena-sxetizontai-me-tin-klimatiki-krisi/",
+   "summary_raw": "<img alt=\"Η ΞΗΡΑΣΙΑ ΑΠΟΚΑΛΥΨΕ ΒΥΘΙΣΜΕΝΟ ΟΙΚΙΣΜΟ  ΣΤΗΝ ΤΕΧΝΗΤΗ ΛΙΜΝΗ ΤΟΥ ΠΟΥΡΝΑΡΙΟΥ ΣΤΗΝ ΑΡΤΑ\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1441\" src=\"https://www.ertnews.gr/wp-content/uploads/2024/09/29234950-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Περίπου το 61% των Αμερικανών ψηφοφόρων πιστεύουν ότι τα ακραία καιρικά φαινόμενα έχουν γίνει πιο συχνά τα τελευταία πέντε χρόνια, σύμφωνα με έρευνα της εταιρείας δημοσκοπήσεων Data for Progress, η οποία κοινοποιήθηκε αποκλειστικά στον Guardian. «Είναι ένα σημάδι ότι οι προσπάθειες καταστολής και πόλωσης των ανησυχιών για το κλίμα μπορεί να μην έχουν επιτυχία», δήλωσε ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/i-pleiopsifia-ton-amerikanon-diafonei-me-ton-tramp-ta-akraia-kairika-fainomena-sxetizontai-me-tin-klimatiki-krisi/\" title=\"Η πλειοψηφία των Αμερικανών διαφωνεί με τον Τραμπ: Τα ακραία καιρικά φαινόμενα σχετίζονται με την κλιματική κρίση\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-20T19:12:28+00:00",
+   "collected": "2026-07-20T20:43:11.071892+00:00",
+   "keywords_hit": [
+    "κλιματικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Περίπου το 61% των Αμερικανών ψηφοφόρων πιστεύουν ότι τα ακραία καιρικά φαινόμενα έχουν γίνει πιο συχνά τα τελευταία πέντε χρόνια, σύμφωνα με έρευνα της εταιρείας δημοσκοπήσεων Data for Progress, η οπ",
+   "angle": null
+  },
+  {
+   "id": "f75a2e6214eefefe",
+   "title": "Turkish Cypriots are equal owners of island, not minority: Turkish Republic of Northern Cyprus president",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-cypriots-are-equal-owners-of-island-not-minority-turkish-republic-of-northern-cyprus-president/4004062",
+   "summary_raw": "Tufan Erhurman says negotiations are being done in full coordination with Türkiye",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-07-20T18:54:30+00:00",
+   "collected": "2026-07-20T20:43:06.991478+00:00",
+   "keywords_hit": [
+    "minority",
+    "cyprus",
+    "cypriot"
+   ],
+   "category": "Κυπριακό",
+   "severity": 5,
+   "turkish_narrative": true,
+   "summary_el": "Ο πρόεδρος των Τ/Κ Τουφάν Ερχουρμάν δηλώνει ότι οι Τουρκοκύπριοι είναι ίσοι ιδιοκτήτες του νησιού και όχι μειονότητα, και ότι οι διαπραγματεύσεις προχωρούν σε πλήρη συντονισμό με την Τουρκία.",
+   "angle": "Η θέση της Άγκυρας για το Κυπριακό εν όψει νέων διαπραγματεύσεων: τι αλλάζει;"
+  },
+  {
+   "id": "443d6a9a5ba134e9",
+   "title": "Libya Expands Voluntary Migrant Returns",
+   "link": "https://libyareview.com/67002/libya-expands-voluntary-migrant-returns/",
+   "summary_raw": "<p>Libya’s Anti-Illegal Migration Agency has deported and transferred 202 irregular migrants from the Al-Butnan region in eastern Libya as part of an ongoing security campaign against unlawful residency and irregular migration. The agency’s Al-Butnan branch said the migrants were divided into two groups. The first group was deported through the Emsaed land border crossing after [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67002/libya-expands-voluntary-migrant-returns/\">Libya Expands Voluntary Migrant Returns</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-07-20T18:36:59+00:00",
+   "collected": "2026-07-20T20:43:30.991145+00:00",
+   "keywords_hit": [
+    "migrant",
+    "libya"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η Λιβύη απέλασε 202 παράνομους μετανάστες από την ανατολική περιοχή Αλ-Μπουτνάν στο πλαίσιο εκστρατείας ασφαλείας κατά της παράνομης διαμονής.",
+   "angle": null
+  },
+  {
+   "id": "90a930bcfb85623e",
+   "title": "ΠτΔ: Δεν θα γίνω ο Πρόεδρος της διχοτόμησης – «Απαράβατη κόκκινη γραμμή» η συνέχιση της Κυπριακής Δημοκρατίας",
+   "link": "https://www.philenews.com/politiki/article/1749124/ptd-den-tha-gino-o-proedros-tis-dichotomisis-aparavati-kokkini-grammi-i-sinechisi-tis-kipriakis-dimokratias/",
+   "summary_raw": "<p>Η συνέχιση της Κυπριακής Δημοκρατίας αποτελεί «απαράβατη κόκκινη γραμμή», ενώ δεν τίθεται προς συζήτηση λύση δύο κρατών ή συγκεκαλυμμένη συνομοσπονδία, δήλωσε τη Δευτέρα ο Πρόεδρος της Δημοκρατίας, Νίκος Χριστοδουλίδης. Τόνισε παράλληλα ότι δεν πρόκειται να γίνει «ο Πρόεδρος της διχοτόμησης» ούτε να υπογράψει διευθέτηση που δεν θα είναι λειτουργική, βιώσιμη και ανθεκτική στον χρόνο. Σε [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/politiki/article/1749124/ptd-den-tha-gino-o-proedros-tis-dichotomisis-aparavati-kokkini-grammi-i-sinechisi-tis-kipriakis-dimokratias/\">ΠτΔ: Δεν θα γίνω ο Πρόεδρος της διχοτόμησης – «Απαράβατη κόκκινη γραμμή» η συνέχιση της Κυπριακής Δημοκρατίας</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-07-20T18:26:55+00:00",
+   "collected": "2026-07-20T20:43:36.438469+00:00",
+   "keywords_hit": [
+    "χριστοδουλίδης"
+   ],
+   "category": "Κυπριακό",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Ο Πρόεδρος Χριστοδουλίδης τόνισε ότι δεν θα γίνει «Πρόεδρος της διχοτόμησης» και ότι η συνέχιση της Κυπριακής Δημοκρατίας αποτελεί απαράβατη κόκκινη γραμμή, αποκλείοντας λύσεις δύο κρατών.",
+   "angle": null
+  },
   {
    "id": "7e133c4062eeb76f",
    "title": "El-Sayed Points to Dead American Soldiers When Pressed by CNN on Pro-Ayatollah Comment",
@@ -134,6 +344,25 @@
    "angle": "Πώς η δημογραφική κρίση «σβήνει» ολόκληρα σχολεία στη Β. Ελλάδα;"
   },
   {
+   "id": "73346af01d93a068",
+   "title": "Nolte: DHS Encourages Springfield Haitians to Self-Deport",
+   "link": "https://www.breitbart.com/immigration/2026/07/20/nolte-dhs-encourages-springfield-haitians-to-self-deport/",
+   "summary_raw": "<p>The Department of Homeland Security urged those whose TPS status ends Friday to take advantage of the government’s self-deportation initiative, which offers free plane fare and a $2,600 payout.</p>\n<p>The post <a href=\"https://www.breitbart.com/immigration/2026/07/20/nolte-dhs-encourages-springfield-haitians-to-self-deport/\" rel=\"nofollow\">Nolte: DHS Encourages Springfield Haitians to Self-Deport</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-20T17:47:06+00:00",
+   "collected": "2026-07-20T20:44:11.749080+00:00",
+   "keywords_hit": [
+    "deportation"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Το αμερικανικό Υπουργείο Εσωτερικής Ασφάλειας ενθαρρύνει τους Αϊτιανούς με δίνη προσωρινής προστασίας να αυτοεξοριστούν, προσφέροντας δωρεάν αεροπορικά εισιτήρια και 2.600 δολάρια.",
+   "angle": null
+  },
+  {
    "id": "ba65f61c5bb5b5d5",
    "title": "Türkiye says no Cyprus initiative can succeed by ignoring Turkish Cypriot rights",
    "link": "https://www.aa.com.tr/en/health/turkiye-says-no-cyprus-initiative-can-succeed-by-ignoring-turkish-cypriot-rights/4004014",
@@ -170,6 +399,23 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Αστυνομικοί και διασώστες αναζητούσαν σήμερα 14 ανθρώπους που χάθηκαν σε μια έρημο, στο νοτιοδυτικό Αφγανιστάν, αφού προηγουμένως εντοπίστηκαν τα πτώματα πέντε μεταναστών, οι οποίοι προφανώς πέθαναν α",
+   "angle": null
+  },
+  {
+   "id": "f61790da1be35a37",
+   "title": "Brazil’s Dictator Judge Blocks Argentina President Javier Milei from Visiting Jair Bolsonaro",
+   "link": "https://www.breitbart.com/latin-america/2026/07/20/brazils-dictator-judge-blocks-argentina-president-javier-milei-from-visiting-jair-bolsonaro/",
+   "summary_raw": "<p>Argentine President Javier Milei will not be able to visit conservative former President Jair Bolsonaro later this week after Brazilian Supreme Federal Tribunal (STF) Justice Alexandre de Moraes imposed a 30-day visitation ban on Bolsonaro over the weekend.</p>\n<p>The post <a href=\"https://www.breitbart.com/latin-america/2026/07/20/brazils-dictator-judge-blocks-argentina-president-javier-milei-from-visiting-jair-bolsonaro/\" rel=\"nofollow\">Brazil’s Dictator Judge Blocks Argentina President Javier Milei from Visiting Jair Bolsonaro</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-20T17:08:57+00:00",
+   "collected": "2026-07-20T20:44:11.750168+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο Βραζιλιάνος δικαστής Alexandre de Moraes απαγόρευσε στον Αργεντινό Πρόεδρο Javier Milei να επισκεφτεί τον πρώην Πρόεδρο Jair Bolsonaro για 30 ημέρες.",
    "angle": null
   },
   {
@@ -837,6 +1083,25 @@
    "angle": "Γιατί οι παραγωγοί του Hollywood αγνοούν τους Ελληνες καλλιτέχνες σε ταινίες ελληνικής κληρονομιάς;"
   },
   {
+   "id": "6522f59e160dad91",
+   "title": "Στη Λέσβο ο Αρχηγός του Λιμενικού – Επιθεώρησε υπηρεσίες και πλωτά μέσα σε Μυτιλήνη και Μήθυμνα - Lesvosnews.net",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWw0ejFybkJPek14Q19Edm1ZTzNYLWc4Z3pYWjR6OFFEcDQ2Y1RScTYwRmxWNjNWODdZOFlCUjV4Q3JJbmF5WTd2U0VwcGRxNEpocmNuMkc4NU5XdFFSZWRiYW9DRGNUdWowRG85S2JpQ1RNZDRzVEdPeDVQeWFQNmJEbzRzLUdoMzJ3bjBPZmdNVG03bUVoMjhNV3JRalpoeGwwMGxIOVptQURsaENENmJaNXZsUjdT?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWw0ejFybkJPek14Q19Edm1ZTzNYLWc4Z3pYWjR6OFFEcDQ2Y1RScTYwRmxWNjNWODdZOFlCUjV4Q3JJbmF5WTd2U0VwcGRxNEpocmNuMkc4NU5XdFFSZWRiYW9DRGNUdWowRG85S2JpQ1RNZDRzVEdPeDVQeWFQNmJEbzRzLUdoMzJ3bjBPZmdNVG03bUVoMjhNV3JRalpoeGwwMGxIOVptQURsaENENmJaNXZsUjdT?oc=5\" target=\"_blank\">Στη Λέσβο ο Αρχηγός του Λιμενικού – Επιθεώρησε υπηρεσίες και πλωτά μέσα σε Μυτιλήνη και Μήθυμνα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lesvosnews.net</font>",
+   "source": "Lesvos News",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-07-20T14:11:13+00:00",
+   "collected": "2026-07-20T20:43:51.464016+00:00",
+   "keywords_hit": [
+    "λιμενικ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο Αρχηγός του Λιμενικού επιθεώρησε υπηρεσίες και πλωτά μέσα στη Μυτιλήνη και τη Μήθυμνα της Λέσβου.",
+   "angle": null
+  },
+  {
    "id": "d4954fbfc5b37dad",
    "title": "The US is deploying additional F-16 and F-35 fighter jets, along with aerial refueling tankers, to the Middle East.  Source: CNN",
    "link": "https://t.me/ClashReport/89760",
@@ -907,6 +1172,25 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Η ολλανδική Βουλή ζητεί την αφαίρεση του δεξιού τηλεοπτικού σταθμού Ongehoord Nederland από το δημόσιο σύστημα λόγω επαναλαμβανόμενων παραβάσεων κανόνων.",
+   "angle": null
+  },
+  {
+   "id": "71e275436f287603",
+   "title": "Προκηρύχθηκε ο δεύτερος κύκλος του καθεστώτος της Αγροδιατροφής του αναπτυξιακού Νόμου - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQU1TSDNBU2J0cTdYcng5ZWQ0cUFOZlV0azFRdXlmVVlLa0xndnJ3b2NrWHNudXZSZ2k3a2loSlJjZG9rLVVGemN3WlhsY0oxQjlheEgwSkZwZ3ZWcXhBakptRi10dDlvdXc2SmtGRG13Z1J1VUkyZ3JNZl9XbVR3SG53T2RJTWhYVmtWSWJpcnhpMncxM3Y4NHdxT1Z5MzJLZ1Q2WDczMGNfelVWa0lOeWw3RUQwWUlEVmRyWEF1QUxOU1Z4Zk96UExrZVA?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQU1TSDNBU2J0cTdYcng5ZWQ0cUFOZlV0azFRdXlmVVlLa0xndnJ3b2NrWHNudXZSZ2k3a2loSlJjZG9rLVVGemN3WlhsY0oxQjlheEgwSkZwZ3ZWcXhBakptRi10dDlvdXc2SmtGRG13Z1J1VUkyZ3JNZl9XbVR3SG53T2RJTWhYVmtWSWJpcnhpMncxM3Y4NHdxT1Z5MzJLZ1Q2WDczMGNfelVWa0lOeWw3RUQwWUlEVmRyWEF1QUxOU1Z4Zk96UExrZVA?oc=5\" target=\"_blank\">Προκηρύχθηκε ο δεύτερος κύκλος του καθεστώτος της Αγροδιατροφής του αναπτυξιακού Νόμου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-07-20T13:30:45+00:00",
+   "collected": "2026-07-20T20:43:14.891655+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Προκηρύχθηκε ο δεύτερος κύκλος του καθεστώτος της Αγροδιατροφής του αναπτυξιακού Νόμου Παρατηρητής της Θράκης",
    "angle": null
   },
   {
@@ -1090,6 +1374,23 @@
    "turkish_narrative": false,
    "summary_el": "World Cup 2026: Israel loves Argentina but do Argentinians actually love them back? Submitted by Elis Gjevori on Mon, 07/20/2026 - 12:32 President Javier Milei has tied his country closely to Israel, ",
    "angle": null
+  },
+  {
+   "id": "be7548e91ca2d512",
+   "title": "ΥΠΕΝ: το σχέδιο για μπαταρίες 6,8 γιγαβάτ έως το 2030 - ecopress",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxMGhTR3VFTHptaDJiNDhudVpKOG1JVjZ0THBjeGRqV29nMDkwQ0FGUmxhSUloanJUMkhJcTRPNDFueVkzNmhDVTVoVV94YW5ueDd4U0RTeXI5UjlLR1NTV1VWbUxMQUlVTEdrXw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBxMGhTR3VFTHptaDJiNDhudVpKOG1JVjZ0THBjeGRqV29nMDkwQ0FGUmxhSUloanJUMkhJcTRPNDFueVkzNmhDVTVoVV94YW5ueDd4U0RTeXI5UjlLR1NTV1VWbUxMQUlVTEdrXw?oc=5\" target=\"_blank\">ΥΠΕΝ: το σχέδιο για μπαταρίες 6,8 γιγαβάτ έως το 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
+   "source": "Ecopress",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-07-20T12:43:15+00:00",
+   "collected": "2026-07-20T20:43:45.517613+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Το Υπουργείο Περιβάλλοντος παρουσίασε σχέδιο για την εγκατάσταση συστημάτων αποθήκευσης ενέργειας 6,8 γιγαβάτ έως το 2030.",
+   "angle": "Η ενεργειακή στροφή: πώς η Ελλάδα σχεδιάζει την επανάσταση των μπαταριών;"
   },
   {
    "id": "50a06138a347279d",
@@ -2223,6 +2524,25 @@
    "angle": null
   },
   {
+   "id": "df1155d8204693ce",
+   "title": "In Search of Funding to Fight the Climate Crisis, Local Leaders Turn to Diplomacy",
+   "link": "https://insideclimatenews.org/news/20072026/international-climate-investors-largely-ignore-local-governments/",
+   "summary_raw": "In Renca, Chile, the Cerros de Renca Metropolitan Park reuses industrial wastewater to address a local water crisis. Renca’s mayor, Claudio Castro, has worked for a decade to attract international investors and philanthropists to fund that system and other environmental initiatives that the region could not afford on its own. The money flows directly to [&#8230;]",
+   "source": "Inside Climate News",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-07-20T08:55:00+00:00",
+   "collected": "2026-07-20T20:43:47.127519+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Στη Χιλή, ο δήμαρχος της Renca Claudio Castro αναζητά διεθνείς επενδυτές και φιλανθρώπους για χρηματοδότηση περιβαλλοντικών έργων, όπως ενός πάρκου που ανακυκλώνει βιομηχανικά απόβλητα για την αντιμετώπιση της κρίσης νερού της περιοχής.",
+   "angle": "Πώς οι τοπικοί ηγέτες χρησιμοποιούν τη δημοπρασία για να χρηματοδοτήσουν κλιματικές λύσεις που δεν μπορεί να αντέξει το κράτος"
+  },
+  {
    "id": "8aaf0869c5c8a36e",
    "title": "Poland’s President Nawrocki vetoes stalking horse for single sex marriage",
    "link": "https://brusselssignal.eu/2026/07/polands-president-nawrocki-vetoes-stalking-horse-for-single-sex-marriage/",
@@ -2238,6 +2558,28 @@
    "turkish_narrative": false,
    "summary_el": "Ο πολωνός Πρόεδρος Καρολ Ναβρότσκι αρνείται νομοσχέδιο αναγνώρισης ομοφυλόφιλων σχέσεων, υποστηρίζοντας ότι υπονομεύει το συνταγματικό κύρος του γάμου.",
    "angle": "Πολωνία: Η αντιπαράθεση ανθρωπίνων δικαιωμάτων και παραδοσιακών αξιών στη σκιά του προεδρικού βέτο"
+  },
+  {
+   "id": "1c4e3b59af6061e8",
+   "title": "Turkey condemns Greece’s closure of 8 minority schools in Western Thrace - Turkish Minute",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1FpQ3lNaTRCNEQ0UUVlRUdYajVMNXQ2QndOdk9KWWRPRVdRUUJDRF9ScGFySGtxRzVOSVNJWm00UGo2d3VEbWlkOUFyWUdGNFF4RUNDcms1X1JkMmc4YTRQSmxMTm0temZRbllfQ09mejZwUVZlcmtQYnJDbHpoX3NTd05KUlVlUm5aYV92UGkyZ3FxMGhoRExQSHNZbmFkRTdDd1ZRam5CYlg1N1JTcEloRdIBuAFBVV95cUxOWUdhVFdWYUhxX0ZLak5xRklwUUxwUng5UEYxSTNra3lLNGtfRzBmcFB1WnBka2FWY2ZoRDdMbDhxbjdQNkhVTXRIbl8zVlpfaFJQS3pNTUJPNEVhMmVlb056M0NGQnBNY0NqbEgxQWp2dE9ibUI1c28weDlBVFRKNGV0UE5IMEx3ZEdvWDBDUkdYalBDNmxuVlBWcUFvYVhySm5pLW5aSU9IQmdFSVBKTE1SUDNGRk9X?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1FpQ3lNaTRCNEQ0UUVlRUdYajVMNXQ2QndOdk9KWWRPRVdRUUJDRF9ScGFySGtxRzVOSVNJWm00UGo2d3VEbWlkOUFyWUdGNFF4RUNDcms1X1JkMmc4YTRQSmxMTm0temZRbllfQ09mejZwUVZlcmtQYnJDbHpoX3NTd05KUlVlUm5aYV92UGkyZ3FxMGhoRExQSHNZbmFkRTdDd1ZRam5CYlg1N1JTcEloRdIBuAFBVV95cUxOWUdhVFdWYUhxX0ZLak5xRklwUUxwUng5UEYxSTNra3lLNGtfRzBmcFB1WnBka2FWY2ZoRDdMbDhxbjdQNkhVTXRIbl8zVlpfaFJQS3pNTUJPNEVhMmVlb056M0NGQnBNY0NqbEgxQWp2dE9ibUI1c28weDlBVFRKNGV0UE5IMEx3ZEdvWDBDUkdYalBDNmxuVlBWcUFvYVhySm5pLW5aSU9IQmdFSVBKTE1SUDNGRk9X?oc=5\" target=\"_blank\">Turkey condemns Greece’s closure of 8 minority schools in Western Thrace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Turkish Minute</font>",
+   "source": "Turkish Minute",
+   "side": "turkish_opposition",
+   "lang": "en",
+   "published": "2026-07-20T08:40:52+00:00",
+   "collected": "2026-07-20T20:43:08.114430+00:00",
+   "keywords_hit": [
+    "thrace",
+    "western thrace",
+    "minority",
+    "greece"
+   ],
+   "category": "Θράκη",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Η Τουρκία καταδικάζει τη Ελλάδα για το κλείσιμο 8 σχολείων της μειονότητας στη Δυτική Θράκη, εντείνοντας τις διμερείς τάσεις.",
+   "angle": "Το ζήτημα των μειονοτήτων στη Θράκη επανέρχεται: η Άγκυρα αντιδρά στις αποφάσεις Αθήνας"
   },
   {
    "id": "64ec4a384d7c1923",
@@ -15222,6 +15564,23 @@
    "angle": null
   },
   {
+   "id": "f7d8dae703fd54f2",
+   "title": "Where in the world is biogas? A new IEA tool maps its potential – Analysis - IEA – International Energy Agency",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzNDTzlXenFJQTJYWUxwOFZaQmxINGFMTVNjVkZ5a2hFLVJjU1NjYlV0SThUVHlRUHRDQUJWWU01OHNQeXVqNW8zaVJVblowTEtTTVliQjcwNUtHR3V5YlY1alVQREZMTndzbG5aMkZJQmR2dVI1Y3huNHVYR2tjNThFQVNsc2V4cG1BSHMxekdXMEJWYy0zalRvUQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzNDTzlXenFJQTJYWUxwOFZaQmxINGFMTVNjVkZ5a2hFLVJjU1NjYlV0SThUVHlRUHRDQUJWWU01OHNQeXVqNW8zaVJVblowTEtTTVliQjcwNUtHR3V5YlY1alVQREZMTndzbG5aMkZJQmR2dVI1Y3huNHVYR2tjNThFQVNsc2V4cG1BSHMxekdXMEJWYy0zalRvUQ?oc=5\" target=\"_blank\">Where in the world is biogas? A new IEA tool maps its potential – Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEA – International Energy Agency</font>",
+   "source": "IEA",
+   "side": "green_org",
+   "lang": "en",
+   "published": "2026-07-16T10:00:00+00:00",
+   "collected": "2026-07-20T20:43:49.593601+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Το Διεθνές Γραφείο Ενέργειας παρουσιάζει ένα νέο εργαλείο χαρτογραφήσης του δυναμικού του βιοαερίου σε παγκόσμιο επίπεδο.",
+   "angle": null
+  },
+  {
    "id": "994ac67d51755ad0",
    "title": "German military to join French nuclear exercise for first time",
    "link": "https://www.politico.eu/article/german-military-to-join-french-nuclear-exercise-for-first-time/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -15470,6 +15829,23 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Έκθεση της Διεθνούς Οργάνωσης Ενέργειας για τις πολιτικές που αφορούν τα κρίσιμα μεταλλικά ορυκτά και τις προοπτικές τους για το 2026.",
+   "angle": null
+  },
+  {
+   "id": "1b560851e21e3941",
+   "title": "Latin America – Global Critical Minerals Outlook 2026 – Analysis - IEA – International Energy Agency",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjdHeUt2SHctdEdESFZRTEg5dkk1d3ZqOXVOWlMwdWdGNG1ab3I2Q2QwQkdLMnhuQ25vY2ZXb1YwNWxZbHItSndQUUFzd1FlSGFha0x2RTNBZ0NwanR5UXhoTUJ3SW16OWdSRHE5NUU4WWlpTjBnWmhnWUtUbXBPUjl3ektUdw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjdHeUt2SHctdEdESFZRTEg5dkk1d3ZqOXVOWlMwdWdGNG1ab3I2Q2QwQkdLMnhuQ25vY2ZXb1YwNWxZbHItSndQUUFzd1FlSGFha0x2RTNBZ0NwanR5UXhoTUJ3SW16OWdSRHE5NUU4WWlpTjBnWmhnWUtUbXBPUjl3ektUdw?oc=5\" target=\"_blank\">Latin America – Global Critical Minerals Outlook 2026 – Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEA – International Energy Agency</font>",
+   "source": "IEA",
+   "side": "green_org",
+   "lang": "en",
+   "published": "2026-07-16T08:59:29+00:00",
+   "collected": "2026-07-20T20:43:49.593951+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η Λατινική Αμερική στο επίκεντρο της ανάλυσης του Διεθνούς Γραφείου Ενέργειας για τις κρίσιμες ορυκτές ύλες παγκοσμίως το 2026.",
    "angle": null
   },
   {
@@ -24132,6 +24508,25 @@
    "angle": null
   },
   {
+   "id": "322af597a0bac602",
+   "title": "Development banks' climate funding hits record, but World Bank pullback looms - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLS1sWEYtYVpJcGtyVmx6dnRqQl9uTmtEQ3JsWU1hT19CLUJ4OTJqZHR1dG1neFZIdFRSZFlERUJFUEhPVzRBVDQycnBBQ0F5Mk95MTdtYVNGdDVpb1FVSFBWZEsxbHVuZzE4cXVNUHBEQVEtWWRFaVcyMzNmTC1sUk55X0JsdEVhTjUxT0hxWGxBeFFsaXZOUTY5SVUtRjA5ampkY1Y2Z0t2UWdZNXdWVTlDSHlOQ2FPTVZMNGcwYjFkM2F3OFJEM0ZpMlZKZw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQLS1sWEYtYVpJcGtyVmx6dnRqQl9uTmtEQ3JsWU1hT19CLUJ4OTJqZHR1dG1neFZIdFRSZFlERUJFUEhPVzRBVDQycnBBQ0F5Mk95MTdtYVNGdDVpb1FVSFBWZEsxbHVuZzE4cXVNUHBEQVEtWWRFaVcyMzNmTC1sUk55X0JsdEVhTjUxT0hxWGxBeFFsaXZOUTY5SVUtRjA5ampkY1Y2Z0t2UWdZNXdWVTlDSHlOQ2FPTVZMNGcwYjFkM2F3OFJEM0ZpMlZKZw?oc=5\" target=\"_blank\">Development banks' climate funding hits record, but World Bank pullback looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters Sustainability",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-07-13T23:29:12+00:00",
+   "collected": "2026-07-20T20:43:46.222855+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Τα χρηματοδοτικά ιδρύματα ανάπτυξης καταγράφουν ρεκόρ χρηματοδότησης για το κλίμα, αλλά αναμένεται περιορισμός της δραστηριότητας της Παγκόσμιας Τράπεζας.",
+   "angle": null
+  },
+  {
    "id": "57ecaeda3f2b764f",
    "title": "Schumer urges US Senate to pass Graham's Russia sanctions bill following senator's death",
    "link": "https://www.aa.com.tr/en/americas/schumer-urges-us-senate-to-pass-grahams-russia-sanctions-bill-following-senators-death/3997076",
@@ -24447,440 +24842,6 @@
    "summary_el": "Ο Τραμπ ανακοίνωσε ότι οι ΗΠΑ θα πλήξουν «πολύ σκληρά» το Ιράν τις επόμενες δύο ημέρες, εγείροντας το ενδεχόμενο στρατιωτικής επίθεσης σε υποψήφιο πυρηνικό εγκατάσταση. Η εξέλιξη αναταράσσει τη γεωπολιτική σκηνή της Μέσης Ανατολής με άμεσες συνέπειες για την ευρύτερη περιοχή.",
    "angle": "Πώς μια αμερικανική στρατιωτική κλιμάκωση κατά του Ιράν επηρεάζει τους ελληνικούς ενεργειακούς διαδρόμους και την ασφάλεια στην ανατολική Μεσόγειο.",
    "turkish_narrative": true
-  },
-  {
-   "id": "7f634f225eda56ba",
-   "title": "Rafale Fighter Adds Cheap Drone Killing Rocket To Its Armory",
-   "link": "https://www.twz.com/air/rafale-fighter-adds-cheap-drone-killing-rocket-to-its-armory",
-   "summary_raw": "<p>France has integrated laser-guided 68mm rockets onto its fighter, giving it a far cheaper option for Shahed-type threats.</p>\n<p>The post <a href=\"https://www.twz.com/air/rafale-fighter-adds-cheap-drone-killing-rocket-to-its-armory\">Rafale Fighter Adds Cheap Drone Killing Rocket To Its Armory</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-   "source": "The War Zone",
-   "side": "defense_intl",
-   "lang": "en",
-   "published": "2026-07-13T20:41:00+00:00",
-   "collected": "2026-07-13T21:13:46.945710+00:00",
-   "keywords_hit": [
-    "rafale"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "summary_el": "Η Γαλλία ενσωμάτωσε κατευθυνόμενους με laser πυραύλους 68mm στο μαχητικό Rafale, προσφέροντας οικονομική λύση κατά drones τύπου Shahed σε κλάσμα του κόστους των συμβατικών πυραύλων. Η εξέλιξη αφορά άμεσα την Ελλάδα, που διαθέτει στόλο Rafale.",
-   "angle": "Το ελληνικό Rafale αποκτά νέο αντι-drone όπλο: πώς η γαλλική τεχνολογία πυραύλων 68mm αλλάζει τη δυναμική στο Αιγαίο απέναντι στις τουρκικές drone απειλές.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "6d84e46131b4b780",
-   "title": "Girit Adası'nda orman yangınları başladı",
-   "link": "https://www.milletgazetesi.gr/yunanistan/girit-adasinda-orman-yanginlari-basladi",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Yunanistan)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-07-13T20:40:30.716053+00:00",
-   "collected": "2026-07-13T20:40:30.716055+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "summary_el": "Δασικές πυρκαγιές ξέσπασαν στην Κρήτη, σηματοδοτώντας την έναρξη της αντιπυρικής περιόδου στο νησί.",
-   "angle": "Πυρκαγιές στην Κρήτη: πρώιμη εκδήλωση φαινομένου ή ένδειξη χειρότερης αντιπυρικής σεζόν — τι δείχνουν τα μετεωρολογικά δεδομένα.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "6cfbff04a830ec68",
-   "title": "Yunanistan'da yanan geri dönüşüm tesisi, toksik gazları engellemek için toprakla örtülecek",
-   "link": "https://www.milletgazetesi.gr/yunanistan/yunanistanda-yanan-geri-donusum-tesisi-toksik-gazlari-engellemek-icin-toprakla-ortulecek",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Yunanistan)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-07-13T20:40:30.716033+00:00",
-   "collected": "2026-07-13T20:40:30.716035+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "summary_el": "Μονάδα ανακύκλωσης που τυλίχθηκε στις φλόγες στην Ελλάδα πρόκειται να καλυφθεί με χώμα για την αποτροπή διαρροής τοξικών αερίων, εγείροντας ανησυχίες για την ατμοσφαιρική ρύπανση στην περιοχή.",
-   "angle": "Περιβαλλοντική έκτακτη ανάγκη σε εγκατάσταση ανακύκλωσης: τι γνωρίζουμε για τους κινδύνους από τα τοξικά αέρια και ποια μέτρα προστασίας προβλέπει το κράτος.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "e56942a97d6b8b09",
-   "title": "Tahsisli arazilerde devlet iddiaları sona eriyor",
-   "link": "https://www.milletgazetesi.gr/bati-trakya/tahsisli-arazilerde-devlet-iddialari-sona-eriyor",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Batı Trakya)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-07-13T20:40:29.641991+00:00",
-   "collected": "2026-07-13T20:40:29.641993+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "summary_el": "Σύμφωνα με τη μειονοτική εφημερίδα Millet, οι κρατικές αξιώσεις επί παραχωρηθεισών αγροτικών εκτάσεων στη Δυτική Θράκη οδεύουν προς οριστική λήξη — ζήτημα που αφορά ιδιοκτησιακά δικαιώματα της μουσουλμανικής μειονότητας.",
-   "angle": "Τι σημαίνει η λήξη κρατικών αξιώσεων σε παραχωρηθείσες εκτάσεις για τους μειονοτικούς αγρότες της Θράκης και ποιο νομικό πλαίσιο διέπει τη μεταβίβαση.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "6aeafc8fcdfb0781",
-   "title": "Συμμαχία των Προθύμων: Το Κίεβο θα αγοράσει 16 μαχητικά Rafale και αντιαεροπορικές συστοιχίες",
-   "link": "https://www.philenews.com/kosmos/article/1745850/simmachia-ton-prothimon-to-kievo-tha-agorasi-16-machitika-rafale-ke-antiaeroporikes-sistichies/",
-   "summary_raw": "<p>Η Γαλλία και η Ουκρανία κατέληξαν σε έναν «οδικό χάρτη» που προβλέπει την αγορά, εκ μέρους του Κιέβου, 16 μαχητικών αεροσκαφών Rafale και του οπλισμού τους, με τα πρώτα από αυτά να παραδίδονται και «να πετούν στον ουκρανικό ουρανό από το 2028-29», ανακοίνωσε απόψε ο Γάλλος πρόεδρος Εμανουέλ Μακρόν. Για την ενίσχυση της αντιαεροπορικής άμυνας της Ουκρανίας το Κίεβο θα αποκτήσει επίσης [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kosmos/article/1745850/simmachia-ton-prothimon-to-kievo-tha-agorasi-16-machitika-rafale-ke-antiaeroporikes-sistichies/\">Συμμαχία των Προθύμων: Το Κίεβο θα αγοράσει 16 μαχητικά Rafale και αντιαεροπορικές συστοιχίες</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-07-13T20:36:26+00:00",
-   "collected": "2026-07-13T20:39:48.588610+00:00",
-   "keywords_hit": [
-    "rafale"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "summary_el": "Η Γαλλία και η Ουκρανία συμφώνησαν σε «οδικό χάρτη» για την αγορά 16 μαχητικών Rafale από το Κίεβο, με παραδόσεις από το 2028-29, σύμφωνα με ανακοίνωση Μακρόν. Στη συμφωνία περιλαμβάνονται επίσης αντιαεροπορικές συστοιχίες για την ενίσχυση της ουκρανικής άμυνας.",
-   "angle": "Η πώληση Rafale στην Ουκρανία επηρεάζει τις ευρωπαϊκές ισορροπίες εξοπλισμών και τη θέση της Ελλάδας ως χρήστη του ίδιου μαχητικού — τι σημαίνει αυτό για διαθεσιμότητα ανταλλακτικών και γεωπολιτική βαρύτητα;",
-   "turkish_narrative": false
-  },
-  {
-   "id": "e13fa086ee37e615",
-   "title": "ICE shot and killed motorist in Maine. Advocates say he’s a 26-year-old man from Colombia",
-   "link": "https://www.thenationalherald.com/ice-shot-and-killed-motorist-in-maine-advocates-say-hes-a-26-year-old-man-from-colombia/",
-   "summary_raw": "<p>BIDDEFORD, Maine (AP) — A federal immigration officer fatally shot a motorist in Maine on Monday, the second time in a week that U.S. Immigration and Customs Enforcement agents have used deadly force. It is at least the ninth such killing since President Donald Trump began his immigration crackdown. Immigrant rights groups identified the man who was killed as a 26-year-old native of Colombia. Sen. Angus King, I-Maine, said Homeland Security Secretary Markwayne Mullin told him the officer opened fire after the man tried to use his vehicle as a weapon against officers who were pursuing him for deportation in Biddeford, a coastal city of about 23,000 people roughly 15 miles (24 kilometers) southwest of Portland. “He was in a vehicle — pulled out in the vehicle, and the term the secretary used was ‘weaponized’ the vehicle and was shot by an ICE agent,” King said.</p>\n<p>The post <a href=\"https://www.thenationalherald.com/ice-shot-and-killed-motorist-in-maine-advocates-say-hes-a-26-year-old-man-from-colombia/\">ICE shot and killed motorist in Maine. Advocates say he&#8217;s a 26-year-old man from Colombia</a> appeared first on <a href=\"https://www.thenationalherald.com\">The National H",
-   "source": "The National Herald",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-07-13T20:33:31+00:00",
-   "collected": "2026-07-13T20:39:50.852254+00:00",
-   "keywords_hit": [
-    "migrant",
-    "deportation"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "summary_el": "Πράκτορας της ICE σκότωσε 26χρονο Κολομβιανό οδηγό στο Μέιν, στο πλαίσιο της εκστρατείας κατά της παράνομης μετανάστευσης της κυβέρνησης Τραμπ. Είναι τουλάχιστον η ένατη θανατηφόρα χρήση βίας από ICE από την έναρξη της εκστρατείας.",
-   "angle": "Η αυξανόμενη βία στις αμερικανικές επιχειρήσεις ICE και τι σημαίνει για το παγκόσμιο προφίλ της μεταναστευτικής πολιτικής Τραμπ.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "ffa781331295f139",
-   "title": "Ουγγαρία: Πέρασε στο Κοινοβούλιο η συνταγματική αλλαγή για την απομάκρυνση του προέδρου της χώρας",
-   "link": "https://www.in.gr/2026/07/13/world/ouggaria-perase-sto-koinovoulio-i-syntagmatiki-allagi-gia-tin-apomakrynsi-tou-proedrou-tis-xoras/",
-   "summary_raw": "<div><img alt=\"Το κοινοβούλιο στην Ουγγαρία\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/07/2026-07-13T164803Z_1374059677_RC24DMAKF78U_RTRMADP_5_HUNGARY-POLITICS-PRESIDENT-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Ο νέος πρωθυπουργός πέτυχε να περάσει με μεγάλη πλειοψηφία μια συνταγματική αλλαγή στην Ουγγαρία. Και πλέον μπορεί να απομακρύνει τους ελεγχόμενους από τον Όρμπαν πρόεδρο της χώρας και του Συνταγματικού Δικαστηρίου.</p>\n<p>The post <a href=\"https://www.in.gr/2026/07/13/world/ouggaria-perase-sto-koinovoulio-i-syntagmatiki-allagi-gia-tin-apomakrynsi-tou-proedrou-tis-xoras/\">Ουγγαρία: Πέρασε στο Κοινοβούλιο η συνταγματική αλλαγή για την απομάκρυνση του προέδρου της χώρας</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-13T20:30:11+00:00",
-   "collected": "2026-07-14T03:35:22.283438+00:00",
-   "keywords_hit": [
-    "pomak",
-    "πομάκ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "summary_el": "Το ουγγρικό Κοινοβούλιο ενέκρινε με μεγάλη πλειοψηφία συνταγματική αλλαγή που επιτρέπει στον νέο πρωθυπουργό να απομακρύνει τον φιλο-Ορμπάν πρόεδρο της χώρας και τον πρόεδρο του Συνταγματικού Δικαστηρίου. Η εξέλιξη σηματοδοτεί ριζική αναδιάρθρωση της ουγγρικής πολιτικής σκηνής.",
-   "angle": "Πώς η μετά-Ορμπάν Ουγγαρία αναδιαμορφώνει τις σχέσεις της με ΕΕ και ΝΑΤΟ — επιπτώσεις για την ελληνική διπλωματία στα Βαλκάνια.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "922d54d7a7bdfad2",
-   "title": "Συμμαχία των Προθύμων: Δηλώσεις στήριξης στην Ουκρανία, η οποία αγοράζει αντιαεροπορικά και Rafale",
-   "link": "https://www.efsyn.gr/kosmos/1426909/symmahia-ton-prothymon-diloseis-stirixis-stin-oykrania-i-opoia-agorazei-antiaeroporika-kai-rafale/",
-   "summary_raw": "Οι ηγέτες στη σύνοδό τους στο Παρίσι δηλώνουν πως στοχεύουν να «καθίσουν» τη Ρωσία στο τραπέζι των διαπραγματεύσεων.",
-   "source": "Εφημερίδα των Συντακτών",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-13T20:20:05+00:00",
-   "collected": "2026-07-13T20:40:27.521975+00:00",
-   "keywords_hit": [
-    "rafale"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "summary_el": "Στη σύνοδο κορυφής στο Παρίσι, η «Συμμαχία των Προθύμων» επιβεβαίωσε την πρόθεσή της να πιέσει τη Ρωσία στο τραπέζι των διαπραγματεύσεων μέσω ισχυρότερης στρατιωτικής βοήθειας, συμπεριλαμβανομένης αγοράς αντιαεροπορικών και Rafale από την Ουκρανία.",
-   "angle": "Η Ελλάδα απούσα ή παρούσα στη σύνοδο του Παρισιού; Εξέταση της ελληνικής στάσης απέναντι στη «Συμμαχία των Προθύμων» και οι επιπτώσεις στις ελληνορωσικές σχέσεις.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "c21dd34998592083",
-   "title": "Τραμπ: Θα χτυπήσουμε πολύ σκληρά το Ιράν, δεν τίμησαν το Μνημόνιο Κατανόησης",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/tramp-tha-xtypisoume-poly-sklira-to-iran-den-timisan-to-mnimonio-katanoisis/",
-   "summary_raw": "<img alt=\"Turkey NATO Summit Trump\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/ap26189612443526-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Ο Ντόναλντ Τραμπ δήλωσε ότι το Ιράν θα δεχτεί πολύ σκληρά πλήγματα τη Δευτέρα και την Τρίτη, ενώ τόνισε ότι το Μνημόνιο Κατανόησης (MoU) ήταν μια δοκιμασία, την οποία η Τεχεράνη δεν τίμησε. «Θα καταστρέψουμε το Pickaxe ‌Mountain», ανάφερε χαρακτηριστικά. Η τοποθεσία αυτή θεωρείται ότι είναι ένα οχυρωμένο υπόγειο συγκρότημα κοντά στις πυρηνικές εγκαταστάσεις του ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/tramp-tha-xtypisoume-poly-sklira-to-iran-den-timisan-to-mnimonio-katanoisis/\" title=\"Τραμπ: Θα χτυπήσουμε πολύ σκληρά το Ιράν, δεν τίμησαν το Μνημόνιο Κατανόησης\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-07-13T20:19:00+00:00",
-   "collected": "2026-07-13T20:39:31.274044+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "summary_el": "Ο πρόεδρος Τραμπ προειδοποίησε για «πολύ σκληρά» στρατιωτικά πλήγματα εναντίον του Ιράν τη Δευτέρα και Τρίτη, δηλώνοντας ότι η Τεχεράνη δεν τίμησε το Μνημόνιο Κατανόησης. Ανακοίνωσε επίσης ότι θα καταστραφεί η οχυρωμένη υπόγεια εγκατάσταση «Pickaxe Mountain» κοντά σε πυρηνικές εγκαταστάσεις.",
-   "angle": "Πώς η κλιμάκωση ΗΠΑ-Ιράν επηρεάζει τις ελληνικές ένοπλες δυνάμεις, τη ναυτιλία και τα ενεργειακά της Ανατολικής Μεσογείου.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "ebd13f11f62c13ae",
-   "title": "Τραμπ: Θα χτυπήσουμε πολύ σκληρά το Ιράν, δεν τήρησαν το Μνημόνιο Κατανόησης",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/tramp-tha-xtypisoume-poly-sklira-to-iran-den-tirisan-to-mnimonio-katanoisis/",
-   "summary_raw": "<img alt=\"Turkey NATO Summit Trump\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/ap26189612443526-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Ο Ντόναλντ Τραμπ δήλωσε ότι το Ιράν θα δεχτεί πολύ σκληρά πλήγματα τη Δευτέρα και την Τρίτη, ενώ τόνισε ότι το Μνημόνιο Κατανόησης (MoU) ήταν μια δοκιμασία, την οποία η Τεχεράνη δεν τήρησε. «Θα καταστρέψουμε το Pickaxe ‌Mountain», ανάφερε χαρακτηριστικά. Η τοποθεσία αυτή θεωρείται ότι είναι ένα οχυρωμένο υπόγειο συγκρότημα κοντά στις πυρηνικές εγκαταστάσεις του ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/tramp-tha-xtypisoume-poly-sklira-to-iran-den-tirisan-to-mnimonio-katanoisis/\" title=\"Τραμπ: Θα χτυπήσουμε πολύ σκληρά το Ιράν, δεν τήρησαν το Μνημόνιο Κατανόησης\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-07-13T20:19:00+00:00",
-   "collected": "2026-07-13T21:13:32.926437+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "summary_el": "Ο Τραμπ δήλωσε ότι οι ΗΠΑ θα καταστρέψουν το υπόγειο συγκρότημα «Pickaxe Mountain» κοντά στις ιρανικές πυρηνικές εγκαταστάσεις, κατηγορώντας την Τεχεράνη ότι δεν τήρησε το Μνημόνιο Κατανόησης. Η ρητορική κλιμάκωση αυξάνει τις ανησυχίες για επικείμενη αμερικανική στρατιωτική επίθεση.",
-   "angle": "Τι σημαίνει για την Ελλάδα και τους συμμάχους της μια ενδεχόμενη κλιμάκωση στο Ιράν, σε μια περίοδο ήδη αυξημένης αναταραχής στη Μέση Ανατολή.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "17a60fadda9f2599",
-   "title": "FT: «Μπλόκο» Ελλάδας στο 21ο πακέτο κυρώσεων κατά Ρωσίας λόγω πλοίων LNG - Energypress",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkNFckFBMGk3QkIwMEJRNzJuWWQ5alhBVTI4eHY2cE9tcVVyRVV6N25DNEN4OHZkS2dpdThPMDkyYUtySUNtVEFMZ2pTbVROR09OS2NzUnVWUk13RDRFZk5QMTJtYlZNM1lsSFF3QkF1Sm83ZXI1b1I5VmxNNnF5SV92VlJjWGJlSUY5OE9MSS1jMDFndzJPcTQtTllZQQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPUkNFckFBMGk3QkIwMEJRNzJuWWQ5alhBVTI4eHY2cE9tcVVyRVV6N25DNEN4OHZkS2dpdThPMDkyYUtySUNtVEFMZ2pTbVROR09OS2NzUnVWUk13RDRFZk5QMTJtYlZNM1lsSFF3QkF1Sm83ZXI1b1I5VmxNNnF5SV92VlJjWGJlSUY5OE9MSS1jMDFndzJPcTQtTllZQQ?oc=5\" target=\"_blank\">FT: «Μπλόκο» Ελλάδας στο 21ο πακέτο κυρώσεων κατά Ρωσίας λόγω πλοίων LNG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
-   "source": "Energypress",
-   "side": "greek_energy",
-   "lang": "el",
-   "published": "2026-07-13T20:13:06+00:00",
-   "collected": "2026-07-16T22:14:18.117648+00:00",
-   "keywords_hit": [
-    "lng"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Ελλάδα αποκλείει το 21ο κυρωτικό πακέτο κατά της Ρωσίας λόγω διαφωνιών για τα δεξαμενόπλοια LNG, δημιουργώντας ρήγμα στην ευρωπαϊκή ενότητα.",
-   "angle": "Το veto της Ελλάδας για τα ρωσικά LNG: Πώς η ενέργεια διαχωρίζει την ΕΕ και τα κόστη της αποχής από τις κυρώσεις"
-  },
-  {
-   "id": "34bd34f7b0ded755",
-   "title": "Συμμαχία των Προθύμων: Συμφωνία για γενναία ενίσχυση της Ουκρανίας – Τι προβλέπει το σχέδιο «Φρέγια»",
-   "link": "https://www.tanea.gr/2026/07/13/world/symmaxia-ton-prothymon-symfonia-gia-gennaia-enisxysi-tis-oykranias-ti-provlepei-to-sxedio/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/07/2026-07-13T184638Z_121342318_RC26DMA4BI9L_RTRMADP_3_UKRAINE-CRISIS-COALITION-FRANCE-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>37 χώρες δεσμεύτηκαν για ταχύτερη και ισχυρότερη στήριξη στην Ουκρανία με νέα αντιαεροπορικά, 16 Rafale και ασκήσεις",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-13T20:07:23+00:00",
-   "collected": "2026-07-13T20:40:25.865130+00:00",
-   "keywords_hit": [
-    "rafale"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "summary_el": "37 χώρες της «Συμμαχίας των Προθύμων» δεσμεύτηκαν για ενισχυμένη στήριξη στην Ουκρανία, συμπεριλαμβανομένων 16 Rafale και νέων αντιαεροπορικών συστημάτων στο πλαίσιο του σχεδίου «Φρέγια». Η συμφωνία αποτελεί σημαντική κλιμάκωση της δυτικής στρατιωτικής βοήθειας.",
-   "angle": "Πώς επηρεάζει την Ελλάδα η μαζική προμήθεια Rafale στην Ουκρανία, σε πλαίσιο κοινής χρήσης τύπων με την Πολεμική Αεροπορία, και ποια η ελληνική θέση στη «Συμμαχία των Προθύμων»;",
-   "turkish_narrative": false
-  },
-  {
-   "id": "5d0445ca7bc4600c",
-   "title": "Visioner ❗❗❗🇺🇸🇺🇦 President Trump has officially signaled a green light for Ukraine to manufacture Patriot missile interceptors under U.S. license.  See the latest updates with us: …",
-   "link": "https://t.me/OSINTLive/555004",
-   "summary_raw": "Visioner ❗❗❗🇺🇸🇺🇦 President Trump has officially signaled a green light for Ukraine to manufacture Patriot missile interceptors under U.S. license.  See the latest updates with us: @visionergeo https://twitter.com/visionergeo/status/2076752313385877749/video/1 tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-07-13T19:43:39+00:00",
-   "collected": "2026-07-13T19:51:01.912581+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "summary_el": "Ο πρόεδρος Τραμπ φέρεται να έδωσε το πράσινο φως για παραγωγή πυραύλων Patriot από την Ουκρανία υπό αμερικανική άδεια, σε σημαντική εξέλιξη για την ουκρανική αμυντική βιομηχανία.",
-   "angle": "Τι σημαίνει η πιθανή αδειοδότηση παραγωγής Patriot από την Ουκρανία για την ευρωπαϊκή ασφάλεια και τις ελληνικές αμυντικές προμήθειες;",
-   "turkish_narrative": false
-  },
-  {
-   "id": "e1c9728e9fe6445e",
-   "title": "EU capitals fail to force Commission’s hand on Israeli settler sanctions",
-   "link": "https://www.politico.eu/article/eu-member-states-sanction-israel-kallas-commission-stands-in-the-way/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "summary_raw": "Countries trying to force the Commission into giving EU countries concrete measures to vote on were unable to do so.",
-   "source": "Politico Europe",
-   "side": "europe",
-   "lang": "en",
-   "published": "2026-07-13T19:25:53+00:00",
-   "collected": "2026-07-13T19:50:18.202991+00:00",
-   "keywords_hit": [
-    "crete"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "summary_el": "Ευρωπαϊκές χώρες απέτυχαν να πιέσουν την Ευρωπαϊκή Επιτροπή να προχωρήσει σε συγκεκριμένα μέτρα κυρώσεων κατά Ισραηλινών εποίκων στην κατεχόμενη Δυτική Όχθη. Η εκστρατεία των κρατών-μελών δεν κατάφερε να αποσπάσει δεσμευτικές προτάσεις από τις Βρυξέλλες.",
-   "angle": "Πώς η ευρωπαϊκή διχογνωμία για τους Ισραηλινούς εποίκους αποδυναμώνει την αξιοπιστία της ΕΕ ως διπλωματικού παράγοντα στη Μέση Ανατολή.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "61ffe045229b7fe7",
-   "title": "Κεσσές: Παραδοχή Ντίλιαν σε έγγραφο πως πούλησε το Predator σε κρατικές Αρχές – Εξηγήσεις ζητά το ΠΑΣΟΚ",
-   "link": "https://www.efsyn.gr/ellada/1426891/kesses-paradohi-ntilian-se-eggrafo-pos-poylise-to-predator-se-kratikes-arhes-exigiseis-zita-to-pasok/",
-   "summary_raw": "Η ανάρτηση του δικηγόρου περιέχει δικαστικό έγγραφο, στο οποίο ο επιχειρηματίας δεν αρνείται των πώληση του κατασκοπευτικού λογισμικού.",
-   "source": "Εφημερίδα των Συντακτών",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-13T19:19:32+00:00",
-   "collected": "2026-07-13T19:50:57.780440+00:00",
-   "keywords_hit": [
-    "κατασκοπ"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "summary_el": "Δικαστικό έγγραφο που δημοσίευσε ο δικηγόρος Κεσσές αποκαλύπτει ότι ο επιχειρηματίας Ταλ Ντίλιαν δεν αρνείται την πώληση του κατασκοπευτικού λογισμικού Predator σε κρατικές Αρχές, με το ΠΑΣΟΚ να ζητά εξηγήσεις.",
-   "angle": "Η παραδοχή Ντίλιαν για το Predator ανοίγει εκ νέου το ζήτημα κρατικής εμπλοκής στην παρακολούθηση πολιτών — τι αποκαλύπτει το δικαστικό έγγραφο για την ελληνική υπόθεση.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "fe9ecfbbabeb0cdb",
-   "title": "Συμφωνία Παρισιού – Κιέβου: Αγορά 16 Rafale και ενίσχυση της ουκρανικής αεράμυνας",
-   "link": "https://www.ertnews.gr/eidiseis/symfonia-parisiou-kievou-agora-16-rafale-kai-enisxysi-tis-oukranikis-aeramynas/",
-   "summary_raw": "<img alt=\"FRANCE-UKRAINE-RUSSIA-CONFLICT-DEFENCE-SUMMIT\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1702\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/macron-zelenski-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Σε έναν «οδικό χάρτη» που προβλέπει την αγορά, εκ μέρους του Κιέβου, 16 μαχητικών αεροσκαφών Rafale και του οπλισμού τους, κατέληξαν Γαλλία και Ουκρανία, με τα πρώτα από αυτά να παραδίδονται και «να πετούν στον ουκρανικό ουρανό από το 2028-29», όπως ανακοίνωσε το βράδυ της Δευτέρας (13/07), ο Γάλλος πρόεδρος Εμανουέλ Μακρόν. Για την ενίσχυση ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/symfonia-parisiou-kievou-agora-16-rafale-kai-enisxysi-tis-oukranikis-aeramynas/\" title=\"Συμφωνία Παρισιού &#8211; Κιέβου: Αγορά 16 Rafale και ενίσχυση της ουκρανικής αεράμυνας\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-07-13T19:07:00+00:00",
-   "collected": "2026-07-13T19:50:03.329276+00:00",
-   "keywords_hit": [
-    "rafale"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "summary_el": "Γαλλία και Ουκρανία κατέληξαν σε «οδικό χάρτη» για την αγορά 16 μαχητικών Rafale, με τα πρώτα να παραδίδονται το 2028-29, ανακοίνωσε ο Εμανουέλ Μακρόν. Η συμφωνία περιλαμβάνει και ενίσχυση της ουκρανικής αεράμυνας.",
-   "angle": "Η Ουκρανία αποκτά Rafale: τι σημαίνει για την Ελλάδα που ήδη τα πετά, και πώς διαμορφώνεται η νέα ευρωπαϊκή αμυντική αρχιτεκτονική.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "c458cff40879cffd",
-   "title": "Πρόεδρος Χριστοδουλίδης: Συναντήθηκε με τα στελέχη της Εθνικής Φρουράς στη Γαλλία – «Η σημαία της Κύπρου θα παρελάσει στα Ηλύσια Πεδία»",
-   "link": "https://www.philenews.com/kipros/koinonia/article/1745837/proedros-christodoulidis-sinantithike-me-ta-stelechi-tis-ethnikis-frouras-sti-gallia-i-simea-tis-kiprou-tha-parelasi-sta-ilisia-pedia/",
-   "summary_raw": "<p>Υπερηφάνεια για τις ένοπλες δυνάμεις της Κυπριακής Δημοκρατίας και ιδιαίτερη ικανοποίηση για το υψηλό επίπεδο συνεργασίας Κύπρου-Γαλλίας εξέφρασε ο Πρόεδρος της Δημοκρατίας κ. Νίκος Χριστοδουλίδης, σε συνάντηση που είχε με τα στελέχη της Εθνικής Φρουράς, που θα πάρουν μέρος στην αυριανή παρέλαση των γαλλικών Ενόπλων Δυνάμεων για την Εθνική Ημέρα της Γαλλίας. Ο Πρόεδρος Χριστοδουλίδης, [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kipros/koinonia/article/1745837/proedros-christodoulidis-sinantithike-me-ta-stelechi-tis-ethnikis-frouras-sti-gallia-i-simea-tis-kiprou-tha-parelasi-sta-ilisia-pedia/\">Πρόεδρος Χριστοδουλίδης: Συναντήθηκε με τα στελέχη της Εθνικής Φρουράς στη Γαλλία &#8211; «Η σημαία της Κύπρου θα παρελάσει στα Ηλύσια Πεδία»</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-07-13T18:56:42+00:00",
-   "collected": "2026-07-13T19:50:21.568912+00:00",
-   "keywords_hit": [
-    "χριστοδουλίδης"
-   ],
-   "category": "Κυπριακό",
-   "severity": 2,
-   "summary_el": "Ο Πρόεδρος της Κύπρου Νίκος Χριστοδουλίδης συναντήθηκε στο Παρίσι με στελέχη της Εθνικής Φρουράς που θα παρελάσουν στα Ηλύσια Πεδία για την εθνική εορτή της Γαλλίας, τονίζοντας το υψηλό επίπεδο κυπρο-γαλλικής αμυντικής συνεργασίας.",
-   "angle": "Η παρουσία της Εθνικής Φρουράς στη γαλλική παρέλαση της 14ης Ιουλίου ως σύμβολο της εμβάθυνσης των στρατιωτικών δεσμών Κύπρου-Γαλλίας σε μια κρίσιμη γεωπολιτική συγκυρία.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "ea5df2775233433c",
-   "title": "Ουγγαρία: Η κυβέρνηση Μαγιάρ προωθεί συνταγματική μεταρρύθμιση για την απομάκρυνση του προέδρου της χώρας",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/ouggaria-i-kyvernisi-magiar-proothei-syntagmatiki-metarrythmisi-gia-tin-apomakrynsi-tou-proedrou-tis-xoras/",
-   "summary_raw": "<img alt=\"APTOPIX Hungary Election\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"682\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/04/ougaria-magiar-ekloges.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Το κοινοβούλιο της Ουγγαρίας ενέκρινε σήμερα μια συνταγματική τροποποίηση με στόχο την αποπομπή του προέδρου Τάμας Σούλιοκ, τον οποίο ο πρωθυπουργός Πίτερ Μαγιάρ χαρακτηρίζει «μαριονέτα» του Βίκτορ Όρμπαν. Με την έγκριση της πρότασης «ολοκληρώσαμε τη συνταγματική μεταρρύθμιση του καθεστώτος Όρμπαν», χαιρέτισε ο Μαγιάρ μετά την ψηφοφορία. Ο φιλοευρωπαίος, συντηρητικός πρωθυπουργός, που κέρδισε με συντριπτική πλειοψηφία ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/ouggaria-i-kyvernisi-magiar-proothei-syntagmatiki-metarrythmisi-gia-tin-apomakrynsi-tou-proedrou-tis-xoras/\" title=\"Ουγγαρία: Η κυβέρνηση Μαγιάρ προωθεί συνταγματική μεταρρύθμιση για την απομάκρυνση του προέδρου της χώρας\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-07-13T18:55:00+00:00",
-   "collected": "2026-07-13T22:10:29.922721+00:00",
-   "keywords_hit": [
-    "pomak",
-    "πομάκ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "summary_el": "Το κοινοβούλιο της Ουγγαρίας ενέκρινε συνταγματική τροποποίηση για την απομάκρυνση του προέδρου Τάμας Σούλιοκ, σε κίνηση του φιλοευρωπαίου πρωθυπουργού Πίτερ Μαγιάρ εναντίον της κληρονομιάς Όρμπαν.",
-   "angle": "Η μεταρρύθμιση στην Ουγγαρία υπό τον Μαγιάρ ως σήμα αλλαγής προσανατολισμού προς την ΕΕ — τι σημαίνει για τις ευρωπαϊκές ισορροπίες και την ελληνική διπλωματία στα Βαλκάνια.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "47bb9e93d59eeafa",
-   "title": "EU’s Kallas tells Turkey to ‘respect’ Cyprus’ sovereignty over gas pipeline",
-   "link": "https://cyprus-mail.com/2026/07/13/eus-kallas-tells-turkey-to-respect-cyprus-sovereignty-over-gas-pipeline",
-   "summary_raw": "The European Union’s foreign policy chief Kaja Kallas on Monday called on Turkey to “respect” the Republic of Cyprus’ sovereignty, after Turkey and the Turkish Cypriot authorities had last week signed an agreement which foresees the construction of a natural gas pipeline between Turkey and Cyprus. “On the eastern Mediterranean, Cyprus raised Turkey’s plan for [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-07-13T18:52:26+00:00",
-   "collected": "2026-07-13T19:50:09.590972+00:00",
-   "keywords_hit": [
-    "natural gas"
-   ],
-   "category": "Κυπριακό",
-   "severity": 4,
-   "summary_el": "Η επικεφαλής εξωτερικής πολιτικής της ΕΕ Κάγια Κάλας κάλεσε την Τουρκία να «σεβαστεί» την κυριαρχία της Κυπριακής Δημοκρατίας, μετά την υπογραφή συμφωνίας Άγκυρας–Τουρκοκυπρίων για κατασκευή αγωγού φυσικού αερίου από την Τουρκία στην Κύπρο. Το θέμα τέθηκε στο πλαίσιο συζητήσεων για την Ανατολική Μεσόγειο.",
-   "angle": "Η ΕΕ αντιδρά στον τουρκοκυπριακό αγωγό: πώς η Άγκυρα χρησιμοποιεί την ενεργειακή υποδομή ως εργαλείο αμφισβήτησης της κυπριακής κυριαρχίας.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "63e82e948ac362a7",
-   "title": "Συνεργασία ΔΕΗ – Dimand για ανάπτυξη πρότυπου βιοκλιματικού κτιρίου στη Λεωφόρο Μεσογείων - slpress.gr",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkI3ZG5wdWcwX29SYlJKTWo5Q1AzbGZnT0tXRWFBb3FxLVV3bVNLYzJnaHNRVlJjZUtlaHl5Sk82ODNuRlJQQU12eThSNW5iSGJIWUtwZnJtQVZCY25YVUdnaXY5dkhSSzJqUWoyMzBEYTZ5SXJYMkRveWN2c2RlSGI2XzN1SGFGZ3V1aE8tYWZ3QmVEb3kzME1DRFRTLUNTNTdkS1lhc2JXWGdQZGZubzc5dzBtdU9yRFVvUtIBwgFBVV95cUxPMW9WWW5QUldidjZRU2Nqd0lGZkNBNS0ySDJHc0RLTUJEY0pXNTJST1ltUFMwY2tZUWRIY09pTXNSVFNKeFFTYVo0WTBBQmpDbUVrM09lOExTRjJhbW5OR0VNRHNUNjM0LWNDUEJhYkduNUlfcWNVTzdheXprOWtBQ242UThaYWVMcl9NUWQ0b290SHZjQ2NLR1R4S3Nsdk9lcDYtd3VqYUVpbDcwa2p6MTRBWHEzdDBEbHhIcEY5Wm5Kdw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkI3ZG5wdWcwX29SYlJKTWo5Q1AzbGZnT0tXRWFBb3FxLVV3bVNLYzJnaHNRVlJjZUtlaHl5Sk82ODNuRlJQQU12eThSNW5iSGJIWUtwZnJtQVZCY25YVUdnaXY5dkhSSzJqUWoyMzBEYTZ5SXJYMkRveWN2c2RlSGI2XzN1SGFGZ3V1aE8tYWZ3QmVEb3kzME1DRFRTLUNTNTdkS1lhc2JXWGdQZGZubzc5dzBtdU9yRFVvUtIBwgFBVV95cUxPMW9WWW5QUldidjZRU2Nqd0lGZkNBNS0ySDJHc0RLTUJEY0pXNTJST1ltUFMwY2tZUWRIY09pTXNSVFNKeFFTYVo0WTBBQmpDbUVrM09lOExTRjJhbW5OR0VNRHNUNjM0LWNDUEJhYkduNUlfcWNVTzdheXprOWtBQ242UThaYWVMcl9NUWQ0b290SHZjQ2NLR1R4S3Nsdk9lcDYtd3VqYUVpbDcwa2p6MTRBWHEzdDBEbHhIcEY5Wm5Kdw?oc=5\" target=\"_blank\">Συνεργασία ΔΕΗ – Dimand για ανάπτυξη πρότυπου βιοκλιματικού κτιρίου στη Λεωφόρο Μεσογείων</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">slpress.gr</font>",
-   "source": "SLpress",
-   "side": "greek_analysis",
-   "lang": "el",
-   "published": "2026-07-13T18:39:50+00:00",
-   "collected": "2026-07-16T22:14:13.638518+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Συνεργασία ΔΕΗ – Dimand για ανάπτυξη πρότυπου βιοκλιματικού κτιρίου στη Λεωφόρο Μεσογείων slpress.gr",
-   "angle": null
-  },
-  {
-   "id": "5517fbad04f36e63",
-   "title": "Συμμαχία των Προθύμων: Το Κίεβο θα αγοράσει 16 μαχητικά Rafale και αντιαεροπορικές συστοιχίες",
-   "link": "https://www.protothema.gr/world/article/1850394/summahia-ton-prothumon-to-kievo-tha-agorasei-mahitika-rafale-kai-adiaeroporikes-sustoihies/?utm_source=rss",
-   "summary_raw": "Το Κίεβο έλαβε άδεια για την παραγωγή πυραύλων - Η πολυεθνική δύναμη θα κάνει ασκήσεις στις γειτονικές χώρες τους επόμενους μήνες",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-13T18:37:00+00:00",
-   "collected": "2026-07-13T19:50:54.327945+00:00",
-   "keywords_hit": [
-    "rafale"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "summary_el": "Η Ουκρανία έλαβε άδεια απόκτησης 16 μαχητικών αεροσκαφών Rafale και αντιαεροπορικών συστημάτων στο πλαίσιο της Συμμαχίας των Προθύμων, ενώ παράλληλα αποκτά άδεια παραγωγής πυραύλων. Η πολυεθνική δύναμη προγραμματίζει ασκήσεις σε γειτονικές χώρες τους επόμενους μήνες.",
-   "angle": "Πώς επηρεάζει η ενίσχυση της Ουκρανίας με Rafale την ευρωπαϊκή αμυντική αρχιτεκτονική και τις ελληνικές ισορροπίες στη γειτονιά;",
-   "turkish_narrative": false
-  },
-  {
-   "id": "07b6e74e8dfccc25",
-   "title": "France grants Ukraine missile production licences as Macron announces new military support",
-   "link": "https://www.aa.com.tr/en/europe/france-grants-ukraine-missile-production-licences-as-macron-announces-new-military-support/3996938",
-   "summary_raw": "Agreement includes missile production, purchase of 16 Rafale aircraft and deal for SAMP-T air defense system",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-07-13T18:34:58+00:00",
-   "collected": "2026-07-13T19:50:00.145728+00:00",
-   "keywords_hit": [
-    "rafale"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "summary_el": "Η Γαλλία χορήγησε στην Ουκρανία άδειες παραγωγής πυραύλων και συμφώνησε στην αγορά 16 μαχητικών Rafale μαζί με το σύστημα αεράμυνας SAMP-T. Η ανακοίνωση έγινε από τον πρόεδρο Μακρόν.",
-   "angle": "Πώς η γαλλο-ουκρανική αμυντική συμφωνία για Rafale και SAMP-T επηρεάζει τις ισορροπίες στην ευρωπαϊκή αμυντική βιομηχανία και τι σημαίνει για τις ελληνικές παραγγελίες Rafale.",
-   "turkish_narrative": false
-  },
-  {
-   "id": "00cb653c5d66920f",
-   "title": "Menfi says unifying military institution is a national priority - The Libya Observer",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlpOZ1hHS2RHQVdwV2FSanZ2c1ZfUGYwM21DUXhLMTc2UkxIVVpnR0JQd2FRd2lZVHlFS3RjbzhiazZaZUVNN0FEY3VkLVp5ZXFldUNMT3dXNXROTjVFd0EteTBsUmlGT2VyeEFnVjJsY1ZqdTYweWFWaElxUVRJdkpfWFpGTVNlR0IzQnFnTXBwdw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlpOZ1hHS2RHQVdwV2FSanZ2c1ZfUGYwM21DUXhLMTc2UkxIVVpnR0JQd2FRd2lZVHlFS3RjbzhiazZaZUVNN0FEY3VkLVp5ZXFldUNMT3dXNXROTjVFd0EteTBsUmlGT2VyeEFnVjJsY1ZqdTYweWFWaElxUVRJdkpfWFpGTVNlR0IzQnFnTXBwdw?oc=5\" target=\"_blank\">Menfi says unifying military institution is a national priority</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Libya Observer</font>",
-   "source": "Libya Observer",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-07-13T18:27:23+00:00",
-   "collected": "2026-07-16T22:31:13.333637+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Menfi says unifying military institution is a national priority The Libya Observer",
-   "angle": null
   }
  ]
 }
