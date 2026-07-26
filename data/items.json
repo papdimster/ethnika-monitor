@@ -1,7 +1,233 @@
 {
- "updated": "2026-07-26T09:27:32.330600+00:00",
- "count": 1885,
+ "updated": "2026-07-26T11:40:54.925666+00:00",
+ "count": 1874,
  "items": [
+  {
+   "id": "73a84e345fa350a3",
+   "title": "Open Source Intel NEW: The Houthis claim they shot down a Turkish built Bayraktar Akıncı combat drone operated by the Royal Saudi Air Force over Yemen’s Al Jawf Governorate. https:…",
+   "link": "https://t.me/OSINTLive/559286",
+   "summary_raw": "Open Source Intel NEW: The Houthis claim they shot down a Turkish built Bayraktar Akıncı combat drone operated by the Royal Saudi Air Force over Yemen’s Al Jawf Governorate. https://twitter.com/Osint613/status/2081342387343732937/photo/1 tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-07-26T11:39:12+00:00",
+   "collected": "2026-07-26T11:39:52.482263+00:00",
+   "keywords_hit": [
+    "bayraktar"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Οι Χούθι ανακοίνωσαν ότι κατέρριψαν τουρκικής κατασκευής drone Bayraktar Akıncı της Σαουδικής Αραβίας πάνω από την περιοχή Al Jawf της Υεμένης.",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @AMK_Mapping"
+   ]
+  },
+  {
+   "id": "5315495248d2ed37",
+   "title": "Δένδιας στο Πρώτο Θέμα: Αποκτάμε τις ισχυρότερες Ένοπλες Δυνάμεις στην ιστορία της σύγχρονης Ελλάδας",
+   "link": "https://www.protothema.gr/politics/article/1856288/dendias-sto-proto-thema-apoktame-tis-ishuroteres-enoples-dunameis-stin-istoria-tis-sughronis-elladas/?utm_source=rss",
+   "summary_raw": "Σε ποσοστό τουλάχιστον 25% η συμμετοχή της ελληνικής αμυντικής βιομηχανίας στα εξοπλιστικά προγράμματα - Ελληνικής ιδιοκτησίας το λογισμικό διαχείρισης και διασύνδεσης",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-26T11:36:09+00:00",
+   "collected": "2026-07-26T11:39:38.192091+00:00",
+   "keywords_hit": [
+    "δένδιας",
+    "διασύνδεση"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ο υπουργός Δένδιας δηλώνει ότι η Ελλάδα αποκτά τις ισχυρότερες Ένοπλες Δυνάμεις στην ιστορία της σύγχρονης ελληνικής κρατικότητας, με τουλάχιστον 25% συμμετοχή ελληνικής αμυντικής βιομηχανίας και ελληνικό λογισμικό διαχείρισης.",
+   "angle": "Το νέο αμυντικό πλάνο της Ελλάδας: Ενδογενείς ικανότητες και ανεξαρτησία",
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "6aaacea25bb2901e",
+   "title": "Houthis Claim Saudi Drone Downed Over Yemen",
+   "link": "https://www.osint613.com/post/houthis-claim-saudi-drone-downed-yemen-18519",
+   "summary_raw": "NEW: The Houthis claim they shot down a Turkish built Bayraktar Akıncı combat drone operated by the Royal Saudi Air Force over Yemen’s Al Jawf Governorate.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-07-26T11:34:29+00:00",
+   "collected": "2026-07-26T11:39:48.003019+00:00",
+   "keywords_hit": [
+    "bayraktar"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Οι Χούθι ανακοίνωσαν ότι κατέρριψαν τουρκικής κατασκευής drone Bayraktar Akıncı της Σαουδικής Αραβίας πάνω από την περιοχή Al Jawf της Υεμένης.",
+   "angle": "Νέα ανάκληση ικανοτήτων των Χούθι: Η κατάρριψη σαουδικού drone ως σύμβολο της ανερχόμενης αμυντικής απειλής στην περιοχή",
+   "corroborated_by": [
+    "Telegram @AMK_Mapping",
+    "Telegram @OSINTLive"
+   ]
+  },
+  {
+   "id": "0d5560a604d5c6e4",
+   "title": "Ρουμανία: Κλιμακώνεται η ένταση με τη Ρωσία – Κατάρριψη drone για τρίτη συνεχόμενη μέρα από ρουμανικό F-16",
+   "link": "https://www.philenews.com/kosmos/article/1751506/roumania-klimakonete-i-entasi-me-ti-rosia-katarripsi-drone-gia-triti-sinechomeni-mera-apo-roumaniko-f-16/",
+   "summary_raw": "<p>Η ένταση στην ανατολική πτέρυγα του ΝΑΤΟ παραμένει αυξημένη, καθώς η Ρουμανία ανακοίνωσε ότι μαχητικό αεροσκάφος F-16 κατέρριψε ακόμη ένα μη επανδρωμένο αεροσκάφος που εισήλθε χωρίς άδεια στον εθνικό εναέριο χώρο της. Πρόκειται για το τρίτο αντίστοιχο περιστατικό μέσα σε τρεις ημέρες, γεγονός που προκαλεί έντονη ανησυχία στο Βουκουρέστι. Ρουμανικά μέσα ενημέρωσης κάνουν λόγο για [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kosmos/article/1751506/roumania-klimakonete-i-entasi-me-ti-rosia-katarripsi-drone-gia-triti-sinechomeni-mera-apo-roumaniko-f-16/\">Ρουμανία: Κλιμακώνεται η ένταση με τη Ρωσία &#8211; Κατάρριψη drone για τρίτη συνεχόμενη μέρα από ρουμανικό F-16</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-07-26T10:48:43+00:00",
+   "collected": "2026-07-26T11:39:15.573806+00:00",
+   "keywords_hit": [
+    "f-16"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η Ρουμανία ανακοίνωσε την κατάρριψη αρχικού ρωσικού drone για τρίτη συνεχόμενη μέρα από F-16, εγείροντας ανησυχίες για κλιμάκωση της έντασης στην ανατολική πτέρυγα του ΝΑΤΟ.",
+   "angle": "Η Ρωσία προκαλεί το ΝΑΤΟ: Τρεις μέρες drone πάνω από Ρουμανία και τα σχέδια της για νέες προκλήσεις"
+  },
+  {
+   "id": "e99dd0df5bff0da5",
+   "title": "Χούθι: Καταρρίψαμε τουρκικής κατασκευής drone Bayraktar Akıncı πάνω από την επαρχία Al-Jawf",
+   "link": "https://www.pentapostagma.gr/kosmos/mesi-anatoli/7382189_hoythi-katarripsame-toyrkikis-kataskeyis-drone-bayraktar-akinci-pano",
+   "summary_raw": "Το Πλαίσιο της Σύγκρουσης",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-07-26T10:46:14+00:00",
+   "collected": "2026-07-26T11:39:14.274611+00:00",
+   "keywords_hit": [
+    "bayraktar"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Οι Χούθι ανακοίνωσαν την κατάρριψη τουρκικής κατασκευής drone Bayraktar Akıncı στην επαρχία Al-Jawf.",
+   "angle": null
+  },
+  {
+   "id": "96531472d0a4003d",
+   "title": "⚡️🇾🇪🇾🇪🇸🇦🇹🇷The Houthis announced they had shot down a Turkish-made Bayraktar Akıncı armed reconnaissance drone belonging to Saudi Arabia over Al Jawf province.  “The Armed Forces wi…",
+   "link": "https://t.me/AMK_Mapping/34637",
+   "summary_raw": "⚡️🇾🇪🇾🇪🇸🇦🇹🇷The Houthis announced they had shot down a Turkish-made Bayraktar Akıncı armed reconnaissance drone belonging to Saudi Arabia over Al Jawf province.  “The Armed Forces will confront any attempt to violate the country’s sovereignty and have the capabilities to do so,” the statement said.  Saudi Arabia has not commented.  @wfwitness",
+   "source": "Telegram @AMK_Mapping",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-07-26T10:33:22+00:00",
+   "collected": "2026-07-26T11:39:53.508172+00:00",
+   "keywords_hit": [
+    "bayraktar"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Οι Χούθι ανακοίνωσαν την κατάρριψη τουρκικού drone Bayraktar Akıncı της Σαουδικής Αραβίας στην επαρχία Al Jawf, διεμβολίζοντας ότι έχουν τις δυνατότητες να αντιμετωπίσουν οποιαδήποτε παραβίαση της κυριαρχίας τους.",
+   "angle": "Αναδύεται νέο σχήμα περιφερειακής σύγκρουσης: Τι σημαίνει η αυξανόμενη στρατιωτική ισχύς των Χούθι για τη Σαουδική Αραβία και τη σταθερότητα του Όρμου",
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @OSINTLive"
+   ]
+  },
+  {
+   "id": "c1335d7cd4721210",
+   "title": "Εβδομάδα γεμάτη Κυπριακό: Το πρόγραμμα Γκουτέρες και Ολγκίν στην Κύπρο – Κρίσιμες συναντήσεις",
+   "link": "https://www.philenews.com/politiki/article/1751500/evdomada-gemati-kipriako-to-programma-gkouteres-ke-olgkin-stin-kipro-krisimes-sinantisis/",
+   "summary_raw": "<p>Μια γεμάτη εβδομάδα για το Κυπριακό αρχίζει αύριο με την κάθοδο στην Κύπρο του ΓΓ των ΗΕ Αντόνιο Γκουτέρες, λίγους μήνες πριν την ολοκλήρωση της θητείας του και σε μια προσπάθεια να φύγει με παραδοτέα που θα αφορούν την επανάληψη των συνομιλιών μετά το ναυάγιο του Κραν Μοντανά το 2017.  Ο κ. Γκουτέρες φτάνει στο νησί [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/politiki/article/1751500/evdomada-gemati-kipriako-to-programma-gkouteres-ke-olgkin-stin-kipro-krisimes-sinantisis/\">Εβδομάδα γεμάτη Κυπριακό: Το πρόγραμμα Γκουτέρες και Ολγκίν στην Κύπρο &#8211; Κρίσιμες συναντήσεις</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-07-26T10:00:03+00:00",
+   "collected": "2026-07-26T11:39:15.574959+00:00",
+   "keywords_hit": [
+    "ναυάγι"
+   ],
+   "category": "Κυπριακό",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Ο Γενικός Γραμματέας των ΗΕ Αντόνιο Γκουτέρες φτάνει στην Κύπρο για κρίσιμες συναντήσεις με στόχο την επανάληψη των διαπραγματεύσεων για το Κυπριακό μετά το ναυάγιο του Κραν Μοντανά το 2017.",
+   "angle": "Τελευταία προσπάθεια Γκουτέρες για το Κυπριακό: Τι περιμένουμε από τις συναντήσεις αυτής της εβδομάδας",
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "a14fa1f5651dea9a",
+   "title": "Έβρος: Συνελήφθη Έλληνας που μετέφερε 11 παράτυπους μετανάστες με ΙΧ",
+   "link": "https://www.protothema.gr/greece/article/1856252/evros-sunelifthi-ellinas-pou-metefere-11-paratupous-metanastes-me-ih/?utm_source=rss",
+   "summary_raw": "Η σύλληψη έγινε από αστυνομικούς του Τμήματος Συνοριακής Φύλαξης Σουφλίου σε συνεργασία με στελέχη της Frontex – Κατασχέθηκαν το όχημα και δύο κινητά τηλέφωνα",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-26T09:36:00+00:00",
+   "collected": "2026-07-26T11:39:38.194696+00:00",
+   "keywords_hit": [
+    "έβρος",
+    "frontex"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Έλληνας συνελήφθη στον Έβρο για μεταφορά 11 παράνομων μεταναστών με ΙΧ, σε επιχείρηση συνεργασίας ελληνικής αστυνομίας και Frontex.",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
+    }
+   ]
+  },
+  {
+   "id": "be7eb39f2cd49680",
+   "title": "US military commanders are deliberately letting some Iranian missiles and drones through their air defenses to conserve dwindling interceptor stocks.  With Iran having fired nearly…",
+   "link": "https://t.me/ClashReport/90407",
+   "summary_raw": "US military commanders are deliberately letting some Iranian missiles and drones through their air defenses to conserve dwindling interceptor stocks.  With Iran having fired nearly 9,000 projectiles since the war began, commanders now only engage threats headed for US troops — accepting hits on runways, radars, and fuel depots to preserve Patriots, THAADs, and SM-series interceptors that take years to replace.  Source: NBC",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-26T09:34:58+00:00",
+   "collected": "2026-07-26T11:39:49.751006+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "US military commanders are deliberately letting some Iranian missiles and drones through their air defenses to conserve dwindling interceptor stocks. With Iran having fired nearly 9,000 projectiles si",
+   "angle": null
+  },
+  {
+   "id": "d5373d275e0f080e",
+   "title": "Πύρινος εφιάλτης σε Γαλλία και Ισπανία: Πάνω από 280.000 άνθρωποι έχουν απομακρυνθεί – Επεκτείνονται τα μέτωπα",
+   "link": "https://www.ertnews.gr/eidiseis/diethni/pyrinos-efialtis-se-gallia-kai-ispania-pano-apo-280-000-anthropoi-exoun-apomakrynthei-epekteinontai-ta-metopa/",
+   "summary_raw": "<img alt=\"SPAIN-WILDFIRE-EMERGENCY-GOVERNMENT-CLIMATE\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"682\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/000-c37z7xr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Η τεράστια δασική πυρκαγιά στη νοτιοδυτική Γαλλία συνεχίζει να μαίνεται ανεξέλεγκτη και απειλεί την περιοχή γύρω από το Μπορντό, με τις αρχές να ανακοινώνουν ότι περισσότεροι από 220.000 άνθρωποι έχουν πλέον απομακρυνθεί από τις ζώνες κινδύνου. Η κατάσταση στη νοτιοδυτική Γαλλία παραμένει εξαιρετικά κρίσιμη, καθώς οι φλόγες εξαπλώνονται στην περιοχή Ζιρόντ (Gironde), κοντά στο Μπορντό. ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/pyrinos-efialtis-se-gallia-kai-ispania-pano-apo-280-000-anthropoi-exoun-apomakrynthei-epekteinontai-ta-metopa/\" title=\"Πύρινος εφιάλτης σε Γαλλία και Ισπανία: Πάνω από 280.000 άνθρωποι έχουν απομακρυνθεί &#8211; Επεκτείνονται τα μέτωπα\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-26T09:29:15+00:00",
+   "collected": "2026-07-26T11:38:53.445837+00:00",
+   "keywords_hit": [
+    "pomak",
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Δασικές πυρκαγιές μαίνονται ανεξέλεγκτες στη νοτιοδυτική Γαλλία και Ισπανία με πάνω από 280.000 ανθρώπους να έχουν απομακρυνθεί, ενώ οι φλόγες επεκτείνονται στην περιοχή Ζιρόντ κοντά στο Μπορντό.",
+   "angle": "Η κλιματική κρίση κτυπά την Ευρώπη: Ρεκόρ εκτοπίσεων από πυρκαγιές και τα μαθήματα για τη χώρα μας"
+  },
   {
    "id": "677bd093bc85f41c",
    "title": "The US has burned through roughly a third of its total pre-war stockpile of key precision munitions in Iran War.  Interceptors are the most exposed: up to 80% of THAAD (190–290 of …",
@@ -68,6 +294,25 @@
     "Πενταπόσταγμα",
     "Τα Νέα"
    ]
+  },
+  {
+   "id": "2108aaf44fa7ff7a",
+   "title": "Σχέδια Βελτίωσης: Πακέτο 260 εκατ. ευρώ για τον εκσυγχρονισμό του πρωτογενούς τομέα",
+   "link": "https://www.tanea.gr/2026/07/26/economy/sxedia-veltiosis-paketo-260-ekat-eyro-gia-ton-eksygxronismo-toy-protogenoys-tomea/",
+   "summary_raw": "<div><img alt=\"Φύση και οικονομία\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2025/12/oikonomia-12-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Η νέα Πρόσκληση των Σχεδίων Βελτίωσης, προϋπολογισμού 260 εκατ. ευρώ, στοχεύει στον εκσυγχρονισμό των ελληνικών γεωργικών εκμεταλλεύσεων, ενισχύοντας την ανταγωνιστικότητα και την προσαρμογή στην κλιματική αλλαγή.",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-26T09:02:44+00:00",
+   "collected": "2026-07-26T11:39:41.919508+00:00",
+   "keywords_hit": [
+    "κλιματικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Η νέα Πρόσκληση των Σχεδίων Βελτίωσης, προϋπολογισμού 260 εκατ. ευρώ, στοχεύει στον εκσυγχρονισμό των ελληνικών γεωργικών εκμεταλλεύσεων, ενισχύοντας την ανταγωνιστικότητα και την προσαρμογή στην κλιμ",
+   "angle": null
   },
   {
    "id": "e0534156e5d1d166",
@@ -257,6 +502,43 @@
      "name": "Κρήτη",
      "lat": 35.24,
      "lon": 24.81
+    }
+   ]
+  },
+  {
+   "id": "781f95d2d85351ad",
+   "title": "Καταστροφική και Παράνομη Αλιεία από 4 Τουρκικές Μηχανότρατες στα Ελληνικά Χωρικά Ύδατα μεταξύ Σάμου, Φούρνων και Πάτμου",
+   "link": "https://www.dimokratiki.gr/26-07-2026/katastrofiki-ke-paranomi-aliia-apo-4-tourkikes-michanotrates-sta-ellinika-chorika-ydata-metaxy-samou-fournon-ke-patmou/?utm_source=rss&utm_medium=rss&utm_campaign=katastrofiki-ke-paranomi-aliia-apo-4-tourkikes-michanotrates-sta-ellinika-chorika-ydata-metaxy-samou-fournon-ke-patmou",
+   "summary_raw": "<p>Επί τουλάχιστον μία εβδομάδα, τέσσερις τουρκικές μηχανότρατες αλιεύουν παράνομα εντός των ελληνικών χωρικών υδάτων, σε μία από τις πλέον ευαίσθητες και οικολογικά σημαντικές θαλάσσιες περιοχές του Αιγαίου, μεταξύ Σάμου, Φούρνων και Πάτμου, εφαρμόζοντας μία από τις πλέον καταστροφικές αλιευτικές μεθόδους για τα θαλάσσια οικοσυστήματα. Με πρόσχημα και αφετηρία μία μικρή έκταση διεθνών υδάτων νότια της...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/26-07-2026/katastrofiki-ke-paranomi-aliia-apo-4-tourkikes-michanotrates-sta-ellinika-chorika-ydata-metaxy-samou-fournon-ke-patmou/\" style=\"font-size: 12px;\" title=\"Καταστροφική και Παράνομη Αλιεία από 4 Τουρκικές Μηχανότρατες στα Ελληνικά Χωρικά Ύδατα μεταξύ Σάμου, Φούρνων και Πάτμου\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/26-07-2026/katastrofiki-ke-paranomi-aliia-apo-4-tourkikes-michanotrates-sta-ellinika-chorika-ydata-metaxy-samou-fournon-ke-patmou/\">Καταστροφική και Παράνομη Αλιεία από 4 Τουρκικές Μηχανότρατες στα Ελληνικά Χωρικά Ύδατα μεταξύ Σάμου, Φούρνων και Πάτμου</a></p>",
+   "source": "Δημοκρατική Ρόδου",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-07-26T07:37:24+00:00",
+   "collected": "2026-07-26T11:39:34.216236+00:00",
+   "keywords_hit": [
+    "αιγαίο",
+    "χωρικά ύδατα"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Τέσσερις τουρκικές μηχανότρατες αλιεύουν παράνομα εντός ελληνικών χωρικών υδάτων μεταξύ Σάμου, Φούρνων και Πάτμου, χρησιμοποιώντας καταστροφικές μεθόδους για τα θαλάσσια οικοσυστήματα.",
+   "angle": "Η Ελλάδα απέναντι στην τουρκική αλιευτική παραβατικότητα: Γιατί δεν δρα πιο αποφασιστικά",
+   "locations": [
+    {
+     "name": "Σάμος",
+     "lat": 37.75,
+     "lon": 26.98
+    },
+    {
+     "name": "Πάτμος",
+     "lat": 37.32,
+     "lon": 26.55
+    },
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
     }
    ]
   },
@@ -461,6 +743,23 @@
    ]
   },
   {
+   "id": "ab8d99ed76784643",
+   "title": "“Why should culture be bound by specific modern borders?”—Archaeologist Mario Trabucco della Torretta",
+   "link": "https://europeanconservative.com/articles/interviews/archaeologist-mario-trabucco-della-torretta/",
+   "summary_raw": "“If we allow heritage to be stripped of its significance and handed over to competing tribes, we won't just lose our museums—we will lose the ability to see ourselves in the history of others.”",
+   "source": "The European Conservative",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-07-26T06:00:00+00:00",
+   "collected": "2026-07-26T11:39:46.579067+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο αρχαιολόγος Μάριο Τραμπούτσο δέλα Τορέτα προειδοποιεί ότι η αναγνώριση πολιτιστικών κληρονομιών ως ιδιοκτησίας συγκεκριμένων εθνών απειλεί τα μουσεία και την ικανότητά μας να κατανοούμε ιστορικές συνδέσεις μεταξύ πολιτισμών.",
+   "angle": "Ο κίνδυνος της «φυλετικοποίησης» του πολιτιστικού περιουσιακού στοιχείου: Πώς τα σύγχρονα σύνορα αποτελούν απειλή για τα παγκόσμια μουσεία"
+  },
+  {
    "id": "33fdf95430efce95",
    "title": "Συνολικά 900+1 έργα για ύδρευση και αποχέτευση σε έναν στους δύο δήμους σε όλη τη χώρα – Η νέα εθνική πολιτική για το νερό",
    "link": "https://www.ertnews.gr/eidiseis/ellada/synolika-900-1-erga-gia-ydreysi-kai-apoxeteysi-se-enan-stous-dyo-dimous-se-oli-ti-xora-i-nea-ethniki-politiki-gia-to-nero/",
@@ -528,6 +827,32 @@
    "turkish_narrative": false,
    "summary_el": "Η Ελληνική Αριστερή Συσπείρωση (ΕΛΑΣ) εξέδωσε ανακοίνωση σχετικά με τη συμμετοχή της ελληνικής πυροβολαρχίας αντιαεροπορικών πυραύλων Patriot στη Σαουδική Αραβία, εκφράζοντας την αντίθεσή της στη συνέ",
    "angle": null
+  },
+  {
+   "id": "0c681881e325d780",
+   "title": "Μέτρα πρόληψης πυρκαγιών: Συστάσεις προς αγρότες από την Αποκεντρωμένη Διοίκηση Μακεδονίας – Θράκης - xronos.gr",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaE5VeFdjUnQ0dF9iT0o3NzBKeU93NHlLLTVqc3BYRlhpMmFmdTRXc3BndVROSU44Y0F0Q2NsNFBnUUVLRE9LTnEtb05GYS0wekRtZEVfQTNhZjFqZnBxSDVySFlEVjJiTlVwUnc4VzItWXYyc0ZBWFY2a2FmTzlWM2xlRzkyeTNGcXlTaGVNa1BCeGFOT3R4WWhOVFdTWGtDYWtIWmwwZW1odGYzN2ZnVGw4UlJRbGVD?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaE5VeFdjUnQ0dF9iT0o3NzBKeU93NHlLLTVqc3BYRlhpMmFmdTRXc3BndVROSU44Y0F0Q2NsNFBnUUVLRE9LTnEtb05GYS0wekRtZEVfQTNhZjFqZnBxSDVySFlEVjJiTlVwUnc4VzItWXYyc0ZBWFY2a2FmTzlWM2xlRzkyeTNGcXlTaGVNa1BCeGFOT3R4WWhOVFdTWGtDYWtIWmwwZW1odGYzN2ZnVGw4UlJRbGVD?oc=5\" target=\"_blank\">Μέτρα πρόληψης πυρκαγιών: Συστάσεις προς αγρότες από την Αποκεντρωμένη Διοίκηση Μακεδονίας – Θράκης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xronos.gr</font>",
+   "source": "Χρόνος (Κομοτηνή)",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-07-26T05:03:19+00:00",
+   "collected": "2026-07-26T11:38:57.007734+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Μέτρα πρόληψης πυρκαγιών: Συστάσεις προς αγρότες από την Αποκεντρωμένη Διοίκηση Μακεδονίας – Θράκης xronos.gr",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
+   ]
   },
   {
    "id": "d09d3852b8e8174a",
@@ -9283,6 +9608,23 @@
     "Breitbart",
     "Daily Signal"
    ]
+  },
+  {
+   "id": "162ea1a3910671f8",
+   "title": "31.07.2026: Λίστα υποθέσεων ασύλου των οποίων τα ταξιδιωτικά έγγραφα είναι έτοιμα προς παράδοση στους δικαιούχους (ΠΑΡΑΛΑΒΗ ΑΠΟ ΤΟ ΠΓΑ ATTIKHΣ).",
+   "link": "https://migration.gov.gr/31-07-2026-lista-ypotheseon-asyloy-ton-opoion-ta-taxidiotika-eggrafa-einai-etoima-pros-paradosi-stoys-dikaioychoys-paralavi-apo-to-pga-attikhs/?utm_source=rss&utm_medium=rss&utm_campaign=31-07-2026-lista-ypotheseon-asyloy-ton-opoion-ta-taxidiotika-eggrafa-einai-etoima-pros-paradosi-stoys-dikaioychoys-paralavi-apo-to-pga-attikhs",
+   "summary_raw": "<p>   </p>\nThe post <a href=\"https://migration.gov.gr/31-07-2026-lista-ypotheseon-asyloy-ton-opoion-ta-taxidiotika-eggrafa-einai-etoima-pros-paradosi-stoys-dikaioychoys-paralavi-apo-to-pga-attikhs/\">31.07.2026: Λίστα υποθέσεων ασύλου των οποίων τα ταξιδιωτικά έγγραφα είναι έτοιμα προς παράδοση στους δικαιούχους (ΠΑΡΑΛΑΒΗ ΑΠΟ ΤΟ ΠΓΑ ATTIKHΣ).</a> first appeared on <a href=\"https://migration.gov.gr\">Υπουργείο Μετανάστευσης και Ασύλου</a>.",
+   "source": "Υπουργείο Μετανάστευσης",
+   "side": "greek_official",
+   "lang": "el",
+   "published": "2026-07-24T09:50:48+00:00",
+   "collected": "2026-07-26T11:39:13.435097+00:00",
+   "keywords_hit": [],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "The post 31.07.2026: Λίστα υποθέσεων ασύλου των οποίων τα ταξιδιωτικά έγγραφα είναι έτοιμα προς παράδοση στους δικαιούχους (ΠΑΡΑΛΑΒΗ ΑΠΟ ΤΟ ΠΓΑ ATTIKHΣ). first appeared on Υπουργείο Μετανάστευσης και ",
+   "angle": null
   },
   {
    "id": "acee047797c62469",
@@ -30941,6 +31283,23 @@
    ]
   },
   {
+   "id": "8224dadc29ca296b",
+   "title": "How vulnerable is the Gulf to attacks on desalination plants? - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaV9ZY2dfV0VMTkFrcjJCdFpnakRLVEt3cU9DLVF2Zlc4aUdlc1Nfd2RaNTRvTnZvUExLZWwyVFYzUFZVeUhXeDBEUV9uMVRZNjNFdmxqNmJnN2NQd3NiWVJRVVJ5UTB0ZkpNQU5rbEFKNjdkNV9FekFlOWFRNkMtbXNiS09RQzhGT1VUTjUwNVVSbDkzeElRUEtqMHRVYkhOWjVYcVRDVFFmc3BBU0dnVjFtdmRSbVFFWFplZ1N6LXd2V0JMTmRvdWotcFhoRjVPR3hr?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaV9ZY2dfV0VMTkFrcjJCdFpnakRLVEt3cU9DLVF2Zlc4aUdlc1Nfd2RaNTRvTnZvUExLZWwyVFYzUFZVeUhXeDBEUV9uMVRZNjNFdmxqNmJnN2NQd3NiWVJRVVJ5UTB0ZkpNQU5rbEFKNjdkNV9FekFlOWFRNkMtbXNiS09RQzhGT1VUTjUwNVVSbDkzeElRUEtqMHRVYkhOWjVYcVRDVFFmc3BBU0dnVjFtdmRSbVFFWFplZ1N6LXd2V0JMTmRvdWotcFhoRjVPR3hr?oc=5\" target=\"_blank\">How vulnerable is the Gulf to attacks on desalination plants?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters Sustainability",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-07-21T07:00:00+00:00",
+   "collected": "2026-07-26T11:39:24.376150+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ανάλυση της τρωτότητας των εγκαταστάσεων αφαλάτωσης του Περσικού Κόλπου σε ενδεχόμενες επιθέσεις.",
+   "angle": null
+  },
+  {
    "id": "44d8314f15f1aac3",
    "title": "Φρεγάτες FDI: Η δικαίωση των Ναυάρχων – Οι λόγοι που το Πολεμικό Ναυτικό έκανε τη σωστή επιλογή",
    "link": "https://www.onalert.gr/enoples-dynameis/fregates-fdi-i-dikaiosi-ton-nayarxon-oi-logoi-pou-to-polemiko-naytiko-ekane-ti-sosti-epilogi/809083/",
@@ -39560,528 +39919,6 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Εξαφανίστηκαν και αναζητούνται από τις Αρχές η 15χρονη Ραφαέλλα Μ. από τη Νάουσα Ημαθίας και ο 14χρονος Γιούσεφ Οσμάν από τον χώρο φιλοξενίας ασυνόδευτων ανηλίκων στη Μακρινίτσα Βόλου The post Συναγερ",
-   "angle": null
-  },
-  {
-   "id": "a1d5d729dda35e0c",
-   "title": "New Oil Field Strengthens Libya’s Energy Growth Plans",
-   "link": "https://libyareview.com/66954/new-oil-field-strengthens-libyas-energy-growth-plans/",
-   "summary_raw": "<p>Libya’s newly confirmed Cyclone oil field is expected to strengthen the country’s plans to expand crude production and reinforce its position among Africa’s leading oil producers, according to a report by the US-based platform Business Insider Africa. The report said the National Oil Corporation has completed the technical and commercial evaluation of the Cyclone oil [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/66954/new-oil-field-strengthens-libyas-energy-growth-plans/\">New Oil Field Strengthens Libya’s Energy Growth Plans</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-07-19T11:37:52+00:00",
-   "collected": "2026-07-19T12:08:29.447719+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "Ενέργεια",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Libya’s newly confirmed Cyclone oil field is expected to strengthen the country’s plans to expand crude production and reinforce its position among Africa’s leading oil producers, according to a repor",
-   "angle": null
-  },
-  {
-   "id": "4d3e0ec08a3eaf99",
-   "title": "Οι ΗΠΑ επιτέθηκαν σε υπό κατασκευή πυρηνικό σταθμό στο Ιράν",
-   "link": "https://www.protothema.gr/world/article/1853219/oi-ipa-epitethikan-se-upo-kataskeui-puriniko-stathmo-sto-iran/?utm_source=rss",
-   "summary_raw": "«Σε μία επιθετική και στυγνή ενέργεια αντίθετη με το διεθνές δίκαιο, επιτέθηκαν στον πυρηνικό σταθμό της Νταρχοβίν, που είναι υπό κατασκευή (...) με έναν ορισμένο αριθμό βλημάτων σήμερα», ανέφερε ο Οργανισμός Ατομικής Ενέργειας του Ιράν",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-19T11:36:47+00:00",
-   "collected": "2026-07-19T12:08:58.132671+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "«Σε μία επιθετική και στυγνή ενέργεια αντίθετη με το διεθνές δίκαιο, επιτέθηκαν στον πυρηνικό σταθμό της Νταρχοβίν, που είναι υπό κατασκευή (...) με έναν ορισμένο αριθμό βλημάτων σήμερα», ανέφερε ο Ορ",
-   "angle": null
-  },
-  {
-   "id": "7333caf6142233cb",
-   "title": "Διάσωση 60 παράνομων μεταναστών νότια της Ιεράπετρας από σκάφος του Λιμενικού",
-   "link": "https://www.protothema.gr/greece/article/1853216/diasosi-60-paranomon-metanaston-notia-tis-ierapetras-apo-skafos-tou-limenikou/?utm_source=rss",
-   "summary_raw": "Μεταφέρονται με ασφάλεια στο λιμάνι της Ιεράπετρας",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-19T11:31:20+00:00",
-   "collected": "2026-07-19T12:08:58.132760+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "λιμενικ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Διάσωση 60 παράνομων μεταναστών από το Λιμενικό νότια της Ιεράπετρας, με ασφαλή μεταφορά στο λιμάνι.",
-   "angle": null
-  },
-  {
-   "id": "447af91aefd75ba3",
-   "title": "Νέα κλιμάκωση στη Μέση Ανατολή: Το Ιράν καταγγέλλει αμερικανικό πλήγμα σε πυρηνικό εργοστάσιο – Drones κατά Κουβέιτ και Μπαχρέιν",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/nea-klimakosi-sti-mesi-anatoli-to-iran-kataggellei-amerikaniko-pligma-se-pyriniko-ergostasio-drones-kata-kouveit-kai-mpaxrein/",
-   "summary_raw": "<img alt=\"IRAN-US-ISRAEL-WAR\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/000-c2jr9dr-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Νέα επικίνδυνη κλιμάκωση σημειώνεται στη σύγκρουση ΗΠΑ και Ιράν, με την Τεχεράνη να καταγγέλλει ότι οι αμερικανικές δυνάμεις έπληξαν υπό κατασκευή πυρηνικό εργοστάσιο στο νοτιοδυτικό Ιράν, ενώ Κουβέιτ και Μπαχρέιν ανακοίνωσαν ότι αντιμετώπισαν ιρανικές επιθέσεις με πυραύλους και drones. Η Οργάνωση Ατομικής Ενέργειας του Ιράν ανακοίνωσε ότι το εργοστάσιο πυρηνικής ενέργειας στο Νταρκχοβίν, στην επαρχία ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/nea-klimakosi-sti-mesi-anatoli-to-iran-kataggellei-amerikaniko-pligma-se-pyriniko-ergostasio-drones-kata-kouveit-kai-mpaxrein/\" title=\"Νέα κλιμάκωση στη Μέση Ανατολή: Το Ιράν καταγγέλλει αμερικανικό πλήγμα σε πυρηνικό εργοστάσιο &#8211; Drones κατά Κουβέιτ και Μπαχρέιν\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-07-19T11:30:56+00:00",
-   "collected": "2026-07-19T12:07:38.727825+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Νέα κλιμάκωση μεταξύ ΗΠΑ-Ιράν: Τεχεράνη καταγγέλλει αμερικανική επίθεση στο πυρηνικό εργοστάσιο Νταρκχοβίν, ενώ Κουβέιτ και Μπαχρέιν αναφέρουν ιρανικές επιθέσεις με πυραύλους και drones.",
-   "angle": "Το σχέδιο εκδίκησης του Ιράν: πώς η χρήση drones και πυραύλων κατά Κουβέιτ-Μπαχρέιν επαναφέρει τη σύγκρουση σε κρίσιμο σημείο;"
-  },
-  {
-   "id": "b999fd10b1143dc9",
-   "title": "ΤΕΕ Θράκης: «δεν θα βγει νέος νόμος τακτοποίησης αυθαιρέτων» - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rdWQ2bHJqX3NCWVU0d0tBVm1ReUxEVEZCeDZMQTAxVTk4RzBGS2J4ZnhtZHVPWU52a2tnWmNJamdodzNDTGJlQXlzZ1c4Sk5ZdXBXVUg2QXBQUmVad3FMRF9BNllscFNFV3d6WFhR?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1rdWQ2bHJqX3NCWVU0d0tBVm1ReUxEVEZCeDZMQTAxVTk4RzBGS2J4ZnhtZHVPWU52a2tnWmNJamdodzNDTGJlQXlzZ1c4Sk5ZdXBXVUg2QXBQUmVad3FMRF9BNllscFNFV3d6WFhR?oc=5\" target=\"_blank\">ΤΕΕ Θράκης: «δεν θα βγει νέος νόμος τακτοποίησης αυθαιρέτων»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-07-19T11:25:16+00:00",
-   "collected": "2026-07-20T11:16:11.216329+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η ΤΕΕ Θράκης δήλωσε ότι δεν αναμένει νέο νόμο για την τακτοποίηση αυθαιρέτων κατασκευών.",
-   "angle": null
-  },
-  {
-   "id": "deee4388e1236a44",
-   "title": "Iran says US attack targeted nuclear power plant under construction",
-   "link": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-us-attack-targeted-nuclear-power-plant-under-construction/4002833",
-   "summary_raw": "Tehran did not give details about possible damage from attack on Darkhovin plant",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-07-19T11:13:37+00:00",
-   "collected": "2026-07-19T12:07:35.140794+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το Ιράν καταγγέλλει αμερικανικό πλήγμα στο πυρηνικό εργοστάσιο Darkhovin υπό κατασκευή, χωρίς να δίνει λεπτομέρειες για πιθανές ζημιές.",
-   "angle": "Η απόσπασμα αμερικανική απάντηση στο ιρανικό πρόγραμμα πυρηνικής ενέργειας: τι σημαίνει για τη σταθερότητα στη Μέση Ανατολή;"
-  },
-  {
-   "id": "f568f39c0030bddc",
-   "title": "ESG Today: Week in Review",
-   "link": "https://www.esgtoday.com/esg-today-week-in-review-270/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-270",
-   "summary_raw": "<p><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"942\" src=\"https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Austria.jpg\" width=\"1389\" /></p>This week in ESG news: EU moves to relieve pressure of ETS carbon pricing system [&#8230;]",
-   "source": "ESG Today",
-   "side": "green_esg",
-   "lang": "en",
-   "published": "2026-07-19T11:10:37+00:00",
-   "collected": "2026-07-19T12:08:42.765375+00:00",
-   "keywords_hit": [
-    "esg"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Εβδομαδιαία ανασκόπηση ESG: η ΕΕ λαμβάνει μέτρα για ανακούφιση πιέσεων στο σύστημα τιμολόγησης ETS.",
-   "angle": null
-  },
-  {
-   "id": "9c5aad41d6fb948f",
-   "title": "Majority of US voters link extreme weather to climate crisis, study finds",
-   "link": "https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study",
-   "summary_raw": "<p>Top Democrat says findings show public ‘way ahead of the politicians’ as Trump dismisses global heating as ‘hoax’</p><p>Amid a summer of dangerous <a href=\"https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary\">heat</a>, <a href=\"https://www.theguardian.com/us-news/2026/jul/07/lake-powell-water-crisis\">drought</a> and <a href=\"https://www.theguardian.com/us-news/2026/jun/27/kentucky-flood-deaths-storms\">floods</a>, a majority of Americans are connecting increasingly severe weather to the climate crisis, new polling shows, despite efforts by Donald Trump to dismiss global heating as a “con job” and a “hoax”.</p><p>It’s a sign that attempts to suppress and polarize climate concerns may not be seeing full success, said Grace Adcox, senior climate strategist at Data for Progress.</p> <a href=\"https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study\">Continue reading...</a>",
-   "source": "Guardian Environment",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-07-19T11:00:26+00:00",
-   "collected": "2026-07-20T22:15:33.058193+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Δημοσκόπηση δείχνει ότι οι περισσότεροι Αμερικανοί συνδέουν τα ακραία καιρικά φαινόμενα με την κλιματική κρίση, αντιτιθέμενοι στις θέσεις του Τράμπ που την αποκαλεί «δόλο».",
-   "angle": null,
-   "corroborated_by": [
-    "Grist"
-   ]
-  },
-  {
-   "id": "920669c0a4e32ea4",
-   "title": "ΠΡΕΠΕΙ ΝΑ ΤΟ ΔΕΙΤΕ! Κύπριος ψαράς έπαθε σοκ όταν ελληνικό F-16 πέταξε «ξυράφι» από την θάλασσα",
-   "link": "https://www.pentapostagma.gr/videos/7381095_prepei-na-deite-kyprios-psaras-epathe-sok-otan-elliniko-f-16-petaxe-xyrafi-apo-tin",
-   "summary_raw": "Πάφος: Η εντυπωσιακή πτήση F-16 πίσω από ψαρά που τον άφησε έκπληκτο Ένα ιδιαίτερο και σπάνιο στιγμιότυπο κατέγραψε ο...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-07-19T11:00:25+00:00",
-   "collected": "2026-07-19T12:08:32.913123+00:00",
-   "keywords_hit": [
-    "f-16"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Πάφος: Η εντυπωσιακή πτήση F-16 πίσω από ψαρά που τον άφησε έκπληκτο Ένα ιδιαίτερο και σπάνιο στιγμιότυπο κατέγραψε ο...",
-   "angle": null
-  },
-  {
-   "id": "850bbc1fb62f02bf",
-   "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
-   "link": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
-   "summary_raw": "<p>From Nevada to Manchester, developers are trialling innovative solutions to clean energy’s biggest challenge</p><p>In the deserts of the United Arab Emirates a sprawling <a href=\"https://www.reuters.com/sustainability/climate-energy/how-falling-battery-costs-are-igniting-race-round-the-clock-solar-power--ecmii-2026-03-10/\">clean energy project</a>, stretching across an area roughly the size of 12,600 football fields, will play host to a breakthrough allowing solar energy to power the equivalent of half a million homes through the night.</p><p>The Gulf state has been steadily combining 5.2GW of solar power capacity with 19GWh of battery storage to create the largest battery scheme in the world.</p> <a href=\"https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy\">Continue reading...</a>",
-   "source": "Guardian Environment",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-07-19T11:00:25+00:00",
-   "collected": "2026-07-19T12:08:43.073684+00:00",
-   "keywords_hit": [
-    "climate",
-    "renewable",
-    "solar"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Κατανόηση νέων τεχνολογιών αποθήκευσης ενέργειας: από τις Ηνωμένες Αραβικές Εμιράτες έως τη Μάντσεστερ, δοκιμάζονται innovative λύσεις με τήγμα άλατος και ανθρώπινο ιδρώτα.",
-   "angle": "Μοριακές ή «παράξενες» μπαταρίες ως λύση: πώς οι νέες τεχνολογίες αποθήκευσης θα μπορούσαν να επαναπροσδιορίσουν την ηλιακή ενέργεια στην Ελλάδα;"
-  },
-  {
-   "id": "81f10d7aca539f5b",
-   "title": "Ρύθμιση οφειλών σε 72 δόσεις: Δημοσιεύτηκε η εγκύκλιος από την ΑΑΔΕ - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmF3TGYtalRlT2dBcHh0RUVqSThwMVF5SldxN3RoRmR3MXFsdFdGZkNyOWhyTW5NTVk1RzM2ZHZ3NWl5aHpQZ3V1MDZmUUlFa1NNSU9mSklmRGF3VnR6YW1ISmJ0RUhkMEgxUjBJcWxwTEpQRjF2azBOdHVyOG0wWmFlV1BrLVJ1YnZDcmNSTE1meXlhZ2RQY2E5Ylhydkd6TFBLbW1ZWUNJczJPWnBN?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmF3TGYtalRlT2dBcHh0RUVqSThwMVF5SldxN3RoRmR3MXFsdFdGZkNyOWhyTW5NTVk1RzM2ZHZ3NWl5aHpQZ3V1MDZmUUlFa1NNSU9mSklmRGF3VnR6YW1ISmJ0RUhkMEgxUjBJcWxwTEpQRjF2azBOdHVyOG0wWmFlV1BrLVJ1YnZDcmNSTE1meXlhZ2RQY2E5Ylhydkd6TFBLbW1ZWUNJczJPWnBN?oc=5\" target=\"_blank\">Ρύθμιση οφειλών σε 72 δόσεις: Δημοσιεύτηκε η εγκύκλιος από την ΑΑΔΕ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-07-19T11:00:00+00:00",
-   "collected": "2026-07-21T22:13:22.188047+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Ρύθμιση οφειλών σε 72 δόσεις: Δημοσιεύτηκε η εγκύκλιος από την ΑΑΔΕ Παρατηρητής της Θράκης",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "2af3db44debd7b99",
-   "title": "EU Taps the Brakes on ETS Carbon Pricing System",
-   "link": "https://www.esgtoday.com/eu-taps-the-brakes-on-ets-carbon-pricing-system/?utm_source=rss&utm_medium=rss&utm_campaign=eu-taps-the-brakes-on-ets-carbon-pricing-system",
-   "summary_raw": "<p><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"768\" src=\"https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags-1.jpg\" width=\"1024\" /></p>The European Commission announced the release of its highly-anticipated EU Emissions Trading System (ETS) review, [&#8230;]",
-   "source": "ESG Today",
-   "side": "green_esg",
-   "lang": "en",
-   "published": "2026-07-19T10:55:53+00:00",
-   "collected": "2026-07-19T12:08:42.765516+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Ευρωπαϊκή Επιτροπή ανακοίνωσε τη δημοσίευση της αναθεώρησης του Συστήματος Εμπορίας Εκπομπών (ETS), σηματοδοτώντας αλλαγή στη στρατηγική τιμολόγησης CO2.",
-   "angle": "Πώς η αναθεώρηση του ETS επηρεάζει την ευρωπαϊκή βιομηχανία και την ανταγωνιστικότητά της απέναντι στις ΗΠΑ και την Κίνα;"
-  },
-  {
-   "id": "7f9ccc28420269fa",
-   "title": "Typhoon Project: καθαρισμός ακτών σε έξι νησιά του Νοτίου Αιγαίου - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMHFUa294Q2FPQnJQU0tJcFktMHBWd09FTC1maWVFY1RKSjdvLXg3ZEZMR0lpWXdqM0hVbWhPQVRpalJvUDc0TjFTaFhqVjRzeGljS084RTVQbUIzUFZPWDN4dGgyV2Fob0NTVlFJRm02NWNxUFJDRnZxYTY1Zw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMHFUa294Q2FPQnJQU0tJcFktMHBWd09FTC1maWVFY1RKSjdvLXg3ZEZMR0lpWXdqM0hVbWhPQVRpalJvUDc0TjFTaFhqVjRzeGljS084RTVQbUIzUFZPWDN4dGgyV2Fob0NTVlFJRm02NWNxUFJDRnZxYTY1Zw?oc=5\" target=\"_blank\">Typhoon Project: καθαρισμός ακτών σε έξι νησιά του Νοτίου Αιγαίου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-07-19T10:46:02+00:00",
-   "collected": "2026-07-19T18:13:35.795503+00:00",
-   "keywords_hit": [
-    "αιγαίο"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το Typhoon Project προχωρά σε καθαρισμό ακτών σε έξι νησιά του Νοτίου Αιγαίου με στόχο την περιβαλλοντική αποκατάσταση.",
-   "angle": null
-  },
-  {
-   "id": "1028ab5b95e1470e",
-   "title": "UK Government Backtracks on Plans to Introduce Digital ID System After Public Backlash",
-   "link": "https://www.breitbart.com/europe/2026/07/19/uk-government-backtracks-on-plans-to-introduce-digital-id-system-after-public-backlash/",
-   "summary_raw": "<p>The British government will scrap plans to introduce a digital ID system after steep public backlash, the office of incoming prime minister Andy Burnham has confirmed.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/07/19/uk-government-backtracks-on-plans-to-introduce-digital-id-system-after-public-backlash/\" rel=\"nofollow\">UK Government Backtracks on Plans to Introduce Digital ID System After Public Backlash</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-19T10:44:47+00:00",
-   "collected": "2026-07-20T15:24:45.824329+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο νέος πρωθυπουργός Burnham καταργεί το σχέδιο ψηφιακής ταυτότητας μετά από έντονη δημόσια αντίδραση.",
-   "angle": "Νικη των πολιτών κατά του ψηφιακού συστήματος παρακολούθησης: τι σηματοδοτεί η απόφαση του Burnham για τα δικαιώματα στη Βρετανία;"
-  },
-  {
-   "id": "b80bc3d78b4a86ce",
-   "title": "⚡️ Iran: Atomic Energy: This attack will increase the determination of Iranian nuclear industry experts to continue the path of progress",
-   "link": "https://t.me/me_observer_TG/1049150",
-   "summary_raw": "⚡️ Iran: Atomic Energy: This attack will increase the determination of Iranian nuclear industry experts to continue the path of progress",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-07-19T10:31:11+00:00",
-   "collected": "2026-07-19T10:48:05.346631+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ Iran: Atomic Energy: This attack will increase the determination of Iranian nuclear industry experts to continue the path of progress",
-   "angle": null
-  },
-  {
-   "id": "9aa48585fa18fc2c",
-   "title": "⚡️ 🔺Statement by the Atomic Energy Organization of Iran condemning the terrorist attack by the US regime on the under-construction Darkhovin nuclear power plant site 🔹The Atomic En…",
-   "link": "https://t.me/me_observer_TG/1049149",
-   "summary_raw": "⚡️ 🔺Statement by the Atomic Energy Organization of Iran condemning the terrorist attack by the US regime on the under-construction Darkhovin nuclear power plant site 🔹The Atomic Energy Organization of Iran issued a statement condemning the terrorist attack by the US regime on the under-construction Darkhovin nuclear power plant site. 🔹The statement by the Atomic Energy Organization of Iran condemning the terrorist attack by the US regime on the under-construction Darkhovin nuclear power plant site is as follows: The terrorist and criminal US regime, whose nature is nothing but bullying and lawlessness, in an aggressive and barbaric act contrary to international laws, attacked the under-construction Darkhovin power plant site - one of the symbols of the Iranian nation's honor and scientific self-sufficiency - with several projectiles on Sunday, July 19, 2026, around 3:39 AM local time. @ribnews",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-07-19T10:30:17+00:00",
-   "collected": "2026-07-19T10:48:05.346499+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Ατομική Οργανισμός του Ιράν εξέδωσε δήλωση καταδίκης για την αμερικανική επίθεση στο εργοτάξιο του πυρηνικού σταθμού Darkhovin που βρίσκεται υπό κατασκευή.",
-   "angle": null
-  },
-  {
-   "id": "08f46dddb5b6ba38",
-   "title": "⚡️ Iran: Atomic Energy: The American aggression against the Darkhovin nuclear plant, which is still under construction, is considered an attack on a peaceful nuclear facility.",
-   "link": "https://t.me/me_observer_TG/1049145",
-   "summary_raw": "⚡️ Iran: Atomic Energy: The American aggression against the Darkhovin nuclear plant, which is still under construction, is considered an attack on a peaceful nuclear facility.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-07-19T10:28:51+00:00",
-   "collected": "2026-07-19T10:48:05.345729+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Ιράν χαρακτηρίζει την αμερικανική επίθεση στον πυρηνικό σταθμό Darkhovin ως επίθεση σε ειρηνική πυρηνική εγκατάσταση που βρίσκεται ακόμη υπό κατασκευή.",
-   "angle": null
-  },
-  {
-   "id": "369dc29aaeee846a",
-   "title": "⚡️ Atomic Energy Organization of Iran Condemns US Attack on Darkhovin Nuclear Plant  The Atomic Energy Organization of Iran issued a statement condemning the terrorist attack carri…",
-   "link": "https://t.me/me_observer_TG/1049142",
-   "summary_raw": "⚡️ Atomic Energy Organization of Iran Condemns US Attack on Darkhovin Nuclear Plant  The Atomic Energy Organization of Iran issued a statement condemning the terrorist attack carried out by the United States government on the construction site of the Darkhovin nuclear power plant.  The statement from the Atomic Energy Organization of Iran, condemning the terrorist attack by the United States government on the construction site of the Darkhovin nuclear power plant, read as follows: The terrorist and crime-involved United States government, whose nature is nothing but tyranny and lawlessness, in an aggressive and barbaric act contrary to international laws, on Sunday, July 28, at approximately 3:39 AM local time, launched an attack on the construction site of the Darkhovin nuclear power plant – one of the symbols of Iran's scientific determination and self-sufficiency – using a number of missiles.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-07-19T10:25:56+00:00",
-   "collected": "2026-07-19T10:48:05.345004+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Ιράν κατηγορεί τις ΗΠΑ για τρομοκρατική επίθεση στο εργοτάξιο του πυρηνικού σταθμού Darkhovin που βρίσκεται ακόμη υπό κατασκευή.",
-   "angle": "Η έντασης ΗΠΑ-Ιράν κορυφώνεται: Αναφορές για επίθεση στο νέο πυρηνικό εργοτάξιο του Ιράν"
-  },
-  {
-   "id": "2d621e4ad4bdfdcf",
-   "title": "ΕΕΠΦ: ανυπόστατες οι «μαύρες λίστες» για τις ακτές κολύμβησης της Αττικής - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yZWtXdFY3X1NCeldKZUJvQTVNeFYzaTUyREE2UHdrSXBOXzdSam51aWRDU01DWUlzQjcwN0NUbk9xSE4tX3ZYdk95WklHd01ENHZQSWtpam5YQVd5QW43alZMSXlxTFE?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yZWtXdFY3X1NCeldKZUJvQTVNeFYzaTUyREE2UHdrSXBOXzdSam51aWRDU01DWUlzQjcwN0NUbk9xSE4tX3ZYdk95WklHd01ENHZQSWtpam5YQVd5QW43alZMSXlxTFE?oc=5\" target=\"_blank\">ΕΕΠΦ: ανυπόστατες οι «μαύρες λίστες» για τις ακτές κολύμβησης της Αττικής</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-07-19T10:24:40+00:00",
-   "collected": "2026-07-21T09:42:36.794129+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η ΕΕΠΦ διαψεύδει τις αναφορές για «μαύρες λίστες» ακτών στην Αττική.",
-   "angle": "Ο διάλογος της διαφάνειας: τι κρύβεται πίσω από τις αμφιλεγόμενες λίστες της ποιότητας των ατικών"
-  },
-  {
-   "id": "d3c04b5cadff00a9",
-   "title": "Συνελήφθη κυβερνήτης επιβατηγού – τουριστικού σκάφους στη Ρόδο",
-   "link": "https://www.dimokratiki.gr/19-07-2026/synelifthi-kyvernitis-epivatigou-touristikou-skafous-sti-rodo/?utm_source=rss&utm_medium=rss&utm_campaign=synelifthi-kyvernitis-epivatigou-touristikou-skafous-sti-rodo",
-   "summary_raw": "<p>Τις απογευματινές ώρες χθες, συνελήφθη 36χρονος ημεδαπός κυβερνήτης ενός επιβατηγού-τουριστικού (Ε/Γ-Τ/Ρ) σκάφους για παράβαση του άρθρου 19του Ν. 4926/2022 (Ποινικές κυρώσεις Κυβερνήτη για ανακριβείς καταστάσεις επιβαινόντων)από στελέχη της Λιμενικής Αρχής της Ρόδου. Συγκεκριμένα, σε έλεγχο που διενεργήθηκε στο λιμάνι Φαληρακίου Ρόδου, διαπιστώθηκε ότι οι επιβαίνοντες του σκάφους δεν ταυτίζονταν με αυτούς που είχαν δηλωθεί στο...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/19-07-2026/synelifthi-kyvernitis-epivatigou-touristikou-skafous-sti-rodo/\" style=\"font-size: 12px;\" title=\"Συνελήφθη κυβερνήτης επιβατηγού &#8211; τουριστικού σκάφους στη Ρόδο\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/19-07-2026/synelifthi-kyvernitis-epivatigou-touristikou-skafous-sti-rodo/\">Συνελήφθη κυβερνήτης επιβατηγού &#8211; τουριστικού σκάφους στη Ρόδο</a></p>",
-   "source": "Δημοκρατική Ρόδου",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-07-19T10:14:46+00:00",
-   "collected": "2026-07-19T17:22:32.514493+00:00",
-   "keywords_hit": [
-    "λιμενικ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Τις απογευματινές ώρες χθες, συνελήφθη 36χρονος ημεδαπός κυβερνήτης ενός επιβατηγού-τουριστικού (Ε/Γ-Τ/Ρ) σκάφους για παράβαση του άρθρου 19του Ν. 4926/2022 (Ποινικές κυρώσεις Κυβερνήτη για ανακριβείς",
-   "angle": null
-  },
-  {
-   "id": "c7762172cbaa6a6f",
-   "title": "Μετά την Αλεξανδρούπολη και η Ορεστιάδα αποκτά \"έξυπνες\" διαβάσεις - e-evros",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZi1jZU5kY2l5WndnbHZ1b3p6U2syWG5kaHhGeWhIMzl3Y2t3b3JmWTBsRzRMVDlGaHFyTzhCa3hxMHdLYzBYTnR1Ri1VMHY4aHd0RHdkR3hhYXZQOTE1V3VEWW1SeTJVYkdDX18zd1NyeDNvNmN2STk1alFUc204YWd4Q2FnWDB1YVJSZ0NSWkNZNVFtUVBfZzZhUlJ1NEVrNkFhY2JOSEdRRmhCOVBlSA?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZi1jZU5kY2l5WndnbHZ1b3p6U2syWG5kaHhGeWhIMzl3Y2t3b3JmWTBsRzRMVDlGaHFyTzhCa3hxMHdLYzBYTnR1Ri1VMHY4aHd0RHdkR3hhYXZQOTE1V3VEWW1SeTJVYkdDX18zd1NyeDNvNmN2STk1alFUc204YWd4Q2FnWDB1YVJSZ0NSWkNZNVFtUVBfZzZhUlJ1NEVrNkFhY2JOSEdRRmhCOVBlSA?oc=5\" target=\"_blank\">Μετά την Αλεξανδρούπολη και η Ορεστιάδα αποκτά \"έξυπνες\" διαβάσεις</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">e-evros</font>",
-   "source": "e-Evros",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-07-19T10:03:54+00:00",
-   "collected": "2026-07-19T15:17:44.831414+00:00",
-   "keywords_hit": [
-    "evros"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Ορεστιάδα εγκαθιστά έξυπνες διαβάσεις πεζών, ακολουθώντας το παράδειγμα της Αλεξανδρούπολης.",
-   "angle": null
-  },
-  {
-   "id": "53b8f78d6d1f3206",
-   "title": "Πώς οι Τούρκοι τουρίστες αλλάζουν το Ανατολικό Αιγαίο",
-   "link": "https://www.in.gr/2026/07/19/economy/pos-oi-tourkoi-touristes-allazoun-to-anatoliko-aigaio/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/07/67e7d75d16000016008840c4-2048x1366-1-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Το ειδικό καθεστώς Visa Express αφορά τη Λέσβο, τη Χίο, τη Σάμο, την Κω, τη Ρόδο, τη Λήμνο, τη Λέρο, την Κάλυμνο, τη Σύμη, το Καστελόριζο, την Πάτμο και τη Σαμοθράκη</p>\n<p>The post <a href=\"https://www.in.gr/2026/07/19/economy/pos-oi-tourkoi-touristes-allazoun-to-anatoliko-aigaio/\">Πώς οι Τούρκοι τουρίστες αλλάζουν το Ανατολικό Αιγαίο</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-19T09:48:46+00:00",
-   "collected": "2026-07-19T10:47:54.017474+00:00",
-   "keywords_hit": [
-    "αιγαίο",
-    "θράκη"
-   ],
-   "category": "Αιγαίο-ΑΟΖ",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Το ειδικό καθεστώς Visa Express αφορά τη Λέσβο, τη Χίο, τη Σάμο, την Κω, τη Ρόδο, τη Λήμνο, τη Λέρο, την Κάλυμνο, τη Σύμη, το Καστελόριζο, την Πάτμο και τη Σαμοθράκη The post Πώς οι Τούρκοι τουρίστες ",
-   "angle": null
-  },
-  {
-   "id": "eab5936c162c8c07",
-   "title": "Μήνυμα Πρωθυπουργού: Έργα 86 εκατ. ευρώ για την αποκατάσταση και πρόληψη στη Δαδιά - e-evros",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSDFlY2Z6VF9rX0pQRzFnbjkzQ2J5NHV0WHVsV1hzRzFVdkY1OUZZUTJ4R3BsZlBFMlROUnF0M0FiZHJRc2JlX0I1MjFkVzc3MkMxLWpGUXAzbXlhVm9hMlFMSkRMMVMxZmtORm5SQ2F6QmR5RFIxcFcxc2xPVWxFY25mU2FkaVpyM2tCNXo2ZmU1N2YwUmhNM21XeEJ0T0szb2hZdEhFdGptaGM5bVJINWJsQ202NmRmNEpqRTFiX2hwX09US3V3?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSDFlY2Z6VF9rX0pQRzFnbjkzQ2J5NHV0WHVsV1hzRzFVdkY1OUZZUTJ4R3BsZlBFMlROUnF0M0FiZHJRc2JlX0I1MjFkVzc3MkMxLWpGUXAzbXlhVm9hMlFMSkRMMVMxZmtORm5SQ2F6QmR5RFIxcFcxc2xPVWxFY25mU2FkaVpyM2tCNXo2ZmU1N2YwUmhNM21XeEJ0T0szb2hZdEhFdGptaGM5bVJINWJsQ202NmRmNEpqRTFiX2hwX09US3V3?oc=5\" target=\"_blank\">Μήνυμα Πρωθυπουργού: Έργα 86 εκατ. ευρώ για την αποκατάσταση και πρόληψη στη Δαδιά</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">e-evros</font>",
-   "source": "e-Evros",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-07-19T09:43:49+00:00",
-   "collected": "2026-07-19T13:57:01.900461+00:00",
-   "keywords_hit": [
-    "evros"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Πρωθυπουργός ανακοίνωσε έργα ύψους 86 εκατομμυρίων ευρώ για την αποκατάσταση και πρόληψη στη Δαδιά.",
-   "angle": null
-  },
-  {
-   "id": "7279e5d5e784edba",
-   "title": "Libya’s Tobruk Receives Diesel for Electricity Generation",
-   "link": "https://libyareview.com/66951/libyas-tobruk-receives-diesel-for-electricity-generation/",
-   "summary_raw": "<p>A tanker carrying diesel fuel has arrived at Tobruk Port to support electricity generation and improve the stability of Libya’s power grid. Specialist teams began pumping the fuel into the storage tanks of the Tobruk Power Station immediately after the vessel reached the port. The fuel supply will allow the station’s remaining generation units to [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/66951/libyas-tobruk-receives-diesel-for-electricity-generation/\">Libya&#8217;s Tobruk Receives Diesel for Electricity Generation</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-07-19T09:38:23+00:00",
-   "collected": "2026-07-19T13:56:29.152526+00:00",
-   "keywords_hit": [
-    "libya",
-    "tobruk"
-   ],
-   "category": "Ενέργεια",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "A tanker carrying diesel fuel has arrived at Tobruk Port to support electricity generation and improve the stability of Libya’s power grid. Specialist teams began pumping the fuel into the storage tan",
-   "angle": null
-  },
-  {
-   "id": "d83cb95911226829",
-   "title": "Trump says he ‘couldn’t care less’ about Iran leaving nuclear agreement",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-couldnt-care-less-about-iran-leaving-nuclear-agreement",
-   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-couldnt-care-less-about-iran-leaving-nuclear-agreement\" rel=\"bookmark\">\n<span class=\"field field-title\">Trump says he ‘couldn’t care less’ about Iran leaving nuclear agreement</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>US President Donald Trump said he “couldn’t care less” after Iran announced it would no longer abide by the US-Iran memorandum of understanding (MoU) signed last month.</p>\n\n<p>Speaking in a brief phone interview with US cable network NewsNation, Trump reiterated that the US’s main objective remains “never allowing Iran to have a nuclear weapon”.</p>\n\n<p>Washington and Tehran signed the MoU in mid-June in an effort to end the war launched by the US and Israel in February.</p>\n</div>\n      \n  </div>\n\n</article>",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-07-19T09:33:20+00:00",
-   "collected": "2026-07-19T13:56:26.304262+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Trump says he ‘couldn’t care less’ about Iran leaving nuclear agreement US President Donald Trump said he “couldn’t care less” after Iran announced it would no longer abide by the US-Iran memorandum o",
-   "angle": null
-  },
-  {
-   "id": "9f023e2aaa390b5a",
-   "title": "Ήθελαν να βγει από την Νέα Υόρκη",
-   "link": "https://www.philenews.com/kipros/paraskinio/article/1747917/ithelan-na-vgi-apo-tin-nea-iorki/",
-   "summary_raw": "<p>Ο Πρόεδρος Νίκος Χριστοδουλίδης έμεινε στην προαγγελία ειδήσεων για το Κυπριακό. Την Τετάρτη όταν έκανε τη δήλωση γνώριζε ήδη για τις προθέσεις του Αντόνιο Γκουτέρες να έρθει στο νησί περί τα τέλη Ιουλίου. Ωστόσο, απ&#8217; ό,τι γνωρίζουμε, σεβάστηκε την επιθυμία του διεθνούς οργανισμού η σχετική πληροφορία να βγει πρώτα από τη Νέα Υόρκη. Όσοι παρακολουθούν [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kipros/paraskinio/article/1747917/ithelan-na-vgi-apo-tin-nea-iorki/\">Ήθελαν να βγει από την Νέα Υόρκη</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-07-19T09:31:00+00:00",
-   "collected": "2026-07-19T10:47:24.594089+00:00",
-   "keywords_hit": [
-    "χριστοδουλίδης"
-   ],
-   "category": "Κυπριακό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Πρόεδρος Κύπρου Νίκος Χριστοδουλίδης γνώριζε εκ των προτέρων για την επίσκεψη του Γενικού Γραμματέα ΟΗΕ Αντόνιο Γκουτέρες στο νησί στα τέλη Ιουλίου, αλλά σεβάστηκε την επιθυμία του διεθνούς οργανισμού να ανακοινώσει πρώτα από τη Νέα Υόρκη.",
-   "angle": "Διπλωματικές συμφωνίες υπό την επιφάνεια: Πώς χειρίζονται οι πολιτικοί ηγέτες τις ανακοινώσεις για το Κυπριακό;"
-  },
-  {
-   "id": "0ab60f5cfcf49931",
-   "title": "Χωροταξικό ΑΠΕ: Με «νυστέρι» οι τελευταίες αλλαγές – Κλειδώνουν οι βασικοί περιορισμοί",
-   "link": "https://www.dimokratiki.gr/19-07-2026/chorotaxiko-ape-me-nysteri-i-teleftees-allages-klidonoun-i-vasiki-periorismi/?utm_source=rss&utm_medium=rss&utm_campaign=chorotaxiko-ape-me-nysteri-i-teleftees-allages-klidonoun-i-vasiki-periorismi",
-   "summary_raw": "<p>Στο τελικό στάδιο επεξεργασίας βρίσκεται το νέο Ειδικό Χωροταξικό Πλαίσιο για τις Ανανεώσιμες Πηγές Ενέργειας (ΑΠΕ), με το υπουργείο Περιβάλλοντος και Ενέργειας να προετοιμάζει περιορισμένες αλλαγές πριν από την οριστικοποίηση του κειμένου. Το τελικό σχέδιο αναμένεται να διαβιβαστεί μέσα στις επόμενες μέρες στο Κεντρικό Συμβούλιο Χωροταξικών Θεμάτων και Αμφισβητήσεων (ΚΕΣΥΧΩΘΑ), ώστε να διαβιβαστεί στην συνέχεια στον υπουργό και να ακολουθήσει η έκδοση της σχετικής Κοινής Υπουργικής...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/19-07-2026/chorotaxiko-ape-me-nysteri-i-teleftees-allages-klidonoun-i-vasiki-periorismi/\" style=\"font-size: 12px;\" title=\"Χωροταξικό ΑΠΕ: Με «νυστέρι» οι τελευταίες αλλαγές – Κλειδώνουν οι βασικοί περιορισμοί\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/19-07-2026/chorotaxiko-ape-me-nysteri-i-teleftees-allages-klidonoun-i-vasiki-periorismi/\">Χωροταξικό ΑΠΕ: Με «νυστέρι» οι τελευταίες αλλαγές – Κλειδώνουν οι βασικοί περιορισμοί</a></p>",
-   "source": "Δημοκρατική Ρόδου",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-07-19T09:26:27+00:00",
-   "collected": "2026-07-19T10:47:48.096883+00:00",
-   "keywords_hit": [
-    "ανανεώσιμ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Στο τελικό στάδιο επεξεργασίας βρίσκεται το νέο Ειδικό Χωροταξικό Πλαίσιο για τις Ανανεώσιμες Πηγές Ενέργειας (ΑΠΕ), με το υπουργείο Περιβάλλοντος και Ενέργειας να προετοιμάζει περιορισμένες αλλαγές π",
    "angle": null
   }
  ]
