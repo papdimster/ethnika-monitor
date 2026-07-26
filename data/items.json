@@ -1,7 +1,34 @@
 {
- "updated": "2026-07-26T21:14:52.865638+00:00",
- "count": 1862,
+ "updated": "2026-07-26T22:16:52.970424+00:00",
+ "count": 1861,
  "items": [
+  {
+   "id": "879bc5baa834127b",
+   "title": "Tripoli Protesters Announce Peaceful Civil Disobedience Campaign across West Libya",
+   "link": "https://libyareview.com/67126/tripoli-protesters-announce-peaceful-civil-disobedience-campaign-across-west-libya/",
+   "summary_raw": "<p>Libya&#8217;s Souq Al-Jumaa Movement has announced the launch of what it described as a new phase of peaceful popular action by calling for a comprehensive civil disobedience campaign in Tripoli to pressure the Government of National Unity, headed by Abdel-Hamid Dbaiba, to step down. In a statement, the movement urged citizens to participate in peaceful [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67126/tripoli-protesters-announce-peaceful-civil-disobedience-campaign-across-west-libya/\">Tripoli Protesters Announce Peaceful Civil Disobedience Campaign across West Libya</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-07-26T21:48:00+00:00",
+   "collected": "2026-07-26T22:15:20.575250+00:00",
+   "keywords_hit": [
+    "libya",
+    "tripoli"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Το κίνημα Souq Al-Jumaa στη Λιβύη ανακοίνωσε εκστρατεία ειρηνικής αποχής των πολιτών στη Τρίπολη με στόχο την παραίτηση της κυβέρνησης Dbaiba. Η δράση αποτελεί νέο στάδιο του λαϊκού κινήματος διαμαρτυρίας.",
+   "angle": "Οι εσωτερικές πολιτικές αναταραχές στη Λιβύη και η αποδυνάμωση των κυβερνητικών δομών στη Βόρειο Αφρική",
+   "locations": [
+    {
+     "name": "Τρίπολη",
+     "lat": 32.89,
+     "lon": 13.19
+    }
+   ]
+  },
   {
    "id": "2b2bcc39652fae18",
    "title": "Greece Will Not Allow a Permanent Libya-Crete Migration Route, Says Minister Plevris",
@@ -102,6 +129,25 @@
      "lon": 23.73
     }
    ]
+  },
+  {
+   "id": "1c66f3c57cfda111",
+   "title": "Trump has paused plans for a major U.S. air campaign against Iran while officials pursue diplomacy and assess concerns over dwindling U.S. air defense missile stocks.   Although th…",
+   "link": "https://t.me/ClashReport/90492",
+   "summary_raw": "Trump has paused plans for a major U.S. air campaign against Iran while officials pursue diplomacy and assess concerns over dwindling U.S. air defense missile stocks.   Although the military had prepared strikes that could have lasted up to two weeks, the operation was delayed.   Military leaders are divided over whether lower Patriot interceptor inventories pose a significant risk, while Trump insists U.S. munitions remain more than sufficient.  Source: WSJ",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-07-26T20:11:45+00:00",
+   "collected": "2026-07-26T22:16:03.086859+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο Τραμπ ανέστειλε τα σχέδια για μεγάλη αμερικανική αεροπορική εκστρατεία κατά του Ιράν, καθώς αξιωματούχοι συζητούν διπλωματικές λύσεις και εξετάζουν τις ανησυχίες περί ελλείψεων αμερικανικών αεράμυνων Patriot. Στρατιωτικοί ηγέτες διαφωνούν για τη σοβαρότητα του κινδύνου των χαμηλών αποθεμάτων.",
+   "angle": "Η αναθεώρηση της στρατιωτικής στρατηγικής ΗΠΑ εναντίον Ιράν και τα διλήμματα των αμερικανικών αποθεμάτων πολέμου"
   },
   {
    "id": "0fab8d6293ba1a20",
@@ -344,6 +390,37 @@
    "turkish_narrative": false,
    "summary_el": "Κρίσιμες συνομιλίες Ελλάδας-Λιβύης στην Αθήνα για θαλάσσιες ζώνες με βάση το Διεθνές Δίκαιο, την επήρεια νησιών και απόρριψη του τουρκολιβυκού μνημονίου.",
    "angle": "Ποιες είναι οι κόκκινες γραμμές της Ελλάδας για τη συμφωνία με τη Λιβύη και πώς αντιμετωπίζει την τουρκική αμφισβήτηση;",
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    }
+   ]
+  },
+  {
+   "id": "8c381d9f89f1e5b9",
+   "title": "ΥΠΕΞ: Στην Αθήνα ο τρίτος γύρος τεχνικών συνομιλιών για την οριοθέτηση θαλασσίων ζωνών μεταξύ Ελλάδας και Λιβύης - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzZtSFV1VVczQjQwX1VXa2FBamNBdFZxTnpXSWhRUmVvb1ZpSEQ1ZjJmUy1rYkVZMW91Q3ZoN2V3V1FhMGNCZ0JydFJ4ZE9LZEFWTTFqTC00QWgxSmtYUGNQbUZmZFRSVnlCTXBwd0ZKYkgwc3JWaExXY25UNFRhbk9YdERmWWxDSVNzSmFkeUtGZWZoTWstTlF1Y9IBoAFBVV95cUxNenQ2cnFOYVhGOGNjRjczNG1zU0JMQTlLUDlNVTV0bmprbDRvY2hFRDBKUDRHRzlBU2kzQVRacjIzV1hBUE81ZWR0bG14SmZ0ekZtZ3BoVFRvNjBfT290VnRPVDZiNWRvWGpRdGNWcTJtRUZ2bXhILU1xV25zY0xmT05MOVpXcnZzZWhXWGxhaXVrWHhqRGo2SUQ4WHEyZi10?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzZtSFV1VVczQjQwX1VXa2FBamNBdFZxTnpXSWhRUmVvb1ZpSEQ1ZjJmUy1rYkVZMW91Q3ZoN2V3V1FhMGNCZ0JydFJ4ZE9LZEFWTTFqTC00QWgxSmtYUGNQbUZmZFRSVnlCTXBwd0ZKYkgwc3JWaExXY25UNFRhbk9YdERmWWxDSVNzSmFkeUtGZWZoTWstTlF1Y9IBoAFBVV95cUxNenQ2cnFOYVhGOGNjRjczNG1zU0JMQTlLUDlNVTV0bmprbDRvY2hFRDBKUDRHRzlBU2kzQVRacjIzV1hBUE81ZWR0bG14SmZ0ekZtZ3BoVFRvNjBfT290VnRPVDZiNWRvWGpRdGNWcTJtRUZ2bXhILU1xV25zY0xmT05MOVpXcnZzZWhXWGxhaXVrWHhqRGo2SUQ4WHEyZi10?oc=5\" target=\"_blank\">ΥΠΕΞ: Στην Αθήνα ο τρίτος γύρος τεχνικών συνομιλιών για την οριοθέτηση θαλασσίων ζωνών μεταξύ Ελλάδας και Λιβύης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-26T18:29:15+00:00",
+   "collected": "2026-07-26T22:15:54.719903+00:00",
+   "keywords_hit": [
+    "λιβύη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Στην Αθήνα διεξάγεται ο τρίτος γύρος τεχνικών διαπραγματεύσεων μεταξύ Ελλάδας και Λιβύης για την οριοθέτηση θαλασσίων ζωνών, σύμφωνα με ανακοίνωση του ΥΠΕΞ.",
+   "angle": "Η Ελλάδα ανακτά πρωτοβουλία στις θαλάσσιες διαπραγματεύσεις με τη Λιβύη μέσω τεχνικών συνομιλιών",
    "locations": [
     {
      "name": "Ελλάδα",
@@ -870,6 +947,23 @@
     "Philenews",
     "Zarpanews (Χανιά)"
    ]
+  },
+  {
+   "id": "193ecad9f843e86f",
+   "title": "Six Dead as Ukraine and Russia Trade Missile and Drone Strikes",
+   "link": "https://www.breitbart.com/europe/2026/07/26/six-dead-as-ukraine-and-russia-trade-missile-and-drone-strikes-x33348482/",
+   "summary_raw": "<p>Russian ballistic missiles killed two in Kyiv early on Sunday, while attacks on other parts of Ukraine later killed multiple people.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/07/26/six-dead-as-ukraine-and-russia-trade-missile-and-drone-strikes-x33348482/\" rel=\"nofollow\">Six Dead as Ukraine and Russia Trade Missile and Drone Strikes</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-26T15:40:37+00:00",
+   "collected": "2026-07-26T22:16:00.970903+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ρωσικές βαλλιστικές επιθέσεις σκότωσαν δύο ανθρώπους στο Κίεβο το πρωί της Κυριακής, ενώ άλλα ρωσικά χτυπήματα με drones και πυραύλους στις υπόλοιπες περιοχές της Ουκρανίας προκάλεσαν πολλαπλά θύματα.",
+   "angle": "Η εκλιπαρούσα κατάσταση στις ουκρανικές πόλεις καθώς η Ρωσία εντείνει τους βομβαρδισμούς"
   },
   {
    "id": "5c3ddf78fa518d8b",
@@ -39898,100 +39992,6 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Speaker of Libya’s House of Representatives, Ageela Saleh, has approved a proposal to increase salaries in the country’s health sector by 75%, marking a significant step to improve the financial condi",
-   "angle": null
-  },
-  {
-   "id": "484d8c4510614016",
-   "title": "NATO, Greece and the Security of the Eastern Mediterranean",
-   "link": "https://greekcitytimes.com/2026/07/20/greek-defence-minister-nikos-dendias-sydney-briefing/",
-   "summary_raw": "<p>Greek Defence Minister Nikos Dendias addressed the Greek-Australian community in Sydney on international relations, defence policy, and Eastern Mediterranean security during a fireside chat on 16 July 2026.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/07/20/greek-defence-minister-nikos-dendias-sydney-briefing/\" rel=\"nofollow\">NATO, Greece and the Security of the Eastern Mediterranean</a> appeared first on <a href=\"https://greekcitytimes.com\" rel=\"nofollow\">Greek City Times</a>.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/07/20/greek-defence-minister-nikos-dendias-sydney-briefing/\">NATO, Greece and the Security of the Eastern Mediterranean</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-07-19T22:00:24+00:00",
-   "collected": "2026-07-19T22:11:29.621775+00:00",
-   "keywords_hit": [
-    "dendias"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Υπουργός Άμυνας Νίκος Δένδιας απηύθυνε ομιλία στην ελληνο-αυστραλιανή κοινότητα στο Σίδνεϊ για τις σχέσεις με το ΝΑΤΟ και την ασφάλεια της Ανατολικής Μεσογείου.",
-   "angle": "Η ελληνική κυβέρνηση δυναμώνει τη διπλωματική παρουσία για την υπεράσπιση των συμφερόντων της στη Μεσόγειο"
-  },
-  {
-   "id": "94620ee3b8ce0272",
-   "title": "Massachusetts: Legal Fight with Left-Wing ACLU over St. Michael Statue Could Land in U.S. Supreme Court",
-   "link": "https://www.breitbart.com/faith/2026/07/19/massachusetts-legal-fight-with-left-wing-aclu-over-st-michael-statue-could-land-in-u-s-supreme-court/",
-   "summary_raw": "<p>A legal fight is raging over statues of Catholic saints that were supposed to be placed outside the public safety headquarters in Quincy, Massachusetts, and the battle may end up in the U.S. Supreme Court.</p>\n<p>The post <a href=\"https://www.breitbart.com/faith/2026/07/19/massachusetts-legal-fight-with-left-wing-aclu-over-st-michael-statue-could-land-in-u-s-supreme-court/\" rel=\"nofollow\">Massachusetts: Legal Fight with Left-Wing ACLU over St. Michael Statue Could Land in U.S. Supreme Court</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-19T21:33:26+00:00",
-   "collected": "2026-07-19T23:14:54.018337+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Νομική αναμέτρηση στη Μασαχουσέτη για την τοποθέτηση αγάλματος Αγίου Μιχαήλ έξω από αστυνομικό κτίριο, με ενδεχόμενη αναφορά στο Ανώτατο Δικαστήριο των ΗΠΑ.",
-   "angle": null
-  },
-  {
-   "id": "82910ca1fc7bc1c4",
-   "title": "Iran vows ‘appropriate action’ over US attack on nuclear power plant",
-   "link": "https://www.aa.com.tr/en/americas/iran-vows-appropriate-action-over-us-attack-on-nuclear-power-plant/4003142",
-   "summary_raw": "‘The US attack on the Darkhovin power plant, which is under construction, constitutes a dangerous assault on Iran’s peaceful infrastructure,’ says deputy foreign minister",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-07-19T21:17:05+00:00",
-   "collected": "2026-07-19T22:11:04.173379+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "Το Ιράν καταγγέλλει αμερικανική επίθεση στο πυρηνικό εργοστάσιο Darkhovin και απειλεί με «κατάλληλη απάντηση», χαρακτηρίζοντας την ενέργεια ως επικίνδυνη επίθεση στις ειρηνικές υποδομές της χώρας.",
-   "angle": "Η κλιμάκωση στη Μέση Ανατολή: Προειδοποίηση για στρατιωτική σύγκρουση μεταξύ ΗΠΑ και Ιράν"
-  },
-  {
-   "id": "df2488fe43351f9c",
-   "title": "Έβρος: Εικόνες χάους και συμπλοκές μεταξύ Τούρκων οδηγών στις Καστανιές – Απίστευτη ταλαιπωρία στον συνοριακό σταθμό",
-   "link": "https://www.in.gr/2026/07/20/greece/evros-eikones-xaous-kai-symplokes-metaksy-tourkon-odigon-stis-kastanies-apisteyti-talaiporia-ston-synoriako-stathmo/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"429\" src=\"https://www.in.gr/wp-content/uploads/2026/07/kast_nk.jpg\" style=\"margin-bottom: 15px;\" width=\"714\" /></div>\n<p>Η πολύωρη αναμονή και οι ουρές χιλιομέτρων με οχήματα Τούρκων που επιστρέφουν στην χώρα τους μέσω του συνοριακού σταθμού στις Καστανιές στον Έβρο προκάλεσε επεισόδια για την προτεραιότητα </p>\n<p>The post <a href=\"https://www.in.gr/2026/07/20/greece/evros-eikones-xaous-kai-symplokes-metaksy-tourkon-odigon-stis-kastanies-apisteyti-talaiporia-ston-synoriako-stathmo/\">Έβρος: Εικόνες χάους και συμπλοκές μεταξύ Τούρκων οδηγών στις Καστανιές &#8211; Απίστευτη ταλαιπωρία στον συνοριακό σταθμό</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-19T21:16:57+00:00",
-   "collected": "2026-07-19T22:12:03.791009+00:00",
-   "keywords_hit": [
-    "evros",
-    "έβρος"
-   ],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Σκηνές χάους και συμπλοκές στο συνοριακό σταθμό Καστανιών στον Έβρο λόγω πολύωρης αναμονής χιλιομέτρων ουρών Τούρκων οδηγών που επιστρέφουν στη χώρα τους.",
-   "angle": "Κατάρρευση υποδομών στον Έβρο: Τα σύνορα δεν αντέχουν τις καλοκαιρινές ροές και οι πολίτες ταλαιπωρούνται"
-  },
-  {
-   "id": "cee17bf1ed2fdc18",
-   "title": "Η αστυνομία μετανάστευσης των ΗΠΑ θα εξοπλιστεί με κάμερες σώματος",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/i-astynomia-metanasteysis-ton-ipa-tha-eksoplistei-me-kameres-somatos/",
-   "summary_raw": "<img alt=\"Masked Law Enforcement\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"683\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/ap25197812350613.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Μετά τα αλλεπάλληλα περιστατικά με πυροβολισμούς και θανάτους μεταναστών από μέλη της αστυνομίας μετανάστευσης (ICE), η υπηρεσία θα απαιτεί πλέον από τα στελέχη της να καταγράφουν τους οδικούς ελέγχους που πραγματοποιούν με τουλάχιστον μία κάμερα σώματος, ανέφερε σήμερα ο «τσάρος των συνόρων» της κυβέρνησης Τραμπ, Τομ Χόμαν. Οι κάμερες «απαλλάσσουν περισσότερους πράκτορες απ’ όσους καταδικάζουν ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/i-astynomia-metanasteysis-ton-ipa-tha-eksoplistei-me-kameres-somatos/\" title=\"Η αστυνομία μετανάστευσης των ΗΠΑ θα εξοπλιστεί με κάμερες σώματος\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-07-19T21:16:00+00:00",
-   "collected": "2026-07-19T22:11:08.014922+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Μετά τα αλλεπάλληλα περιστατικά με πυροβολισμούς και θανάτους μεταναστών από μέλη της αστυνομίας μετανάστευσης (ICE), η υπηρεσία θα απαιτεί πλέον από τα στελέχη της να καταγράφουν τους οδικούς ελέγχου",
    "angle": null
   }
  ]
