@@ -1,7 +1,367 @@
 {
- "updated": "2026-07-27T18:52:42.868710+00:00",
- "count": 1842,
+ "updated": "2026-07-27T20:48:03.961905+00:00",
+ "count": 1838,
  "items": [
+  {
+   "id": "daecf3a815aa0e37",
+   "title": "Yunanistan'a açılan sınır kapılarında giriş ve çıkışlar durdu",
+   "link": "https://www.milletgazetesi.gr/yunanistan/yunanistana-acilan-sinir-kapilarinda-giris-ve-cikislar-durdu",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Yunanistan)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-07-27T20:46:41.240743+00:00",
+   "collected": "2026-07-27T20:46:41.240756+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "41824c1f3a12aa7d",
+   "title": "Τραμπ: Νικάμε το Ιράν κατά κράτος, τους έχουμε καταστρέψει, εξασφαλίζουμε ότι δεν θα αποκτήσουν ποτέ πυρηνικό όπλο",
+   "link": "https://www.pentapostagma.gr/kosmos/ipa/7382443_tramp-nikame-iran-kata-kratos-toys-ehoyme-katastrepsei-exasfalizoyme-oti-den-tha",
+   "summary_raw": "Μιλώντας στις εγκαταστάσεις της Τζένεραλ Μότορς στο Μίσιγκαν, ο πρόεδρος των ΗΠΑ άφησε αιχμές και για την πολιτική του...",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-07-27T20:42:54+00:00",
+   "collected": "2026-07-27T20:45:51.424805+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο Τραμπ δήλωσε ότι οι ΗΠΑ νικούν το Ιράν κατά κράτος και εξασφαλίζουν ότι δεν θα αποκτήσει ποτέ πυρηνικό όπλο, αφήνοντας αιχμές κατά της πολιτικής Ομπάμα.",
+   "angle": "Τραμπ εναντίον Ιράν: νέα σύγκρουση ή ρητορική; Τι κρύβεται πίσω από τις δηλώσεις περί «κατάστρεψης»;",
+   "corroborated_by": [
+    "Πρώτο Θέμα"
+   ]
+  },
+  {
+   "id": "93c163f8a88781a9",
+   "title": "Τραμπ για Τουρκία: Πολύ ισχυρή χώρα και τρομερός σύμμαχος, δεν θα μου πει κανένας πού να πουλήσω F-35",
+   "link": "https://www.pentapostagma.gr/kosmos/ipa/7382441_tramp-gia-toyrkia-poly-ishyri-hora-kai-tromeros-symmahos-den-tha-moy-pei-kanenas",
+   "summary_raw": "Είναι μια τρομερή χώρα  με πολύ ισχυρές ένοπλες δυνάμεις, είπε ο Αμερικανός πρόεδρος για την Τουρκία",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-07-27T20:30:57+00:00",
+   "collected": "2026-07-27T20:45:51.425099+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ο Τραμπ χαρακτήρισε την Τουρκία ως «τρομερό σύμμαχο» και δήλωσε ότι δεν θα δεχθεί υποδείξεις σχετικά με την πώληση F-35.",
+   "angle": "Τραμπ προς τη Δύση: υπερασπίζεται τη Τουρκία και απορρίπτει αμερικανικές περιορισμούς—τι σημαίνει για τα ελληνοτουρκικά;"
+  },
+  {
+   "id": "a6650f988af6a497",
+   "title": "Τραμπ:  Νικάμε το Ιράν κατά κράτος, τους έχουμε καταστρέψει, εξασφαλίζουμε ότι δεν θα αποκτήσουν ποτέ πυρηνικό όπλο",
+   "link": "https://www.protothema.gr/world/article/1856898/trab-nikame-to-iran-kata-kratos-tous-ehoume-katastrepsei-exasfalizoume-oti-den-tha-apoktisoun-pote-puriniko-oplo/?utm_source=rss",
+   "summary_raw": "Μιλώντας στις εγκαταστάσεις της Τζένεραλ Μότορς στο Μίσιγκαν, ο πρόεδρος των ΗΠΑ άφησε αιχμές και για την πολιτική του Μπαράκ Ομπάμα για το Ιράν, τονίζοντας ότι δεν δωροδοκούνται, αλλά τους νικάς στη μάχη",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-27T20:29:00+00:00",
+   "collected": "2026-07-27T20:46:21.908922+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ο πρόεδρος ΗΠΑ επανέλαβε ότι το Ιράν έχει ηττηθεί και διαβεβαίωσε ότι δεν θα αποκτήσει ποτέ πυρηνικό όπλο, σε αντίθεση με την πολιτική Ομπάμα.",
+   "angle": null,
+   "corroborated_by": [
+    "Πενταπόσταγμα"
+   ]
+  },
+  {
+   "id": "3c51fd5720b20e3a",
+   "title": "Θα πρέπει να φυτέψουμε ένα διαφορετικό δάσος, προσαρμοσμένο στην κλιματική αλλαγή, λέει ο Μακρόν",
+   "link": "https://www.protothema.gr/world/article/1856891/tha-prepei-na-futepsoume-ena-diaforetiko-dasos-prosarmosmeno-stin-klimatiki-allagi-leei-o-makron/?utm_source=rss",
+   "summary_raw": "Μετέφερε την καλή είδηση ότι η πυρκαγιά που ξέσπασε στον νομό Λαντ, γειτονικό με αυτόν στο Μπορντώ, έχει πλέον τεθεί υπό έλεγχο",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-27T20:05:43+00:00",
+   "collected": "2026-07-27T20:46:21.909672+00:00",
+   "keywords_hit": [
+    "κλιματικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Μετέφερε την καλή είδηση ότι η πυρκαγιά που ξέσπασε στον νομό Λαντ, γειτονικό με αυτόν στο Μπορντώ, έχει πλέον τεθεί υπό έλεγχο",
+   "angle": null
+  },
+  {
+   "id": "bde593f76aa7b959",
+   "title": "Συναγερμός για εξαφάνιση ανηλίκων στη Θεσσαλονίκη: Αναζητούνται δύο αδέλφια από χώρο φιλοξενίας ασυνόδευτων ανηλίκων",
+   "link": "https://www.in.gr/2026/07/27/greece/synagermos-gia-eksafanisi-anilikon-sti-thessaloniki-anazitountai-dyo-adelfia-apo-xoro-filoksenias-asynodeyton-anilikon/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"432\" src=\"https://www.in.gr/wp-content/uploads/2026/07/astinomia-xilodarmos-768x432-1.avif\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Το Χαμόγελο του Παιδιού ενημερώθηκε σήμερα και προχώρησε άμεσα σε δημοσιοποίηση των στοιχείων τους.</p>\n<p>The post <a href=\"https://www.in.gr/2026/07/27/greece/synagermos-gia-eksafanisi-anilikon-sti-thessaloniki-anazitountai-dyo-adelfia-apo-xoro-filoksenias-asynodeyton-anilikon/\">Συναγερμός για εξαφάνιση ανηλίκων στη Θεσσαλονίκη: Αναζητούνται δύο αδέλφια από χώρο φιλοξενίας ασυνόδευτων ανηλίκων</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-27T19:52:19+00:00",
+   "collected": "2026-07-27T20:46:24.313065+00:00",
+   "keywords_hit": [
+    "ασυνόδευτ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Συναγερμός στη Θεσσαλονίκη: δύο αδέλφια εξαφανίστηκαν από χώρο φιλοξενίας ασυνόδευτων ανηλίκων και το Χαμόγελο του Παιδιού ενεργοποίησε άμεσα διαδικασία αναζήτησης.",
+   "angle": "Τα συστήματα προστασίας ανηλίκων στην Ελλάδα: αποτυχίες και κενά ασφαλείας κατά τη φιλοξενία ευάλωτων παιδιών",
+   "locations": [
+    {
+     "name": "Θεσσαλονίκη",
+     "lat": 40.64,
+     "lon": 22.94
+    }
+   ]
+  },
+  {
+   "id": "484ab92b761ccbbb",
+   "title": "H Ρουμανία κλείνει πυρηνικό αντιδραστήρα για προληπτικούς λόγους καθώς έχει πέσει η στάθμη του Δούναβη",
+   "link": "https://www.in.gr/2026/07/27/world/h-roumania-kleinei-pyriniko-antidrastira-gia-proliptikous-logous-kathos-exei-pesei-i-stathmi-tou-dounavi/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"403\" src=\"https://www.in.gr/wp-content/uploads/2026/07/cernaboda-768x403.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Η Ρουμανία κλείνει έναν πυρηνικό αντιδραστήρα εν μέσω μεγάλης ζήτησης για ενέργεια, καθώς η στάθμη του Δούναβη έχει πέσει εξαιτίας της ξηρασίας και το νερό δεν επαρκεί για την ψύξη δύο αντιδραστήρων.</p>\n<p>The post <a href=\"https://www.in.gr/2026/07/27/world/h-roumania-kleinei-pyriniko-antidrastira-gia-proliptikous-logous-kathos-exei-pesei-i-stathmi-tou-dounavi/\">H Ρουμανία κλείνει πυρηνικό αντιδραστήρα για προληπτικούς λόγους καθώς έχει πέσει η στάθμη του Δούναβη</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-27T19:45:03+00:00",
+   "collected": "2026-07-27T20:46:24.313794+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η Ρουμανία κλείνει πυρηνικό αντιδραστήρα προληπτικά λόγω ξηρασίας και πτώσης της στάθμης του Δούναβη, η οποία δεν επαρκεί για την ψύξη των αντιδραστήρων.",
+   "angle": "Κλιματικές αλλαγές και ενεργειακή ασφάλεια στην Ευρώπη: η πυρηνική ενέργεια απειλείται από την ξηρασία",
+   "corroborated_by": [
+    "ΕΡΤ News",
+    "Καθημερινή"
+   ]
+  },
+  {
+   "id": "c1cd3ba58c9b5192",
+   "title": "Will Egypt’s Diplomacy Accelerate Libya’s Political Process?",
+   "link": "https://libyareview.com/67149/will-egypts-diplomacy-accelerate-libyas-political-process/",
+   "summary_raw": "<p>Egypt has intensified its diplomatic and security engagement with both eastern and western Libya, signaling a broader effort to strengthen its role in supporting a political settlement while maintaining strategic relations with all major Libyan stakeholders. In recent months, Cairo has expanded its contacts with officials from the outgoing Government of National Unity in Tripoli [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67149/will-egypts-diplomacy-accelerate-libyas-political-process/\">Will Egypt&#8217;s Diplomacy Accelerate Libya&#8217;s Political Process?</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-07-27T19:41:05+00:00",
+   "collected": "2026-07-27T20:45:47.515275+00:00",
+   "keywords_hit": [
+    "libya",
+    "tripoli"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η Αίγυπτος εντατικοποιεί τη διπλωματική και ασφαλειακή της εμπλοκή σε ανατολική και δυτική Λιβύη, προσπαθώντας να ενισχύσει το ρόλο της στη διευθέτηση της πολιτικής κρίσης.",
+   "angle": "Η Αίγυπτος ανταγωνίζεται για επιρροή στη Λιβύη: τι στοίχημα υπάρχει για τον ελληνικό προσανατολισμό στη Μεσόγειο;",
+   "locations": [
+    {
+     "name": "Κάιρο",
+     "lat": 30.04,
+     "lon": 31.24
+    }
+   ]
+  },
+  {
+   "id": "edcf4be14e422aaa",
+   "title": "Libya’s East Government Approves New Measures to Combat Migration",
+   "link": "https://libyareview.com/67145/libyas-east-government-approves-new-measures-to-combat-migration/",
+   "summary_raw": "<p>Libyan Prime Minister Osama Hammad chaired the first meeting of the Higher Committee for Monitoring the Situation of Foreign Nationals and Irregular Migrants on Monday, approving a comprehensive package of measures aimed at strengthening border security, regulating migration, and improving coordination among state institutions. The committee was established under Cabinet Decision No. 107 of 2026 [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67145/libyas-east-government-approves-new-measures-to-combat-migration/\">Libya&#8217;s East Government Approves New Measures to Combat Migration</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-07-27T19:35:38+00:00",
+   "collected": "2026-07-27T20:45:47.515594+00:00",
+   "keywords_hit": [
+    "migrant",
+    "libya"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Libyan Prime Minister Osama Hammad chaired the first meeting of the Higher Committee for Monitoring the Situation of Foreign Nationals and Irregular Migrants on Monday, approving a comprehensive packa",
+   "angle": null
+  },
+  {
+   "id": "b9117d2c9ebb4f26",
+   "title": "Εκτός λειτουργίας πυρηνικός αντιδραστήρας στη Ρουμανία λόγω υποχώρησης της στάθμης του Δούναβη",
+   "link": "https://www.ertnews.gr/eidiseis/diethni/ektos-leitourgias-pyrinikos-antidrastiras-sti-roumania-logo-ypoxorisis-tis-stathmis-tou-dounavi/",
+   "summary_raw": "<img alt=\"Nuclear Fuel\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1920\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/ap090108169815-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Η Ρουμανία θα θέσει εκτός λειτουργίας, για προληπτικούς λόγους, τον έναν από τους δύο πυρηνικούς αντιδραστήρες της στον Δούναβη από αύριο Τρίτη, προκειμένου να αποτρέψει τυχόν ζημιές στα συστήματα ψύξης, επειδή η στάθμη του ποταμού υποχώρησε στα χαμηλότερα επίπεδα των τελευταίων 30 ετών, ανακοίνωσε το υπουργείο Ενέργειας σήμερα.    Η κρατική εταιρεία παραγωγής πυρηνικής ενέργειας Nuclearelectrica ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/ektos-leitourgias-pyrinikos-antidrastiras-sti-roumania-logo-ypoxorisis-tis-stathmis-tou-dounavi/\" title=\"Εκτός λειτουργίας πυρηνικός αντιδραστήρας στη Ρουμανία λόγω υποχώρησης της στάθμης του Δούναβη\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-27T19:17:00+00:00",
+   "collected": "2026-07-27T20:45:27.030167+00:00",
+   "keywords_hit": [
+    "πυρηνικ",
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η Ρουμανία θέτει εκτός λειτουργίας έναν από τους δύο πυρηνικούς αντιδραστήρες της στον Δούναβη λόγω της χαμηλότερης στάθμης του ποταμού των τελευταίων 30 ετών, προς αποφυγή ζημιών στα συστήματα ψύξης.",
+   "angle": "Η κλιματική κρίση απειλεί την πυρηνική παραγωγή στη Νοτιοανατολική Ευρώπη: τι σημαίνει για την ενεργειακή ασφάλεια της Ευρώπης;",
+   "corroborated_by": [
+    "in.gr",
+    "Καθημερινή"
+   ]
+  },
+  {
+   "id": "b5b59ec96bc17eb6",
+   "title": "Watch Live: Donald Trump Holds Rally in Michigan",
+   "link": "https://www.breitbart.com/politics/2026/07/27/watch-live-donald-trump-holds-rally-in-michigan/",
+   "summary_raw": "<p>President Donald Trump holds a rally in Milford, Michigan, on Monday, July 27.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/27/watch-live-donald-trump-holds-rally-in-michigan/\" rel=\"nofollow\">Watch Live: Donald Trump Holds Rally in Michigan</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-27T19:12:47+00:00",
+   "collected": "2026-07-27T20:46:31.386592+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "President Donald Trump holds a rally in Milford, Michigan, on Monday, July 27. The post Watch Live: Donald Trump Holds Rally in Michigan appeared first on Breitbart .",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "5c7799b1bd872264",
+   "title": "Netanyahu Opposes F-35 Sales to Turkey",
+   "link": "https://www.osint613.com/post/netanyahu-opposes-f35-sales-to-turkey-18681",
+   "summary_raw": "Reporter: Netanyahu opposes sending F-35 jets to Turkey.\n\nTrump: Nobody tells me what we should be selling or not. Türkiye has been a great ally.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-07-27T19:11:21+00:00",
+   "collected": "2026-07-27T20:46:31.765222+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ο Νετανιάχου αντιτίθεται στην πώληση μαχητικών F-35 στην Τουρκία, ενώ ο Τραμπ δηλώνει ότι δεν του λέει κανείς τι να πουλάει και ότι η Άγκυρα είναι μεγάλος σύμμαχος.",
+   "angle": "Σύγκρουση συμμάχων ΗΠΑ-Ισραήλ για τις πωλήσεις όπλων: Οι γεωπολιτικές σχισμές στην ανατολική Μεσόγειο"
+  },
+  {
+   "id": "a13b3c640206768b",
+   "title": "Ρουμανία: Εκτός λειτουργίας ο ένας από τους δύο πυρηνικούς αντιδραστήρες της",
+   "link": "https://www.kathimerini.gr/world/564369418/roymania-ektos-leitoyrgias-o-enas-apo-toys-dyo-pyrinikoys-antidrastires-tis/",
+   "summary_raw": "Η κρατική εταιρεία παραγωγής πυρηνικής ενέργειας Nuclearelectrica διαθέτει δύο αντιδραστήρες 706 μεγαβάτ, που καλύπτουν περίπου το ένα πέμπτο της παραγωγής ηλεκτρικής ενέργειας της χώρας.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-27T18:58:11+00:00",
+   "collected": "2026-07-27T20:46:23.275548+00:00",
+   "keywords_hit": [
+    "πυρηνικ",
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η Ρουμανία θέτει εκτός λειτουργίας έναν από τους δύο αντιδραστήρες των 706 MW, οι οποίοι καλύπτουν το ένα πέμπτο της παραγωγής ηλεκτρικής ενέργειας της χώρας.",
+   "angle": null,
+   "corroborated_by": [
+    "in.gr",
+    "ΕΡΤ News"
+   ]
+  },
+  {
+   "id": "988f6e2b77792775",
+   "title": "Εξαφανίστηκαν δύο αδέλφια από χώρο φιλοξενίας ασυνόδευτων ανηλίκων στους Ταγαράδες Θεσσαλονίκης",
+   "link": "https://www.protothema.gr/greece/article/1856873/exafanistikan-duo-adelfia-apo-horo-filoxenias-asunodeuton-anilikon-stous-tagarades-thessalonikis/?utm_source=rss",
+   "summary_raw": "Οποιοσδήποτε έχει κάποια πληροφορία, παρακαλείται να επικοινωνήσει τηλεφωνικά με «Το Χαμόγελο του Παιδιού», όλο το 24ωρο, στην «Ευρωπαϊκή Γραμμή για τα Εξαφανισμένα Παιδιά 116000» καθώς και σε όλα τα Αστυνομικά Τμήματα",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-27T18:58:00+00:00",
+   "collected": "2026-07-27T20:46:21.910995+00:00",
+   "keywords_hit": [
+    "ασυνόδευτ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Δύο αδέλφια εξαφανίστηκαν από κέντρο φιλοξενίας ασυνόδευτων ανηλίκων στη Θεσσαλονίκη. Ζητείται η συνδρομή του κοινού.",
+   "angle": "Ανήλικοι χάνονται στο σύστημα φιλοξενίας: μεσογειακό πρόβλημα ή δομικό αδιέξοδο της Ελλάδας;",
+   "locations": [
+    {
+     "name": "Θεσσαλονίκη",
+     "lat": 40.64,
+     "lon": 22.94
+    }
+   ]
+  },
+  {
+   "id": "a95f377447a1d313",
+   "title": "Η Αυστρία αυξάνει την υποχρεωτική στρατιωτική θητεία από έξι σε εννέα μήνες",
+   "link": "https://www.ertnews.gr/eidiseis/diethni/i-aystria-ayksanei-tin-ypoxreotiki-stratiotiki-thiteia-apo-eksi-se-ennea-mines/",
+   "summary_raw": "<img alt=\"Austria Military Exercise Migrants\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"695\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/ap17258461331594.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Η κυβέρνηση της Αυστρίας γνωστοποίησε σήμερα ότι σκοπεύει να αυξήσει την υποχρεωτική στρατιωτική θητεία κατά τρεις μήνες, από τους έξι στους εννέα.    Ο τρικομματικός κυβερνητικός συνασπισμός θα έχει διαβουλεύσεις με το ακροδεξιό Κόμμα Ελευθερίας (FPÖ) και τους Πράσινους, καθώς για να εγκριθεί η μεταρρύθμιση απαιτείται πλειοψηφία δύο τρίτων στη Βουλή. Η αυστριακή κυβέρνηση εκτιμά πως ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/i-aystria-ayksanei-tin-ypoxreotiki-stratiotiki-thiteia-apo-eksi-se-ennea-mines/\" title=\"Η Αυστρία αυξάνει την υποχρεωτική στρατιωτική θητεία από έξι σε εννέα μήνες\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-07-27T18:54:00+00:00",
+   "collected": "2026-07-27T20:45:27.030954+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Η κυβέρνηση της Αυστρίας γνωστοποίησε σήμερα ότι σκοπεύει να αυξήσει την υποχρεωτική στρατιωτική θητεία κατά τρεις μήνες, από τους έξι στους εννέα. Ο τρικομματικός κυβερνητικός συνασπισμός θα έχει δια",
+   "angle": null
+  },
+  {
+   "id": "90db26d86351e47d",
+   "title": "Σε καλό κλίμα ο τρίτος γύρος διαπραγματεύσεων Ελλάδας και Λιβύης για την οριοθέτηση θαλάσσιων ζωνών, αγκάθι το Τουρκολιβυκό Μνημόνιο",
+   "link": "https://www.protothema.gr/politics/article/1856872/se-kalo-klima-o-tritos-guros-diapragmateuseon-metaxu-elladas-kai-livuis-stohos-tis-athinas-to-htisimo-/?utm_source=rss",
+   "summary_raw": "Οι δύο αντιπροσωπείες επικεντρώνονται στην ανταλλαγή νομικών επιχειρημάτων, στις βασικές αρχές του Δικαίου της Θάλασσας και στη μελέτη χαρτογραφικών δεδομένων",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-27T18:53:00+00:00",
+   "collected": "2026-07-27T20:46:21.911156+00:00",
+   "keywords_hit": [
+    "λιβύη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ο τρίτος γύρος διαπραγματεύσεων Ελλάδας-Λιβύης για θαλάσσιες ζώνες διενεργείται σε καλό κλίμα, αλλά το Τουρκολιβυκό Μνημόνιο παραμένει αγκάθι.",
+   "angle": "Ελλάδα-Λιβύη: προχώρησαν οι διαπραγματεύσεις ή η Τουρκία εξακολουθεί να κρατά τα κλειδιά της Μεσογείου;",
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
   {
    "id": "7d1fdd8e74055ccd",
    "title": "⚡️ Romanian Ministry of Energy: One of the reactors at the Cernavodă Nuclear Power Plant will be temporarily shut down starting July 28 as a precautionary measure due to low water …",
@@ -80,6 +440,25 @@
    "turkish_narrative": false,
    "summary_el": "Οι βελγικές αρχές συνέλαβαν τη Σάββατο Καναδέζα πολίτιδα κινεζικής καταγωγής που εργαζόταν ως σταθμευόμενη στο ανώτατο διοικητικό δαχτυλίδι του ΝΑΤΟ, με κατηγορίες κατασκοπείας για λογαριασμό τρίτης χώρας.",
    "angle": "«Σαμποτάζ στην καρδιά του ΝΑΤΟ»: Η σύλληψη κατασκόπου ανοίγει ερωτήματα για την ασφάλεια του συμμάχου"
+  },
+  {
+   "id": "5df58a5bde5f85a6",
+   "title": "Τραμπ για F-35: Κανείς δεν θα μου πει τι πρέπει να πουλήσουμε, σπουδαίος σύμμαχος η Τουρκία",
+   "link": "https://www.kathimerini.gr/world/564369400/tramp-gia-f-35-kaneis-den-tha-moy-pei-ti-prepei-na-poylisoyme-spoydaios-symmachos-i-toyrkia/",
+   "summary_raw": "Ο πρόεδρος των ΗΠΑ αντέδρασε σήμερα στην αντίθεση του Ισραηλινού πρωθυπουργού, Μπενιαμίν Νετανιάχου σε μία πιθανή πώληση μαχητικών αεροσκαφών F-35 στην Τουρκία.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-07-27T18:32:20+00:00",
+   "collected": "2026-07-27T20:46:23.275952+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Ο Τραμπ απέρριψε τις ενστάσεις του Νετανιάχου κατά της πώλησης F-35 στην Τουρκία, δηλώνοντας ότι κανείς δεν θα του υπαγορεύει τις πολεμικές πωλήσεις και τονίζοντας τη στρατηγική σημασία της τουρκικής συμμαχίας.",
+   "angle": "Η νέα διπλωματική κρίση μεταξύ ΗΠΑ-Ισραήλ για τα F-35: πώς επηρεάζει τη σταθερότητα στο Ανατολικό Μεσόγειο;"
   },
   {
    "id": "aa4bcad45ae8f1a1",
@@ -321,6 +700,26 @@
    "angle": "Το ιρανικό πυρηνικό πρόγραμμα ως κεντρική απειλή: Η ισραηλινή θέση και ο διεθνής προβληματισμός.",
    "corroborated_by": [
     "Middle East Eye"
+   ]
+  },
+  {
+   "id": "f93174203eec6c5d",
+   "title": "Woke privilege still reigns at Cambridge University",
+   "link": "https://www.spiked-online.com/2026/07/27/woke-privilege-still-reigns-at-cambridge-university/",
+   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/07/27/woke-privilege-still-reigns-at-cambridge-university/\">Woke privilege still reigns at Cambridge University</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
+   "source": "Spiked",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-07-27T17:55:05+00:00",
+   "collected": "2026-07-27T20:46:31.159999+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The post Woke privilege still reigns at Cambridge University appeared first on spiked .",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
    ]
   },
   {
@@ -830,6 +1229,47 @@
    ]
   },
   {
+   "id": "6a0a9b9eb4ca46cf",
+   "title": "Trump Calls on Thune to Keep Senate in Session and Terminate Filibuster",
+   "link": "https://www.breitbart.com/politics/2026/07/27/trump-calls-on-thune-to-keep-senate-in-session-and-terminate-filibuster/",
+   "summary_raw": "<p>President Donald Trump on Monday called on Senate Majority Leader John Thune (R-SD) to keep the Senate in session to terminate the filibuster and pass the SAVE America Act.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/27/trump-calls-on-thune-to-keep-senate-in-session-and-terminate-filibuster/\" rel=\"nofollow\">Trump Calls on Thune to Keep Senate in Session and Terminate Filibuster</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-27T16:52:54+00:00",
+   "collected": "2026-07-27T20:46:31.387033+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "President Donald Trump on Monday called on Senate Majority Leader John Thune (R-SD) to keep the Senate in session to terminate the filibuster and pass the SAVE America Act. The post Trump Calls on Thu",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "8307d440fb6164c9",
+   "title": "China-Linked Harvard University Received More Foreign Money than Any Other U.S. College",
+   "link": "https://www.breitbart.com/education/2026/07/27/china-linked-harvard-university-received-more-foreign-money-than-any-other-u-s-college/",
+   "summary_raw": "<p>Harvard University, which has ties to Communist China, has apparently outpaced other American universities in receiving foreign funding.</p>\n<p>The post <a href=\"https://www.breitbart.com/education/2026/07/27/china-linked-harvard-university-received-more-foreign-money-than-any-other-u-s-college/\" rel=\"nofollow\">China-Linked Harvard University Received More Foreign Money than Any Other U.S. College</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-27T16:51:30+00:00",
+   "collected": "2026-07-27T20:46:31.387515+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Harvard University, which has ties to Communist China, has apparently outpaced other American universities in receiving foreign funding. The post China-Linked Harvard University Received More Foreign ",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal",
+    "Spiked"
+   ]
+  },
+  {
    "id": "31648d427321e054",
    "title": "Russian Strike on Kyiv Drone Exhibition Kills 10",
    "link": "https://europeanconservative.com/articles/news-corner/russian-strike-on-kyiv-uav-drone-exhibition-ukraine-war/",
@@ -1253,6 +1693,26 @@
    "angle": null
   },
   {
+   "id": "e1c7a72d9d7f3252",
+   "title": "Report -- Leftist Muslim Michigan U.S. Senate Candidate Abdul El-Sayed Likens Win over Opponent to Putting 'Ogre on a Pike': 'Everyone Else Gets the Message'",
+   "link": "https://www.breitbart.com/politics/2026/07/27/report-far-left-muslim-michigan-u-s-senate-candidate-abdul-el-sayed-likens-win-over-opponent-to-setting-ogre-pike/",
+   "summary_raw": "<p>Far-left Muslim Michigan U.S. Senate candidate Abdul El-Sayed has a grisly view of what a victory over his opponent would look like.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/27/report-far-left-muslim-michigan-u-s-senate-candidate-abdul-el-sayed-likens-win-over-opponent-to-setting-ogre-pike/\" rel=\"nofollow\">Report &#8212; Leftist Muslim Michigan U.S. Senate Candidate Abdul El-Sayed Likens Win over Opponent to Putting &#8216;Ogre on a Pike&#8217;: &#8216;Everyone Else Gets the Message&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-27T15:01:56+00:00",
+   "collected": "2026-07-27T20:46:31.391338+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο υποψήφιος ΗΠΑ Σενάτου Μίσιγκαν Abdul El-Sayed συγκρίνει τη νίκη επί του αντιπάλου του με βίαια φραζεολογία για «όγκρες σε λόγχες» που στέλνουν μήνυμα φόβου.",
+   "angle": "Επικίνδυνη ρητορική σε εκλογική εκστρατεία: Πώς κινδυνεύει η πολιτική διάλογος όταν χρησιμοποιούνται προσαγωγές περί βίας;",
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "a42bb24dfbf3160b",
    "title": "Turkish Cypriot president receives UN's Cyprus envoy",
    "link": "https://www.aa.com.tr/en/world/turkish-cypriot-president-receives-uns-cyprus-envoy/4010676",
@@ -1405,6 +1865,26 @@
    "angle": "Πώς η ταξινόμηση ως «προσωπικό πρόβλημα ψυχικής υγείας» αντί ως τρομοκρατία αλλάζει τη δημόσια αντίληψη των επιθέσεων στη Δυτική Ευρώπη;",
    "corroborated_by": [
     "Breitbart"
+   ]
+  },
+  {
+   "id": "643eacd3a9f544a3",
+   "title": "Nolte: Trump-hating ‘Reacher’ Star Alan Ritchson Self-sabotaged His Box Office Bomb ‘Motor City’",
+   "link": "https://www.breitbart.com/entertainment/2026/07/27/nolte-trump-hating-reacher-star-alan-ritchson-self-sabotaged-his-box-office-bomb-motor-city/",
+   "summary_raw": "<p>Alan Ritchson, the far-left \"Reacher\" star who used the promotion tour for \"Motor City\" to falsely accuse President Donald Trump of raping 13-year-olds, faced humiliating rejection over the weekend when his movie collapsed at the box office.</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/07/27/nolte-trump-hating-reacher-star-alan-ritchson-self-sabotaged-his-box-office-bomb-motor-city/\" rel=\"nofollow\">Nolte: Trump-hating ‘Reacher’ Star Alan Ritchson Self-sabotaged His Box Office Bomb ‘Motor City’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-27T14:28:44+00:00",
+   "collected": "2026-07-27T20:46:31.389444+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο ηθοποιός Alan Ritchson από τη σειρά «Reacher» αντιμέτωπος με αποτυχία στο box office του φιλμ «Motor City», αφού χρησιμοποίησε την προώθησή του για κατηγορίες κατά του Τραμπ.",
+   "angle": "Όταν η πολιτική ενεργοποίηση καταβλάπτει την καριέρα: Η περίπτωση Ritchson και η αποδοχή του κοινού",
+   "corroborated_by": [
+    "Daily Signal"
    ]
   },
   {
@@ -1737,6 +2217,26 @@
    ]
   },
   {
+   "id": "aa29130452a1c6c7",
+   "title": "Children's Netflix Star Ms. Rachel Donated $3,000 to 'Pro-Hamas' Michigan Dem Abdul El Sayed's Senate Campaign",
+   "link": "https://www.breitbart.com/entertainment/2026/07/27/kids-youtube-star-ms-rachel-donated-3k-to-mich-antisemite-abdul-el-sayeds-senate-campaign/",
+   "summary_raw": "<p>Palestinian-supporting children's Youtuber and Netflix star Ms. Rachel, donated $3,000 to the extremist, antisemitic Michigan Democrat candidate for U.S. Senate, Abdul El Sayed, according to federal campaign finance filings.</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/07/27/kids-youtube-star-ms-rachel-donated-3k-to-mich-antisemite-abdul-el-sayeds-senate-campaign/\" rel=\"nofollow\">Children&#8217;s Netflix Star Ms. Rachel Donated $3,000 to &#8216;Pro-Hamas&#8217; Michigan Dem Abdul El Sayed&#8217;s Senate Campaign</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-27T13:13:02+00:00",
+   "collected": "2026-07-27T20:46:31.389154+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η αστέρι παιδικών περιεχομένων Netflix «Ms. Rachel» δώρισε 3.000 δολάρια στην εκστρατεία του Μίσιγκαν Δημοκράτη Abdul El Sayed για το Σενάτο ΗΠΑ, σύμφωνα με αρχεία χρηματοδότησης εκλογικών καμπανιών.",
+   "angle": "Η πολιτική δράση διάσημης παιδικής περσόνας: Πώς επηρεάζουν τις εκλογές οι δωρεές διαδηλωτών που απευθύνονται σε παιδιά;",
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "c9eb7b17b63b637a",
    "title": "ECB Expands Application of Climate Risk Factors in Collateral Framework to Corporate Loans",
    "link": "https://www.esgtoday.com/ecb-expands-application-of-climate-risk-factors-in-collateral-framework-to-corporate-loans/?utm_source=rss&utm_medium=rss&utm_campaign=ecb-expands-application-of-climate-risk-factors-in-collateral-framework-to-corporate-loans",
@@ -1777,6 +2277,28 @@
    "turkish_narrative": false,
    "summary_el": "Δημοσκόπηση Tea Party Patriots δείχνει ότι πλειοψηφία των ψηφοφόρων θεωρεί ότι οι ΗΠΑ πρέπει να «τελειώσουν δουλειά» στο Ιράν.",
    "angle": "Πώς τα αποτελέσματα δημοσκοπήσεων για στρατιωτική δράση κατά του Ιράν επηρεάζουν τη διεθνή πολιτική της Δύσης;",
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "9c903dc71f116f7b",
+   "title": "Exclusive: Poll Shows Majority of American Voters Support SAVE America Act",
+   "link": "https://www.breitbart.com/politics/2026/07/27/exclusive-poll-shows-majority-american-voters-support-save-america-act/",
+   "summary_raw": "<p>A majority of general election voters support the SAVE America Act, which would require an individual to show an ID before voting in federal elections, a Tea Party Patriots Action survey exclusively obtained by Breitbart News revealed.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/27/exclusive-poll-shows-majority-american-voters-support-save-america-act/\" rel=\"nofollow\">Exclusive: Poll Shows Majority of American Voters Support SAVE America Act</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-07-27T13:00:02+00:00",
+   "collected": "2026-07-27T20:46:31.387270+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A majority of general election voters support the SAVE America Act, which would require an individual to show an ID before voting in federal elections, a Tea Party Patriots Action survey exclusively o",
+   "angle": null,
    "corroborated_by": [
     "Daily Signal"
    ]
@@ -39719,559 +40241,6 @@
    "turkish_narrative": false,
    "summary_el": "Η Lockheed Martin παρουσιάζει ολοκαίνουργιες εκδόσεις του συστήματος Patriot με μειωμένο κόστος, ενώ η MBDA προτείνει ανταγωνιστικό interceptor χαμηλού κόστους.",
    "angle": null
-  },
-  {
-   "id": "27d854b81442bcb7",
-   "title": "Yunanistan'ın farklı bölgelerinde yangınlar çıktı",
-   "link": "https://www.milletgazetesi.gr/yunanistan/yunanistanin-farkli-bolgelerinde-yanginlar-cikti",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Yunanistan)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-07-20T20:44:20.965715+00:00",
-   "collected": "2026-07-20T20:44:20.965729+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Πυρκαγιές ξέσπασαν σε διάφορες περιοχές της Ελλάδας, με τις δυνάμεις πυροσβεσίας στο έργο.",
-   "angle": "Δύσκολη κατάσταση στη χώρα: Ποιες περιοχές της Ελλάδας πλήττονται από πυρκαγιές;"
-  },
-  {
-   "id": "cf07784a33bbde67",
-   "title": "‘QUITE IRONIC’: Suspect With Anti-ICE Sign Who Set off Fireworks at Federal Building Only Injured One Person, an Immigrant",
-   "link": "https://www.dailysignal.com/2026/07/20/quite-ironic-anti-ice-rioter-who-set-off-fireworks-at-federal-building-only-injured-one-person-immigrant/",
-   "summary_raw": "A suspect whom the Department of Homeland Security called an &#8220;anti-ICE rioter&#8221; set off fireworks outside a federal office building in New York and injured only one person—an immigrant who was there for an immigration status hearing. &#8220;The one civilian victim was an immigrant that had a hearing today for their immigration status, so that&#8217;s...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T20:40:23+00:00",
-   "collected": "2026-07-20T20:44:11.946497+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ένας ύποπτος που κατέθεσε πυροτεχνήματα έξω από ένα ομοσπονδιακό κτήριο στη Νέα Υόρκη τραυμάτισε μόνον έναν άνθρωπο—έναν μετανάστη που βρισκόταν για ακρόαση για το καθεστώς του.",
-   "angle": null
-  },
-  {
-   "id": "4d9fe4b978623e5f",
-   "title": "As Trump Warns of China Dangers, Why Won’t He Go Harder?",
-   "link": "https://www.dailysignal.com/2026/07/20/trump-dangers-on-china-go-harder/",
-   "summary_raw": "President Donald Trump addressed the dangers of China and 2020 election interference during his address. The many valid points of concern raise the question: What comes next? If anything, more must be done against China, Tony Kinnett insisted during Friday&#8217;s &#8220;The Tony Kinnett Cast.&#8221; &#8220;Over a period of years, starting during the 2020 election cycle,...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T20:40:00+00:00",
-   "collected": "2026-07-20T22:15:58.098010+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ενώ ο Τραμπ προειδοποιεί για τους κινδύνους της Κίνας και της παρέμβασής της το 2020, ειδικοί αμφιβάλλουν εάν τα μέτρα είναι αρκετά σκληρά.",
-   "angle": "Αδύναμη στάση απέναντι στην Κίνα: Γιατί ο Τραμπ δεν λαμβάνει ισχυρότερα μέτρα",
-   "corroborated_by": [
-    "Breitbart",
-    "Brussels Signal"
-   ]
-  },
-  {
-   "id": "a7fb711af5423ea3",
-   "title": "WATCH: Spanish World Cup Hero Ferran Torres Wears 'Make Spain Great Again' Hat in Victory Parade",
-   "link": "https://www.breitbart.com/sports/2026/07/20/watch-spanish-world-cup-hero-ferran-torres-wears-make-spain-great-again-hat-in-victory-parade/",
-   "summary_raw": "<p>On Sunday, the cameras were on Spain's Ferran Torres, as he scored the goal that delivered \"La Roja\" their second World Cup championship. On Monday, the cameras were on him again, for a very different reason.</p>\n<p>The post <a href=\"https://www.breitbart.com/sports/2026/07/20/watch-spanish-world-cup-hero-ferran-torres-wears-make-spain-great-again-hat-in-victory-parade/\" rel=\"nofollow\">WATCH: Spanish World Cup Hero Ferran Torres Wears &#8216;Make Spain Great Again&#8217; Hat in Victory Parade</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T20:36:23+00:00",
-   "collected": "2026-07-21T16:45:14.161059+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Ισπανός ποδοσφαιριστής Φεράν Τόρες, μετά τη νίκη της Ισπανίας στο Παγκόσμιο Κύπελλο, φορούσε καπέλο με δημοφιλή πολιτικό σύνθημα σε παρέλαση.",
-   "angle": null,
-   "corroborated_by": [
-    "Brussels Signal"
-   ]
-  },
-  {
-   "id": "9cf942cdb0104a12",
-   "title": "OSINTdefender Iran’s Mehr News Agency has said that air defenses are now active near Iran’s Bushehr Nuclear Plant, amidst the start of the 10th consecutive night of U.S. strikes on…",
-   "link": "https://t.me/OSINTLive/557583",
-   "summary_raw": "OSINTdefender Iran’s Mehr News Agency has said that air defenses are now active near Iran’s Bushehr Nuclear Plant, amidst the start of the 10th consecutive night of U.S. strikes on Iran. https://twitter.com/sentdefender/status/2079302358316564618/photo/1 tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-07-20T20:34:35+00:00",
-   "collected": "2026-07-20T22:16:02.111313+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Το ιρανικό πρακτορείο Mehr News ανακοίνωσε ότι οι αμυντικά συστήματα είναι ενεργοποιημένα κοντά στο πυρηνικό εργοστάσιο Μπουσάρ, καθώς ξεκίνησε η 10η συνεχόμενη νύχτα αμερικανικών επιθέσεων στο Ιράν.",
-   "angle": "Οι πυρηνικές εγκαταστάσεις του Ιράν στο επίκεντρο της αναπτυσσόμενης κρίσης - τι προστασία έχουν τα ιρανικά αμυντικά συστήματα;",
-   "corroborated_by": [
-    "Telegram @AMK_Mapping"
-   ]
-  },
-  {
-   "id": "0a97d571e8ec523b",
-   "title": "Explosions reported in Bandar Abbas",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-bandar-abbas",
-   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-bandar-abbas\" rel=\"bookmark\">\n<span class=\"field field-title\">Explosions reported in Bandar Abbas</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Iran’s state TV reported explosions in the city of Bandar Abbas on Monday.</p>\n\n<p>Mehr news agency added that air defence systems are being activated near the Bushehr nuclear power plant.</p>\n</div>\n      \n  </div>\n\n</article>",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-07-20T20:30:56+00:00",
-   "collected": "2026-07-20T23:17:14.969912+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Το ιρανικό κρατικό τηλεόραση ανέφερε εκρήξεις στην πόλη Μπάντার Αμπάς στην Δευτέρα, ενώ συστήματα αεράμυνας ενεργοποιήθησαν κοντά στο πυρηνικό εργοστάσιο Μπούσεχρ.",
-   "angle": "Τα ιρανικά αντιαεροπορικά συστήματα στο Μπούσεχρ ενεργοποιούνται εν μέσω εκρήξεων - τι συμβαίνει στον Περσικό Κόλπο;"
-  },
-  {
-   "id": "fd9bba4e2b69fbf0",
-   "title": "Opinion: Arab recognition of Israel rewards its relentless land theft",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-arab-recognition-israel-rewards-its-relentless-land-theft",
-   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/opinion-arab-recognition-israel-rewards-its-relentless-land-theft\" rel=\"bookmark\">\n<span class=\"field field-title\">Opinion: Arab recognition of Israel rewards its relentless land theft </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>One of the most intimidating aspects of modern&nbsp;<a href=\"https://www.middleeasteye.net/countries/us\" target=\"_blank\">US</a>&nbsp;relations with the Arab and Muslim world is Washington's&nbsp;<a href=\"https://www.nytimes.com/2026/05/25/us/politics/trump-israel-iran-abraham-accords.html\" target=\"_blank\">insistence</a>&nbsp;that all Arab and Muslim-majority countries&nbsp;<a href=\"https://www.middleeasteye.net/topics/israel-normalisation-deals\" target=\"_blank\">normalise</a>&nbsp;relations with the state of&nbsp;<a href=\"https://www.middleeasteye.net/countries/israel\" target=\"_blank\">Israel</a>&nbsp;as a reward for its ongoing&nbsp;<a href=\"https://www.middleeasteye.net/topics/israel-genocide-gaza\" target=\"_blank\">genocide</a>&nbsp;against the Pal",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-07-20T20:29:06+00:00",
-   "collected": "2026-07-20T23:17:14.971013+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Opinion: Arab recognition of Israel rewards its relentless land theft One of the most intimidating aspects of modern US relations with the Arab and Muslim world is Washington's insistence that all Ara",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ουάσιγκτον",
-     "lat": 38.91,
-     "lon": -77.04
-    }
-   ]
-  },
-  {
-   "id": "3f26340c61f272fd",
-   "title": "Iran Air Defenses Active Near Bushehr",
-   "link": "https://www.osint613.com/post/iran-air-defenses-active-near-bushehr-17933",
-   "summary_raw": "Iran reports air defenses activated near the Bushehr nuclear power plant.",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-07-20T20:26:38+00:00",
-   "collected": "2026-07-20T20:44:12.149625+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Το Ιράν ενεργοποίησε τα συστήματα αεράμυνας κοντά στο πυρηνικό εργοστάσιο του Bushehr, σύμφωνα με ανακοίνωση των ιρανικών αρχών.",
-   "angle": "Αυξημένη ένταση στην περιοχή: Γιατί το Ιράν ενεργοποιεί τα αμυντικά του συστήματα κοντά στις πυρηνικές του εγκαταστάσεις;"
-  },
-  {
-   "id": "4a9a756cbc94e6ad",
-   "title": "Wildfires break out across several regions of Greece amid scorching heat",
-   "link": "https://www.aa.com.tr/en/europe/wildfires-break-out-across-several-regions-of-greece-amid-scorching-heat/4004108",
-   "summary_raw": "Authorities battle multiple blazes as temperatures are forecast to reach 42C before storms bring cooler weather later this week",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-07-20T20:23:56+00:00",
-   "collected": "2026-07-20T20:43:06.989842+00:00",
-   "keywords_hit": [
-    "greece"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "Πυρκαγιές ξέσπασαν σε πολλές περιοχές της Ελλάδας καθώς οι θερμοκρασίες αναμένεται να φτάσουν τους 42°C, πριν ψυχρά μέτωπα φέρουν ανακούφιση στο τέλος της εβδομάδας.",
-   "angle": "Η αντιμετώπιση της καταστροφικής πυρκαγιακής περιόδου του καλοκαιριού: πόσο έτοιμη είναι η χώρα;"
-  },
-  {
-   "id": "36950f1ee3179c0f",
-   "title": "Iranian media reports air defence activity near Bushehr Nuclear Power Plant.",
-   "link": "https://t.me/AMK_Mapping/34373",
-   "summary_raw": "Iranian media reports air defence activity near Bushehr Nuclear Power Plant.",
-   "source": "Telegram @AMK_Mapping",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-07-20T20:23:13+00:00",
-   "collected": "2026-07-20T22:16:02.934967+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Τα ιρανικά μέσα ενημέρωσης αναφέρουν δραστηριότητα συστημάτων αεράμυνας κοντά στο πυρηνικό εργοστάσιο Μπουσάρ.",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @OSINTLive"
-   ]
-  },
-  {
-   "id": "c858499109f1cc64",
-   "title": "Feds to Cancel Citizenship of Ten Career Criminal Migrants",
-   "link": "https://www.breitbart.com/immigration/2026/07/20/feds-to-cancel-citizenship-of-ten-career-criminal-migrants/",
-   "summary_raw": "<p>Federal officials have filed cases to revoke the citizenship of ten career-criminal migrants who hid their crimes during naturalization.</p>\n<p>The post <a href=\"https://www.breitbart.com/immigration/2026/07/20/feds-to-cancel-citizenship-of-ten-career-criminal-migrants/\" rel=\"nofollow\">Feds to Cancel Citizenship of Ten Career Criminal Migrants</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T20:23:08+00:00",
-   "collected": "2026-07-21T09:42:58.508418+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Αμερικανικές ομοσπονδιακές αρχές κατέθεσαν αγωγές ανάκλησης ιθαγένειας για δέκα μετανάστες με ποινικό δοσίευ που απέκρυψαν τα εγκλήματά τους κατά την υπηκοότητα.",
-   "angle": null
-  },
-  {
-   "id": "4b6d693ac6e2663e",
-   "title": "Exclusive: ICE Agents Arrest Illegal Aliens Convicted of Murder, Child Rape over Weekend",
-   "link": "https://www.breitbart.com/politics/2026/07/20/exclusive-ice-agents-arrest-illegal-aliens-convicted-of-murder-child-rape-over-weekend/",
-   "summary_raw": "<p>The Immigration and Customs Enforcement (ICE) conducted arrests across the United States over the weekend, taking into custody illegal aliens convicted of murder, child rape, drug trafficking, and other violent crimes, Breitbart News has learned. </p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/20/exclusive-ice-agents-arrest-illegal-aliens-convicted-of-murder-child-rape-over-weekend/\" rel=\"nofollow\">Exclusive: ICE Agents Arrest Illegal Aliens Convicted of Murder, Child Rape over Weekend</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T20:02:32+00:00",
-   "collected": "2026-07-21T06:43:48.761867+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η αμερικανική υπηρεσία ICE συνέλαβε τον περασμένο Σαββατοκύριακο λάθρο μετανάστες καταδικασμένους για φόνο, βιασμό παιδιών και διακίνηση ναρκωτικών.",
-   "angle": null
-  },
-  {
-   "id": "b2bd5f8692be4bbf",
-   "title": "Democrat Gov. Denied: Kids’ Educational Scholarships Are Saved",
-   "link": "https://www.dailysignal.com/2026/07/20/democrat-gov-denied-kids-educational/",
-   "summary_raw": "Pennsylvania&#8217;s Republican-led Legislature has successfully pushed back against Democrat Gov. Josh Shapiro’s proposal to cut two scholarship programs from the 2026–27 budget. Shapiro’s original budget proposal, HB 2632, called for eliminating two programs: the Educational Improvement Tax Credit and the Opportunity Scholarship Tax Credit.  The Pennsylvania Legislature successfully amended the budget to maintain the original scholarships and...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T20:01:10+00:00",
-   "collected": "2026-07-20T23:17:53.094963+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το Ρεπουμπλικανικό κοινοβούλιο της Πενσυλβάνια απέρριψε την πρόταση του κυβερνήτη Τζος Σαπίρο να περικόψει δύο προγράμματα υποτροφιών από τον προϋπολογισμό 2026-27, διατηρώντας το Educational Improvement Tax Credit και το Opportunity Scholarship Tax Credit.",
-   "angle": "Πώς οι αμερικανικές τοπικές κυβερνήσεις διαφωνούν για τη χρηματοδότηση της εκπαίδευσης και τις παιδικές υποτροφίες;",
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "3377a87b7df0e6ea",
-   "title": "Κλιμάκιο του ΠΑΣΟΚ με επικεφαλής τον Μ. Κατρίνη αύριο στον Έβρο - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1R0UFNXRU90RHR6SmQ1QWdYVGxnekhKU1M1bzdETTFzX0pFMHBSRmg3dThDci1INVhjYjdoTGNyUVdIUDVCMHdhcG0xRS0zbGFrS2pzN0lzcjVlMDEyeEVtOW5pZk0zTkRCYnZ6aThpVGZlSFBxZGVWTlBPN2c3M0s0dWUtZllKRGI3dnJzUW1kSWRVOVBVdnduNEZiZ09sazBIekhLUQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1R0UFNXRU90RHR6SmQ1QWdYVGxnekhKU1M1bzdETTFzX0pFMHBSRmg3dThDci1INVhjYjdoTGNyUVdIUDVCMHdhcG0xRS0zbGFrS2pzN0lzcjVlMDEyeEVtOW5pZk0zTkRCYnZ6aThpVGZlSFBxZGVWTlBPN2c3M0s0dWUtZllKRGI3dnJzUW1kSWRVOVBVdnduNEZiZ09sazBIekhLUQ?oc=5\" target=\"_blank\">Κλιμάκιο του ΠΑΣΟΚ με επικεφαλής τον Μ. Κατρίνη αύριο στον Έβρο</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-07-20T20:00:00+00:00",
-   "collected": "2026-07-20T20:43:14.895577+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Κλιμάκιο του ΠΑΣΟΚ με επικεφαλής τον Μ. Κατρίνη αύριο στον Έβρο Παρατηρητής της Θράκης",
-   "angle": null
-  },
-  {
-   "id": "02b118ab4fff1275",
-   "title": "Kansas Democrat Senate Frontrunner and Methodist Pastor: Bible Is Full of Errors",
-   "link": "https://www.breitbart.com/politics/2026/07/20/kansas-democrat-senate-frontrunner-and-methodist-pastor-bible-is-full-of-errors/",
-   "summary_raw": "<p>Adam Hamilton, a frontrunner in the Kansas's Democrat primary race for Senate, is a Methodist pastor who believes that the Bible is full of errors.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/20/kansas-democrat-senate-frontrunner-and-methodist-pastor-bible-is-full-of-errors/\" rel=\"nofollow\">Kansas Democrat Senate Frontrunner and Methodist Pastor: Bible Is Full of Errors</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T19:59:12+00:00",
-   "collected": "2026-07-20T23:17:51.848509+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Μεθοδιστής ιερέας Adam Hamilton, πρόσωπο-κλειδί στις Δημοκρατικές πρωτοβουλίες του Kansas για τη Γερουσία, δηλώνει ότι η Αγία Γραφή περιέχει σφάλματα.",
-   "angle": "Θρησκευτικό χάσμα στην Αμερικανική πολιτική: Πώς οι Δημοκράτες απορρίπτουν παραδοσιακές αξίες",
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "bdd531c89f46e630",
-   "title": "ICE Agents Deport Illegal Alien Alleged Cartel Hitman Wanted for Murder in Mexico",
-   "link": "https://www.breitbart.com/politics/2026/07/20/ice-agents-deport-illegal-alien-alleged-cartel-hitman-wanted-murder-mexico/",
-   "summary_raw": "<p>ICE agents deported an illegal alien this month who is associated with the Mexican drug cartels as a hitman.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/20/ice-agents-deport-illegal-alien-alleged-cartel-hitman-wanted-murder-mexico/\" rel=\"nofollow\">ICE Agents Deport Illegal Alien Alleged Cartel Hitman Wanted for Murder in Mexico</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T19:52:39+00:00",
-   "collected": "2026-07-21T09:42:58.508651+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Το ICE απέλασε αλλοδαπό που συνδέεται με μεξικανικά καρτέλ ναρκωτικών ως ληφθέντα δολοφόνος, ο οποίος αναζητείται για ανθρωποκτονία στο Μεξικό.",
-   "angle": "Η δράση των ΗΠΑ κατά της εγκληματικής δραστηριότητας των καρτέλ: πώς αναχαιτίζεται η τρανσνασιονική οργανωμένη εγκληματικότητα;",
-   "corroborated_by": [
-    "The European Conservative"
-   ]
-  },
-  {
-   "id": "f245542f34696f83",
-   "title": "Catholic Nuns Sue New York Over Law Requiring Them to Refer Patients for Assisted Suicide",
-   "link": "https://www.breitbart.com/politics/2026/07/20/catholic-nuns-sue-new-york-over-law-requiring-them-to-refer-patients-for-assisted-suicide/",
-   "summary_raw": "<p>Several orders of Catholic nuns and health care ministries have sued New York over the state's new law allowing assisted suicide. </p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/20/catholic-nuns-sue-new-york-over-law-requiring-them-to-refer-patients-for-assisted-suicide/\" rel=\"nofollow\">Catholic Nuns Sue New York Over Law Requiring Them to Refer Patients for Assisted Suicide</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T19:49:09+00:00",
-   "collected": "2026-07-20T23:17:51.850362+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Καθολικά μοναστήρια μηνύουν τη Νέα Υόρκη για νόμο που τους υποχρεώνει να διαφημίζουν την ενισχυμένη αυτοκτονία σε ασθενείς.",
-   "angle": "Σύγκρουση θρησκείας-κράτους: Πώς ο νόμος ενισχυμένης αυτοκτονίας παραβιάζει την ελευθερία συνείδησης"
-  },
-  {
-   "id": "4e949fd70bb63718",
-   "title": "ICE Deports More than 100 Illegal Aliens to Haiti, Including Convicted Pedophiles, Domestic Abusers",
-   "link": "https://www.breitbart.com/politics/2026/07/20/ice-deports-more-than-100-illegals-haiti-including-convicted-pedophiles-domestic-abusers/",
-   "summary_raw": "<p>Immigration and Customs Enforcement (ICE) recently deported more than 100 illegal aliens to Haiti, including those convicted of child sex crimes and domestic violence.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/20/ice-deports-more-than-100-illegals-haiti-including-convicted-pedophiles-domestic-abusers/\" rel=\"nofollow\">ICE Deports More than 100 Illegal Aliens to Haiti, Including Convicted Pedophiles, Domestic Abusers</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T19:42:55+00:00",
-   "collected": "2026-07-21T06:43:48.761164+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το ICE απέδωσε περισσότερους από 100 παράνομους μετανάστες στην Αϊτή, μεταξύ των οποίων καταδικασμένων για αδικήματα κατά παιδιών και ενδοοικογενειακής βίας.",
-   "angle": null
-  },
-  {
-   "id": "4ede8f4a77186af9",
-   "title": "«Καμία στοχοποίηση»: Η απάντηση του υπ. Παιδείας για την αναστολή στα μειονοτικά σχολεία στη Θράκη",
-   "link": "https://www.kathimerini.gr/society/564355852/synepeia-toy-dimografikoy-provlimatos-i-apantisi-toy-yp-paideias-gia-tin-anastoli-sta-meionotika-scholeia-sti-thraki/",
-   "summary_raw": "«Ακολουθούν και αυτά τη συρρίκνωση που παρατηρείται σε όλη τη χώρα ως συνέπεια του δημογραφικού προβλήματος που ταλανίζει ολόκληρη την ευρωπαϊκή ήπειρο», σημειώνεται.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-20T19:42:43+00:00",
-   "collected": "2026-07-20T20:44:03.058645+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το υπουργείο Παιδείας αρνείται στοχοποίηση αναφορικά με την αναστολή λειτουργίας μειονοτικών σχολείων στη Θράκη, αποδίδοντάς την στο δημογραφικό πρόβλημα.",
-   "angle": null
-  },
-  {
-   "id": "b00761192bc37df7",
-   "title": "Christodoulides draws red line on sovereignty as UN chief and EU envoy set to visit Cyprus",
-   "link": "https://en.philenews.com/politics/christodoulides-draws-red-line-on-sovereignty-as-un-chief-and-eu-envoy-set-to-visit-cyprus/",
-   "summary_raw": "President Nikos Christodoulides declared on Monday that the uninterrupted continuation of the Republic of Cyprus remains a non-negotiable red line, explicitly rejecting two-state proposals or disguised confederations ahead of crucial diplomatic visits to the island. Speaking at a memorial event at the Presidential Palace marking 52 years since the 1974 coup and Turkish invasion, Christodoulides [&#8230;]",
-   "source": "in-cyprus (Philenews)",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-07-20T19:40:18+00:00",
-   "collected": "2026-07-20T20:43:20.594768+00:00",
-   "keywords_hit": [
-    "christodoulides"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ο Πρόεδρος Χριστοδουλίδης ανακοίνωσε ότι η συνέχιση της Κυπριακής Δημοκρατίας είναι απαράβατη κόκκινη γραμμή, απορρίπτοντας σχέδια δύο κρατών πριν από σημαντικές διπλωματικές επισκέψεις.",
-   "angle": "Χριστοδουλίδης θέτει τελικά όρια: ποιες κινήσεις συζητούνται πίσω από τις κλειστές πόρτες;"
-  },
-  {
-   "id": "426e187e5ce94bc4",
-   "title": "Η πλειοψηφία των Αμερικανών διαφωνεί με τον Τραμπ: Τα ακραία καιρικά φαινόμενα σχετίζονται με την κλιματική κρίση",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/i-pleiopsifia-ton-amerikanon-diafonei-me-ton-tramp-ta-akraia-kairika-fainomena-sxetizontai-me-tin-klimatiki-krisi/",
-   "summary_raw": "<img alt=\"Η ΞΗΡΑΣΙΑ ΑΠΟΚΑΛΥΨΕ ΒΥΘΙΣΜΕΝΟ ΟΙΚΙΣΜΟ  ΣΤΗΝ ΤΕΧΝΗΤΗ ΛΙΜΝΗ ΤΟΥ ΠΟΥΡΝΑΡΙΟΥ ΣΤΗΝ ΑΡΤΑ\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1441\" src=\"https://www.ertnews.gr/wp-content/uploads/2024/09/29234950-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Περίπου το 61% των Αμερικανών ψηφοφόρων πιστεύουν ότι τα ακραία καιρικά φαινόμενα έχουν γίνει πιο συχνά τα τελευταία πέντε χρόνια, σύμφωνα με έρευνα της εταιρείας δημοσκοπήσεων Data for Progress, η οποία κοινοποιήθηκε αποκλειστικά στον Guardian. «Είναι ένα σημάδι ότι οι προσπάθειες καταστολής και πόλωσης των ανησυχιών για το κλίμα μπορεί να μην έχουν επιτυχία», δήλωσε ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/i-pleiopsifia-ton-amerikanon-diafonei-me-ton-tramp-ta-akraia-kairika-fainomena-sxetizontai-me-tin-klimatiki-krisi/\" title=\"Η πλειοψηφία των Αμερικανών διαφωνεί με τον Τραμπ: Τα ακραία καιρικά φαινόμενα σχετίζονται με την κλιματική κρίση\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-07-20T19:12:28+00:00",
-   "collected": "2026-07-20T20:43:11.071892+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Περίπου το 61% των Αμερικανών ψηφοφόρων πιστεύουν ότι τα ακραία καιρικά φαινόμενα έχουν γίνει πιο συχνά τα τελευταία πέντε χρόνια, σύμφωνα με έρευνα της εταιρείας δημοσκοπήσεων Data for Progress, η οπ",
-   "angle": null
-  },
-  {
-   "id": "5e99f15eb2492e07",
-   "title": "Slowdown in Arctic ice melt ends after largest winter decline on record",
-   "link": "https://www.theguardian.com/environment/2026/jul/20/slowdown-arctic-sea-ice-melt-largest-winter-decline-record",
-   "summary_raw": "<p>Scientists recorded slower reduction over past 20 years, but study finds this was ‘temporary rather than sustained’</p><p>A previously recorded slowdown in Arctic sea ice decline has ended, according to a new study, with the largest year-to-year wintertime reduction ever recorded.</p><p>In a <a href=\"https://www.theguardian.com/environment/2025/aug/20/slowdown-in-melting-of-arctic-sea-ice-surprises-scientists\">study</a> published last summer, researchers found that melting sea ice in the Arctic had slowed down over the past 20 years, with no statistically significant decline in its extent recorded between 2005 and 2024.</p> <a href=\"https://www.theguardian.com/environment/2026/jul/20/slowdown-arctic-sea-ice-melt-largest-winter-decline-record\">Continue reading...</a>",
-   "source": "Guardian Environment",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-07-20T19:00:48+00:00",
-   "collected": "2026-07-20T22:15:33.058522+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Νέα μελέτη δείχνει ότι η προηγούμενη επιβράδυνση της τήξης του αρκτικού πάγου ήταν προσωρινή, καθώς καταγράφηκε η μεγαλύτερη χειμερινή μείωση όλων των εποχών. Παρά τη σταθερότητα των τελευταίων 20 ετών, η κλιματική κρίση επιστρέφει στην επιδεινούμενη τροχιά της.",
-   "angle": "Το Αρκτικό πάγο δεν 'σταμάτησε' - η προσωρινή ανάσχεση της τήξης ήταν απλώς ψευδαίσθηση"
-  },
-  {
-   "id": "87db5b6ec62a3064",
-   "title": "Islamic Terrorism and Socialism Ramp Up Democrat Infighting, Dem Reps Say",
-   "link": "https://www.dailysignal.com/2026/07/20/islamic-terror-socialism-democrat/",
-   "summary_raw": "A longtime Democrat congressman sounded the alarm on the socialist takeover of the Democratic Party, adding that his party&#8217;s leadership is only making room for the extreme wing of Democrats. “I just found it to be not the same caucus I joined in 2007,&#8221; Rep. Steve Cohen, D-Tenn., told CNN regarding the House Progressive Caucus....",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T19:00:00+00:00",
-   "collected": "2026-07-20T23:17:53.095396+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Δημοκρατικός πολιτικός Στιβ Κοέν προειδοποιεί για σοσιαλιστική «κατάληψη» του Δημοκρατικού Κόμματος, υποστηρίζοντας ότι η ηγεσία του κόμματος δίνει χώρο μόνο στα ακραία κράτη.",
-   "angle": "Εσωτερικές διχογνωμίες στο αμερικανικό Δημοκρατικό Κόμμα: η «αριστερή στροφή» που ανησυχεί τους ίδιους του ανθρώπους;",
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "ce0d8e52c87f4456",
-   "title": "WATCH: Transgender Student Yells 'Stop Misgendering Me' at Florida Officer Before Getting Cuffed",
-   "link": "https://www.breitbart.com/crime/2026/07/20/watch-transgender-student-yells-stop-misgendering-me-at-florida-officer-before-getting-cuffed/",
-   "summary_raw": "<p>Police body camera footage recorded in Florida shows a transgender student screaming at an officer for not using his preferred pronouns.</p>\n<p>The post <a href=\"https://www.breitbart.com/crime/2026/07/20/watch-transgender-student-yells-stop-misgendering-me-at-florida-officer-before-getting-cuffed/\" rel=\"nofollow\">WATCH: Transgender Student Yells &#8216;Stop Misgendering Me&#8217; at Florida Officer Before Getting Cuffed</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T18:58:35+00:00",
-   "collected": "2026-07-21T00:14:42.865122+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Βίντεο από κάμερα αστυνομικού στη Φλόριντα καταγράφει διαμάχη ανάμεσα σε διαφυλικό μαθητή και αστυνομικό για την χρήση προνομιακών, καταλήγοντας σε σύλληψη.",
-   "angle": "ΗΠΑ: Αστυνομική παρέμβαση και ζητήματα ταυτότητας - το περιστατικό που αναζωπυρώνει τη διαμάχη για τα δικαιώματα και τη δημόσια τάξη",
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "bddf73d2dc65f5dc",
-   "title": "Υπουργείο Παιδείας: Δεν υπάρχει καμία στοχοποίηση των μειονοτικών σχολείων στη Θράκη -Γιατί έκλεισαν οκτώ Δημοτικά - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMl9vYVhpdXQtMms5MXFEOVBxRmpVLTc5ZU5XM0UwSWdRdUIzall0aWpNNElOajhLVGRycXVWeFlaZ3lqQlVoYUt5UnU2elNmSlBxUDl0QUJPUkpwSXJOdl9DVmNGMm1YZFowWVp2ZGdkdHNuS054aDg3VnV5LTN6b1lzX19uNXRfYWNNNnFXWTJnZ1kta3ZkU3N1M2h4ZEFjendkdkZVdUd6VGJOeFhiOHlLemEydVhGZS02WjdScTfSAcYBQVVfeXFMUFp6aHdPWXd4VHZLYmZ1eTFxWUxPQ0g2ZFhPdTc3TWFHWmJBZXNycHMtdDY3SHBRaUtNZkc3cVgxc3g1ZlFIUXlVSEQxSVluUU9HcVVzVnhORGFiaUFyZnZtSjhGWWs1d21Qc3cyVHJRNDFXcW81a25FenVYMk1nckgxNnJRWkJSakJSWFFSTjZmZl9zamJ1blhVLWRvM2hvb0lQWGxPWk1TZlJCR0R6Q3BWb1NucWg2bUFMbUhxd245UVNDREJn?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMl9vYVhpdXQtMms5MXFEOVBxRmpVLTc5ZU5XM0UwSWdRdUIzall0aWpNNElOajhLVGRycXVWeFlaZ3lqQlVoYUt5UnU2elNmSlBxUDl0QUJPUkpwSXJOdl9DVmNGMm1YZFowWVp2ZGdkdHNuS054aDg3VnV5LTN6b1lzX19uNXRfYWNNNnFXWTJnZ1kta3ZkU3N1M2h4ZEFjendkdkZVdUd6VGJOeFhiOHlLemEydVhGZS02WjdScTfSAcYBQVVfeXFMUFp6aHdPWXd4VHZLYmZ1eTFxWUxPQ0g2ZFhPdTc3TWFHWmJBZXNycHMtdDY3SHBRaUtNZkc3cVgxc3g1ZlFIUXlVSEQxSVluUU9HcVVzVnhORGFiaUFyZnZtSjhGWWs1d21Qc3cyVHJRNDFXcW81a25FenVYMk1nckgxNnJRWkJSakJSWFFSTjZmZl9zamJ1blhVLWRvM2hvb0lQWGxPWk1TZlJCR0R6Q3BWb1NucWg2bUFMbUhxd245UVNDREJn?oc=5\" target=\"_blank\">Υπουργείο Παιδείας: Δεν υπάρχει καμία στοχοποίηση των μειονοτικών σχολείων στη Θράκη -Γιατί έκλεισαν οκτώ Δημοτικά</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-20T18:57:12+00:00",
-   "collected": "2026-07-20T22:15:51.907492+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το Υπουργείο Παιδείας διαψεύδει κατηγορίες στοχοποίησης μειονοτικών σχολείων στη Θράκη, δικαιολογώντας το κλείσιμο οκτώ Δημοτικών σχολείων. Η αιτιολόγηση του Υπουργείου έχει προκαλέσει αντιδράσεις σε περιοχές με χαμηλή δημογραφική πυκνότητα.",
-   "angle": "Κλειστά σχολεία στη Θράκη: το Υπουργείο αρνείται στοχοποίηση, αλλά η τοπική κοινότητα διαφωνεί",
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "8e66ecb9bb4b66fc",
-   "title": "The Odyssey has transcended the culture war",
-   "link": "https://www.spiked-online.com/2026/07/20/the-odyssey-has-transcended-the-culture-war/",
-   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/07/20/the-odyssey-has-transcended-the-culture-war/\">&lt;em&gt;The Odyssey&lt;/em&gt; has transcended the culture war</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
-   "source": "Spiked",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-07-20T18:55:42+00:00",
-   "collected": "2026-07-21T12:02:51.068412+00:00",
-   "keywords_hit": [
-    "culture war"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η «Οδύσσεια» ξεπέρασε τις πολιτιστικές διαμάχες.",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "f75a2e6214eefefe",
-   "title": "Turkish Cypriots are equal owners of island, not minority: Turkish Republic of Northern Cyprus president",
-   "link": "https://www.aa.com.tr/en/turkiye/turkish-cypriots-are-equal-owners-of-island-not-minority-turkish-republic-of-northern-cyprus-president/4004062",
-   "summary_raw": "Tufan Erhurman says negotiations are being done in full coordination with Türkiye",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-07-20T18:54:30+00:00",
-   "collected": "2026-07-20T20:43:06.991478+00:00",
-   "keywords_hit": [
-    "minority",
-    "cyprus",
-    "cypriot"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": true,
-   "summary_el": "Ο πρόεδρος των Τ/Κ Τουφάν Ερχουρμάν δηλώνει ότι οι Τουρκοκύπριοι είναι ίσοι ιδιοκτήτες του νησιού και όχι μειονότητα, και ότι οι διαπραγματεύσεις προχωρούν σε πλήρη συντονισμό με την Τουρκία.",
-   "angle": "Η θέση της Άγκυρας για το Κυπριακό εν όψει νέων διαπραγματεύσεων: τι αλλάζει;"
-  },
-  {
-   "id": "430e76b52c17bb2e",
-   "title": "Sinaloa Cartel Kingpin 'El Mayo' Sentenced in U.S. to Life in Prison",
-   "link": "https://www.breitbart.com/border/2026/07/20/sinaloa-cartel-kingpin-el-mayo-sentenced-to-life-in-prison/",
-   "summary_raw": "<p>On Monday morning, Ismael “El Mayo” Zambada went before U.S. District Judge Brian Cogan, who handed down the life sentence. The sentence was anticipated ahead of time following his August 2025 guilty plea, where the Mexican drug lord admitted to multiple drug trafficking conspiracy charges linked to his role as one of the founders and top leaders of the Sinaloa Cartel.</p>\n<p>The post <a href=\"https://www.breitbart.com/border/2026/07/20/sinaloa-cartel-kingpin-el-mayo-sentenced-to-life-in-prison/\" rel=\"nofollow\">Sinaloa Cartel Kingpin &#8216;El Mayo&#8217; Sentenced in U.S. to Life in Prison</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-20T18:51:39+00:00",
-   "collected": "2026-07-21T00:14:42.868300+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο ηγέτης του καρτέλ Σιναλόα Ισμαέλ «Ελ Μάιο» Ζαμπάδα καταδικάστηκε σε ισόβια κάθειρξη στις ΗΠΑ από τον ομοσπονδιακό δικαστή Μπράιαν Κόγκαν, μετά την πταίσμα του τον Αύγουστο για διακίνηση ναρκωτικών.",
-   "angle": "Δίκαιο: Ισόβια κάθειρξη για τον ηγέτη του καρτέλ Σιναλόα - το μεγαλύτερο πλήγμα κατά του διεθνούς εμπορίου ναρκωτικών"
   }
  ]
 }
