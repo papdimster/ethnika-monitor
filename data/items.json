@@ -1,7 +1,134 @@
 {
- "updated": "2026-08-02T18:16:40.759012+00:00",
- "count": 2082,
+ "updated": "2026-08-02T19:39:12.619378+00:00",
+ "count": 2077,
  "items": [
+  {
+   "id": "6fa955eb60d5f14e",
+   "title": "#USA #ME #EU  The United States is facing a dwindling stockpile of Patriot and THAAD missiles, which are crucial for its defense and that of its allies, including Israel, Ukraine, …",
+   "link": "https://t.me/OSINTdefender/19681",
+   "summary_raw": "#USA #ME #EU  The United States is facing a dwindling stockpile of Patriot and THAAD missiles, which are crucial for its defense and that of its allies, including Israel, Ukraine, and several Gulf states. This shortage raises concerns about the ability to meet the defense needs of these nations amid ongoing regional tensions.  Subscribe to @OSINTdefender Chat room",
+   "source": "Telegram @OSINTdefender",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-02T19:28:10+00:00",
+   "collected": "2026-08-02T19:38:12.754221+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Οι ΗΠΑ αντιμετωπίζουν σοβαρή έλλειψη αποθεμάτων πυραύλων Patriot και THAAD, που είναι κρίσιμοι για την άμυνά τους και των συμμάχων τους, συμπεριλαμβανομένων Ισραήλ, Ουκρανίας και χωρών του Περσικού Κόλπου. Η έλλειψη αυτή εγείρει ανησυχίες σχετικά με τη δυνατότητα κάλυψης των αμυντικών αναγκών αυτών των εθνών.",
+   "angle": "Το αμερικανικό αμυντικό «αχίλλειο πτέρνα»: πώς η έλλειψη πυραύλων απειλεί τη στρατηγική ισορροπία στη Μέση Ανατολή και την Ευρώπη"
+  },
+  {
+   "id": "d824acb12f7abb81",
+   "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
+   "summary_raw": "Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-02T18:38:47+00:00",
+   "collected": "2026-08-02T19:37:36.070526+00:00",
+   "keywords_hit": [
+    "greece"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Σοκαριστικό βίντεο καταγράφει τη στιγμή της σύγκρουσης δύο ελικοπτέρων πυρόσβεσης στον αέρα κατά τη διάσωση πυρκαγιάς στην Ελλάδα.",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "5190d3db16e6cb6a",
+   "title": "Κρήτη: Διάσωση 39 μεταναστών νοτιοανατολικά των Καλών Λιμένων",
+   "link": "https://www.tanea.gr/2026/08/02/epikairotita/kriti-diasosi-39-metanaston-notioanatolika-ton-kalon-limenon/",
+   "summary_raw": "<div><img alt=\"Σκάφος Λιμενικού Σώματος\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/05/LIMENIKO-SOMA-5-1536x1024-1-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Διάσωση μεταναστών σημειώθηκε στη θαλάσσια περιοχή νότια της Κρήτης, όπου περίπου 39 αλλοδαποί εντοπίστηκαν να επιβαίνουν σε λέμβο. Η επιχείρηση εντοπισμού και διάσωσης υλοποιήθηκε υπό τον συντονισμό του Ενιαίου Κέντρου Συντονισμού Έρευνας και Διάσωσης, σε απόσταση 51 ναυτικών μιλίων νοτιοανατολικά των Καλών Λιμένων. Οι επιβαίνοντες περισυνελέγησαν από περιπολικό σκάφος του Λιμενικού Σώματος-Ελληνικής Ακτοφυλακής. Στην επιχείρηση [&#8230;]",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-02T18:34:22+00:00",
+   "collected": "2026-08-02T19:38:01.851162+00:00",
+   "keywords_hit": [
+    "μεταναστ",
+    "λέμβ",
+    "λιμενικ",
+    "διάσωση μεταναστών"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Διάσωση 39 μεταναστών σημειώθηκε νοτιοανατολικά των Καλών Λιμένων σε απόσταση 51 ναυτικών μιλίων από το πλοίο του Λιμενικού Σώματος-Ελληνικής Ακτοφυλακής.",
+   "angle": null,
+   "corroborated_by": [
+    "Καθημερινή"
+   ],
+   "locations": [
+    {
+     "name": "Κρήτη",
+     "lat": 35.24,
+     "lon": 24.81
+    }
+   ]
+  },
+  {
+   "id": "52d7e84f2033a267",
+   "title": "Κλιματικοί πρόσφυγες: Εικόνες από το κοντινό μέλλον",
+   "link": "https://www.tanea.gr/print/2026/08/02/politics/eikones-apolfto-kontinolfmellon/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"681\" src=\"https://www.tanea.gr/wp-content/uploads/2025/07/libya-metanastes-1024x681.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Ο αριθμός τους αυξάνεται διαρκώς, αλλά η ύπαρξή τους εξακολουθεί να μην αναγνωρίζεται επισήμως. Αυτό, όμως, δεν αλλάζει την πραγματικότητα",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-02T18:25:00+00:00",
+   "collected": "2026-08-02T19:38:01.852068+00:00",
+   "keywords_hit": [
+    "libya",
+    "πρόσφυγ",
+    "κλιματικ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Ο αριθμός τους αυξάνεται διαρκώς, αλλά η ύπαρξή τους εξακολουθεί να μην αναγνωρίζεται επισήμως. Αυτό, όμως, δεν αλλάζει την πραγματικότητα",
+   "angle": null
+  },
+  {
+   "id": "bac3ffca5d2b6f81",
+   "title": "Κρήτη: Επιτυχής επιχείρηση διάσωσης 39 αλλοδαπών νότια της Μεγαλονήσου",
+   "link": "https://www.kathimerini.gr/society/564381004/kriti-epitychis-epicheirisi-diasosis-39-allodapon-notia-tis-megalonisoy/",
+   "summary_raw": "Τους επιβαίνοντες περισυνέλεξε περιπολικό σκάφος του Λιμενικού Σώματος.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-02T17:58:18+00:00",
+   "collected": "2026-08-02T19:37:59.519339+00:00",
+   "keywords_hit": [
+    "λιμενικ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Επιχείρηση διάσωσης 39 αλλοδαπών νότια της Μεγαλονήσου στην Κρήτη από περιπολικό σκάφος του Λιμενικού Σώματος.",
+   "angle": null,
+   "corroborated_by": [
+    "Τα Νέα"
+   ],
+   "locations": [
+    {
+     "name": "Κρήτη",
+     "lat": 35.24,
+     "lon": 24.81
+    }
+   ]
+  },
   {
    "id": "b3ad768fd189805d",
    "title": "Τραγωδία στη Θέουτα: Τουλάχιστον 72 νεκροί στην προσπάθεια μαζικής εισόδου μεταναστών από το Μαρόκο",
@@ -157,6 +284,27 @@
    ]
   },
   {
+   "id": "580f3d6bcf16733a",
+   "title": "Sen. Mark Kelly: Trump's Approach to Iran Has Been 'Erratic,' 'Escalatory'",
+   "link": "https://www.breitbart.com/clips/2026/08/02/sen-mark-kelly-trumps-approach-to-iran-has-been-erratic-escalatory/",
+   "summary_raw": "<p>Sunday on CBS's \"Face the Nation,\" Sen. Mark Kelly (D-AZ) said President Donald Trump's approach to Iran has been both \"erratic\" and \"escalatory.\"</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/08/02/sen-mark-kelly-trumps-approach-to-iran-has-been-erratic-escalatory/\" rel=\"nofollow\">Sen. Mark Kelly: Trump&#8217;s Approach to Iran Has Been &#8216;Erratic,&#8217; &#8216;Escalatory&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-02T16:44:41+00:00",
+   "collected": "2026-08-02T19:38:09.085416+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο γερουσιαστής Μαρκ Κέλι επικρίνει την προσέγγιση του Τραμπ προς το Ιράν ως «ασταθή» και «κλιμακωτική».",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal",
+    "Spiked"
+   ]
+  },
+  {
    "id": "c648d8a72eeaea9b",
    "title": "Disclose.tv JUST IN - Greek fire service confirm that 2 people on a firefighting helicopter are dead following a collision with another helicopter, while they were tackling wildfir…",
    "link": "https://t.me/OSINTLive/561311",
@@ -202,6 +350,26 @@
      "lat": 39.0,
      "lon": 22.0
     }
+   ]
+  },
+  {
+   "id": "1d3368cd2905e621",
+   "title": "Texas Approves Classic Learning Test for Public College Admissions",
+   "link": "https://www.dailysignal.com/2026/08/02/texas-classic-learning-test-public-college-admissions/",
+   "summary_raw": "The Texas Higher Education Coordinating Board has approved the use of the Classic Learning Test, or CLT, for admissions at Texas public colleges and universities. In a July 23 letter to university chancellors and presidents, Commissioner of Higher Education Wynn Rosser informed them that institutions may consider the CLT as a factor when admitting students....",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-02T16:31:16+00:00",
+   "collected": "2026-08-02T19:38:09.387201+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Το Texas Higher Education Coordinating Board ενέκρινε τη χρήση του Classic Learning Test (CLT) στις εισαγωγικές εξετάσεις των δημόσιων πανεπιστημίων του Τέξας. Ο Wynn Rosser, Επίτροπος Ανώτατης Εκπαίδευσης, ενημέρωσε τα ιδρύματα ότι μπορούν να λάβουν υπόψη το CLT ως παράγοντα στη διαδικασία εισαγωγής.",
+   "angle": "Η απόρρίψη των standardized tests: πώς το Texas ανοίγει νέο δρόμο στις πανεπιστημιακές εισαγωγές με εναλλακτικές εξετάσεις",
+   "corroborated_by": [
+    "Breitbart"
    ]
   },
   {
@@ -281,6 +449,27 @@
      "lat": 35.24,
      "lon": 24.81
     }
+   ]
+  },
+  {
+   "id": "349b0ca6d2deac3d",
+   "title": "GOP Rep. Turner: Trump Administration 'Could Be Sharing More with Congress' on Iran",
+   "link": "https://www.breitbart.com/clips/2026/08/02/gop-rep-turner-trump-administration-could-be-sharing-more-with-congress-on-iran/",
+   "summary_raw": "<p>Sunday on CBS's \"Face the Nation,\" Rep. Mike Turner (R-OH) said the Trump administration \"could be sharing more, but with Congress\" on Iran.</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/08/02/gop-rep-turner-trump-administration-could-be-sharing-more-with-congress-on-iran/\" rel=\"nofollow\">GOP Rep. Turner: Trump Administration &#8216;Could Be Sharing More with Congress&#8217; on Iran</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-02T16:20:17+00:00",
+   "collected": "2026-08-02T19:38:09.085650+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο Ρεπουμπλικάνος εκπρόσωπος Μάικ Τέρνερ δηλώνει ότι η Διοίκηση Τραμπ θα μπορούσε να ενημερώνει περισσότερο το Κογκρέσο για τις δράσεις στο Ιράν.",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal",
+    "Spiked"
    ]
   },
   {
@@ -489,6 +678,32 @@
    ]
   },
   {
+   "id": "9d6cd06d95e95fb3",
+   "title": "Μεταναστευτικό: Νέο περιστατικό στο Ηράκλειο με την άφιξη 39 ατόμων - NeaKriti",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlVoUV83LTg0RXJMejRRNkU4NDN6UUw5eGZKMmRqNEd5OGpQdlIxYks3MVoyaHBZaFdvdWo2dUliVGpqRXJ3Q2NOVUZfWHBlSkVQeDJfRHRENUYyeER5c1hmNDc0akVxc1V5Q2hIalo3a1kyY3RDV3A0cW9MVjM5Tl9BMXhaSklFWk1XcW55VUEzQmJ2RUhDLU92R0hQa1hFdzk0X0RlVTEzOVQzWE1GMEZGTdIBuAFBVV95cUxNS0ZMajZkZV82TnJfSGNabVh2ekl2dlcyeUxYM2xObkl5dUlFbmVpNG1ZMFQzMmU0dGJrXzBWbU5YLXlqNkZEUG9pTnNBeHVpTTA1N0xvTThIWnREYUNjX0p5QmhtY3Rmc1JjdDJDRnRMN3ZCem1zeXFEMWFWZmJyVkIyTF9DNjFvR2lYbW13Q0pMN2E0WlR6R21tX19IdVRTcEM5RWluZ3o5bjk1N1ZiQXpWQWdNTzdm?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlVoUV83LTg0RXJMejRRNkU4NDN6UUw5eGZKMmRqNEd5OGpQdlIxYks3MVoyaHBZaFdvdWo2dUliVGpqRXJ3Q2NOVUZfWHBlSkVQeDJfRHRENUYyeER5c1hmNDc0akVxc1V5Q2hIalo3a1kyY3RDV3A0cW9MVjM5Tl9BMXhaSklFWk1XcW55VUEzQmJ2RUhDLU92R0hQa1hFdzk0X0RlVTEzOVQzWE1GMEZGTdIBuAFBVV95cUxNS0ZMajZkZV82TnJfSGNabVh2ekl2dlcyeUxYM2xObkl5dUlFbmVpNG1ZMFQzMmU0dGJrXzBWbU5YLXlqNkZEUG9pTnNBeHVpTTA1N0xvTThIWnREYUNjX0p5QmhtY3Rmc1JjdDJDRnRMN3ZCem1zeXFEMWFWZmJyVkIyTF9DNjFvR2lYbW13Q0pMN2E0WlR6R21tX19IdVRTcEM5RWluZ3o5bjk1N1ZiQXpWQWdNTzdm?oc=5\" target=\"_blank\">Μεταναστευτικό: Νέο περιστατικό στο Ηράκλειο με την άφιξη 39 ατόμων</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NeaKriti</font>",
+   "source": "Nea Kriti",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-02T15:28:02+00:00",
+   "collected": "2026-08-02T19:37:54.566630+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Νέο περιστατικό μεταναστευτικής κρίσης στο Ηράκλειο με την άφιξη 39 ατόμων σε λέμβο.",
+   "angle": "Η μεταναστευτική πίεση στα νησιά του Αιγαίου: Συνεχείς αφίξεις και υπερφόρτωση των δομών υποδοχής",
+   "locations": [
+    {
+     "name": "Κρήτη",
+     "lat": 35.24,
+     "lon": 24.81
+    }
+   ]
+  },
+  {
    "id": "8f9ce4e7f421b034",
    "title": "Ισπανία: Τουλάχιστον 72 είναι οι νεκροί από το μαζικό κύμα μεταναστών της Πέμπτης στο θύλακα της Θέουτα",
    "link": "https://www.ertnews.gr/eidiseis/ispania-toulaxiston-72-einai-oi-nekroi-apo-to-maziko-kyma-metanaston-tis-pemptis-sto-thylaka-tis-theouta-2/",
@@ -528,6 +743,33 @@
    "turkish_narrative": false,
    "summary_el": "Δύο ελικόπτερα πυρόσβεσης συγκρούστηκαν εν πτήσει στη δυτική Αττική κατά τη διάρκεια κατάσβεσης δασικής πυρκαγιάς. Δύο μέλη του πληρώματος υπέστησαν ελαφρές τραυματισμούς, ενώ δύο άλλα εντοπίστηκαν αναίσθητα.",
    "angle": "Η τραγική σύγκρουση των ελικοπτέρων πυρόσβεσης εγείρει ερωτήματα για την ασφάλεια των επιχειρήσεων κατάσβεσης και την εναέρια κυκλοφορία κατά τις δασικές πυρκαγιές.",
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "69216246b413ec22",
+   "title": "2 crew members killed as 2 firefighting helicopters collide battling Greece wildfire",
+   "link": "https://www.aa.com.tr/en/europe/2-crew-members-killed-as-2-firefighting-helicopters-collide-battling-greece-wildfire/4016428",
+   "summary_raw": "Greek, Danish crew members killed, 2 rescued after midair collision over western Attica, authorities say",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-02T15:18:08+00:00",
+   "collected": "2026-08-02T19:37:00.777010+00:00",
+   "keywords_hit": [
+    "greece",
+    "greek"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Δύο μέλη πληρώματος, Έλληνας και Δανός, σκοτώθηκαν σε σύγκρουση δύο ελικοπτέρων πυρόσβεσης που συνέπεσαν στον αέρα κατά τη διάσωση πυρκαγιάς στη δυτική Αττική. Δύο άτομα διασώθηκαν.",
+   "angle": "Τραγωδία στο μέτωπο της πυρόσβεσης: Η τιμή του περισυλλογής και τα χρόνια προβλήματα ασφάλειας των ελικοπτέρων πυρόσβεσης",
    "locations": [
     {
      "name": "Ελλάδα",
@@ -1873,6 +2115,32 @@
    "turkish_narrative": false,
    "summary_el": "60.000 παράτυποι μετανάστες διέσχισαν παράνομα τα σύνορα την Πέμπτη από το Μαρόκο προς τη Θέουτα, προκαλώντας κρίση και ανάστολή των ρυθμίσεων Σένγκεν μεταξύ Ισπανίας και Ιταλίας.",
    "angle": "Η κρίση στη Θέουτα ως δείγμα του αποτυχημένου συστήματος ευρωπαϊκής μετανάστευσης"
+  },
+  {
+   "id": "4f17e6136fc3e214",
+   "title": "Όπλα, ναρκωτικά, λίρες μέχρι και παπαγάλους Μακάο εντοπίστηκαν στα τελωνεία του Έβρου! - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzJvVllFSFJxQ3YwdjZGTTlRZTFqSkZ0WU5lazRLMWhkcktFZjlzekNodDFVMlFGVU05SkVEeElqNG5yME9QV3ZnT1dTN3gwS1k1MEpFeElWZ1JvVTR3R05Dd3hEMVV4a0Q5NUNwQ3BObGVTWlBFU2lVM3pkYzNZS3A0cXpmS0pDVGdZVEo1S2xrenkwNGwxYzY3WDd2S2hVWG5iOFFUVjZ0elBBalRSeDVnTzZpaTBGZTlOMldLckFseGN2M0RRUXBR?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzJvVllFSFJxQ3YwdjZGTTlRZTFqSkZ0WU5lazRLMWhkcktFZjlzekNodDFVMlFGVU05SkVEeElqNG5yME9QV3ZnT1dTN3gwS1k1MEpFeElWZ1JvVTR3R05Dd3hEMVV4a0Q5NUNwQ3BObGVTWlBFU2lVM3pkYzNZS3A0cXpmS0pDVGdZVEo1S2xrenkwNGwxYzY3WDd2S2hVWG5iOFFUVjZ0elBBalRSeDVnTzZpaTBGZTlOMldLckFseGN2M0RRUXBR?oc=5\" target=\"_blank\">Όπλα, ναρκωτικά, λίρες μέχρι και παπαγάλους Μακάο εντοπίστηκαν στα τελωνεία του Έβρου!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-02T10:23:44+00:00",
+   "collected": "2026-08-02T19:37:57.394083+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Τα τελωνεία του Έβρου εντόπισαν στοχευμένη διακίνηση όπλων, ναρκωτικών, συνδράμων και ακόμη και παπαγάλων Μακάο.",
+   "angle": "Το παράνομο δίκτυο λαθρεμπορίας στα σύνορα: Από όπλα και ναρκωτικά έως ένα εξωτικό ζωικό εμπόριο",
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
+    }
+   ]
   },
   {
    "id": "79ed80aa19cf9cdf",
@@ -45712,390 +45980,6 @@
    "turkish_narrative": false,
    "summary_el": "Ο Τραμπ ανέστειλε τα σχέδια για μεγάλη αμερικανική αεροπορική εκστρατεία κατά του Ιράν, καθώς αξιωματούχοι συζητούν διπλωματικές λύσεις και εξετάζουν τις ανησυχίες περί ελλείψεων αμερικανικών αεράμυνων Patriot. Στρατιωτικοί ηγέτες διαφωνούν για τη σοβαρότητα του κινδύνου των χαμηλών αποθεμάτων.",
    "angle": "Η αναθεώρηση της στρατιωτικής στρατηγικής ΗΠΑ εναντίον Ιράν και τα διλήμματα των αμερικανικών αποθεμάτων πολέμου"
-  },
-  {
-   "id": "0fab8d6293ba1a20",
-   "title": "ΥΠΕΞ: Νέος γύρος συνομιλιών για τις θαλάσσιες ζώνες μεταξύ Ελλάδας – Λιβύης",
-   "link": "https://www.kathimerini.gr/politics/foreign-policy/564368320/ypex-neos-gyros-synomilion-gia-tis-thalassies-zones-metaxy-elladas-livyis/",
-   "summary_raw": "Με βάση σχετική ανακοίνωση οι συνομιλίες θα διεξαχθούν τη Δευτέρα 27 Ιουλίου και ώρα 11.00 π.μ.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-26T19:32:56+00:00",
-   "collected": "2026-07-26T21:13:44.158646+00:00",
-   "keywords_hit": [
-    "λιβύη"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ανακοίνωση του υπουργείου Εξωτερικών για τον νέο γύρο συνομιλιών Ελλάδας-Λιβύης σχετικά με τις θαλάσσιες ζώνες, που θα διεξαχθεί Δευτέρα 27 Ιουλίου στις 11:00 π.μ.",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "2aba654a427561f1",
-   "title": "After Trump Pauses Bombing, Iran Signals It Will Halts Strikes as Well",
-   "link": "https://www.dailysignal.com/2026/07/26/trump-iran-strikes-pause/",
-   "summary_raw": "DUBAI/WASHINGTON, July 26 (Reuters)—Iran will halt its own attacks as long as the United States maintains its latest pause on airstrikes, a senior Iranian official told Reuters on Sunday, after President Donald Trump abruptly called off his two-week-old bombing campaign.   After 13 nights of intensifying U.S. airstrikes on Iran, the Pentagon abruptly suspended the campaign...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-26T19:30:00+00:00",
-   "collected": "2026-07-27T00:14:48.159185+00:00",
-   "keywords_hit": [],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Ιράν δήλωσε ότι θα σταματήσει τις επιθέσεις του εφόσον οι ΗΠΑ διατηρήσουν την παύση των βομβαρδισμών, αφού ο Τραμπ διέκοψε τη δύο εβδομάδων αεροπορική εκστρατεία.",
-   "angle": "Ασταθής ανταλλαγή πυρών: θα επαρκέσει η αμερικανική παύση για να αποτραπεί μια ευρύτερη σύγκρουση ΗΠΑ-Ιράν;"
-  },
-  {
-   "id": "3b80df6d6547a40d",
-   "title": "Στον «κόκκινο» η ένταση Ισραήλ–Ιράν: Νετανιάχου: «Θα πληρώσετε βαρύ τίμημα αν μας επιτεθείτε»",
-   "link": "https://www.pentapostagma.gr/kosmos/enoples-syrraxeis/7382265_ston-kokkino-i-entasi-israil-iran-netaniahoy-tha-plirosete-bary",
-   "summary_raw": "«Με συμφωνία ή χωρίς συμφωνία», το πυρηνικό πρόγραμμα του Ιράν πρέπει να τερματιστεί",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-07-26T19:25:31+00:00",
-   "collected": "2026-07-26T19:37:42.723936+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Νετανιάχου προειδοποιεί το Ιράν ότι θα αντιμετωπίσει «βαρύ τίμημα» σε περίπτωση επίθεσης, ζητώντας διακοπή του πυρηνικού προγράμματός του με ή χωρίς συμφωνία.",
-   "angle": "Πώς οι απειλές Ισραήλ-Ιράν επηρεάζουν τη σταθερότητα στην Ανατολική Μεσόγειο και τα ελληνικά στρατηγικά συμφέροντα;"
-  },
-  {
-   "id": "e2aea830ca0ec09a",
-   "title": "Minnesota: Businessman Gives $29 Million to Immigrants for Rent After ICE Crackdown",
-   "link": "https://www.breitbart.com/immigration/2026/07/26/minnesota-businessman-gives-29-million-to-immigrants-for-rent-after-ice-crackdown/",
-   "summary_raw": "<p>Biotech entrepreneur John Wilson has donated $29 million in rental assistance for immigrant families after the federal crackdown on illegals in Minnesota.</p>\n<p>The post <a href=\"https://www.breitbart.com/immigration/2026/07/26/minnesota-businessman-gives-29-million-to-immigrants-for-rent-after-ice-crackdown/\" rel=\"nofollow\">Minnesota: Businessman Gives $29 Million to Immigrants for Rent After ICE Crackdown</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-26T19:18:09+00:00",
-   "collected": "2026-07-27T11:43:30.754183+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Βιοτεχνολόγος από τη Μινεσότα δώρισε 29 εκατομμύρια δολάρια για βοήθεια ενοικίων οικογενειών μεταναστών μετά τη κρακεία της ICE.",
-   "angle": "Πολιτική ή φιλανθρωπία; Το mega-donation που αμφισβητεί τις πολιτικές ελέγχου μετανάστευσης της Αμερικής",
-   "corroborated_by": [
-    "The European Conservative"
-   ]
-  },
-  {
-   "id": "271ee1e78bb82fef",
-   "title": "DSA Co-Chair Romer Defends Proposals to Abolish Senate, Borders, Prisons",
-   "link": "https://www.breitbart.com/clips/2026/07/26/dsa-co-chair-romer-defends-proposals-to-abolish-senate-ice-prisons/",
-   "summary_raw": "<p>On this week’s broadcast of “Fox News Sunday,\" Democratic Socialists of America co-chair Megan Romer defended their proposals to abolish Senate, Immigration and Customs Enforcement (ICE) and prisons.</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/07/26/dsa-co-chair-romer-defends-proposals-to-abolish-senate-ice-prisons/\" rel=\"nofollow\">DSA Co-Chair Romer Defends Proposals to Abolish Senate, Borders, Prisons</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-26T19:03:00+00:00",
-   "collected": "2026-07-26T23:15:07.494473+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η συν-πρόεδρος των Δημοκρατικών Σοσιαλιστών Αμερικής Μέγαν Ρόμερ υπερασπίστηκε προτάσεις για κατάργηση της Γερουσίας, του ICE και των φυλακών.",
-   "angle": null,
-   "corroborated_by": [
-    "UnHerd"
-   ]
-  },
-  {
-   "id": "8a645ba53f7d3fe1",
-   "title": "AP Report on ‘LGBT’ USAID Workers in Nepal Reveals True Agenda of the Shuttered Program",
-   "link": "https://www.dailysignal.com/2026/07/26/ap-laments-end-of-usaid-jobs-program-for-transgender-activists-in-nepal/",
-   "summary_raw": "Remember how the Left said that eliminating USAID would lead to “devastating” consequences? It certainly did, but for their global cultural aspirations, not for our country. The Associated Press published a lengthy report on Thursday—and I can’t believe this is real—highlighting how shutting down USAID in Nepal led to “around 100 LGBTQ+” now-unemployed workers to...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-26T19:00:00+00:00",
-   "collected": "2026-07-26T21:13:51.370804+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Δημοσίευμα της AP αποκαλύπτει ότι η κατάργηση του USAID στο Νεπάλ άφησε περίπου 100 LGBTQ+ εργαζομένους άνεργους.",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "248eec7712267e7d",
-   "title": "⚡️ Protesters close Mellitah Oil and Gas Company in western Libya in protest of electricity crisis",
-   "link": "https://t.me/me_observer_TG/1055465",
-   "summary_raw": "⚡️ Protesters close Mellitah Oil and Gas Company in western Libya in protest of electricity crisis",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-07-26T18:58:39+00:00",
-   "collected": "2026-07-26T19:38:22.751742+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ Protesters close Mellitah Oil and Gas Company in western Libya in protest of electricity crisis",
-   "angle": null
-  },
-  {
-   "id": "202b8ca4cbc1d819",
-   "title": "Turkish foreign minister, UN chief discuss regional issues",
-   "link": "https://www.aa.com.tr/en/world/turkish-foreign-minister-un-chief-discuss-regional-issues/4009981",
-   "summary_raw": "Fidan, Guterres discuss regional developments in context of UN chief’s visits to Syria, island of Cyprus, says Turkish diplomatic sources",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-07-26T18:50:38+00:00",
-   "collected": "2026-07-26T19:37:18.191110+00:00",
-   "keywords_hit": [
-    "fidan",
-    "cyprus"
-   ],
-   "category": "Κυπριακό",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "Ο τούρκος ΥΠΕΞ Φιντάν συναντήθηκε με τον ΓΓ ΟΗΕ Γκουτέρες για συζήτηση περιφερειακών ζητημάτων, στο πλαίσιο της επίσκεψης του Γκουτέρες στη Συρία και την Κύπρο.",
-   "angle": "Πώς οι συνομιλίες Ankara–ΟΗΕ επηρεάζουν τις ελληνικές θέσεις στα περιφερειακά θέματα;",
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "fa7ca822951702bd",
-   "title": "Hebrew Billboards, Israeli Cash: The Quiet Takeover of Southern Cyprus   Israeli buyers have bought ~3,900–4,000 properties in southern Cyprus (2021–2025), mostly in Larnaca, Limas…",
-   "link": "https://t.me/ClashReport/90468",
-   "summary_raw": "Hebrew Billboards, Israeli Cash: The Quiet Takeover of Southern Cyprus   Israeli buyers have bought ~3,900–4,000 properties in southern Cyprus (2021–2025), mostly in Larnaca, Limassol, and Paphos, and Hebrew-language real estate ads are visible in tourist zones.   They’re the top-tier foreign buyer group.  Hebrew-language political billboard for Israeli politician Gadi Eisenkot near Zygi drew attention from MEP Fidias Panayiotou, who framed it as a sovereignty issue.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-07-26T18:46:46+00:00",
-   "collected": "2026-07-26T19:38:20.874185+00:00",
-   "keywords_hit": [
-    "cyprus"
-   ],
-   "category": "Κυπριακό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ισραηλινοί αγοραστές απέκτησαν περί 3.900-4.000 ακίνητα στη νότια Κύπρο (2021-2025), κυρίως στη Λάρνακα, Λεμεσό και Πάφο, ενώ εβραϊκές διαφημίσεις ακινήτων και πολιτικές αφίσες εμφανίζονται σε τουριστικές ζώνες, προκαλώντας ανησυχίες περί κυριαρχίας.",
-   "angle": "Η ησυχη κατάληψη της Κύπρου: Πώς η ισραηλινή επενδυτική δραστηριότητα αμφισβητεί την εθνική ταυτότητα και τη διαχείριση του κυπριακού εδάφους",
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    },
-    {
-     "name": "Λεμεσός",
-     "lat": 34.68,
-     "lon": 33.04
-    },
-    {
-     "name": "Λάρνακα",
-     "lat": 34.92,
-     "lon": 33.63
-    },
-    {
-     "name": "Πάφος",
-     "lat": 34.78,
-     "lon": 32.42
-    }
-   ]
-  },
-  {
-   "id": "6b789a08f9135acb",
-   "title": "ΥΠΕΞ: Τρίτος γύρος τεχνικών συνομιλιών με τη Λιβύη | - Defence Point",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS29uSkdxTFYzV3B0Y1RYZk5sQ1NXdlJtV2p2VU9Sc1E3OENmcDZoeXdZVzJfUzZCam8xSi14V3Byd1FSOFlIQllmbGtLNXUxMlJwMjFaZV9ybmVTb3FkWDE3V3RqREFTU19RUDdtWGtDcUhhTmJwZW9JcDB0UVV6RkZqeUZVdw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQS29uSkdxTFYzV3B0Y1RYZk5sQ1NXdlJtV2p2VU9Sc1E3OENmcDZoeXdZVzJfUzZCam8xSi14V3Byd1FSOFlIQllmbGtLNXUxMlJwMjFaZV9ybmVTb3FkWDE3V3RqREFTU19RUDdtWGtDcUhhTmJwZW9JcDB0UVV6RkZqeUZVdw?oc=5\" target=\"_blank\">ΥΠΕΞ: Τρίτος γύρος τεχνικών συνομιλιών με τη Λιβύη |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defence Point</font>",
-   "source": "Defence Point",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-07-26T18:44:20+00:00",
-   "collected": "2026-07-26T19:37:22.307028+00:00",
-   "keywords_hit": [
-    "λιβύη"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Τρίτος γύρος τεχνικών συνομιλιών μεταξύ του ελληνικού ΥΠΕΞ και της Λιβύης, αφορώντας θαλάσσιες ζώνες και αιγιαλό.",
-   "angle": "Τι στοχεύει η Ελλάδα στις διαπραγματεύσεις με τη Λιβύη για την ΑΟΖ;"
-  },
-  {
-   "id": "0f35f72875c9ad99",
-   "title": "Open Source Intel Fars News footage shows a Saudi Bayraktar drone downed over Yemen's Al-Jawf province. https://twitter.com/Osint613/status/2081447430780838261/photo/1  NEW: The Ho…",
-   "link": "https://t.me/OSINTLive/559384",
-   "summary_raw": "Open Source Intel Fars News footage shows a Saudi Bayraktar drone downed over Yemen's Al-Jawf province. https://twitter.com/Osint613/status/2081447430780838261/photo/1  NEW: The Houthis claim they shot down a Turkish built Bayraktar Akıncı combat drone operated by the Royal Saudi Air Force over Yemen’s Al Jawf Governorate. https://twitter.com/Osint613/status/2081342387343732937/photo/1 - Open Source Intel tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-07-26T18:43:41+00:00",
-   "collected": "2026-07-26T19:38:23.688692+00:00",
-   "keywords_hit": [
-    "bayraktar"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Open Source Intel Fars News footage shows a Saudi Bayraktar drone downed over Yemen's Al-Jawf province. https://twitter.com/Osint613/status/2081447430780838261/photo/1 NEW: The Houthis claim they shot",
-   "angle": null
-  },
-  {
-   "id": "7735c12d9a7abf40",
-   "title": "Αύριο στην Αθήνα ο τρίτος γύρος συνομιλιών για τις θαλάσσιες ζώνες μεταξύ Ελλάδας και Λιβύης",
-   "link": "https://www.protothema.gr/greece/article/1856354/tritos-guros-tehnikon-sunomilion-gia-tin-oriothetisi-thalassion-zonon-metaxu-elladas-livuis/?utm_source=rss",
-   "summary_raw": "Η ελληνική πλευρά θέτει ως βάση το Διεθνές Δίκαιο, την επήρεια των νησιών και το ανυπόστατο του τουρκολιβυκού μνημονίου",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-26T18:40:00+00:00",
-   "collected": "2026-07-26T19:38:08.785215+00:00",
-   "keywords_hit": [
-    "λιβύη"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ο τρίτος γύρος διαπραγματεύσεων Ελλάδας-Λιβύης για θαλάσσιες ζώνες θα λάβει χώρα στην Αθήνα, με βάση το Διεθνές Δίκαιο και την αναίρεση του τουρκολιβυκού μνημονίου.",
-   "angle": "Τι αποτέλεσμα αναμένει η Ελλάδα από τον τρίτο γύρο συνομιλιών;",
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    }
-   ]
-  },
-  {
-   "id": "8898e499787d7c3a",
-   "title": "Κρίσιμες συνομιλίες Ελλάδας – Λιβύης στην Αθήνα για τις θαλάσσιες ζώνες με φόντο το Διεθνές Δίκαιο",
-   "link": "https://www.pentapostagma.gr/politiki/7382258_krisimes-synomilies-elladas-libyis-stin-athina-gia-tis-thalassies-zones-me-fonto",
-   "summary_raw": "Στη διαπραγμάτευση για την ΑΟΖ και την υφαλοκρηπίδα, η ελληνική πλευρά θέτει ως βάση το Διεθνές Δίκαιο",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-07-26T18:36:03+00:00",
-   "collected": "2026-07-26T19:37:42.724642+00:00",
-   "keywords_hit": [
-    "υφαλοκρηπίδα",
-    "αοζ",
-    "λιβύη"
-   ],
-   "category": "Αιγαίο-ΑΟΖ",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Κρίσιμες συνομιλίες Ελλάδας-Λιβύης στην Αθήνα για θαλάσσιες ζώνες με βάση το Διεθνές Δίκαιο, την επήρεια νησιών και απόρριψη του τουρκολιβυκού μνημονίου.",
-   "angle": "Ποιες είναι οι κόκκινες γραμμές της Ελλάδας για τη συμφωνία με τη Λιβύη και πώς αντιμετωπίζει την τουρκική αμφισβήτηση;",
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    }
-   ]
-  },
-  {
-   "id": "8c381d9f89f1e5b9",
-   "title": "ΥΠΕΞ: Στην Αθήνα ο τρίτος γύρος τεχνικών συνομιλιών για την οριοθέτηση θαλασσίων ζωνών μεταξύ Ελλάδας και Λιβύης - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzZtSFV1VVczQjQwX1VXa2FBamNBdFZxTnpXSWhRUmVvb1ZpSEQ1ZjJmUy1rYkVZMW91Q3ZoN2V3V1FhMGNCZ0JydFJ4ZE9LZEFWTTFqTC00QWgxSmtYUGNQbUZmZFRSVnlCTXBwd0ZKYkgwc3JWaExXY25UNFRhbk9YdERmWWxDSVNzSmFkeUtGZWZoTWstTlF1Y9IBoAFBVV95cUxNenQ2cnFOYVhGOGNjRjczNG1zU0JMQTlLUDlNVTV0bmprbDRvY2hFRDBKUDRHRzlBU2kzQVRacjIzV1hBUE81ZWR0bG14SmZ0ekZtZ3BoVFRvNjBfT290VnRPVDZiNWRvWGpRdGNWcTJtRUZ2bXhILU1xV25zY0xmT05MOVpXcnZzZWhXWGxhaXVrWHhqRGo2SUQ4WHEyZi10?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzZtSFV1VVczQjQwX1VXa2FBamNBdFZxTnpXSWhRUmVvb1ZpSEQ1ZjJmUy1rYkVZMW91Q3ZoN2V3V1FhMGNCZ0JydFJ4ZE9LZEFWTTFqTC00QWgxSmtYUGNQbUZmZFRSVnlCTXBwd0ZKYkgwc3JWaExXY25UNFRhbk9YdERmWWxDSVNzSmFkeUtGZWZoTWstTlF1Y9IBoAFBVV95cUxNenQ2cnFOYVhGOGNjRjczNG1zU0JMQTlLUDlNVTV0bmprbDRvY2hFRDBKUDRHRzlBU2kzQVRacjIzV1hBUE81ZWR0bG14SmZ0ekZtZ3BoVFRvNjBfT290VnRPVDZiNWRvWGpRdGNWcTJtRUZ2bXhILU1xV25zY0xmT05MOVpXcnZzZWhXWGxhaXVrWHhqRGo2SUQ4WHEyZi10?oc=5\" target=\"_blank\">ΥΠΕΞ: Στην Αθήνα ο τρίτος γύρος τεχνικών συνομιλιών για την οριοθέτηση θαλασσίων ζωνών μεταξύ Ελλάδας και Λιβύης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-07-26T18:29:15+00:00",
-   "collected": "2026-07-26T22:15:54.719903+00:00",
-   "keywords_hit": [
-    "λιβύη"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Στην Αθήνα διεξάγεται ο τρίτος γύρος τεχνικών διαπραγματεύσεων μεταξύ Ελλάδας και Λιβύης για την οριοθέτηση θαλασσίων ζωνών, σύμφωνα με ανακοίνωση του ΥΠΕΞ.",
-   "angle": "Η Ελλάδα ανακτά πρωτοβουλία στις θαλάσσιες διαπραγματεύσεις με τη Λιβύη μέσω τεχνικών συνομιλιών",
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    }
-   ]
-  },
-  {
-   "id": "8bb52cc62ddf9275",
-   "title": "The Trump Administration’s Best Healthcare Idea Isn’t the One Getting Attention",
-   "link": "https://www.dailysignal.com/2026/07/26/trump-best-healthcare-idea/",
-   "summary_raw": "One reason pharmaceuticals cost so much: The Food and Drug Administration&#8217;s approval process takes up to 12 years to bring a new drug to market. The Trump administration has launched Operation Trialblazer to shorten that timeline.  It&#8217;s one of Trump’s best healthcare proposals so far, one that reduces the government&#8217;s footprint in U.S. healthcare. It is a welcome departure from some of the Trump...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-26T18:22:26+00:00",
-   "collected": "2026-07-27T15:17:39.440203+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Κυβέρνηση Τραμπ ξεκίνησε το πρόγραμμα «Operation Trialblazer» για να συντομεύσει τη διαδικασία έγκρισης φαρμάκων από τη FDA, η οποία διαρκεί έως 12 χρόνια και αυξάνει το κόστος των φαρμακευτικών.",
-   "angle": "Πώς η Operation Trialblazer θα μπορούσε να φτιάξει τις ΗΠΑ σε παγκόσμιο κέντρο φαρμακευτικής καινοτομίας",
-   "corroborated_by": [
-    "Breitbart",
-    "The European Conservative"
-   ]
-  },
-  {
-   "id": "a32d8be61f0ea9ff",
-   "title": "⚡️ Romanian Defense: For the third time in just three days, a Romanian F-16 fighter jet shot down what is believed to be a Russian drone that violated Romanian airspace. The downin…",
-   "link": "https://t.me/me_observer_TG/1055417",
-   "summary_raw": "⚡️ Romanian Defense: For the third time in just three days, a Romanian F-16 fighter jet shot down what is believed to be a Russian drone that violated Romanian airspace. The downings occurred",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-07-26T18:14:29+00:00",
-   "collected": "2026-07-26T18:16:02.100224+00:00",
-   "keywords_hit": [
-    "f-16"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ρουμανική άμυνα: Ρουμανικό μαχητικό F-16 κατέρριψε για τρίτη φορά σε τρεις ημέρες ύποπτο ρωσικό drone που παραβίασε το ρουμανικό εναέριο χώρο.",
-   "angle": "Το αυξανόμενο ρωσικό απειλητικό δυναμικό στα σύνορα του ΝΑΤΟ: Η Ρουμανία στην πρώτη γραμμή"
   }
  ]
 }
