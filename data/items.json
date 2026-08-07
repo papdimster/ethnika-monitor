@@ -1,7 +1,233 @@
 {
- "updated": "2026-08-07T17:12:10.922357+00:00",
- "count": 1931,
+ "updated": "2026-08-07T18:06:23.806950+00:00",
+ "count": 1927,
  "items": [
+  {
+   "id": "1cad3478873f1380",
+   "title": "İskeçe’nin dağlık bölgesinde yangın çıktı",
+   "link": "https://www.milletgazetesi.gr/bati-trakya/iskecenin-daglik-bolgesinde-yangin-cikti",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Batı Trakya)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-08-07T18:05:38.139733+00:00",
+   "collected": "2026-08-07T18:05:38.139736+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ξάνθη",
+     "lat": 41.14,
+     "lon": 24.89
+    }
+   ]
+  },
+  {
+   "id": "590bd1859829d5d9",
+   "title": "⚡️ Reuters: The United States has approved the sale of 5,250 interceptor missiles to Bahrain, Kuwait, Qatar, and the UAE, in order to replenish their depleted Patriot missile syste…",
+   "link": "https://t.me/me_observer_TG/1063437",
+   "summary_raw": "⚡️ Reuters: The United States has approved the sale of 5,250 interceptor missiles to Bahrain, Kuwait, Qatar, and the UAE, in order to replenish their depleted Patriot missile system stockpiles.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-08-07T18:04:58+00:00",
+   "collected": "2026-08-07T18:05:34.723092+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ Reuters: The United States has approved the sale of 5,250 interceptor missiles to Bahrain, Kuwait, Qatar, and the UAE, in order to replenish their depleted Patriot missile system stockpiles.",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "1b73cd4be595f11d",
+   "title": "⚡️ Reuters: Assessments by the Center for Strategic and International Studies show that Saudi Arabia consumed about 86% of its 2,800 PAC-3 Patriot interceptor missiles in the first…",
+   "link": "https://t.me/me_observer_TG/1063432",
+   "summary_raw": "⚡️ Reuters: Assessments by the Center for Strategic and International Studies show that Saudi Arabia consumed about 86% of its 2,800 PAC-3 Patriot interceptor missiles in the first 38 days of the conflict, leaving the country with only about 400 missiles in April. According to Reuters, other Persian Gulf countries also faced a similar rate of missile stock depletion. The United States, in turn, approved the sale of 5,250 interceptor missiles to Bahrain, Kuwait, Qatar, and the United Arab Emirates to replenish and complete their stockpiles.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-08-07T17:57:39+00:00",
+   "collected": "2026-08-07T18:05:34.722276+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ Reuters: Assessments by the Center for Strategic and International Studies show that Saudi Arabia consumed about 86% of its 2,800 PAC-3 Patriot interceptor missiles in the first 38 days of the conf",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "aed436d93aefbe9f",
+   "title": "India Successfully Test-Fires Nuclear-Capable Agni-4 Ballistic Missile  India has successfully test-fired its nuclear-capable Agni-4 medium-range ballistic missile from Chandipur, …",
+   "link": "https://t.me/ClashReport/91868",
+   "summary_raw": "India Successfully Test-Fires Nuclear-Capable Agni-4 Ballistic Missile  India has successfully test-fired its nuclear-capable Agni-4 medium-range ballistic missile from Chandipur, Odisha.  READ MORE",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-07T17:57:04+00:00",
+   "collected": "2026-08-07T18:05:33.207280+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "India Successfully Test-Fires Nuclear-Capable Agni-4 Ballistic Missile India has successfully test-fired its nuclear-capable Agni-4 medium-range ballistic missile from Chandipur, Odisha. READ MORE",
+   "angle": null
+  },
+  {
+   "id": "0f77f114c0ea6281",
+   "title": "OSINTdefender The Bahamas-flagged, Qatar-owned liquefied natural gas (LNG) carrier Al Areesh appears to be approaching the U.S. naval blockade line at the entrance to the Gulf of O…",
+   "link": "https://t.me/OSINTLive/562656",
+   "summary_raw": "OSINTdefender The Bahamas-flagged, Qatar-owned liquefied natural gas (LNG) carrier Al Areesh appears to be approaching the U.S. naval blockade line at the entrance to the Gulf of Oman for a third time, after twice previously reversing course or loitering near the line without exiting the Gulf.  The Al Areesh departed Qatar's Ras Laffan LNG terminal and transited the Strait of Hormuz outbound on July 29, utilizing Iran's traffic separation scheme, according to publicly available AIS tracking data from http://MarineTraffic.com.  Its continued inability to proceed beyond the apparent blockade line is notable because the vessel does not appear to have loaded cargo in Iran or be associated with an Iranian port, and therefore does not appear to fit the publicly understood criteria for vessels subject to the U.S. naval blockade.  It remains unclear whether the vessel's unusual movements are the result of instructions from its owner or operator, operational considerations, or direction from U.S. forces. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-07T17:33:38+00:00",
+   "collected": "2026-08-07T18:05:35.500704+00:00",
+   "keywords_hit": [
+    "lng",
+    "natural gas"
+   ],
+   "category": "Ενέργεια",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "OSINTdefender The Bahamas-flagged, Qatar-owned liquefied natural gas (LNG) carrier Al Areesh appears to be approaching the U.S. naval blockade line at the entrance to the Gulf of Oman for a third time",
+   "angle": null
+  },
+  {
+   "id": "dfd94ed25b5e1bce",
+   "title": "Open Source Intel Saudi Arabia used 86% of its Patriot PAC-3 interceptors in the first 38 days of the Iran War. Only 400 of 2,800 remained by April. - Reuters/CSIS tweet",
+   "link": "https://t.me/OSINTLive/562653",
+   "summary_raw": "Open Source Intel Saudi Arabia used 86% of its Patriot PAC-3 interceptors in the first 38 days of the Iran War. Only 400 of 2,800 remained by April. - Reuters/CSIS tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-07T17:33:30+00:00",
+   "collected": "2026-08-07T18:05:35.500002+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel Saudi Arabia used 86% of its Patriot PAC-3 interceptors in the first 38 days of the Iran War. Only 400 of 2,800 remained by April. - Reuters/CSIS tweet",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @clashreport",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "49366bce302265d3",
+   "title": "OSINTtechnical Saudi Arabia used about 86% of its stockpiled 2,800 Patriot PAC-3 interceptors in the first 38 days of combat in the Iran War - Reuters/CSIS   After firing roughly 2…",
+   "link": "https://t.me/OSINTLive/562652",
+   "summary_raw": "OSINTtechnical Saudi Arabia used about 86% of its stockpiled 2,800 Patriot PAC-3 interceptors in the first 38 days of combat in the Iran War - Reuters/CSIS   After firing roughly 2,400 PAC-3s, the country was reportedly left with only 400 interceptors by April. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-07T17:33:26+00:00",
+   "collected": "2026-08-07T18:05:35.499857+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "OSINTtechnical Saudi Arabia used about 86% of its stockpiled 2,800 Patriot PAC-3 interceptors in the first 38 days of combat in the Iran War - Reuters/CSIS After firing roughly 2,400 PAC-3s, the count",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @clashreport",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "19e31578e640115e",
+   "title": "BREAKING: The US Senate passed the Lindsey O. Graham Sanctioning Russia and Iran Act by a vote of 86-11.  The bill now heads to the House, which returns after the August recess.  T…",
+   "link": "https://t.me/ClashReport/91861",
+   "summary_raw": "BREAKING: The US Senate passed the Lindsey O. Graham Sanctioning Russia and Iran Act by a vote of 86-11.  The bill now heads to the House, which returns after the August recess.  The core provision authorizes the President to impose targeted tariffs of up to 100% on imports from the five largest buyers of Russian crude oil or natural gas.  The bill also extends Iran sanctions, keeping restrictions on Iran's energy and arms sectors from expiring by renewing the 1996 Iran Sanctions Act through 2031.  On Russia, it imposes primary sanctions targeting Putin, his inner circle, banks, state energy projects, and the \"shadow fleet\" of tankers, plus tariffs up to 500% on direct Russian imports.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-07T17:24:48+00:00",
+   "collected": "2026-08-07T18:05:33.206180+00:00",
+   "keywords_hit": [
+    "natural gas"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "BREAKING: The US Senate passed the Lindsey O. Graham Sanctioning Russia and Iran Act by a vote of 86-11. The bill now heads to the House, which returns after the August recess. The core provision auth",
+   "angle": null
+  },
+  {
+   "id": "3f4d0944b75f5b1f",
+   "title": "Saudi Patriot Stockpile Nearly Spent",
+   "link": "https://www.osint613.com/post/saudi-patriot-stockpile-nearly-spent-19750",
+   "summary_raw": "Saudi Arabia used 86% of its Patriot PAC-3 interceptors in the first 38 days of the Iran War. Only 400 of 2,800 remained by April. - Reuters/CSIS",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-07T17:19:49+00:00",
+   "collected": "2026-08-07T18:05:31.778063+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Saudi Arabia used 86% of its Patriot PAC-3 interceptors in the first 38 days of the Iran War. Only 400 of 2,800 remained by April. - Reuters/CSIS",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive",
+    "Telegram @clashreport",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "d9400df60302f9eb",
+   "title": "Saudi Arabia used about 86% of its 2,800 PAC-3 interceptors in the first 38 days of combat, leaving just 400 by April.   The US expended about 65% of its Patriot interceptors betwe…",
+   "link": "https://t.me/ClashReport/91860",
+   "summary_raw": "Saudi Arabia used about 86% of its 2,800 PAC-3 interceptors in the first 38 days of combat, leaving just 400 by April.   The US expended about 65% of its Patriot interceptors between February and July, leaving fewer than 850, down from 2,330 before the Iran War.  Source: Reuters",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-07T17:19:24+00:00",
+   "collected": "2026-08-07T18:05:33.205842+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Saudi Arabia used about 86% of its 2,800 PAC-3 interceptors in the first 38 days of combat, leaving just 400 by April. The US expended about 65% of its Patriot interceptors between February and July, ",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ]
+  },
   {
    "id": "dcf39e719c6a5511",
    "title": "Akdeniz kaynıyor: Uzmanlar sonbahar için alarm veriyor; Eylül, Ekim ve Kasım tehlikeli geçebilir",
@@ -17,6 +243,25 @@
    "severity": 4,
    "turkish_narrative": true,
    "summary_el": "",
+   "angle": null
+  },
+  {
+   "id": "90a44a9d56f3e29d",
+   "title": "Στα άκρα οι σχέσεις Ισπανίας – Ιταλίας για το μεταναστευτικό: Η Μαδρίτη απειλεί με μέτρα αν δεν αρθούν οι συνοριακοί έλεγχοι",
+   "link": "https://www.philenews.com/kosmos/article/1757119/sta-akra-i-schesis-ispanias-italias-gia-to-metanasteftiko-i-madriti-apili-me-metra-an-den-arthoun-i-sinoriaki-elegchi/",
+   "summary_raw": "<p>Η Ισπανία απέστειλε τελεσίγραφο προς την Ιταλία, ζητώντας την άμεση απόσυρση των συνοριακών ελέγχων και την επαναφορά της εφαρμογής της Συνθήκης Σένγκεν. Η κίνηση έρχεται ως απάντηση στα μέτρα που έλαβε η κυβέρνηση Μελόνι, επικαλούμενη τη μεταναστευτική κρίση που εκδηλώθηκε στην Ευρώπη μετά το νέο μεταναστευτικό κύμα και τα γεγονότα στη Θέουτα. Η Ιταλία δήλωσε την Παρασκευή [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kosmos/article/1757119/sta-akra-i-schesis-ispanias-italias-gia-to-metanasteftiko-i-madriti-apili-me-metra-an-den-arthoun-i-sinoriaki-elegchi/\">Στα άκρα οι σχέσεις Ισπανίας &#8211; Ιταλίας για το μεταναστευτικό: Η Μαδρίτη απειλεί με μέτρα αν δεν αρθούν οι συνοριακοί έλεγχοι</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-08-07T17:10:18+00:00",
+   "collected": "2026-08-07T18:04:52.578000+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η Ισπανία απέστειλε τελεσίγραφο προς την Ιταλία, ζητώντας την άμεση απόσυρση των συνοριακών ελέγχων και την επαναφορά της εφαρμογής της Συνθήκης Σένγκεν. Η κίνηση έρχεται ως απάντηση στα μέτρα που έλα",
    "angle": null
   },
   {
@@ -38,6 +283,29 @@
    "turkish_narrative": false,
    "summary_el": "Αντιμέτωπη με εκτεταμένη ξηρασία βρίσκεται η Ευρώπη, με τη μείωση της στάθμης των ποταμών να προκαλεί ανησυχίες ακόμη και για τη λειτουργία πυρηνικών εργοστασίων. Η Ευρώπη είναι η ήπειρος που θερμαίνε",
    "angle": null
+  },
+  {
+   "id": "2924efb2f72e9112",
+   "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+   "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
+   "summary_raw": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-07T17:07:29+00:00",
+   "collected": "2026-08-07T18:04:55.458586+00:00",
+   "keywords_hit": [
+    "migrant",
+    "smuggl"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
+   "angle": null,
+   "corroborated_by": [
+    "Reuters World"
+   ]
   },
   {
    "id": "5e751f33970b3c1c",
@@ -109,6 +377,33 @@
      "lat": 35.24,
      "lon": 24.81
     },
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "07b364a0d6aecee4",
+   "title": "More than a dozen arrested for smuggling migrants through northern Greece",
+   "link": "https://www.ekathimerini.com/news/1311892/more-than-a-dozen-arrested-for-smuggling-migrants-through-northern-greece/",
+   "summary_raw": "A total 13 people accused of working for smuggling gangs have been arrested over the past three days after being caught driving cars containing a total 56 migrants through northern Greece, authorities said Friday.",
+   "source": "Kathimerini (EN)",
+   "side": "greek_media",
+   "lang": "en",
+   "published": "2026-08-07T17:01:00+00:00",
+   "collected": "2026-08-07T18:04:27.432379+00:00",
+   "keywords_hit": [
+    "migrant",
+    "smuggl"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A total 13 people accused of working for smuggling gangs have been arrested over the past three days after being caught driving cars containing a total 56 migrants through northern Greece, authorities",
+   "angle": null,
+   "locations": [
     {
      "name": "Ελλάδα",
      "lat": 39.0,
@@ -538,6 +833,25 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Πυρκαγιά έχει ξεσπάσει το απόγευμα της Παρασκευής (07/08) σε αγροτοδασική έκταση στην περιοχή Στεφάνι Κορινθίας, στα σύνορα με τον νομό Αργολίδας. Σύμφωνα με την Πυροσβεστική Υπηρεσία, η φωτιά εκδηλώθ",
+   "angle": null
+  },
+  {
+   "id": "0f6efc72a177f7b4",
+   "title": "Χωρίς ενεργό μέτωπο η πυρκαγιά στο Στεφάνι Κορινθίας – Ξεκίνησε από φωτοβολταϊκά, λέει ο αντιδήμαρχος Κορίνθου",
+   "link": "https://www.ertnews.gr/eidiseis/xoris-energo-metopo-i-pyrkagia-sto-stefani-korinthias-ksekinise-apo-fotovoltaika-leei-o-antidimarxos-korinthou/",
+   "summary_raw": "<img alt=\"fotia-korinthos\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1080\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/fotia-korinthos.jpeg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1920\" /><p>Χωρίς ενεργό μέτωπο βρίκσεται η πυρκαγιά που είχει ξεσπάσει το απόγευμα της Παρασκευής (07/08) σε αγροτοδασική έκταση στην περιοχή Στεφάνι Κορινθίας, στα σύνορα με τον νομό Αργολίδας. Σύμφωνα με την Πυροσβεστική Υπηρεσία, η φωτιά εκδηλώθηκε περίπου στις 16:00, σε περιοχή η οποία καθόλη τη διάρκεια της ημέρας βρίσκεται στην κατηγορία 3, δηλαδή, σε υψηλό κίνδυνο ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/xoris-energo-metopo-i-pyrkagia-sto-stefani-korinthias-ksekinise-apo-fotovoltaika-leei-o-antidimarxos-korinthou/\" title=\"Χωρίς ενεργό μέτωπο η πυρκαγιά στο Στεφάνι Κορινθίας &#8211; Ξεκίνησε από φωτοβολταϊκά, λέει ο αντιδήμαρχος Κορίνθου\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-07T15:06:35+00:00",
+   "collected": "2026-08-07T18:04:29.182458+00:00",
+   "keywords_hit": [
+    "φωτοβολταϊκ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Χωρίς ενεργό μέτωπο βρίκσεται η πυρκαγιά που είχει ξεσπάσει το απόγευμα της Παρασκευής (07/08) σε αγροτοδασική έκταση στην περιοχή Στεφάνι Κορινθίας, στα σύνορα με τον νομό Αργολίδας. Σύμφωνα με την Π",
    "angle": null
   },
   {
@@ -1021,6 +1335,28 @@
    "turkish_narrative": false,
    "summary_el": "The pact reflects Riyadh's efforts to broaden its strategic partnerships beyond its traditional reliance on the United States.",
    "angle": null
+  },
+  {
+   "id": "3fdb3bb3adc04d68",
+   "title": "Spain says it dismantles one of Mediterranean's largest human smuggling networks - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUU9iVU52M3I2eTJaMVU4YWZkbWhNY3VIODNTNUJISEZ6dXJPSEVuaHpCZlJRQUlqdlBTelpOLVc2VDVIeV9SdnNkSW8xMDNBYl9kTUhkY0dfdG82ajh1dUg5MUFUXzZ2WFQ3ZktmREltdjNKVF9BTGRCRFB2SlVoX1VWeXNTWEgzQUNra1BBbFFFOC1FaWlNWkF5OVJOY183ZGV2RHlIVmpEM25NQ0pjOW1rNS1fenY5cGc?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUU9iVU52M3I2eTJaMVU4YWZkbWhNY3VIODNTNUJISEZ6dXJPSEVuaHpCZlJRQUlqdlBTelpOLVc2VDVIeV9SdnNkSW8xMDNBYl9kTUhkY0dfdG82ajh1dUg5MUFUXzZ2WFQ3ZktmREltdjNKVF9BTGRCRFB2SlVoX1VWeXNTWEgzQUNra1BBbFFFOC1FaWlNWkF5OVJOY183ZGV2RHlIVmpEM25NQ0pjOW1rNS1fenY5cGc?oc=5\" target=\"_blank\">Spain says it dismantles one of Mediterranean's largest human smuggling networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters World",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-07T13:35:41+00:00",
+   "collected": "2026-08-07T18:04:38.224556+00:00",
+   "keywords_hit": [
+    "smuggl"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Spain says it dismantles one of Mediterranean's largest human smuggling networks Reuters",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English"
+   ]
   },
   {
    "id": "e598aa99e0ef382c",
@@ -2982,6 +3318,25 @@
    "corroborated_by": [
     "Guardian Environment"
    ]
+  },
+  {
+   "id": "76b3d859c8081121",
+   "title": "Αναστέλλεται η λειτουργία του αιολικού πάρκου από το οποίο ξεκίνησε η φωτιά στη Βοιωτία και έφτασε μέχρι τη Δυτική Αττική - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUEw4NXY2RXJ1WmdieUgzNFVIRktLeGwwcG5ndjF0cnotNWx5cVpvVUI5aktyMmRLZnFyODl5TS1IYVZuTlFUejNhaE1HSHN4NHVieUNILUsyOEJqd3lxbFRhNzJwYVRHdnQzTTVOMDMtSFF3RVk0b08tV3RFaUpPcnlQa0swc2ptbkx30gGQAUFVX3lxTE1PV3dKVVRJSFlFZW0yUFR1LW5yT0plc2libC1YZzF4SWRfUmpPbFBIQkE3aWFoNEdJeDlFUDhVWDFsQ0RLYmgtTTdpVnE3SENPaHVqcWNGVG9TNkJRcUUxOGgwY0ZlQ1otSDRKcFBUdkpTOExSUDVtZzFKa3hkY0xzbVoxRmRwNWMzRWljQzl3TA?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUEw4NXY2RXJ1WmdieUgzNFVIRktLeGwwcG5ndjF0cnotNWx5cVpvVUI5aktyMmRLZnFyODl5TS1IYVZuTlFUejNhaE1HSHN4NHVieUNILUsyOEJqd3lxbFRhNzJwYVRHdnQzTTVOMDMtSFF3RVk0b08tV3RFaUpPcnlQa0swc2ptbkx30gGQAUFVX3lxTE1PV3dKVVRJSFlFZW0yUFR1LW5yT0plc2libC1YZzF4SWRfUmpPbFBIQkE3aWFoNEdJeDlFUDhVWDFsQ0RLYmgtTTdpVnE3SENPaHVqcWNGVG9TNkJRcUUxOGgwY0ZlQ1otSDRKcFBUdkpTOExSUDVtZzFKa3hkY0xzbVoxRmRwNWMzRWljQzl3TA?oc=5\" target=\"_blank\">Αναστέλλεται η λειτουργία του αιολικού πάρκου από το οποίο ξεκίνησε η φωτιά στη Βοιωτία και έφτασε μέχρι τη Δυτική Αττική</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-07T08:58:25+00:00",
+   "collected": "2026-08-07T18:05:25.110367+00:00",
+   "keywords_hit": [
+    "αιολικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Αναστέλλεται η λειτουργία του αιολικού πάρκου από το οποίο ξεκίνησε η φωτιά στη Βοιωτία και έφτασε μέχρι τη Δυτική Αττική iefimerida.gr",
+   "angle": null
   },
   {
    "id": "5d9af131acc081f5",
@@ -42013,458 +42368,6 @@
     "Anadolu Agency (EN)",
     "Telegram @clashreport"
    ]
-  },
-  {
-   "id": "771d0b882e1a724f",
-   "title": "Trump Holds First-of-Its-Kind Televised Camp David Cabinet Meeting",
-   "link": "https://www.breitbart.com/politics/2026/07/31/trump-holds-first-its-kind-televised-camp-david-cabinet-meeting/",
-   "summary_raw": "<p>President Donald Trump held a first-of-its-kind televised cabinet meeting at Camp David on Friday.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/07/31/trump-holds-first-its-kind-televised-camp-david-cabinet-meeting/\" rel=\"nofollow\">Trump Holds First-of-Its-Kind Televised Camp David Cabinet Meeting</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-31T18:02:04+00:00",
-   "collected": "2026-07-31T23:18:51.875332+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο πρόεδρος Τραμπ διεξήγαγε την πρώτη τηλεοπτική συνεδρίαση του υπουργικού συμβουλίου στο Camp David, σε ένα ασυνήθιστο δημόσιο εμφανίσιμο.",
-   "angle": null,
-   "corroborated_by": [
-    "UnHerd"
-   ]
-  },
-  {
-   "id": "82f21fffc3a83824",
-   "title": "An F-35 fighter jet caught fire after an aircraft mishap at Marine Corps Air Station Miramar in San Diego on Friday morning.  Heavy smoke was seen around 10 a.m., and emergency cre…",
-   "link": "https://t.me/ClashReport/91171",
-   "summary_raw": "An F-35 fighter jet caught fire after an aircraft mishap at Marine Corps Air Station Miramar in San Diego on Friday morning.  Heavy smoke was seen around 10 a.m., and emergency crews responded to the scene.  Officials are investigating the cause, and no additional details have been released.  Source: FOX 5",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-07-31T18:01:27+00:00",
-   "collected": "2026-07-31T18:47:55.934048+00:00",
-   "keywords_hit": [
-    "f-35"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Μαχητικό αεροσκάφος F-35 πυρπολήθηκε μετά από ατύχημα στη βάση Marine Corps Air Station Miramar του Σαν Ντιέγο Καλιφόρνια την Παρασκευή το πρωί.",
-   "angle": null,
-   "corroborated_by": [
-    "Anadolu Agency (EN)",
-    "OSINT613"
-   ]
-  },
-  {
-   "id": "4b3fe6cd7034c59f",
-   "title": "Turkey’s Latest Kaan Fighter Prototype Begins Taxi Tests",
-   "link": "https://www.twz.com/air/turkeys-latest-kaan-fighter-prototype-begins-taxi-tests",
-   "summary_raw": "<p>The P1 aircraft begins powered taxi testing as Turkish Aerospace pushes toward multiple flying prototypes.</p>\n<p>The post <a href=\"https://www.twz.com/air/turkeys-latest-kaan-fighter-prototype-begins-taxi-tests\">Turkey’s Latest Kaan Fighter Prototype Begins Taxi Tests</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-   "source": "The War Zone",
-   "side": "defense_intl",
-   "lang": "en",
-   "published": "2026-07-31T17:59:59+00:00",
-   "collected": "2026-07-31T18:47:08.555828+00:00",
-   "keywords_hit": [
-    "kaan"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Το πρότυπο P1 του τούρκικου μαχητικού Kaan αρχίζει δοκιμές κινήσεως, καθώς η Turkish Aerospace προχωρά προς πολλαπλά πρωτότυπα σε πτήση.",
-   "angle": null
-  },
-  {
-   "id": "e767d91d34c23e8a",
-   "title": "Οι Τούρκοι ετοιμάζουν στρατιωτικό επεισόδιο στην κυπριακή ΑΟΖ;",
-   "link": "https://www.pentapostagma.gr/ethnika-themata/kypros/7382974_oi-toyrkoi-etoimazoyn-stratiotiko-epeisodio-stin-kypriaki-aoz",
-   "summary_raw": "Το φιλοκυβερνητικό τουρκικό δίκτυο A Haber συχνά προβάλλει αφηγήματα περί «στρατιωτικής επιφυλακής» και κλιμάκωσης στην...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-07-31T17:53:00+00:00",
-   "collected": "2026-07-31T18:47:15.349249+00:00",
-   "keywords_hit": [
-    "αοζ"
-   ],
-   "category": "Κυπριακό",
-   "severity": 4,
-   "turkish_narrative": true,
-   "summary_el": "Το φιλοκυβερνητικό τουρκικό δίκτυο A Haber προβάλλει αφηγήματα «στρατιωτικής επιφυλακής» και κλιμάκωσης στην κυπριακή ΑΟΖ.",
-   "angle": "Οι τουρκικές δηλώσεις περί κλιμάκωσης στην κυπριακή ΑΟΖ: διαφωνία ή προπαγάνδα;"
-  },
-  {
-   "id": "e98a1662b6b4d8f5",
-   "title": "Left’s Amnesty Policies at the Forefront of Spain’s Migrant Crisis",
-   "link": "https://www.dailysignal.com/2026/07/31/amnesty-policies-spains-migrant-crisis/",
-   "summary_raw": "After thousands of migrants flooded Spanish shores from Morocco this week, top American and international policymakers sounded the alarm on the Left&#8217;s open-border and amnesty policies. Rep. Randy Fine, R-Fla., has attributed the migrant influx to the previous amnesty policy Spain&#8217;s Prime Minister Pedro Sanchez implemented in February, when he naturalized almost a million illegal...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-31T17:50:21+00:00",
-   "collected": "2026-07-31T18:47:49.509141+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Πολιτικοί κατηγορούν τις αμνηστευτικές πολιτικές του κ. Σάντσεθ για τη μαζική εισροή μεταναστών στη Θέουτα, αναφερόμενοι στη νομιμοποίηση σχεδόν ενός εκατομμυρίου παράνομων μεταναστών τον Φεβρουάριο.",
-   "angle": "Κατά πόσο η αμνηστία του Σάντσεθ για παράνομους μετανάστες έθεσε το θεμέλιο για την κρίση στη Θέουτα;",
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "11bd6a3f8495e486",
-   "title": "EU dismisses speculation over Schengen action against Spain as Ceuta crisis unfolds",
-   "link": "https://www.aa.com.tr/en/europe/eu-dismisses-speculation-over-schengen-action-against-spain-as-ceuta-crisis-unfolds/4015321",
-   "summary_raw": "Bloc says thousands of migrants already returning voluntarily to Morocco",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-07-31T17:44:46+00:00",
-   "collected": "2026-07-31T18:46:54.413419+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η ΕΕ απορρίπτει φήμες για κυρώσεις Σένγκεν κατά της Ισπανίας, καθώς δηλώνει ότι χιλιάδες μετανάστες επιστρέφουν εθελοντικά στο Μαρόκο.",
-   "angle": null,
-   "corroborated_by": [
-    "Cyprus Mail",
-    "OSINT613",
-    "Politico Europe",
-    "Reuters World",
-    "Telegram @OSINTLive",
-    "Telegram @clashreport",
-    "Telegram @me_observer_TG"
-   ]
-  },
-  {
-   "id": "7866b6b847d125aa",
-   "title": "High fire alert in Athens, Evia on Saturday, authorities urge vigilance",
-   "link": "https://www.ekathimerini.com/news/1311215/high-fire-alert-saturday-authorities-urge-vigilance/",
-   "summary_raw": "The Civil Protection Coordination Body met Friday evening, with the participation of Climate Crisis and Civil Protection Minister Evangelos Tournas, to review measures ahead of an expected extreme fire risk on Saturday.",
-   "source": "Kathimerini (EN)",
-   "side": "greek_media",
-   "lang": "en",
-   "published": "2026-07-31T17:44:14+00:00",
-   "collected": "2026-07-31T20:37:25.055355+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Σε κατάσταση υψηλής πυρκαγιάς θα βρεθούν Αθήνα και Εύβοια το Σάββατο, ενώ ο υπουργός Κλιματικής Κρίσης Ευάγγελος Τούρνας ενημέρωσε για τα μέτρα προστασίας.",
-   "angle": "Ακραίες καιρικές συνθήκες το καλοκαίρι 2025: τι κρύβει η νέα κανονικότητα των πυρκαγιών στην Ελλάδα",
-   "corroborated_by": [
-    "Reuters Sustainability"
-   ]
-  },
-  {
-   "id": "96825c1e8b509100",
-   "title": "Open Source Intel Several Moroccans told the New York Times that royal police encouraged them to cross into Ceuta, with some border guards telling migrants to \"go that way\" or \"com…",
-   "link": "https://t.me/OSINTLive/560892",
-   "summary_raw": "Open Source Intel Several Moroccans told the New York Times that royal police encouraged them to cross into Ceuta, with some border guards telling migrants to \"go that way\" or \"come to Spain.\" tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-07-31T17:44:04+00:00",
-   "collected": "2026-07-31T18:48:27.157768+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Μαροκινοί πολίτες κατέθεσαν στη New York Times ότι η βασιλική αστυνομία τους ενθάρρυνε να διασχίσουν τα σύνορα προς την Θεούτα, με συνοριακούς φρουρούς να δίνουν ευθέως οδηγίες διέλευσης.",
-   "angle": null,
-   "corroborated_by": [
-    "Anadolu Agency (EN)",
-    "Cyprus Mail",
-    "OSINT613",
-    "Politico Europe",
-    "Reuters World",
-    "Telegram @clashreport",
-    "Telegram @me_observer_TG"
-   ]
-  },
-  {
-   "id": "0b891a1c97d977e7",
-   "title": "EU Approves Maritime Rescue Centre in Libya’s Benghazi",
-   "link": "https://libyareview.com/67227/eu-approves-maritime-rescue-centre-in-libyas-benghazi/",
-   "summary_raw": "<p>The European Union has approved plans to establish a Maritime Rescue Coordination Centre (MRCC) in Benghazi, marking a new step in its cooperation with eastern Libya on migration management and search-and-rescue operations in the Mediterranean. EU Ambassador to Libya Nicola Orlando announced that the necessary procedures to establish the centre had been completed under Operation [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67227/eu-approves-maritime-rescue-centre-in-libyas-benghazi/\">EU Approves Maritime Rescue Centre in Libya&#8217;s Benghazi</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-07-31T17:42:47+00:00",
-   "collected": "2026-07-31T18:47:11.933467+00:00",
-   "keywords_hit": [
-    "libya",
-    "benghazi"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η ΕΕ ενέκρινε τη δημιουργία Κέντρου Συντονισμού Θαλάσσιας Διάσωσης στη Βεγγάζη της Λιβύης, επιστέγωντας τη συνεργασία για τη διαχείριση μετανάστευσης στη Μεσόγειο.",
-   "angle": "Το νέο κέντρο διάσωσης στη Λιβύη: είναι η απάντηση της ΕΕ στη μεσογειακή κρίση μετανάστευσης;",
-   "locations": [
-    {
-     "name": "Βεγγάζη",
-     "lat": 32.12,
-     "lon": 20.07
-    }
-   ]
-  },
-  {
-   "id": "fb80a5070a4ab1e9",
-   "title": "Report: Trump and Zelensky Sign Deal to Bring Ukrainian Drones to U.S.",
-   "link": "https://www.breitbart.com/middle-east/2026/07/31/report-trump-and-zelensky-sign-deal-to-bring-ukrainian-drones-to-u-s/",
-   "summary_raw": "<p>A top Ukrainian diplomat told NBC News in a report published Thursday that Kyiv had brokered an agreement with Washington to share its drone technology, potentially allowing for collaboration to improve drone models.</p>\n<p>The post <a href=\"https://www.breitbart.com/middle-east/2026/07/31/report-trump-and-zelensky-sign-deal-to-bring-ukrainian-drones-to-u-s/\" rel=\"nofollow\">Report: Trump and Zelensky Sign Deal to Bring Ukrainian Drones to U.S.</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-31T17:42:09+00:00",
-   "collected": "2026-07-31T22:18:01.813971+00:00",
-   "keywords_hit": [],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Διπλωματικές πηγές ανακοίνωσαν ότι η Ουκρανία και οι ΗΠΑ υπέγραψαν συμφωνία για ανταλλαγή τεχνολογίας drone, ενδεχομένως για κοινή ανάπτυξη και βελτίωση των συστημάτων.",
-   "angle": "Πώς η συνεργασία ΗΠΑ-Ουκρανίας στα drone αλλάζει τις στρατηγικές ισορροπίες στον πόλεμο;",
-   "locations": [
-    {
-     "name": "Ουάσιγκτον",
-     "lat": 38.91,
-     "lon": -77.04
-    }
-   ]
-  },
-  {
-   "id": "ac75f27e599820ca",
-   "title": "Water cuts loom as US unveils long-awaited response to Colorado River crisis",
-   "link": "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts",
-   "summary_raw": "<p>Federal government plan outlines cuts of roughly 40% to California, Arizona and Nevada but fix is likely to be only temporary</p><p>The US government released its anxiously awaited plan for how to manage the Colorado River crisis on Friday, which includes the potential for harsh cuts in water supplied to California, Arizona and Nevada.</p><p>Under the proposal, the so-called lower basin states stand to lose up to 3m acre-feet (3.7bn kiloliters) a year – enough water annually to serve more than 25 million people and roughly 40% of their collective total. The so-called upper basin states – Colorado, Utah, New Mexico and Wyoming – were spared from mandates restricting their supply.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts\">Continue reading...</a>",
-   "source": "Guardian Environment",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-07-31T17:38:28+00:00",
-   "collected": "2026-08-01T15:33:03.040408+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Οι ΗΠΑ προτείνουν περικοπές ύδατος έως 40% για Καλιφόρνια, Αριζόνα και Νεβάδα για την αντιμετώπιση της κρίσης του ποταμού Κολοράδο, αφαιρώντας περί 3 δισ. κυβικά μέτρα ετησίως.",
-   "angle": null
-  },
-  {
-   "id": "012b02cc4459c933",
-   "title": "Italy suspends Schengen rules for Spain over Ceuta fiasco",
-   "link": "https://cyprus-mail.com/2026/07/31/italy-suspends-schengen-rules-for-spain-over-ceuta-fiasco",
-   "summary_raw": "Italy announced on Friday that it is suspending the application of Schengen free movement rules for arrivals from Spain following a mass influx of irregular migrants into the Spanish enclave of Ceuta from Morocco. The measure will require passport checks for people travelling between Italy and Spain by air and sea, despite the two countries [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-07-31T17:36:36+00:00",
-   "collected": "2026-07-31T18:47:04.807283+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Ιταλία αναστέλλει τις κανόνες Schengen για τις αφίξεις από την Ισπανία λόγω της μαζικής εισόδου μεταναστών στη Θέουτα, επιβάλλοντας ελέγχους διαβατηρίων για ταξίδια με αέρα και θάλασσα.",
-   "angle": "Οι ευρωπαϊκές χώρες επιστρέφουν στις εθνικές διασφαλίσεις: πώς η κρίση στη Θέουτα ρωγματώνει το Σύστημα Schengen.",
-   "corroborated_by": [
-    "Anadolu Agency (EN)",
-    "OSINT613",
-    "Politico Europe",
-    "Reuters World",
-    "Telegram @OSINTLive",
-    "Telegram @clashreport",
-    "Telegram @me_observer_TG"
-   ]
-  },
-  {
-   "id": "2731bd587e379829",
-   "title": "Πυρκαγιά σε χαμηλή βλάστηση στον Αετό Καρύστου – Ισχυρή κινητοποίηση της Πυροσβεστικής, μήνυμα του 112 για απομάκρυνση",
-   "link": "https://www.ertnews.gr/roi-idiseon/pyrkagia-se-xamili-vlastisi-ston-aeto-karystou-isxyri-kinitopoiisi-tis-pyrosvestikis-minyma-tou-112-gia-apomakrynsi/",
-   "summary_raw": "<img alt=\"[388758] ΠΥΡΚΑΓΙΑ ΣΤΗΝ ΠΕΡΙΟΧΗ ΤΗΣ ΔΟΜΒΡΑΙΝΑΣ ΣΤΗΝ ΒΟΙΩΤΙΑ (ΜΙΧΑΛΗΣ ΚΑΡΑΓΙΑΝΝΗΣ/EUROKINISSI)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1708\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/7048147-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Πυρκαγιά σε περιοχή με χαμηλή βλάστηση στον Αετό Καρύστου Ευβοίας εκδηλώθηκε το απόγευμα της Παρασκευής 31 Ιουλίου 2026, προκαλώντας την άμεση κινητοποίηση ισχυρών δυνάμεων της Πυροσβεστικής. Στο σημείο επιχειρούν 35 πυροσβέστες, με τη συνδρομή μίας ομάδας πεζοπόρου τμήματος της 20ής ΕΜΟΔΕ και 12 πυροσβεστικών οχημάτων, με στόχο τον περιορισμό και την κατάσβεση της φωτιάς. Παράλληλα, ... <a class=\"read-more\" href=\"https://www.ertnews.gr/roi-idiseon/pyrkagia-se-xamili-vlastisi-ston-aeto-karystou-isxyri-kinitopoiisi-tis-pyrosvestikis-minyma-tou-112-gia-apomakrynsi/\" title=\"Πυρκαγιά σε χαμηλή βλάστηση στον Αετό Καρύστου &#8211; Ισχυρή κινητοποίηση της Πυροσβεστικής, μήνυμα του 112 για απομάκρυνση\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-07-31T17:31:07+00:00",
-   "collected": "2026-07-31T20:37:27.020896+00:00",
-   "keywords_hit": [
-    "pomak",
-    "πομάκ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Πυρκαγιά σε χαμηλή βλάστηση στον Αετό Καρύστου Ευβοίας κινητοποίησε 35 πυροσβέστες και 12 οχήματα, με εκδόθηκε μήνυμα 112 για απομάκρυνση κατοίκων.",
-   "angle": null
-  },
-  {
-   "id": "ebd093a07dd73ac3",
-   "title": "Disy vice president criticises reported cabinet appointments",
-   "link": "https://cyprus-mail.com/2026/07/31/disy-vice-president-criticises-reported-cabinet-appointments",
-   "summary_raw": "Disy vice president Yiannis Karousos on Friday criticised reports that party figures Tina Pavlou and Christos Angelides are set to join President Nikos Christodoulides’ cabinet, saying they should not accept appointments while the party remains in opposition. The remarks came after local media reported that Pavlou is expected to become health minister and Angelides the [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-07-31T17:31:05+00:00",
-   "collected": "2026-07-31T18:47:04.807482+00:00",
-   "keywords_hit": [
-    "christodoulides"
-   ],
-   "category": "Κυπριακό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Disy vice president Yiannis Karousos on Friday criticised reports that party figures Tina Pavlou and Christos Angelides are set to join President Nikos Christodoulides’ cabinet, saying they should not",
-   "angle": null
-  },
-  {
-   "id": "d0a68d6e88d80848",
-   "title": "Beware the Red Wave of Chinese Military Activity",
-   "link": "https://www.dailysignal.com/2026/07/31/red-wave-chinese-military-activity/",
-   "summary_raw": "We are over halfway through the year, and Chinese military activity has been uncharacteristically low in the Taiwan Strait. This trend is unlikely to continue. Previous analyses by The Heritage Foundation allow us to make a prediction based on past events: Be prepared for the possibility of an increase in Chinese military activity. Over the...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-31T17:25:14+00:00",
-   "collected": "2026-07-31T23:18:52.053809+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η στρατιωτική δραστηριότητα της Κίνας στη Σφετέρα της Ταϊβάν παραμένει χαμηλή στο πρώτο εξάμηνο, αλλά αναλυτές προετοιμάζονται για πιθανή ανόδου.",
-   "angle": "Ποια είναι τα σχέδια της Κίνας για την Ταϊβάν στο δεύτερο εξάμηνο του 2024;",
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "19aa0240571c5538",
-   "title": "U.S. State Department Blames Spanish Government for Ceuta Invasion",
-   "link": "https://www.breitbart.com/immigration/2026/07/31/state-department-blames-spanish-government-for-ceuta-invasion/",
-   "summary_raw": "<p>The Ceuta invasion \"is the direct result of the Spanish government's deliberate efforts to enable and facilitate mass illegal migration into Europe,\" Marco Rubio's U.S. Department of State declared Friday morning. </p>\n<p>The post <a href=\"https://www.breitbart.com/immigration/2026/07/31/state-department-blames-spanish-government-for-ceuta-invasion/\" rel=\"nofollow\">U.S. State Department Blames Spanish Government for Ceuta Invasion</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-07-31T17:25:08+00:00",
-   "collected": "2026-08-01T22:13:51.231582+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Το αμερικανικό Στέιτ Ντιπάρτμεντ υπό τον Μάρκο Ρούμπιο κατηγορεί την ισπανική κυβέρνηση ότι ευθύνεται για τη μαζική εισροή μεταναστών στη Θεούτα.",
-   "angle": "Η διπλωματική μάχη ΗΠΑ-Ισπανίας για τη Θεούτα: όταν η μετανάστευση γίνεται όπλο διεθνούς πολιτικής",
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "9bbd9da855ef4be5",
-   "title": "UN chief announces plans for new Cyprus 5+1 talks",
-   "link": "https://www.aa.com.tr/en/world/un-chief-announces-plans-for-new-cyprus-5-1-talks/4015308",
-   "summary_raw": "'This time we need to prepare well the next meeting in order to make sure that it leads to a solution,' says Antonio Guterres",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-07-31T17:20:44+00:00",
-   "collected": "2026-07-31T18:46:54.413695+00:00",
-   "keywords_hit": [
-    "cyprus"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ο ΓΓ ΟΗΕ Αντόνιο Γουτέρες ανακοίνωσε σχέδιο για νέες συνομιλίες 5+1 για το Κυπριακό, τονίζοντας την ανάγκη καλής προετοιμασίας.",
-   "angle": "Τι ελπίδες υπάρχουν για ευρεία λύση του Κυπριακού μέσω του νέου διεθνούς σχήματος;",
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "998be19375d6b1fe",
-   "title": "Morocco Police Urged Migrants to Ceuta",
-   "link": "https://www.osint613.com/post/morocco-police-urged-migrants-to-ceuta-19177",
-   "summary_raw": "Several Moroccans told the New York Times that royal police encouraged them to cross into Ceuta, with some border guards telling migrants to \"go that way\" or \"come to Spain.\"",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-07-31T17:19:35+00:00",
-   "collected": "2026-07-31T18:47:49.700880+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Μαροκινοί πολίτες κατέθεσαν στη New York Times ότι η βασιλική αστυνομία τους ενθάρρυνε να διασχίσουν τα σύνορα προς την Θεούτα, με συνοριακούς φρουρούς να τους δίνουν οδηγίες «προς εκείνη την κατεύθυνση» ή να τους λένε «πηγαίνετε στην Ισπανία».",
-   "angle": "Διπλωματικό σκάνδαλο: Είχε το Μαρόκο σχέδιο εξαναγκασμού της Ισπανίας μέσω του κύματος μεταναστών στη Θεούτα;",
-   "corroborated_by": [
-    "Anadolu Agency (EN)",
-    "Cyprus Mail",
-    "Politico Europe",
-    "Reuters World",
-    "Telegram @OSINTLive",
-    "Telegram @clashreport",
-    "Telegram @me_observer_TG"
-   ]
-  },
-  {
-   "id": "41eb23e907dee2e8",
-   "title": "Trump says US has not agreed to give Ukraine Patriot missile technology",
-   "link": "https://www.aa.com.tr/en/russia-ukraine-war/trump-says-us-has-not-agreed-to-give-ukraine-patriot-missile-technology/4015303",
-   "summary_raw": "'I don't think this would ever happen,' US president tells reporters",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-07-31T17:16:12+00:00",
-   "collected": "2026-07-31T22:16:52.227847+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Τραμπ δήλωσε ότι οι ΗΠΑ δεν συμφώνησαν να παραδώσουν τεχνολογία πυραύλων Patriot στην Ουκρανία, χαρακτηρίζοντας την πιθανότητα αυτή ως απίθανη.",
-   "angle": "Ο αντιπολιτευόμενος στάσης Τραμπ για ουκρανική ενδυνάμωση: πώς επηρεάζει τη γεωπολιτική στον Ευρωατλαντικό χώρο;",
-   "corroborated_by": [
-    "Telegram @OSINTdefender",
-    "Telegram @me_observer_TG"
-   ]
-  },
-  {
-   "id": "13c1df946c809812",
-   "title": "Η Ιταλία “κόβει” την Ισπανία από την Σένγκεν λόγω της μεταναστευτικής κρίσης – Ομονοεί η Φινλανδία - slpress.gr",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZk1NbW1aODY2QXc2OFBDZ09wMHNicm5sUGd0aUFkLTZSX2J0WjA0SDlUZHdDNUFiT3dIR1Nfdm1KWnNGeEc1ejk1VzBoWWRpYVBNVXl5Z1l0eVpST0VWOWp2X1NzR3NpZ1pBelIxbWV1d2hhOTUwT1dtT2VpTHJJTFNNeVVFOE5QS01zelFvNkQzOTlLQVJTVjhWRzRxZ2JxY3JfM1pjd0hCaUlKSUdBOVJYYWdQQVZMUVZWX3NYdlo1cHRzRkJYWE80TlR0NTdRNW1qeVh0NVVscG9LbkM5NTRB0gHnAUFVX3lxTE5sYVdyX0k1VTBuRU5BTERlOXN6OUZKeEtaaWdrOVp3NDRDTHI0bVJKWkRNSHdtbXhhcHp0dm1Fejl6MUktekVIbjNsTWRMWHNHOVd6ZTBvdHVsVWlmTGRPOUp6cjl3Sk54bEtvbm1GeXZVc25KZkVoeTdsOXREc1dsWmVQR3d4bjE4cEtxbks0TWhSWnJvYk4yTmRQSW55OVBxYkljMkI5bVR1d05PbjJRVWIwT213eHA3Wjc0VUxFX0JHQnJvaHZFd1NSME5Ud0VOM1FLLWphSE80cmNJbFRiZ1BaSVJtcw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZk1NbW1aODY2QXc2OFBDZ09wMHNicm5sUGd0aUFkLTZSX2J0WjA0SDlUZHdDNUFiT3dIR1Nfdm1KWnNGeEc1ejk1VzBoWWRpYVBNVXl5Z1l0eVpST0VWOWp2X1NzR3NpZ1pBelIxbWV1d2hhOTUwT1dtT2VpTHJJTFNNeVVFOE5QS01zelFvNkQzOTlLQVJTVjhWRzRxZ2JxY3JfM1pjd0hCaUlKSUdBOVJYYWdQQVZMUVZWX3NYdlo1cHRzRkJYWE80TlR0NTdRNW1qeVh0NVVscG9LbkM5NTRB0gHnAUFVX3lxTE5sYVdyX0k1VTBuRU5BTERlOXN6OUZKeEtaaWdrOVp3NDRDTHI0bVJKWkRNSHdtbXhhcHp0dm1Fejl6MUktekVIbjNsTWRMWHNHOVd6ZTBvdHVsVWlmTGRPOUp6cjl3Sk54bEtvbm1GeXZVc25KZkVoeTdsOXREc1dsWmVQR3d4bjE4cEtxbks0TWhSWnJvYk4yTmRQSW55OVBxYkljMkI5bVR1d05PbjJRVWIwT213eHA3Wjc0VUxFX0JHQnJvaHZFd1NSME5Ud0VOM1FLLWphSE80cmNJbFRiZ1BaSVJtcw?oc=5\" target=\"_blank\">Η Ιταλία “κόβει” την Ισπανία από την Σένγκεν λόγω της μεταναστευτικής κρίσης – Ομονοεί η Φινλανδία</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">slpress.gr</font>",
-   "source": "SLpress",
-   "side": "greek_analysis",
-   "lang": "el",
-   "published": "2026-07-31T17:14:19+00:00",
-   "collected": "2026-08-01T03:53:44.377285+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Ιταλία απειλεί να αποσύρει την Ισπανία από τη Σένγκεν λόγω της μεταναστευτικής κρίσης, ενώ η Φινλανδία προσχωρεί στην ιταλική θέση.",
-   "angle": "Ιταλοισπανική τριβή για τη μετανάστευση: Η Ρώμη απειλεί με αναστολή Σένγκεν – το τέλος της ελεύθερης κυκλοφορίας στο Σένγκεν;"
   }
  ]
 }
