@@ -1,7 +1,385 @@
 {
- "updated": "2026-08-08T17:49:56.884088+00:00",
- "count": 1904,
+ "updated": "2026-08-08T19:06:40.707093+00:00",
+ "count": 1912,
  "items": [
+  {
+   "id": "5fe271f0276847ce",
+   "title": "⚡️ Turkish Foreign Minister Hakan Fidan: Ankara submitted a proposal to the parties to the Ukrainian conflict regarding a cessation of hostilities and a halt to attacks on ships in…",
+   "link": "https://t.me/me_observer_TG/1064061",
+   "summary_raw": "⚡️ Turkish Foreign Minister Hakan Fidan: Ankara submitted a proposal to the parties to the Ukrainian conflict regarding a cessation of hostilities and a halt to attacks on ships in the Black Sea.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-08-08T19:04:31+00:00",
+   "collected": "2026-08-08T19:06:02.742801+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "⚡️ Turkish Foreign Minister Hakan Fidan: Ankara submitted a proposal to the parties to the Ukrainian conflict regarding a cessation of hostilities and a halt to attacks on ships in the Black Sea.",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ],
+   "locations": [
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    },
+    {
+     "name": "Μαύρη Θάλασσα",
+     "lat": 43.0,
+     "lon": 34.0
+    }
+   ]
+  },
+  {
+   "id": "204eb09053747e2d",
+   "title": "⚡️ The New York Times: Intercepting Iranian attacks has depleted the United States' stock of air defense missiles to the extent that it has been forced to postpone deliveries to Eu…",
+   "link": "https://t.me/me_observer_TG/1064059",
+   "summary_raw": "⚡️ The New York Times: Intercepting Iranian attacks has depleted the United States' stock of air defense missiles to the extent that it has been forced to postpone deliveries to European and Asian clients. It may take the United States more than two years to replenish the more than 1,500 Patriot missiles consumed during the conflict with Iran. The American arsenal has fewer than 1,700 Patriot missiles remaining.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-08-08T19:04:07+00:00",
+   "collected": "2026-08-08T19:06:02.742581+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ The New York Times: Intercepting Iranian attacks has depleted the United States' stock of air defense missiles to the extent that it has been forced to postpone deliveries to European and Asian cli",
+   "angle": null
+  },
+  {
+   "id": "7397046419322fde",
+   "title": "Turkish Foreign Minister Hakan Fidan on Cyprus:  For the past 50 years, the status quo in Cyprus has remained the same.   The stability and peace on the island are due to one singl…",
+   "link": "https://t.me/ClashReport/91977",
+   "summary_raw": "Turkish Foreign Minister Hakan Fidan on Cyprus:  For the past 50 years, the status quo in Cyprus has remained the same.   The stability and peace on the island are due to one single reason: the presence of Turkish troops on the island.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-08T19:02:50+00:00",
+   "collected": "2026-08-08T19:06:01.259908+00:00",
+   "keywords_hit": [
+    "fidan",
+    "cyprus"
+   ],
+   "category": "Κυπριακό",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Turkish Foreign Minister Hakan Fidan on Cyprus: For the past 50 years, the status quo in Cyprus has remained the same. The stability and peace on the island are due to one single reason: the presence ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "b18f0ded35bad08d",
+   "title": "Είμαστε κοντά σε πιθανή τουρκο-ισραηλινή πολεμική κρίση στην Ανατολική Μεσόγειο",
+   "link": "https://www.pentapostagma.gr/kosmos/mesi-anatoli/7384210_eimaste-konta-se-pithani-toyrko-israilini-polemiki-krisi-stin-anatoliki",
+   "summary_raw": "Ο Τούρκος Υπουργός Εξωτερικών, Χακάν Φιντάν, δήλωσε επίσημα ότι οποιαδήποτε απειλή κατά της Συρίας θεωρείται άμεση...",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-08T18:59:20+00:00",
+   "collected": "2026-08-08T19:02:58.032822+00:00",
+   "keywords_hit": [
+    "φιντάν"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ο Τούρκος Υπουργός Εξωτερικών, Χακάν Φιντάν, δήλωσε επίσημα ότι οποιαδήποτε απειλή κατά της Συρίας θεωρείται άμεση...",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ανατολική Μεσόγειος",
+     "lat": 34.0,
+     "lon": 30.0
+    }
+   ]
+  },
+  {
+   "id": "acb85263bc748a76",
+   "title": "Turkish Foreign Minister Hakan Fidan on Russia-Ukraine:  When the war of attrition at the front turns into attrition behind the front lines, the issue becomes a matter of whether o…",
+   "link": "https://t.me/ClashReport/91976",
+   "summary_raw": "Turkish Foreign Minister Hakan Fidan on Russia-Ukraine:  When the war of attrition at the front turns into attrition behind the front lines, the issue becomes a matter of whether or not you will continue to exist as a nation. You use whatever last resort you have at your disposal.  If the destruction reaches that level, Russia may resort to the final option at its disposal. During my visit to Russia, it seemed that this issue might come up as well, because it was said that the public is now demanding such a thing.  This is a dangerous situation. Everything people say will not happen ends up happening.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-08T18:55:17+00:00",
+   "collected": "2026-08-08T19:06:01.259791+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish Foreign Minister Hakan Fidan on Russia-Ukraine: When the war of attrition at the front turns into attrition behind the front lines, the issue becomes a matter of whether or not you will contin",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "e31813dd7429c2a2",
+   "title": "Mecca Joint Defense Agreement technically same as NATO's Article 5: Turkish foreign minister",
+   "link": "https://www.aa.com.tr/en/turkiye/mecca-joint-defense-agreement-technically-same-as-natos-article-5-turkish-foreign-minister/4022116",
+   "summary_raw": "'Under our president’s vision, we should not remain limited to 3 countries. We should grow and, if necessary, bring all countries under this umbrella,' Hakan Fidan says",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-08T18:54:03+00:00",
+   "collected": "2026-08-08T19:00:48.839860+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 5,
+   "turkish_narrative": true,
+   "summary_el": "'Under our president’s vision, we should not remain limited to 3 countries. We should grow and, if necessary, bring all countries under this umbrella,' Hakan Fidan says",
+   "angle": null,
+   "corroborated_by": [
+    "Middle East Eye",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "7323796c561ba575",
+   "title": "Russian Nuclear Ballistic Missile Submarines Are Now Cocooned In Nets",
+   "link": "https://www.twz.com/news-features/russian-nuclear-ballistic-missile-submarines-are-now-cocooned-in-nets",
+   "summary_raw": "<p>Growing uncrewed threats look to be prompting various new defensive measures Russian naval bases far and wide.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/russian-nuclear-ballistic-missile-submarines-are-now-cocooned-in-nets\">Russian Nuclear Ballistic Missile Submarines Are Now Cocooned In Nets</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+   "source": "The War Zone",
+   "side": "defense_intl",
+   "lang": "en",
+   "published": "2026-08-08T18:50:43+00:00",
+   "collected": "2026-08-08T19:02:17.968147+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Growing uncrewed threats look to be prompting various new defensive measures Russian naval bases far and wide. The post Russian Nuclear Ballistic Missile Submarines Are Now Cocooned In Nets appeared f",
+   "angle": null
+  },
+  {
+   "id": "f9a558abdc91ecb8",
+   "title": "Turkey's Fidan Details Mecca Alliance",
+   "link": "https://www.osint613.com/post/turkey-fidan-details-mecca-alliance-19804",
+   "summary_raw": "Turkish Foreign Minister Hakan Fidan on the Mecca Alliance:\n\nFor the past 2 years and 8 months, I have been in constant communication with our partners and other countries.\n\nThis agreement has been in preparation for 2 years.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-08T18:50:00+00:00",
+   "collected": "2026-08-08T19:05:50.877148+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish Foreign Minister Hakan Fidan on the Mecca Alliance: For the past 2 years and 8 months, I have been in constant communication with our partners and other countries. This agreement has been in p",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "21d84c2e4bd66642",
+   "title": "Η Μαροκινή ματιά στην κρίση της Θέουτα: «Δεν αποδεικνύεται ότι το Ραμπάτ οργάνωσε τις μαζικές διελεύσεις»",
+   "link": "https://www.in.gr/2026/08/08/world/i-marokini-matia-stin-krisi-tis-theouta-den-apodeiknyetai-oti-to-rampat-organose-tis-mazikes-dieleyseis/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/08/ceuta-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Ο διευθυντής σύνταξης του Médias24, Ουισάμ Ελ Μπουζνταϊνί, μιλά στο in για τις αιτίες της πρωτοφανούς μεταναστευτικής πίεσης, τον ρόλο των social media και το μέλλον των σχέσεων Μαρόκου–Μαδρίτης.</p>\n<p>The post <a href=\"https://www.in.gr/2026/08/08/world/i-marokini-matia-stin-krisi-tis-theouta-den-apodeiknyetai-oti-to-rampat-organose-tis-mazikes-dieleyseis/\">Η Μαροκινή ματιά στην κρίση της Θέουτα: «Δεν αποδεικνύεται ότι το Ραμπάτ οργάνωσε τις μαζικές διελεύσεις»</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-08T18:49:58+00:00",
+   "collected": "2026-08-08T19:05:35.522936+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Ο διευθυντής σύνταξης του Médias24, Ουισάμ Ελ Μπουζνταϊνί, μιλά στο in για τις αιτίες της πρωτοφανούς μεταναστευτικής πίεσης, τον ρόλο των social media και το μέλλον των σχέσεων Μαρόκου–Μαδρίτης. The ",
+   "angle": null
+  },
+  {
+   "id": "9b8ce9e990d8ef5c",
+   "title": "Turkish Foreign Minister Hakan Fidan on the Mecca Alliance:  For the past 2 years and 8 months, I have been in constant communication with our partners and other countries.  This a…",
+   "link": "https://t.me/ClashReport/91974",
+   "summary_raw": "Turkish Foreign Minister Hakan Fidan on the Mecca Alliance:  For the past 2 years and 8 months, I have been in constant communication with our partners and other countries.  This agreement has been in preparation for 2 years.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-08T18:44:25+00:00",
+   "collected": "2026-08-08T19:06:01.259439+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish Foreign Minister Hakan Fidan on the Mecca Alliance: For the past 2 years and 8 months, I have been in constant communication with our partners and other countries. This agreement has been in p",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "de0e2560cf19b2a3",
+   "title": "OSINTdefender RT @sentdefender: Videos and pictures posted recently by the Alaskan Region of the North American Aerospace Defense Command (NORAD) show integrated air and land domai…",
+   "link": "https://t.me/OSINTLive/562868",
+   "summary_raw": "OSINTdefender RT @sentdefender: Videos and pictures posted recently by the Alaskan Region of the North American Aerospace Defense Command (NORAD) show integrated air and land domain components during Operation Tundra Merlin near Nome, Alaska, between August 4-6. Carried out by 2 F-35 Lightning Ils, 2 F-16 Fighting Falcons and a KC-135 Stratotanker, from Eielson Air Force Base, along with a M142 High Mobility Artillery Rocket System (HIMARS) and a AN/TP Q-53 Radar System accompanied by U.S. Paratroopers with the 11th Airborne Division. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-08T18:44:20+00:00",
+   "collected": "2026-08-08T19:06:03.542518+00:00",
+   "keywords_hit": [
+    "f-16",
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "OSINTdefender RT @sentdefender: Videos and pictures posted recently by the Alaskan Region of the North American Aerospace Defense Command (NORAD) show integrated air and land domain components during ",
+   "angle": null
+  },
+  {
+   "id": "91175530ddffe00c",
+   "title": "Open Source Intel Question: Does this alliance have a name?  Turkish Foreign Minister Hakan Fidan: Generally, it is currently being referred to as the Mecca Alliance.  The new alli…",
+   "link": "https://t.me/OSINTLive/562867",
+   "summary_raw": "Open Source Intel Question: Does this alliance have a name?  Turkish Foreign Minister Hakan Fidan: Generally, it is currently being referred to as the Mecca Alliance.  The new alliance https://twitter.com/Osint613/status/2085733955576185073/photo/1 - Open Source Intel tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-08T18:44:16+00:00",
+   "collected": "2026-08-08T19:06:03.542313+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel Question: Does this alliance have a name? Turkish Foreign Minister Hakan Fidan: Generally, it is currently being referred to as the Mecca Alliance. The new alliance https://twitter.c",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "OSINT613",
+    "Telegram @clashreport",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "5a550d608e841164",
+   "title": "Turkey says Saudi-Pakistan defence pact mirrors NATO’s Article 5, Egypt could also join",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-saudi-pakistan-defence-pact-mirrors-natos-article-5-egypt",
+   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-saudi-pakistan-defence-pact-mirrors-natos-article-5-egypt\" rel=\"bookmark\">\n<span class=\"field field-title\">Turkey says Saudi-Pakistan defence pact mirrors NATO’s Article 5, Egypt could also join</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Turkish Foreign Minister Hakan Fidan says the new defence agreement between Turkey, Pakistan and Saudi Arabia is technically equivalent to NATO’s Article 5 mutual defence clause and does not target Iran.</p>\n\n<p>Fidan told Turkey’s Anadolu news agency that the three countries would establish a ministerial committee resembling NATO’s decision-making structure. The pact will also have a general secretariat based in Saudi Arabia.</p>\n\n<p>Egypt could join the alliance once the parties resolve outstanding technical issues, Fidan added.</p>\n\n<p>Turkey, Pakistan and Saudi Arabia signed the agreement on Friday.</p>\n</div>\n      \n  </div>\n\n</article>",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-08T18:30:38+00:00",
+   "collected": "2026-08-08T19:02:23.632245+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 5,
+   "turkish_narrative": true,
+   "summary_el": "Turkey says Saudi-Pakistan defence pact mirrors NATO’s Article 5, Egypt could also join Turkish Foreign Minister Hakan Fidan says the new defence agreement between Turkey, Pakistan and Saudi Arabia is",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)"
+   ]
+  },
+  {
+   "id": "a87f3af2c8955527",
+   "title": "Δύο συλλήψεις στην Κορινθία για πυρκαγιά που προκλήθηκε από βραχυκύκλωμα σε φωτοβολταϊκό πάρκο",
+   "link": "https://www.protothema.gr/greece/article/1862491/duo-sullipseis-stin-korinthia-gia-purkagia-pou-proklithike-apo-vrahukukloma-se-fotovoltaiko-parko/?utm_source=rss",
+   "summary_raw": "Συνελήφθησαν ένας υπεργολάβος που φέρεται ως τεχνικός υπεύθυνος και ένας ακόμα υπάλληλος του φωτοβολταϊκού πάρκου - Πάνω από ένα εκατομμύριο ευρώ τα πρόστιμα από την αρχή του χρόνου",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-08T18:05:00+00:00",
+   "collected": "2026-08-08T19:05:33.328456+00:00",
+   "keywords_hit": [
+    "φωτοβολταϊκ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Συνελήφθησαν ένας υπεργολάβος που φέρεται ως τεχνικός υπεύθυνος και ένας ακόμα υπάλληλος του φωτοβολταϊκού πάρκου - Πάνω από ένα εκατομμύριο ευρώ τα πρόστιμα από την αρχή του χρόνου",
+   "angle": null
+  },
+  {
+   "id": "273e37855d777ae1",
+   "title": "Πρόεδρος: Θα εντατικοποιήσουμε τις προσπάθειες για την εκτέλεση των ενταλμάτων σύλληψης για τις δολοφονίες Ισάακ – Σολωμού",
+   "link": "https://www.philenews.com/politiki/article/1757333/proedros-tha-entatikopiisoume-tis-prospathies-gia-tin-ektelesi-ton-entalmaton-sillipsis-gia-tis-dolofonies-isaak-solomou/",
+   "summary_raw": "<p>Την εντατικοποίηση των προσπαθειών για την εκτέλεση των 13 εθνικών και πέντε διεθνών ενταλμάτων σύλληψης που έχει εκδώσει η Κυπριακή Δημοκρατία για τις δολοφονίες του Τάσου Ισαάκ και του Σολωμού Σολωμού, προανήγγειλε ο Πρόεδρος της Δημοκρατίας, Νίκος Χριστοδουλίδης. Σε ομιλία του στην εκδήλωση μνήμης του Δήμου Παραλιμνίου-Δερύνειας για τη συμπλήρωση 30 χρόνων από τη θυσία τους, ο [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/politiki/article/1757333/proedros-tha-entatikopiisoume-tis-prospathies-gia-tin-ektelesi-ton-entalmaton-sillipsis-gia-tis-dolofonies-isaak-solomou/\">Πρόεδρος: Θα εντατικοποιήσουμε τις προσπάθειες για την εκτέλεση των ενταλμάτων σύλληψης για τις δολοφονίες Ισάακ &#8211; Σολωμού</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-08-08T18:03:29+00:00",
+   "collected": "2026-08-08T19:02:59.355283+00:00",
+   "keywords_hit": [
+    "χριστοδουλίδης"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Την εντατικοποίηση των προσπαθειών για την εκτέλεση των 13 εθνικών και πέντε διεθνών ενταλμάτων σύλληψης που έχει εκδώσει η Κυπριακή Δημοκρατία για τις δολοφονίες του Τάσου Ισαάκ και του Σολωμού Σολωμ",
+   "angle": null
+  },
+  {
+   "id": "adebb622a2d48968",
+   "title": "Turkish Foreign Minister Hakan Fidan on Israel:  What Israel fears most is international isolation.  Up to now, it has used the extensive resources at its disposal—including resour…",
+   "link": "https://t.me/ClashReport/91965",
+   "summary_raw": "Turkish Foreign Minister Hakan Fidan on Israel:  What Israel fears most is international isolation.  Up to now, it has used the extensive resources at its disposal—including resources located in other countries—to create an illusion.  There is a political practice that it has built upon this illusion, one that consistently works in Israel’s favor. They commit genocide, and even then, nothing may happen.  The whole world can now see the sinister difference between its own conscience and the illusion that has been created.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-08T17:55:35+00:00",
+   "collected": "2026-08-08T19:06:01.258166+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish Foreign Minister Hakan Fidan on Israel: What Israel fears most is international isolation. Up to now, it has used the extensive resources at its disposal—including resources located in other c",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ]
+  },
   {
    "id": "e87c46d640a0c714",
    "title": "ELAS: Türkiye-Suudi Arabistan-Pakistan savunma anlaşması Yunan dış politikasına ağır darbe",
@@ -144,6 +522,25 @@
    "angle": null
   },
   {
+   "id": "796608bf56e8f5bc",
+   "title": "France shuts mosque over Quran verses and Islamic texts used in Muslim worship",
+   "link": "https://www.middleeasteye.net/news/france-shuts-mosque-over-quran-verses-and-islamic-texts-commonly-used-muslim-worship",
+   "summary_raw": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/france-shuts-mosque-over-quran-verses-and-islamic-texts-commonly-used-muslim-worship\" rel=\"bookmark\">\n<span class=\"field field-title\">France shuts mosque over Quran verses and Islamic texts used in Muslim worship</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/elis-gjevori\" lang=\"lang\" title=\"View user profile.\">Elis Gjevori</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-08T17:53:55+01:00\" title=\"8 August 2026 17:53 BST\">Sat, 08/08/2026 - 17:53</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">A lawyer for the mosque says the six-month closure strikes at religious freedom and secularism in France</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"576\" type=\"image/webp\" width=\"1024\" />\n                  <img alt=\"alt\" height=\"576\" src=\"https://www.middleeasteye.net/sites/default/files",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-08T17:12:31+00:00",
+   "collected": "2026-08-08T19:02:23.634015+00:00",
+   "keywords_hit": [
+    "religious freedom"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "France shuts mosque over Quran verses and Islamic texts used in Muslim worship Submitted by Elis Gjevori on Sat, 08/08/2026 - 17:53 A lawyer for the mosque says the six-month closure strikes at religi",
+   "angle": null
+  },
+  {
    "id": "1445c74170d2efe9",
    "title": "Οι Ινδοί πάνε PitchBlack 26 με μια ιδιαιτερότητα",
    "link": "https://flight.com.gr/the-indians-are-going-to-pitch-black-26with-a-twist/?utm_source=rss&utm_medium=rss&utm_campaign=the-indians-are-going-to-pitch-black-26with-a-twist",
@@ -280,6 +677,26 @@
      "lat": 39.93,
      "lon": 32.86
     }
+   ]
+  },
+  {
+   "id": "b771a37b25829ecd",
+   "title": "Todd Blanche Confirmed as U.S. Attorney General Despite Opposition from Some Republicans",
+   "link": "https://www.breitbart.com/politics/2026/08/08/todd-blanche-confirmed-as-u-s-attorney-general-despite-opposition-from-some-republicans/",
+   "summary_raw": "<p>Acting Attorney General Todd Blanche was confirmed Saturday to lead the U.S. Department of Justice, the news coming after Republican lawmakers struggled to make a decision.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/08/todd-blanche-confirmed-as-u-s-attorney-general-despite-opposition-from-some-republicans/\" rel=\"nofollow\">Todd Blanche Confirmed as U.S. Attorney General Despite Opposition from Some Republicans</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-08T14:33:45+00:00",
+   "collected": "2026-08-08T19:05:50.361533+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Acting Attorney General Todd Blanche was confirmed Saturday to lead the U.S. Department of Justice, the news coming after Republican lawmakers struggled to make a decision. The post Todd Blanche Confi",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
    ]
   },
   {
@@ -2111,6 +2528,26 @@
    "turkish_narrative": false,
    "summary_el": "The Ukrainian Air Force confirmed that none of the Russian Iskander-M ballistic missiles were shot down last night, due to Ukraine having completely run out of Patriot interceptor missiles. However, t",
    "angle": null
+  },
+  {
+   "id": "bacabcb905e3a9c7",
+   "title": "The Lost Republic of Letters",
+   "link": "https://europeanconservative.com/articles/analysis/the-lost-republic-of-letters/",
+   "summary_raw": "Before Europe became a collection of nation-states, it was a civilization bound together by scholars, shared learning, and the pursuit of truth. As our capacity to communicate has expanded beyond imagination, the intellectual culture that sustained that world has steadily eroded.",
+   "source": "The European Conservative",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-08T06:04:09+00:00",
+   "collected": "2026-08-08T19:05:48.860785+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Before Europe became a collection of nation-states, it was a civilization bound together by scholars, shared learning, and the pursuit of truth. As our capacity to communicate has expanded beyond imag",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "1c0f98f864697a95",
@@ -41672,227 +42109,6 @@
     "Πενταπόσταγμα",
     "Πρώτο Θέμα"
    ]
-  },
-  {
-   "id": "f521a0d0644e48b1",
-   "title": "Spain has installed a 500-metre floating barrier off Ceuta after a mass migrant crossing from Morocco killed at least 67 people.",
-   "link": "https://t.me/ClashReport/91262",
-   "summary_raw": "Spain has installed a 500-metre floating barrier off Ceuta after a mass migrant crossing from Morocco killed at least 67 people.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-01T18:52:29+00:00",
-   "collected": "2026-08-01T19:37:32.228528+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Ισπανία εγκατέστησε πλωτό φράγμα 500 μέτρων στη Θέουτα μετά τη μαζική διάβαση μεταναστών από το Μαρόκο που προκάλεσε τουλάχιστον 67 θανάτους.",
-   "angle": null
-  },
-  {
-   "id": "79f0790cf596db62",
-   "title": "Στην Πολωνία επεκτείνεται η ΔΕΗ",
-   "link": "https://www.kathimerini.gr/economy/business/564378745/stin-polonia-epekteinetai-i-dei/",
-   "summary_raw": "Συμφωνία για ένταξη στο χαρτοφυλάκιο ΑΠΕ της ΔΕΗ αιολικών και φωτοβολταϊκών έργων συνολικής ισχύος 277,3 MW.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-01T18:37:13+00:00",
-   "collected": "2026-08-01T21:11:52.775893+00:00",
-   "keywords_hit": [
-    "φωτοβολταϊκ",
-    "αιολικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η ΔΕΗ ενταχθεί νέα αιολικά και φωτοβολταϊκά έργα συνολικής ισχύος 277,3 MW στο χαρτοφυλάκιό της μέσω συμφωνίας που επεκτείνει τις δραστηριότητές της και στην Πολωνία.",
-   "angle": "ΔΕΗ: η ελληνική αναδυόμενη δύναμη στις ανανεώσιμες του ευρωπαϊκού Βορρά"
-  },
-  {
-   "id": "d53135c8ee4fa625",
-   "title": "Christian Physician Assistant Fired for Resisting Transgender Dogma Gets $410,000 Lawsuit Settlement",
-   "link": "https://www.breitbart.com/faith/2026/08/01/christian-physician-assistant-fired-for-resisting-transgender-dogma-gets-410000-lawsuit-settlement/",
-   "summary_raw": "<p>A Michigan physician assistant who alleged she was fired after refusing to comply with hospital transgender policies because of her religious beliefs is receiving a $410,000 settlement in her wrongful termination lawsuit.</p>\n<p>The post <a href=\"https://www.breitbart.com/faith/2026/08/01/christian-physician-assistant-fired-for-resisting-transgender-dogma-gets-410000-lawsuit-settlement/\" rel=\"nofollow\">Christian Physician Assistant Fired for Resisting Transgender Dogma Gets $410,000 Lawsuit Settlement</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-01T18:34:01+00:00",
-   "collected": "2026-08-01T21:12:01.356812+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Γιατρός-βοηθός στο Μίσιγκαν εξοικονόμησε 410.000 δολάρια αποζημίωσης αφού απολύθηκε επειδή αρνήθηκε να συμμορφωθεί με νοσοκομειακές πολιτικές υποστήριξης τρανσ ατόμων για λόγους θρησκευτικής πίστης.",
-   "angle": "Ο σύγκρουση μεταξύ θρησκευτικής ελευθερίας και περιεκτικών πολιτικών υγειονομικής περίθαλψης στις ΗΠΑ."
-  },
-  {
-   "id": "113a4dd1fb55f886",
-   "title": "Libya Deports 2,922 Migrants in July",
-   "link": "https://libyareview.com/67248/libya-deports-2922-migrants-in-july/",
-   "summary_raw": "<p>Libya deported 2,922 irregular migrants from 11 countries through land crossings and airports during July 2026, according to figures released by the country’s Anti-Illegal Migration Department. Chadian nationals accounted for the largest group, with 1,448 people deported, representing about 49.6% of the total. Egyptians ranked second with 938 deportations, or 32.1%, followed by 275 Bangladeshi [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67248/libya-deports-2922-migrants-in-july/\">Libya Deports 2,922 Migrants in July</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-08-01T18:32:36+00:00",
-   "collected": "2026-08-01T19:36:53.764939+00:00",
-   "keywords_hit": [
-    "migrant",
-    "libya",
-    "deportation"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Λιβύη απέλασε 2.922 παράνομους μετανάστες τον Ιούλιο 2026, με Τσαδιανούς (1.448 άτομα, 49,6%) και Αιγύπτιους (938 άτομα, 32,1%) να αποτελούν τα κύρια ποσοστά των εξορίστων.",
-   "angle": "Η στρατηγική της Λιβύης ενάντια στη μη νόμιμη μετανάστευση: τι δείχνουν οι στατιστικές για το παχνίδι της Μεσογείου"
-  },
-  {
-   "id": "e6b299779dc0d659",
-   "title": "Φωτιές: Η ΕΛΑΣ βοηθά στις εκκενώσεις - Πόρτα πόρτα απομάκρυναν κατοίκους από Άγιο Νεκτάριο, Πόρτο Γερμενό και Ψάθα - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3VwSFlqVTdwZXdpZlRkVUYwRTdiLUhqRUF6X3FwZWFVY3cxdUY3cy1FWFI4cWdaTlBVS002X05UNVkzMS00Z2tvWUlOVGI1dGZrd2JZRkpVU2JnNWZMd2dMXzZBUnEySS01aVZrOUhkdURCdmJmMUw4cUVlM29zQmNua9IBiAFBVV95cUxQa1g4YldzZ2Y4blZJS2FYY2JaT05mOE52eVoxQ0JXVVhGZERLa1ZXblp2bnhFZWc2a21TcFJRcnAwZlNoWlg1eTN4Y3pTdmRoWUd5cWhuNS1TWHpHSmVXSThfUlhaS3VwSUQ3VkQxR0RCcjktdmttWU9RNlhvRlB1Y2Q1S1JuVTlC?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3VwSFlqVTdwZXdpZlRkVUYwRTdiLUhqRUF6X3FwZWFVY3cxdUY3cy1FWFI4cWdaTlBVS002X05UNVkzMS00Z2tvWUlOVGI1dGZrd2JZRkpVU2JnNWZMd2dMXzZBUnEySS01aVZrOUhkdURCdmJmMUw4cUVlM29zQmNua9IBiAFBVV95cUxQa1g4YldzZ2Y4blZJS2FYY2JaT05mOE52eVoxQ0JXVVhGZERLa1ZXblp2bnhFZWc2a21TcFJRcnAwZlNoWlg1eTN4Y3pTdmRoWUd5cWhuNS1TWHpHSmVXSThfUlhaS3VwSUQ3VkQxR0RCcjktdmttWU9RNlhvRlB1Y2Q1S1JuVTlC?oc=5\" target=\"_blank\">Φωτιές: Η ΕΛΑΣ βοηθά στις εκκενώσεις - Πόρτα πόρτα απομάκρυναν κατοίκους από Άγιο Νεκτάριο, Πόρτο Γερμενό και Ψάθα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-01T18:30:58+00:00",
-   "collected": "2026-08-02T11:36:49.956534+00:00",
-   "keywords_hit": [
-    "πομάκ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η ΕΛΑΣ συμμετέχει στις εκκενώσεις κατοίκων από Άγιο Νεκτάριο, Πόρτο Γερμενό και Ψάθα λόγω φωτιών.",
-   "angle": null
-  },
-  {
-   "id": "78df23135bf29ead",
-   "title": "Έκτακτη συνεδρίαση των υπ. Εσωτερικών της ΕΕ στις 04/08, για τις εξελίξεις στην Θέουτα",
-   "link": "https://www.pentapostagma.gr/kosmos/7383195_ektakti-synedriasi-ton-yp-esoterikon-tis-ee-stis-04/08-gia-tis-exelixeis-stin",
-   "summary_raw": "Η ισπανική κυβέρνηση διαβεβαίωσε ότι σχεδόν το σύνολο των δεκάδων χιλιάδων μεταναστών που εισήλθαν παράνομα στον...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-01T18:29:30+00:00",
-   "collected": "2026-08-01T19:36:57.357765+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Έκτακτη συνεδρίαση των υπουργών Εσωτερικών της ΕΕ στις 4 Αυγούστου για την κρίση της Θέουτας, καθώς η Ισπανία διαβεβαιώνει ότι έχουν ανακληθεί οι δεκάδες χιλιάδες μετανάστες που είχαν εισέλθει παράνομα.",
-   "angle": "Ευρωπαϊκή έκτακτη συνεδρίαση για τη Θέουτα: η ΕΕ αντιμέτωπη με τις συνέπειες της μεταναστευτικής κρίσης",
-   "corroborated_by": [
-    "Philenews",
-    "Πρώτο Θέμα",
-    "Τα Νέα"
-   ]
-  },
-  {
-   "id": "2ceff83a34a4cf39",
-   "title": "Γιατί η Ευρώπη γίνεται… εφιάλτης για τις ασφαλιστικές",
-   "link": "https://www.in.gr/2026/08/01/economy/diethnis-oikonomia/giati-i-eyropi-ginetai-efialtis-gia-tis-asfalistikes/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/08/climate-change-1024x683-1-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Τα ακραία καιρικά φαινόμενα επιβαρύνουν ήδη με τεράστιο κόστος τις ευρωπαϊκές κυβερνήσεις, οι οποίες βρίσκονται αντιμέτωπες με έντονες δημοσιονομικές πιέσεις</p>\n<p>The post <a href=\"https://www.in.gr/2026/08/01/economy/diethnis-oikonomia/giati-i-eyropi-ginetai-efialtis-gia-tis-asfalistikes/\">Γιατί η Ευρώπη γίνεται&#8230; εφιάλτης για τις ασφαλιστικές</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-01T18:09:16+00:00",
-   "collected": "2026-08-01T18:15:08.363126+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Τα ακραία καιρικά φαινόμενα (πλημμύρες, καύσωνες, θύελλες) επιφέρουν τεράστιο οικονομικό κόστος στις ευρωπαϊκές κυβερνήσεις και ασφαλιστικές, εντείνοντας τις δημοσιονομικές πιέσεις στο σύστημα κοινωνικής προστασίας.",
-   "angle": "Κλιματική αλλαγή και δημοσιονομία: Πόσο θα κοστίσει η προστασία των Ευρωπαίων από τις φυσικές καταστροφές και γιατί η ασφάλιση γίνεται ολοένα πιο ακριβή."
-  },
-  {
-   "id": "8a63703c8fc441a9",
-   "title": "Nicki Minaj Blasts Fauci: One Day He'll Understand the Pain He Inflicted When He's on a 'Feeding Tube'",
-   "link": "https://www.breitbart.com/entertainment/2026/08/01/nicki-minaj-blasts-fauci-one-day-hell-understand-the-pain-he-inflicted-when-hes-on-a-feeding-tube/",
-   "summary_raw": "<p>Rapper Nicki Minaj predicts that one day during his end-of-life care, Anthony Fauci will finally feel empathy for the people harmed by his draconian rules during the era of the Chinese coronavirus.</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/08/01/nicki-minaj-blasts-fauci-one-day-hell-understand-the-pain-he-inflicted-when-hes-on-a-feeding-tube/\" rel=\"nofollow\">Nicki Minaj Blasts Fauci: One Day He&#8217;ll Understand the Pain He Inflicted When He&#8217;s on a &#8216;Feeding Tube&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-01T18:07:02+00:00",
-   "collected": "2026-08-02T15:30:27.479435+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η ράπερ Νίκι Μινάζ επιτίθεται στον Αντόνι Φάουτσι, προβλέποντας ότι θα καταλάβει τον πόνο που προκάλεσε στο κοινό κατά την πανδημία.",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "e88b68036642a0f1",
-   "title": "Rubio, Trump Unveil $175 Million Counter-China Plan, Documents Show",
-   "link": "https://www.dailysignal.com/2026/08/01/rubio-trump-china-plan/",
-   "summary_raw": "President Donald Trump&#8217;s administration is planning to spend almost $200 million on programs aimed at countering China’s growing influence in Central America. According to a congressional notification obtained by The Associated Press, the State Department could oversee $175.8 million in an effort to replace aging undersea telecommunications cables in the Caribbean and Central America. The...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-01T18:00:00+00:00",
-   "collected": "2026-08-01T22:13:51.451429+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η κυβέρνηση Τραμπ σχεδιάζει δαπάνη σχεδόν 200 εκατομμυρίων δολαρίων με επικεφαλής το Στέιτ Ντιπάρτμεντ, ενώ 175,8 εκατομμύρια θα κατευθυνθούν στην αναβάθμιση υποθαλάσσιων τηλεπικοινωνιακών καλωδίων στη Μέση Αμερική και τα Καρίμπια.",
-   "angle": "ΗΠΑ vs Κίνα στη Δυτική Ημισφαίρα: η δεκαπλάσια επένδυση Ουάσιγκτον στις υποδομές ως εργαλείο ανακοπής",
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "ef46ebe2a3161d7b",
-   "title": "Θέουτα: Η Ιρλανδία στο τιμόνι μιας κρίσης που δοκιμάζει το Σένγκεν – Έκτακτο Συμβούλιο ΥΠΕΣ την Τρίτη",
-   "link": "https://www.ertnews.gr/eidiseis/theouta-i-irlandia-sto-timoni-mias-krisis-pou-dokimazei-to-sengken-ektakto-symvoulio-ypes-tin-triti/",
-   "summary_raw": "<img alt=\"APTOPIX Spain Ceuta\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"682\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/ceuta-moroco.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Μια μεταναστευτική κρίση στα μοναδικά χερσαία σύνορα της Ευρωπαϊκής Ένωσης με την Αφρική έφερε την ιρλανδική προεδρία στη θέση του διαχειριστή έκτακτης ανάγκης. Την Τρίτη (04/08) θα συγκληθεί έκτακτο Συμβούλιο Δικαιοσύνης και Εσωτερικών Υποθέσεων για τη Θέουτα, και η συνεδρίαση δεν θα αφορά μόνο τον ισπανικό θύλακα, αλλά την ίδια την ανθεκτικότητα της ζώνης Σένγκεν ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/theouta-i-irlandia-sto-timoni-mias-krisis-pou-dokimazei-to-sengken-ektakto-symvoulio-ypes-tin-triti/\" title=\"Θέουτα: Η Ιρλανδία στο τιμόνι μιας κρίσης που δοκιμάζει το Σένγκεν &#8211; Έκτακτο Συμβούλιο ΥΠΕΣ την Τρίτη\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-01T17:54:39+00:00",
-   "collected": "2026-08-01T18:14:17.854603+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Η ιρλανδική προεδρία αντιμετωπίζει μεταναστευτική κρίση στη Θέουτα που δοκιμάζει τη ζώνη Σένγκεν, με έκτακτο Συμβούλιο Υπουργών Εσωτερικών την Τρίτη 4 Αυγούστου.",
-   "angle": "Θέουτα: η κρίση που κλονίζει το Σένγκεν και καταδεικνύει τα όρια της ευρωπαϊκής συνοχής",
-   "corroborated_by": [
-    "Εφημερίδα των Συντακτών",
-    "Καθημερινή"
-   ]
-  },
-  {
-   "id": "a7ff10c1c1550cb5",
-   "title": "Χριστοδουλίδης: Ξεκίνησε η τεχνοκρατική προεργασία με τα ΗΕ για την άτυπη πενταμερή – Τι είπε για ανασχηματισμό και τις διαρροές ονομάτων",
-   "link": "https://www.philenews.com/politiki/article/1754606/christodoulidis-xekinise-i-technokratiki-proergasia-me-ta-ie-gia-to-kipriako-ti-ipe-gia-anaschimatismo-ke-tis-diarroes-onomaton/",
-   "summary_raw": "<p>Από χθες ξεκίνησε μαζί με τα ΗΕ η προεργασία σε τεχνοκρατικό επίπεδο, είπε απόψε ο Πρόεδρος της Δημοκρατίας κ. Νίκος Χριστοδουλίδης, σημειώνοντας ότι για ολόκληρο τον Αύγουστο θα συνεχίζεται η προεργασία. Σε δηλώσεις του στους δημοσιογράφους, προσερχόμενος στην αντικατοχική εκδήλωση του Δήμου Αμμοχώστου, στη Δερύνεια, και ερωτηθείς ποια είναι τα βήματα που πρέπει να γίνουν [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/politiki/article/1754606/christodoulidis-xekinise-i-technokratiki-proergasia-me-ta-ie-gia-to-kipriako-ti-ipe-gia-anaschimatismo-ke-tis-diarroes-onomaton/\">Χριστοδουλίδης: Ξεκίνησε η τεχνοκρατική προεργασία με τα ΗΕ για την άτυπη πενταμερή – Τι είπε για ανασχηματισμό και τις διαρροές ονομάτων</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-08-01T17:54:23+00:00",
-   "collected": "2026-08-01T18:14:41.387902+00:00",
-   "keywords_hit": [
-    "χριστοδουλίδης"
-   ],
-   "category": "Κυπριακό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο Πρόεδρος της Κύπρου Νίκος Χριστοδουλίδης ανακοίνωσε την έναρξη τεχνοκρατικής προεργασίας με τα ΗΕ για την άτυπη πενταμερή συζήτηση, η οποία θα συνεχιστεί τον Αύγουστο.",
-   "angle": "Κύπρος: η λογική της τεχνοκρατικής προεργασίας για τη διεθνή λύση του Κυπριακού"
   }
  ]
 }
