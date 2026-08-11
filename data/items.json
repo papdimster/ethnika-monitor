@@ -1,7 +1,495 @@
 {
- "updated": "2026-08-11T11:08:37.259991+00:00",
- "count": 1922,
+ "updated": "2026-08-11T12:02:14.668254+00:00",
+ "count": 1921,
  "items": [
+  {
+   "id": "ce4a642855002969",
+   "title": "German Interior Minister Alexander Dobrindt plans to transform the BfV domestic intelligence agency into a more operational service with powers to disrupt terrorism, sabotage and f…",
+   "link": "https://t.me/ClashReport/92237",
+   "summary_raw": "German Interior Minister Alexander Dobrindt plans to transform the BfV domestic intelligence agency into a more operational service with powers to disrupt terrorism, sabotage and foreign espionage.   The proposed reform would allow cyber operations, device infiltration, data manipulation and AI-based mass data analysis, alongside a major expansion of personnel and capabilities.  Source: BILD",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-11T11:58:55+00:00",
+   "collected": "2026-08-11T12:01:25.546674+00:00",
+   "keywords_hit": [
+    "espionage",
+    "intelligence agency"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "German Interior Minister Alexander Dobrindt plans to transform the BfV domestic intelligence agency into a more operational service with powers to disrupt terrorism, sabotage and foreign espionage. Th",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive"
+   ]
+  },
+  {
+   "id": "6d6a7549ecf14c2a",
+   "title": "Latvia discovers secret migrant tunnel at Belarus frontier",
+   "link": "https://www.politico.eu/article/latvia-migrant-tunnel-border-belarus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "summary_raw": "Border guards send back 15 migrants who entered via underground passage.",
+   "source": "Politico Europe",
+   "side": "europe",
+   "lang": "en",
+   "published": "2026-08-11T11:56:59+00:00",
+   "collected": "2026-08-11T12:00:36.110618+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Border guards send back 15 migrants who entered via underground passage.",
+   "angle": null,
+   "corroborated_by": [
+    "Reuters World"
+   ]
+  },
+  {
+   "id": "3a6976550a19b4a4",
+   "title": "Libya’da Rafineriye İHA Saldırısı: Generale Suikast",
+   "link": "https://www.savunmasanayist.com/libyada-rafineriye-iha-saldirisi-generale-suikast/",
+   "summary_raw": "<p>Libya’nın doğusu ve batısında, son üç gün içinde ülkenin güvenlik ve enerji altyapısını hedef alan saldırılar düzenlendi. Libya’nın batısındaki Zaviye petrol tesisleri, insansız hava araçlarıyla düzenlenen art arda saldırıların hedefi olurken ülkenin doğusundaki Libya Ulusal Ordusunun askeri istihbarat başkanı Tuğgeneral Fevzi el-Mansuri, aracına yerleştirilen patlayıcının infilak etmesi sonucu hayatını kaybetti. Gelişmeler, Dışişleri Bakanı Hakan Fidan’ın &#8230;</p>\n<p>The post <a href=\"https://www.savunmasanayist.com/libyada-rafineriye-iha-saldirisi-generale-suikast/\" rel=\"nofollow\">Libya’da Rafineriye İHA Saldırısı: Generale Suikast</a> first appeared on <a href=\"https://www.savunmasanayist.com\" rel=\"nofollow\">SavunmaSanayiST</a>.</p>",
+   "source": "SavunmaSanayiST",
+   "side": "turkish_defense",
+   "lang": "tr",
+   "published": "2026-08-11T11:52:36+00:00",
+   "collected": "2026-08-11T12:00:39.306755+00:00",
+   "keywords_hit": [
+    "fidan",
+    "libya",
+    "istihbarat"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Libya’nın doğusu ve batısında, son üç gün içinde ülkenin güvenlik ve enerji altyapısını hedef alan saldırılar düzenlendi. Libya’nın batısındaki Zaviye petrol tesisleri, insansız hava araçlarıyla düzen",
+   "angle": null
+  },
+  {
+   "id": "a4204c3c9ac311bd",
+   "title": "⚡️ Targeting of Zawiya power plant in Libya by drone",
+   "link": "https://t.me/me_observer_TG/1065867",
+   "summary_raw": "⚡️ Targeting of Zawiya power plant in Libya by drone",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-08-11T11:49:54+00:00",
+   "collected": "2026-08-11T12:01:27.712887+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ Targeting of Zawiya power plant in Libya by drone",
+   "angle": null
+  },
+  {
+   "id": "260d76522722a7c8",
+   "title": "Female detective sacked and barred for ‘cocks in frocks’ remark on transgender strip-search policy",
+   "link": "https://brusselssignal.eu/2026/08/female-detective-sacked-and-barred-for-cocks-in-frocks-remark-on-transgender-strip-search-policy/",
+   "summary_raw": "A Northumbria Police detective was dismissed and barred after using derogatory language about transgender women while criticizing the force's strip-search policy.\n<p><a href=\"https://brusselssignal.eu/2026/08/female-detective-sacked-and-barred-for-cocks-in-frocks-remark-on-transgender-strip-search-policy/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-11T11:45:03+00:00",
+   "collected": "2026-08-11T12:01:18.902704+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A Northumbria Police detective was dismissed and barred after using derogatory language about transgender women while criticizing the force's strip-search policy. Source",
+   "angle": null
+  },
+  {
+   "id": "da7d48e7adb37c3b",
+   "title": "Open Source Intel Germany plans to give its domestic intelligence agency (Verfassungsschutz) offensive powers, per BILD. Under Interior Minister Alexander Dobrindt, the agency woul…",
+   "link": "https://t.me/OSINTLive/563385",
+   "summary_raw": "Open Source Intel Germany plans to give its domestic intelligence agency (Verfassungsschutz) offensive powers, per BILD. Under Interior Minister Alexander Dobrindt, the agency would shift from monitoring to action, gaining the ability to deploy spyware, manipulate data traffic, infiltrate networks, and strike foreign cyber infrastructure. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-11T11:43:24+00:00",
+   "collected": "2026-08-11T12:01:28.828028+00:00",
+   "keywords_hit": [
+    "intelligence agency"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel Germany plans to give its domestic intelligence agency (Verfassungsschutz) offensive powers, per BILD. Under Interior Minister Alexander Dobrindt, the agency would shift from monitor",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "d377d1c6fb3c8056",
+   "title": "Γκαρά μετά το πρωτοσέλιδο της «Εφ.Συν.»: Τραγικές οι συνέπειες από τις πολιτικές της Ν.Δ. – Ο Έβρος χρειάζεται πραγματική στήριξη",
+   "link": "https://www.efsyn.gr/politiki/1445915/gkara-gia-to-protoselido-tis-ef-syn-tragikes-oi-synepeies-apo-tis-politikes-tis-n-d-o-evros-hreiazetai-pragmatiki-stirixi/",
+   "summary_raw": "Η αναπληρώτρια γραμματέας του ΣΥΡΙΖΑ υπογραμμίζει ότι πρόκειται για καθαρή επικοινωνιακή και πολιτική ήττα Μητσοτάκη με τραγικές επιπτώσεις για τον Έβρο.",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-11T11:42:07+00:00",
+   "collected": "2026-08-11T12:01:17.921407+00:00",
+   "keywords_hit": [
+    "έβρος"
+   ],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η αναπληρώτρια γραμματέας του ΣΥΡΙΖΑ υπογραμμίζει ότι πρόκειται για καθαρή επικοινωνιακή και πολιτική ήττα Μητσοτάκη με τραγικές επιπτώσεις για τον Έβρο.",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
+    }
+   ]
+  },
+  {
+   "id": "4ae4601b2db30de1",
+   "title": "Νέο μέτωπο κινδύνου για τη ναυτιλία στη Μεσόγειο: Drone χτύπησε πετρελαϊκές εγκαταστάσεις στη Λιβύη – Απειλή για force majeure",
+   "link": "https://www.philenews.com/kosmos/article/1758023/neo-metopo-kindinou-gia-ti-naftilia-sti-mesogio-drone-chtipise-petrelaikes-egkatastasis-sti-livii-apili-gia-force-majeure/",
+   "summary_raw": "<p>Νέα πηγή κινδύνου για τη ναυτιλία στη Μεσόγειο δημιουργεί η επίθεση με drone στις πετρελαϊκές εγκαταστάσεις της Ζαουίγια στη Λιβύη, η οποία είχε ως αποτέλεσμα να ξεσπάσει μεγάλη πυρκαγιά και να καταρρεύσει δεξαμενή αποθήκευσης. Η εξέλιξη αποκτά ιδιαίτερη σημασία για την αγορά των τάνκερ, καθώς η National Oil Corporation (NOC) κήρυξε κατάσταση έκτακτης ανάγκης και [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kosmos/article/1758023/neo-metopo-kindinou-gia-ti-naftilia-sti-mesogio-drone-chtipise-petrelaikes-egkatastasis-sti-livii-apili-gia-force-majeure/\">Νέο μέτωπο κινδύνου για τη ναυτιλία στη Μεσόγειο: Drone χτύπησε πετρελαϊκές εγκαταστάσεις στη Λιβύη &#8211; Απειλή για force majeure</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-08-11T11:34:48+00:00",
+   "collected": "2026-08-11T12:00:39.720965+00:00",
+   "keywords_hit": [
+    "λιβύη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Νέα πηγή κινδύνου για τη ναυτιλία στη Μεσόγειο δημιουργεί η επίθεση με drone στις πετρελαϊκές εγκαταστάσεις της Ζαουίγια στη Λιβύη, η οποία είχε ως αποτέλεσμα να ξεσπάσει μεγάλη πυρκαγιά και να καταρρ",
+   "angle": null,
+   "corroborated_by": [
+    "Καθημερινή"
+   ]
+  },
+  {
+   "id": "4d76dec7f2301479",
+   "title": "Πολύ υψηλός κίνδυνος πυρκαγιάς αύριο (12/8) σε Αττική, Πελοπόννησο, Στερεά, Αιγαίο και Ανατολική Μακεδονία και Θράκη",
+   "link": "https://www.protothema.gr/greece/article/1863524/polu-upsilos-kindunos-purkagias-aurio-128-se-attiki-peloponniso-sterea-aigaio-kai-anatoliki-makedonia-kai-thraki/?utm_source=rss",
+   "summary_raw": "Δείτε αναλυτικά τον χάρτη με τις περιοχές που εκδίδει η Γενική Γραμματεία Πολιτικής Προστασίας",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-11T11:34:03+00:00",
+   "collected": "2026-08-11T12:01:12.494336+00:00",
+   "keywords_hit": [
+    "αιγαίο",
+    "θράκη"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Δείτε αναλυτικά τον χάρτη με τις περιοχές που εκδίδει η Γενική Γραμματεία Πολιτικής Προστασίας",
+   "angle": null
+  },
+  {
+   "id": "c8a09fc0d8a2d47a",
+   "title": "Record-low Danube water levels are threatening Romania’s Cernavoda nuclear plant, forcing one of its two reactors offline and raising concerns over cooling the remaining reactor.  …",
+   "link": "https://t.me/ClashReport/92235",
+   "summary_raw": "Record-low Danube water levels are threatening Romania’s Cernavoda nuclear plant, forcing one of its two reactors offline and raising concerns over cooling the remaining reactor.   Authorities are dredging the river and using rock-filled barges to redirect water, but forecasts show levels could keep falling through August 16.  Source: Reuters",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-11T11:32:26+00:00",
+   "collected": "2026-08-11T12:01:25.546414+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Record-low Danube water levels are threatening Romania’s Cernavoda nuclear plant, forcing one of its two reactors offline and raising concerns over cooling the remaining reactor. Authorities are dredg",
+   "angle": null,
+   "corroborated_by": [
+    "Brussels Signal"
+   ]
+  },
+  {
+   "id": "f91f7ebae09d0448",
+   "title": "Ex-Mossad Chief Comments on Fordow",
+   "link": "https://www.osint613.com/post/ex-mossad-chief-comments-on-fordow-20010",
+   "summary_raw": "Former Mossad chief Yossi Cohen on the strike on Fordow: \"We visited the Fordow nuclear site many times to understand it. The bombing of the site by the Americans is the fulfillment of all my dreams. 60 percent enriched uranium is still far from a bomb.\"\n\nN12.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-11T11:31:23+00:00",
+   "collected": "2026-08-11T12:01:23.941383+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Former Mossad chief Yossi Cohen on the strike on Fordow: \"We visited the Fordow nuclear site many times to understand it. The bombing of the site by the Americans is the fulfillment of all my dreams. ",
+   "angle": null
+  },
+  {
+   "id": "aad3518c393e0162",
+   "title": "Europe is running short of Patriot interceptors as Ukraine seeks hundreds ahead of Russia’s expected winter offensive.   U.S. stocks have been strained by the Iran war, while new p…",
+   "link": "https://t.me/ClashReport/92234",
+   "summary_raw": "Europe is running short of Patriot interceptors as Ukraine seeks hundreds ahead of Russia’s expected winter offensive.   U.S. stocks have been strained by the Iran war, while new production won’t arrive in time, leaving countries like Germany, Poland, Spain and Greece reluctant to deplete their own defenses.   Source: POLITICO",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-11T11:31:16+00:00",
+   "collected": "2026-08-11T12:01:25.546230+00:00",
+   "keywords_hit": [
+    "patriot",
+    "greece"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Europe is running short of Patriot interceptors as Ukraine seeks hundreds ahead of Russia’s expected winter offensive. U.S. stocks have been strained by the Iran war, while new production won’t arrive",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "eff1406d11135fd0",
+   "title": "Germany Plans Offensive Cyber Powers",
+   "link": "https://www.osint613.com/post/germany-plans-offensive-cyber-powers-20012",
+   "summary_raw": "Germany plans to give its domestic intelligence agency (Verfassungsschutz) offensive powers, per BILD. Under Interior Minister Alexander Dobrindt, the agency would shift from monitoring to action, gaining the ability to deploy spyware, manipulate data traffic, infiltrate networks, and strike foreign cyber infrastructure.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-11T11:27:47+00:00",
+   "collected": "2026-08-11T12:01:23.941680+00:00",
+   "keywords_hit": [
+    "intelligence agency"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Germany plans to give its domestic intelligence agency (Verfassungsschutz) offensive powers, per BILD. Under Interior Minister Alexander Dobrindt, the agency would shift from monitoring to action, gai",
+   "angle": null
+  },
+  {
+   "id": "83e5de9a8c6aeb9b",
+   "title": "In the Chris Kaba case, the police watchdog capitulated to the mob",
+   "link": "https://www.spiked-online.com/2026/08/11/in-the-chris-kaba-case-the-police-watchdog-capitulated-to-the-mob/",
+   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/08/11/in-the-chris-kaba-case-the-police-watchdog-capitulated-to-the-mob/\">In the Chris Kaba case, the police watchdog capitulated to the mob</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
+   "source": "Spiked",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-08-11T11:26:01+00:00",
+   "collected": "2026-08-11T12:01:23.195909+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The post In the Chris Kaba case, the police watchdog capitulated to the mob appeared first on spiked .",
+   "angle": null
+  },
+  {
+   "id": "e3b3fafe56a0630c",
+   "title": "Turkish, Palestinian presidents to meet in Ankara on Wednesday",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-palestinian-presidents-to-meet-in-ankara-on-wednesday/4024129",
+   "summary_raw": "Erdogan, Abbas to discuss latest developments in Palestine, bilateral ties and regional issues",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-11T11:24:14+00:00",
+   "collected": "2026-08-11T11:59:45.917074+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Erdogan, Abbas to discuss latest developments in Palestine, bilateral ties and regional issues",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "fcc981cecddbd3f4",
+   "title": "Romania faces full nuclear shutdown as Danube levels hit critical lows",
+   "link": "https://brusselssignal.eu/2026/08/romania-faces-full-nuclear-shutdown-as-danube-levels-hit-critical-lows/",
+   "summary_raw": "Romania's sole nuclear power plant nears full shutdown as Danube drought forces one reactor offline and threatens the second, complicating national electricity supply efforts.\n<p><a href=\"https://brusselssignal.eu/2026/08/romania-faces-full-nuclear-shutdown-as-danube-levels-hit-critical-lows/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-11T11:16:39+00:00",
+   "collected": "2026-08-11T12:01:18.902897+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Romania's sole nuclear power plant nears full shutdown as Danube drought forces one reactor offline and threatens the second, complicating national electricity supply efforts. Source",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "4ba243096942572a",
+   "title": "Στη Λιβύη ο Χακάν Φιντάν για διήμερη επίσκεψη",
+   "link": "https://www.kathimerini.gr/world/564396022/sti-livyi-o-chakan-fintan-gia-diimeri-episkepsi/",
+   "summary_raw": "Ο Τούρκος ΥΠΕΞ θα έχει επαφές με αξιωματούχους τόσο της Τρίπολης όσο και της Βεγγάζης.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-11T11:15:11+00:00",
+   "collected": "2026-08-11T12:01:13.964380+00:00",
+   "keywords_hit": [
+    "φιντάν",
+    "λιβύη",
+    "βεγγάζη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Ο Τούρκος ΥΠΕΞ θα έχει επαφές με αξιωματούχους τόσο της Τρίπολης όσο και της Βεγγάζης.",
+   "angle": null,
+   "corroborated_by": [
+    "Philenews"
+   ],
+   "locations": [
+    {
+     "name": "Τρίπολη",
+     "lat": 32.89,
+     "lon": 13.19
+    },
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "a096cd04c8ac5b51",
+   "title": "Evros Reconstruction Plan Now Approaches €3 Billion",
+   "link": "https://greekcitytimes.com/2026/08/11/evros-reconstruction-plan-now-approaches-e3-billion/",
+   "summary_raw": "<p>Greece says the Evros reconstruction plan has expanded to more than €2.96 billion, covering infrastructure, jobs, education, health and social measures.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/08/11/evros-reconstruction-plan-now-approaches-e3-billion/\">Evros Reconstruction Plan Now Approaches €3 Billion</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-08-11T11:13:31+00:00",
+   "collected": "2026-08-11T12:00:38.471474+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Greece says the Evros reconstruction plan has expanded to more than €2.96 billion, covering infrastructure, jobs, education, health and social measures. The post Evros Reconstruction Plan Now Approach",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
+    },
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "ebdbb4e6f542ae42",
+   "title": "Τρικυμία στην Αν. Μεσόγειο",
+   "link": "https://www.efsyn.gr/stiles/1445791/trikymia-stin-an-mesogeio/",
+   "summary_raw": "Τα μεγαλεπήβολα εμπορικά και ενεργειακά σχέδια του Τραμπ θα παραμείνουν στο επίπεδο της άσκησης επί χάρτου, αν η Συρία και ο Λίβανος ακολουθήσουν τον δρόμο της μη αναστρέψιμης διάσπασης που ακολούθησαν το Ιράκ και η Λιβύη",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-11T11:12:50+00:00",
+   "collected": "2026-08-11T12:01:17.922137+00:00",
+   "keywords_hit": [
+    "λιβύη"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Τα μεγαλεπήβολα εμπορικά και ενεργειακά σχέδια του Τραμπ θα παραμείνουν στο επίπεδο της άσκησης επί χάρτου, αν η Συρία και ο Λίβανος ακολουθήσουν τον δρόμο της μη αναστρέψιμης διάσπασης που ακολούθησα",
+   "angle": null
+  },
+  {
+   "id": "b003fbddbd268407",
+   "title": "Κλιματική αλλαγή: ακραία φυσικά και ακραία πολιτικά φαινόμενα",
+   "link": "https://www.efsyn.gr/stiles/1445777/klimatiki-allagi-akraia-fysika-kai-akraia-politika-fainomena/",
+   "summary_raw": "Οι κλιματικές μεταβολές, αν δεν αντιμετωπιστούν με πνεύμα προσαρμογής στις νέες συνθήκες, δεν προκαλούν μόνο δασικές πυρκαγιές. Επιδεινώνουν τον πλημμυρικό κίνδυνο και εντείνουν τον κίνδυνο λειψυδρίας",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-11T11:12:26+00:00",
+   "collected": "2026-08-11T12:01:17.922291+00:00",
+   "keywords_hit": [
+    "κλιματικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Οι κλιματικές μεταβολές, αν δεν αντιμετωπιστούν με πνεύμα προσαρμογής στις νέες συνθήκες, δεν προκαλούν μόνο δασικές πυρκαγιές. Επιδεινώνουν τον πλημμυρικό κίνδυνο και εντείνουν τον κίνδυνο λειψυδρίας",
+   "angle": null
+  },
+  {
+   "id": "910916c03819d5e3",
+   "title": "UK: Afghan asylum seeker jailed after raping 13-year-old - InfoMigrants",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXhpNlpwZnloUzlBdURWUnZ3VGFVRzRTSWkzSFBDdVlfajE3WFRFNTZuT2lSX0NKOUh6c3dJSnNOdEtNdlk1RU8xVGRGc21GVm1lTkZpMjBjd3g2TXdra29ScjBOVWV3eVU5Z1ZMaHhKZVpLTHQyUlh4TERRdnY1Qjg3bTQxc1JUZkM2RWFyMXBtTXhlYzA0dWZlYTc?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXhpNlpwZnloUzlBdURWUnZ3VGFVRzRTSWkzSFBDdVlfajE3WFRFNTZuT2lSX0NKOUh6c3dJSnNOdEtNdlk1RU8xVGRGc21GVm1lTkZpMjBjd3g2TXdra29ScjBOVWV3eVU5Z1ZMaHhKZVpLTHQyUlh4TERRdnY1Qjg3bTQxc1JUZkM2RWFyMXBtTXhlYzA0dWZlYTc?oc=5\" target=\"_blank\">UK: Afghan asylum seeker jailed after raping 13-year-old</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoMigrants</font>",
+   "source": "InfoMigrants",
+   "side": "migration",
+   "lang": "en",
+   "published": "2026-08-11T11:09:57+00:00",
+   "collected": "2026-08-11T12:00:03.207297+00:00",
+   "keywords_hit": [
+    "migrant",
+    "asylum"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "UK: Afghan asylum seeker jailed after raping 13-year-old InfoMigrants",
+   "angle": null
+  },
+  {
+   "id": "9a2d322cbee7b549",
+   "title": "İsrail ABD savunma sanayiinde tahkimat mı kuruyor?",
+   "link": "https://www.defenceturk.net/israil-abd-savunma-sanayiinde-tahkimat-mi-kuruyor",
+   "summary_raw": "<p>Yönetim kadrosunda İsrail eski askerleri ve istihbarat yetkilileri bulunan Ondas, kısa süre içinde dünyanın en agresif büyüyen savunma fonuna evrildi. Eskiden endüstriyel kablosuz ağ çözümleri sunan standart bir şirket olan Ondas, kısa süre içinde dünyanın en agresif büyüyen otonom savunma fonuna evrildi. Şirket, muharebe sahasının tüm katmanlarını (hava, kara, stratosfer ve siber uzay) tek bir [&#8230;]</p>\n<p>The post <a href=\"https://www.defenceturk.net/israil-abd-savunma-sanayiinde-tahkimat-mi-kuruyor\">İsrail ABD savunma sanayiinde tahkimat mı kuruyor?</a> appeared first on <a href=\"https://www.defenceturk.net\">DefenceTurk</a>.</p>",
+   "source": "DefenceTurk",
+   "side": "turkish_defense",
+   "lang": "tr",
+   "published": "2026-08-11T11:09:48+00:00",
+   "collected": "2026-08-11T12:00:39.383480+00:00",
+   "keywords_hit": [
+    "istihbarat"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Yönetim kadrosunda İsrail eski askerleri ve istihbarat yetkilileri bulunan Ondas, kısa süre içinde dünyanın en agresif büyüyen savunma fonuna evrildi. Eskiden endüstriyel kablosuz ağ çözümleri sunan s",
+   "angle": null
+  },
   {
    "id": "eb595fb894c46162",
    "title": "Eski Başbakan Samaras’ın yeni parti hazırlığı hız kazandı",
@@ -36,6 +524,25 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Οι εργάτες ξεκινούν πριν την αυγή για να τρυγήσουν τα τσαμπιά σταφυλιών που προορίζονται να μετατραπούν στο περίφημο αφρώδες κρασί Franciacorta της Ιταλίας, 10 ολόκληρες ημέρες νωρίτερα από το αναμενό",
+   "angle": null
+  },
+  {
+   "id": "2ea4bc9147de793d",
+   "title": "Britain Scrapped Shipwreck Treasure Hunt Over Gibraltar Tensions With Spain  The wreck, believed to be the HMS Sussex, which sank off the coast of Gibraltar in 1694, is thought to …",
+   "link": "https://t.me/ClashReport/92233",
+   "summary_raw": "Britain Scrapped Shipwreck Treasure Hunt Over Gibraltar Tensions With Spain  The wreck, believed to be the HMS Sussex, which sank off the coast of Gibraltar in 1694, is thought to hold up to 10 tons of gold coins valued today at roughly £5.5 billion.  READ MORE",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-11T11:00:48+00:00",
+   "collected": "2026-08-11T12:01:25.546042+00:00",
+   "keywords_hit": [
+    "shipwreck"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Britain Scrapped Shipwreck Treasure Hunt Over Gibraltar Tensions With Spain The wreck, believed to be the HMS Sussex, which sank off the coast of Gibraltar in 1694, is thought to hold up to 10 tons of",
    "angle": null
   },
   {
@@ -288,6 +795,25 @@
    ]
   },
   {
+   "id": "62c297b6c30bc4ad",
+   "title": "Israeli Education Minister Yoav Kisch:  Regardless of who the American president is, even after Trump: Iran will not have a nuclear weapon. Period.  We in the State of Israel will …",
+   "link": "https://t.me/ClashReport/92228",
+   "summary_raw": "Israeli Education Minister Yoav Kisch:  Regardless of who the American president is, even after Trump: Iran will not have a nuclear weapon. Period.  We in the State of Israel will not allow it. And if we need to act alone, we will act alone.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-11T10:23:42+00:00",
+   "collected": "2026-08-11T12:01:25.545217+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Israeli Education Minister Yoav Kisch: Regardless of who the American president is, even after Trump: Iran will not have a nuclear weapon. Period. We in the State of Israel will not allow it. And if w",
+   "angle": null
+  },
+  {
    "id": "f1991cad4c510e61",
    "title": "Ρουμανία: Η ξηρασία απειλεί να σβήσει και τον δεύτερο αντιδραστήρα του πυρηνικού σταθμού της Τσερναβόντα",
    "link": "https://flight.com.gr/romania-drought-threatens-to-shut-down-the-second-reactor-at-the-cernavoda-nuclear-power-plant-as-well/?utm_source=rss&utm_medium=rss&utm_campaign=romania-drought-threatens-to-shut-down-the-second-reactor-at-the-cernavoda-nuclear-power-plant-as-well",
@@ -402,6 +928,25 @@
    ]
   },
   {
+   "id": "26167b5167773ac4",
+   "title": "Τα σημάδια μιας καταστροφής",
+   "link": "https://www.kathimerini.gr/opinion/564394993/ta-simadia-mias-katastrofis/",
+   "summary_raw": "Τώρα που θα σβήσει η δοξασία ότι οι φωτιές μπαίνουν για να δημιουργηθούν τα αιολικά πάρκα, θα γεννηθούν οι επόμενες θεωρίες ότι οι ανεμογεννήτριες βάζουν τις φωτιές. Μια σειρά αστοχιών του ιδιωτικού τομέα και παραλείψεων του δημοσίου θα φουντώσει το κίνημα του «Οχι αιολικά σε θάλασσες και βουνά». Η φωτιά που κατέκαψε 126.000 στρέμματα σε […]",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-11T09:55:00+00:00",
+   "collected": "2026-08-11T12:01:13.966875+00:00",
+   "keywords_hit": [
+    "αιολικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Τώρα που θα σβήσει η δοξασία ότι οι φωτιές μπαίνουν για να δημιουργηθούν τα αιολικά πάρκα, θα γεννηθούν οι επόμενες θεωρίες ότι οι ανεμογεννήτριες βάζουν τις φωτιές. Μια σειρά αστοχιών του ιδιωτικού τ",
+   "angle": null
+  },
+  {
    "id": "790a40ec04a9a53a",
    "title": "Romania could shut down nuclear reactor this week as Danube levels fall",
    "link": "https://cyprus-mail.com/2026/08/11/romania-could-shut-down-nuclear-reactor-this-week-as-danube-levels-fall",
@@ -444,6 +989,28 @@
    "angle": null,
    "corroborated_by": [
     "Cyprus Mail"
+   ]
+  },
+  {
+   "id": "4f1e83313cd251fc",
+   "title": "Latvia finds tunnel under Belarus border, vows to combat people smugglers - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEVnVFJoVDBRZ0hhMHJGZEpxZzJKdW5TSUpHVXZYSnkwX2sxQWZQb1VFTjQ4V1M0TkdOWmU1YWl6WGt2OXVLWFV2c1RTWWdUVFhTcUdpWjlNcDNXSHFvZHlTbkNCSExiRmMxSUxteTJyX1hSSElrVWJ2YXBLS0doOEstbDduNFJIV29GVlVsVVp6QW9GbFJ6THllT1Z2RUdQR1RZMVk1bkV3dWwxeFp6MGJVNklwaE90U0E?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEVnVFJoVDBRZ0hhMHJGZEpxZzJKdW5TSUpHVXZYSnkwX2sxQWZQb1VFTjQ4V1M0TkdOWmU1YWl6WGt2OXVLWFV2c1RTWWdUVFhTcUdpWjlNcDNXSHFvZHlTbkNCSExiRmMxSUxteTJyX1hSSElrVWJ2YXBLS0doOEstbDduNFJIV29GVlVsVVp6QW9GbFJ6THllT1Z2RUdQR1RZMVk1bkV3dWwxeFp6MGJVNklwaE90U0E?oc=5\" target=\"_blank\">Latvia finds tunnel under Belarus border, vows to combat people smugglers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters World",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-11T09:42:21+00:00",
+   "collected": "2026-08-11T11:59:59.044114+00:00",
+   "keywords_hit": [
+    "smuggl"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Latvia finds tunnel under Belarus border, vows to combat people smugglers Reuters",
+   "angle": null,
+   "corroborated_by": [
+    "Politico Europe"
    ]
   },
   {
@@ -515,6 +1082,25 @@
     "Καθημερινή",
     "Πενταπόσταγμα"
    ]
+  },
+  {
+   "id": "36fcb3f680e4da71",
+   "title": "IDF Downs Hezbollah Supply Drones",
+   "link": "https://www.osint613.com/post/idf-downs-hezbollah-supply-drones-19999",
+   "summary_raw": "Hezbollah attempted to smuggle water by drone to fighters trapped on the Ali Tahr Ridge in Lebanon. The IDF uncovered the plan and downed several of the drones, Lebanese reports say.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-11T09:33:37+00:00",
+   "collected": "2026-08-11T12:01:23.942966+00:00",
+   "keywords_hit": [
+    "smuggl"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Hezbollah attempted to smuggle water by drone to fighters trapped on the Ali Tahr Ridge in Lebanon. The IDF uncovered the plan and downed several of the drones, Lebanese reports say.",
+   "angle": null
   },
   {
    "id": "dcf1b4087d14dd43",
@@ -41455,613 +42041,6 @@
      "lat": 26.57,
      "lon": 56.25
     }
-   ]
-  },
-  {
-   "id": "95bc0a38f948722f",
-   "title": "Μαρόκο: Μια δικαστική απόφαση προκάλεσε τη μεταναστευτική κρίση στη Θέουτα – Αντικρούει η Ισπανία",
-   "link": "https://www.ertnews.gr/eidiseis/maroko-mia-dikastiki-apofasi-prokalese-ti-metanasteytiki-krisi-sti-theouta-antikrouei-i-ispania/",
-   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/ap26215740554251-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Ανώτερος Μαροκινός αξιωματούχος, υποστήριξε πως «το Μαρόκο είχε προειδοποιήσει προηγουμένως την Ισπανία ότι μια πρόσφατη απόφαση ισπανικού δικαστηρίου σύμφωνα με την οποία οι μετανάστες που φτάνουν δια θαλάσσης δεν θα αντιμετωπίζουν άμεση απέλαση θα δημιουργούσε «πρόβλημα». Αντέκρουσε τον ισχυρισμό η Μαδρίτη και κατηγόρησε εγκληματικές συμμορίες διακίνησης ανθρώπων για διάδοση παραπληροφόρησης σχετικά με την απόφαση. Ο ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/maroko-mia-dikastiki-apofasi-prokalese-ti-metanasteytiki-krisi-sti-theouta-antikrouei-i-ispania/\" title=\"Μαρόκο: Μια δικαστική απόφαση προκάλεσε τη μεταναστευτική κρίση στη Θέουτα &#8211; Αντικρούει η Ισπανία\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-04T11:58:43+00:00",
-   "collected": "2026-08-04T12:20:30.047039+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "απέλαση"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Υψηλόβαθμος Μαροκινός αξιωματούχος ισχυρίζεται ότι το Μαρόκο προειδοποίησε εκ των προτέρων την Ισπανία ότι δικαστική απόφαση που διασφαλίζει τη μη άμεση απέλαση μεταναστών θα προκαλέσει προβλήματα. Η Μαδρίτη αντικρούει τους ισχυρισμούς και κατηγορεί συμμορίες διακίνησης για διάδοση παραπληροφόρησης.",
-   "angle": "Ο πόλεμος της πληροφόρησης πίσω από τη μεταναστευτική κρίση της Θέουτα: Μαρόκο και Ισπανία αλληλοκατηγορούνται",
-   "corroborated_by": [
-    "in.gr"
-   ]
-  },
-  {
-   "id": "3e31adeee11674bb",
-   "title": "Hungary Narrowly Avoids Full Nuclear Shutdown; Slovenia Plant Still at Full Capacity",
-   "link": "https://balkaninsight.com/2026/08/04/hungary-narrowly-avoids-full-nuclear-shutdown-slovenia-plant-still-at-full-capacity/rd/",
-   "summary_raw": "The cooling of Hungary and Romania’s nuclear power plants by pumping water directly from the Danube to chill the reactors makes them particularly vulnerable to drought, unlike the plant in Slovenia.",
-   "source": "Balkan Insight",
-   "side": "balkans",
-   "lang": "en",
-   "published": "2026-08-04T11:57:33+00:00",
-   "collected": "2026-08-04T12:20:51.028536+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ουγγαρία και Ρουμανία αποφεύγουν οριακά τη δυσμενή κατάσταση (full nuclear shutdown) ψύχοντας τα πυρηνικά εργοστάσια απευθείας από τον Δούναβη, υπό την απειλή ξηρασίας, σε αντίθεση με το εργοστάσιο της Σλοβενίας που λειτουργεί κανονικά.",
-   "angle": null
-  },
-  {
-   "id": "d02271768ba75dfc",
-   "title": "Situation Still Tense in Ceuta with Thousands of Migrants Hiding From Security Forces",
-   "link": "https://europeanconservative.com/articles/news/ceuta-thousands-of-migrants-hiding-from-security-forces/",
-   "summary_raw": "The local government of the enclave town accused PM Sánchez of being detached from reality as Madrid downplays the level of the migrant crisis.",
-   "source": "The European Conservative",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-04T11:57:07+00:00",
-   "collected": "2026-08-04T12:21:29.979895+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η τοπική κυβέρνηση της Θέουτας κατηγορεί τον πρωθυπουργό Σάντσεθ ότι αγνοεί την πραγματικότητα της μεταναστευτικής κρίσης, ενώ χιλιάδες μετανάστες κρύβονται από τις δυνάμεις ασφαλείας.",
-   "angle": "Θέουτα: Ο Σάντσεθ «αποκομμένος από την πραγματικότητα» της μεταναστευτικής αποτροπής",
-   "corroborated_by": [
-    "Brussels Signal",
-    "Daily Signal",
-    "Spiked"
-   ]
-  },
-  {
-   "id": "dbadf3b5f059678e",
-   "title": "⚡️ 🔺New details on the maritime incident near the coast of Oman and the entrance to the Strait of Hormuz 🔹The bulk carrier, which caught fire after being hit by an unknown projecti…",
-   "link": "https://t.me/me_observer_TG/1061477",
-   "summary_raw": "⚡️ 🔺New details on the maritime incident near the coast of Oman and the entrance to the Strait of Hormuz 🔹The bulk carrier, which caught fire after being hit by an unknown projectile near the coast of Oman and the entrance to the Strait of Hormuz, and one of its sailors went missing, was named \"Minerva Pioneer\" and belonged to a Greek company.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-04T11:55:04+00:00",
-   "collected": "2026-08-04T12:21:35.839055+00:00",
-   "keywords_hit": [
-    "greek"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Το ελληνόκτητο δεξαμενόπλοιο Minerva Pioneer υπέστη ζημιές από άγνωστα βλήματα στο Στενό του Ορμούζ, με αποτέλεσμα πυρκαγιά και έναν αγνοούμενο ναυτικό.",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @OSINTLive"
-   ],
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
-   ]
-  },
-  {
-   "id": "98beadbed36f704e",
-   "title": "YAŞ 2026 Kararları Açıklandı: İşte Kararlar!",
-   "link": "https://www.savunmasanayist.com/yas-2026-kararlari-aciklandi-iste-kararlar/",
-   "summary_raw": "<p>Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında saat 12.15’te Cumhurbaşkanlığı Külliyesi’nde başlayan Yüksek Askerî Şura toplantısı (YAŞ) 2 saat 20 dakika sürdü. Toplantıda Türk Silahlı Kuvvetleri’ndeki terfi, atama, emeklilik ve görev süresi uzatma dosyaları görüşüldü. Cumhurbaşkanlığı Külliyesi’ndeki toplantıya Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Millî Savunma Bakanı Yaşar Güler, Adalet Bakanı Akın Gürlek, Dışişleri Bakanı Hakan Fidan, İçişleri Bakanı &#8230;</p>\n<p>The post <a href=\"https://www.savunmasanayist.com/yas-2026-kararlari-aciklandi-iste-kararlar/\" rel=\"nofollow\">YAŞ 2026 Kararları Açıklandı: İşte Kararlar!</a> first appeared on <a href=\"https://www.savunmasanayist.com\" rel=\"nofollow\">SavunmaSanayiST</a>.</p>",
-   "source": "SavunmaSanayiST",
-   "side": "turkish_defense",
-   "lang": "tr",
-   "published": "2026-08-04T11:53:24+00:00",
-   "collected": "2026-08-04T12:20:54.670689+00:00",
-   "keywords_hit": [
-    "fidan",
-    "güler"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το τουρκικό Συμβούλιο Εθνικής Ασφάλειας (ΥАŞ) υπό τον Ερντογάν ανακοίνωσε αποφάσεις για προαγωγές, μεταθέσεις και συνταξιοδοτήσεις στο στρατιωτικό προσωπικό.",
-   "angle": null
-  },
-  {
-   "id": "a6891c1b5f8aa1cd",
-   "title": "⚡️ A video showing an H-6N bomber carrying a JL-1 air-launched ballistic missile has sparked speculation in military circles. Some analysts believe this configuration is seen in on…",
-   "link": "https://t.me/me_observer_TG/1061476",
-   "summary_raw": "⚡️ A video showing an H-6N bomber carrying a JL-1 air-launched ballistic missile has sparked speculation in military circles. Some analysts believe this configuration is seen in only two scenarios: exercises with a dummy warhead or nuclear deterrence patrols with a live warhead, especially when the aircraft is escorted by J-20 fighters. According to these analysts, given the available evidence, the second scenario is considered more likely, although this has not been officially confirmed.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-04T11:52:26+00:00",
-   "collected": "2026-08-04T12:21:35.838816+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Βίντεο δείχνει κινεζικό βομβαρδιστικό H-6N με πυραύλους JL-1, ανακινώντας ερωτήματα για πυρηνικές επιχειρήσεις αποτροπής υπό συνοδεία μάχιμων αεροσκαφών.",
-   "angle": "Η Κίνα επιδεικνύει πυρηνική ισχύ; Τι σημαίνει για την περιοχή η νέα αερομαχική διάταξη του Πεκίνου;"
-  },
-  {
-   "id": "02337383c544ecbf",
-   "title": "Reuters: Ο πόλεμος με το Ιράν εξαντλεί τα αποθέματα των ΗΠΑ σε πυραύλους ακριβείας μεγάλου βεληνεκούς",
-   "link": "https://www.tanea.gr/2026/08/04/world/reuters-o-polemos-me-to-iran-eksantlei-ta-apothemata-ton-ipa-se-pyraylous-akriveias-megalou-velinekous/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://www.tanea.gr/wp-content/uploads/2026/07/Patriot-Missile-1-1024x576.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Ο αμερικανικός στρατός έχει καταναλώσει σημαντικό μέρος των αποθεμάτων του σε πυραύλους μεγάλου βεληνεκούς και υψηλής ακρίβειας κατά τη διάρκεια του πεντάμηνου πολέμου με το Ιράν, σύμφωνα με τρεις πηγές που έχουν γνώση των σχετικών στοιχείων. Η εξέλιξη αυτή έχει προκαλέσει ανησυχίες σχετικά με την επιχειρησιακή ετοιμότητα των αμερικανικών ενόπλων δυνάμεων σε περίπτωση μελλοντικών συγκρούσεων. [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-04T11:47:04+00:00",
-   "collected": "2026-08-04T12:21:24.819271+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Σύμφωνα με το Reuters, ο αμερικανικός στρατός έχει καταναλώσει σημαντικά αποθέματα σε πυραύλους ακριβείας κατά τον πόλεμο με το Ιράν, δημιουργώντας ανησυχίες για την επιχειρησιακή ετοιμότητα.",
-   "angle": "Πυραύλοι και αποθέματα: Το κρυμμένο κόστος του πολέμου ΗΠΑ-Ιράν για την παγκόσμια ισορροπία",
-   "corroborated_by": [
-    "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "ba1209b279e604a1",
-   "title": "Vannacci: ‘Sánchez is right. On immigration, Meloni is a fiasco’",
-   "link": "https://brusselssignal.eu/2026/08/vannacci-sanchez-is-right-on-immigration-meloni-is-a-fiasco/",
-   "summary_raw": "Roberto Vannacci criticized Giorgia Meloni's immigration policies, calling them a fiasco and advocating for stricter measures, while praising Spain's decision to return irregular migrants.\n<p><a href=\"https://brusselssignal.eu/2026/08/vannacci-sanchez-is-right-on-immigration-meloni-is-a-fiasco/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-04T11:45:13+00:00",
-   "collected": "2026-08-04T12:21:27.812481+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο Ρομπέρτο Βανάτσι επέκρινε τις μεταναστευτικές πολιτικές της Τζόρτζια Μελόνι ως αποτυχημένες, υποστηρίζοντας αντ' αυτού πιο αυστηρά μέτρα όπως αυτά της Ισπανίας.",
-   "angle": "Εσωτερικές διαφωνίες της δεξιάς: Αναλυτής της ακροδεξιάς επιτίθεται στη Meloni για αναποτελεσματικές μεταναστευτικές πολιτικές",
-   "corroborated_by": [
-    "Remix News",
-    "The European Conservative"
-   ]
-  },
-  {
-   "id": "f1cb2f3c90749499",
-   "title": "Τα ποτάμια της Ευρώπης εκπέμπουν SOS",
-   "link": "https://www.tanea.gr/print/2026/08/04/world/ta-potamia-tis-eyropis-ekpempoun-sos/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/08/DOUNAVIS-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Ποτάμια που αποτελούν αρτηρίες για τη ζωή και την οικονομία πολλών ευρωπαϊκών χωρών, όπως ο Ρήνος, ο Δούναβης και ο Πάδος, βρίσκονται αντιμέτωπα με εξαιρετικά μειωμένη ποσότητα νερού, εξαιτίας της κλιματικής κρίσης και της ξηρασίας. Μαζί τους, απειλούνται η μεταφορά κρίσιμων εμπορευμάτων και πρώτων υλών, η λειτουργία πυρηνικών αντιδραστήρων, ο τουρισμός και ένα ολόκληρο μοντέλο ζωής και ανάπτυξης",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-04T11:45:00+00:00",
-   "collected": "2026-08-04T12:21:24.820131+00:00",
-   "keywords_hit": [
-    "πυρηνικ",
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Τα μεγάλα ποτάμια της Ευρώπης (Ρήνος, Δούναβης, Πάδος) αντιμετωπίζουν δραματική μείωση των υδάτων τους λόγω κλιματικής κρίσης και ξηρασίας, απειλώντας τις μεταφορές εμπορευμάτων, τη λειτουργία πυρηνικών σταθμών και τον ευρωπαϊκό οικονομικό μοντέλο.",
-   "angle": "Η κρίση των ευρωπαϊκών ποταμών ως όχημα για το κόστος της κλιματικής αλλαγής στη διακοπή της μεταφοράς και ενέργειας στην ΕΕ"
-  },
-  {
-   "id": "5fc434df546061d4",
-   "title": "⚡️ 🔺Boat carrying 160 migrants catches fire in the English Channel 🔹English media: A boat carrying 160 migrants caught fire while attempting to cross the English Channel. 🔹Details …",
-   "link": "https://t.me/me_observer_TG/1061474",
-   "summary_raw": "⚡️ 🔺Boat carrying 160 migrants catches fire in the English Channel 🔹English media: A boat carrying 160 migrants caught fire while attempting to cross the English Channel. 🔹Details on the condition of the boat's occupants and potential casualties or missing persons are not yet available.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-04T11:44:04+00:00",
-   "collected": "2026-08-04T12:21:35.838314+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Σκάφος με 160 μετανάστες πήρε φωτιά στο Κανάλι της Μάγχης κατά την προσπάθεια παράνομης διάβασης· οι λεπτομέρειες για τραυματίες ή αγνοούμενους δεν είναι ακόμη γνωστές.",
-   "angle": null,
-   "corroborated_by": [
-    "Anadolu Agency (EN)",
-    "OSINT613",
-    "Reuters World"
-   ]
-  },
-  {
-   "id": "d5d28305fafbe5f4",
-   "title": "Brazil's Mombak delivers early to Google, other buyers in boost for carbon removal credits - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeURXTjB6bl9qRjAtZkRtamRZZ25ydjhZOUNrRXZ3Rk9FSDhjX25yMEZNVWtfNjl6ZWxIbEc0ZUR5U1Z3WWFpenBDNFAzd2VTeFRJcDUwU0RTR21QNmFZR0lfbHJEdVdoXzJzT0NreG1TZ3djOGVWcHpfSW1NMVpvSkMxOWlJOWQ4SmhUMzVlVGpkTFUxamdYUW00R0tFZHZXUEs5dmg5SjcyS2tEUHFrdWpVYmhhbm9oUkU4YkkxanIyQWhaUTNneE12eHBHMFFmV1dGRWxhTUg5MXlS?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeURXTjB6bl9qRjAtZkRtamRZZ25ydjhZOUNrRXZ3Rk9FSDhjX25yMEZNVWtfNjl6ZWxIbEc0ZUR5U1Z3WWFpenBDNFAzd2VTeFRJcDUwU0RTR21QNmFZR0lfbHJEdVdoXzJzT0NreG1TZ3djOGVWcHpfSW1NMVpvSkMxOWlJOWQ4SmhUMzVlVGpkTFUxamdYUW00R0tFZHZXUEs5dmg5SjcyS2tEUHFrdWpVYmhhbm9oUkU4YkkxanIyQWhaUTNneE12eHBHMFFmV1dGRWxhTUg5MXlS?oc=5\" target=\"_blank\">Brazil's Mombak delivers early to Google, other buyers in boost for carbon removal credits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-   "source": "Reuters Sustainability",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-08-04T11:40:22+00:00",
-   "collected": "2026-08-04T19:59:40.119973+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η βραζιλιάνα εταιρεία Mombak προσφέρει νωρίτερα πιστοποιητικά αφαίρεσης διοξειδίου του άνθρακα σε αγοραστές όπως η Google.",
-   "angle": null,
-   "corroborated_by": [
-    "Reuters World"
-   ]
-  },
-  {
-   "id": "154b6d2805306e52",
-   "title": "Firefighters Scramble to Contain Fires Outside Athens Before Winds and High Temperatures Return",
-   "link": "https://www.thenationalherald.com/firefighters-scramble-to-contain-fires-outside-athens-before-winds-and-high-temperatures-return/",
-   "summary_raw": "<p>ATHENS, Greece (AP) — Firefighters west of Athens raced to exploit a break in high winds on Tuesday, working to strengthen containment lines as forecasters warned that stronger gusts and rising temperatures would return in the coming days. Several fires that burned through mountain communities and coastal areas west of the Greek capital were brought under control overnight. Planes and helicopters dumped water inside the contained perimeters through the morning, dousing hotspots while the winds stayed calm. The army deployed tracked earth movers to carve fire breaks across the scorched hillsides, while specialist units pushed into forest areas on foot to extinguish smoldering embers before they could reignite.</p>\n<p>The post <a href=\"https://www.thenationalherald.com/firefighters-scramble-to-contain-fires-outside-athens-before-winds-and-high-temperatures-return/\">Firefighters Scramble to Contain Fires Outside Athens Before Winds and High Temperatures Return</a> appeared first on <a href=\"https://www.thenationalherald.com\">The National Herald</a>.</p>",
-   "source": "The National Herald",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-08-04T11:34:50+00:00",
-   "collected": "2026-08-04T12:20:59.269460+00:00",
-   "keywords_hit": [
-    "hotspot"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Πυροσβέστες δυτικά της Αθήνας εκμεταλλεύονται τη χαμηλή ταχύτητα ανέμων για να ενισχύσουν τις γραμμές περιορισμού, καθώς προειδοποιήσεις για επιστροφή ισχυρών ανέμων και υψηλών θερμοκρασιών κάνουν τη κατάσταση επικίνδυνη.",
-   "angle": "Ο χρόνος ως μεταβλητή σε πυρκαγιές: Πώς οι μετεωρολογικές συνθήκες παίζουν κρίσιμο ρόλο στον έλεγχο της φωτιάς",
-   "corroborated_by": [
-    "Guardian Environment"
-   ]
-  },
-  {
-   "id": "2e049ed7ea3b2ad1",
-   "title": "Iran Attacks Bulk Carrier in Hormuz",
-   "link": "https://www.osint613.com/post/iran-attacks-bulk-carrier-hormuz-19429",
-   "summary_raw": "ICYMI: Last night, Iran attacked the Liberia flagged bulk carrier MV Minoan Pioneer as it transited the Strait of Hormuz.\n\nAccording to reports, the Greek owned vessel was struck about 23 nautical miles northeast of Khasab, Oman, while sailing through the U.S. designated southern shipping lane.\n\nAccording the reports, the crew abandoned ship, and 1 crew member is reported still missing.",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-08-04T11:34:25+00:00",
-   "collected": "2026-08-04T12:21:31.476137+00:00",
-   "keywords_hit": [
-    "greek"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Το Ιράν επιτέθηκε στο ελληνόκτητο δεξαμενόπλοιο MV Minoan Pioneer στο Στενό του Ορμούζ, με αποτέλεσμα ένας ναυτικός να αναφέρεται αγνοούμενος και το πλήρωμα να εγκαταλείψει το σκάφος.",
-   "angle": "Τα ελληνικά πλοία στα πυρά του Ιράν: Τι κινδύνους αντιμετωπίζει το ελληνικό εμπορικό ναυτικό στον Περσικό Κόλπο;",
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
-   ]
-  },
-  {
-   "id": "4497a4b89d4c36e1",
-   "title": "Christodoulides: Electricity prices remain government’s top priority",
-   "link": "https://cyprus-mail.com/2026/08/04/christodoulides-electricity-prices-remain-governments-top-priority",
-   "summary_raw": "Reducing electricity prices remains the government’s top priority, according to President Nikos Christodoulides, who also said he will decide in 2027 whether to seek a second term, dismissing suggestions that his administration is already operating in campaign mode. In a wide-ranging interview with ANT1 on Monday night, the president also addressed pension reform, energy policy, [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-08-04T11:34:02+00:00",
-   "collected": "2026-08-04T12:20:42.591169+00:00",
-   "keywords_hit": [
-    "christodoulides"
-   ],
-   "category": "Κυπριακό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Reducing electricity prices remains the government’s top priority, according to President Nikos Christodoulides, who also said he will decide in 2027 whether to seek a second term, dismissing suggesti",
-   "angle": null
-  },
-  {
-   "id": "f801ed59e0541656",
-   "title": "Ανδρουλάκης από Βοιωτία: Η κλιματική κρίση δεν μπορεί να χρησιμοποιείται ως άλλοθι για τις αδυναμίες του κρατικού μηχανισμού - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVVCUnNLMENlM0h5VXhndXd4UlpxdFprZEluSVEteHJuZkhNUGMzZEJqSXU2NHVjTEhiTUNiNVJrSURGMzYxRkZvUVZvME1oRXlXelo0SlZyNTFmVGF5VW53T0NpczZxcWRBOHdhY0U5ZHZQdTJmbWhQUDVDOUtkRzJQaTBFWmFXcDloZ9IBkgFBVV95cUxNVm9GX0dZczROckpBLTktRHlxMzk4Vk9NSGlmaWQxV25RdllIR2hsQ2tQUFBlOU9XXzUwMnlBTkpQenZSbi1YSHJfWk0xT3Q0SnJtTFFqOW1FUzh3WTZKNUc4c3dKNGo1aHgyNHcxZGRRNFQxZGRRNkNYWmt3T2hmUktNNkxEdmxzYkw5TmhSREc2UQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVVCUnNLMENlM0h5VXhndXd4UlpxdFprZEluSVEteHJuZkhNUGMzZEJqSXU2NHVjTEhiTUNiNVJrSURGMzYxRkZvUVZvME1oRXlXelo0SlZyNTFmVGF5VW53T0NpczZxcWRBOHdhY0U5ZHZQdTJmbWhQUDVDOUtkRzJQaTBFWmFXcDloZ9IBkgFBVV95cUxNVm9GX0dZczROckpBLTktRHlxMzk4Vk9NSGlmaWQxV25RdllIR2hsQ2tQUFBlOU9XXzUwMnlBTkpQenZSbi1YSHJfWk0xT3Q0SnJtTFFqOW1FUzh3WTZKNUc4c3dKNGo1aHgyNHcxZGRRNFQxZGRRNkNYWmt3T2hmUktNNkxEdmxzYkw5TmhSREc2UQ?oc=5\" target=\"_blank\">Ανδρουλάκης από Βοιωτία: Η κλιματική κρίση δεν μπορεί να χρησιμοποιείται ως άλλοθι για τις αδυναμίες του κρατικού μηχανισμού</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-04T11:33:49+00:00",
-   "collected": "2026-08-04T19:59:56.195235+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Νίκος Ανδρουλάκης δηλώνει ότι η κλιματική κρίση δεν μπορεί να δικαιολογεί τις αδυναμίες της κρατικής μηχανής στη διαχείριση πυρκαγιών.",
-   "angle": "Ποιες συγκεκριμένες αποτυχίες του κρατικού μηχανισμού αποκαλύπτει η πυρκαγιακή κρίση του καλοκαιριού;"
-  },
-  {
-   "id": "578449b3483ba5e2",
-   "title": "Ανδρουλάκης: Η κλιματική κρίση δεν μπορεί να χρησιμοποιείται ως άλλοθι για τις αδυναμίες του κρατικού μηχανισμού",
-   "link": "https://www.tanea.gr/2026/08/04/politics/androulakis-i-klimatiki-krisi-den-mporei-na-xrisimopoieitai-os-allothi-gia-tis-adynamies-tou-kratikou-mixanismou/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/08/androulakis-12-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>«Η κλιματική κρίση είναι εδώ. Δεν μπορεί να είναι άλλοθι. Δυστυχώς, πολλές φορές η κυβέρνηση επιχειρηματολογεί θεωρώντας ότι η κλιματική αλλαγή ήρθε τώρα. Έχει έρθει εδώ και χρόνια», ανέφερε ο πρόεδρος του ΠΑΣΟΚ-Κινήματος Αλλαγής, Νίκος Ανδρουλάκης, ο οποίος επισκέφθηκε πληγείσες από την πυρκαγιά περιοχές της Βοιωτίας και συζήτησε με τους κατοίκους. Ο πρόεδρος του ΠΑΣΟΚ σημείωσε [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-04T11:33:47+00:00",
-   "collected": "2026-08-04T12:21:24.821233+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Νίκος Ανδρουλάκης επέκρινε τη κυβέρνηση ότι χρησιμοποιεί ως άλλοθι την κλιματική κρίση για τις αδυναμίες της, υπογραμμίζοντας ότι το φαινόμενο διαρκεί εδώ και χρόνια και δεν είναι πρόσφατο.",
-   "angle": "Πολιτικό όχημα: Η αντιπολίτευση επιτίθεται στην κυβέρνηση για εκμετάλλευση της κλιματικής κρίσης ως δικαιολογία",
-   "corroborated_by": [
-    "in.gr",
-    "ΕΡΤ News"
-   ]
-  },
-  {
-   "id": "fa9f27c445bd6b4a",
-   "title": "Athens Suitcase Murder Suspect Ran Refugee Charity",
-   "link": "https://europeanconservative.com/articles/news/athens-suitcase-murder-suspect-ran-refugee-charity/",
-   "summary_raw": "The suspect met his wife at a migrant camp before converting to Christianity and establishing an Athens charity for refugees.",
-   "source": "The European Conservative",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-04T11:33:28+00:00",
-   "collected": "2026-08-04T12:21:29.980045+00:00",
-   "keywords_hit": [
-    "migrant",
-    "refugee"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο ύποπτος του περιστατικού της «βαλίτσας» στην Αθήνα, που συνάντησε τη σύζυγό του σε στρατόπεδο μεταναστών, ίδρυσε φιλανθρωπική οργάνωση για πρόσφυγες.",
-   "angle": "Τραγικό: Πώς ο ίδρυτας φιλανθρωπικής σε χώρα μεταναστών έγινε ύποπτος ανθρωποκτονίας",
-   "corroborated_by": [
-    "Remix News"
-   ]
-  },
-  {
-   "id": "16db615d73eb9ea2",
-   "title": "Ανδρουλάκης στις πυρόπληκτες περιοχές της Βοιωτίας: Η κλιματική κρίση δεν μπορεί να χρησιμοποιείται ως άλλοθι",
-   "link": "https://www.ertnews.gr/eidiseis/androulakis-stis-pyropliktes-perioxes-tis-voiotias-i-klimatiki-krisi-den-mporei-na-xrisimopoieitai-os-allothi/",
-   "summary_raw": "<img alt=\"ÐÅÑÉÏÄÅÉÁ ÔÏÕ ÐÑÏÅÄÑÏÕ ÔÏÕ ÐÁÓÏÊ - ÊÉÍÁË ÍÉÊÏÕ ÁÍÄÑÏÕËÁÊÇ ÓÔÉÓ ÐÕÑÏÐËÇÊÔÅÓ ÐÅÑÉÏ×ÅÓ ÔÇÓ ÂÏÉÙÔÉÁÓ\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/5281092-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>«Η κλιματική κρίση είναι εδώ. Δεν μπορεί να είναι άλλοθι. Δυστυχώς, πολλές φορές η κυβέρνηση επιχειρηματολογεί θεωρώντας ότι η κλιματική αλλαγή ήρθε τώρα. Έχει έρθει εδώ και χρόνια», ανέφερε ο πρόεδρος του ΠΑΣΟΚ-Κινήματος Αλλαγής, Νίκος Ανδρουλάκης, ο οποίος επισκέφθηκε πληγείσες από την πυρκαγιά περιοχές της Βοιωτίας και συζήτησε με τους κατοίκους. Ο πρόεδρος του ΠΑΣΟΚ ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/androulakis-stis-pyropliktes-perioxes-tis-voiotias-i-klimatiki-krisi-den-mporei-na-xrisimopoieitai-os-allothi/\" title=\"Ανδρουλάκης στις πυρόπληκτες περιοχές της Βοιωτίας: Η κλιματική κρίση δεν μπορεί να χρησιμοποιείται ως άλλοθι\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-04T11:33:19+00:00",
-   "collected": "2026-08-04T12:20:30.048529+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο πρόεδρος του ΠΑΣΟΚ Νίκος Ανδρουλάκης επισκέφθηκε πυρόπληκτες περιοχές της Βοιωτίας και υπογράμμισε ότι η κλιματική κρίση δεν πρέπει να χρησιμοποιείται ως δικαιολογία, καθώς υπάρχει εδώ και χρόνια.",
-   "angle": "Ανδρουλάκης: η κυβέρνηση χρησιμοποιεί την κλιματική αλλαγή ως άλλοθι, αγνοώντας τις δεκαετίες της κρίσης",
-   "corroborated_by": [
-    "in.gr",
-    "Τα Νέα"
-   ]
-  },
-  {
-   "id": "a05b1dfc0c127862",
-   "title": "Open Source Intel Lebanese PM Nawaf Salam has hit back at Hezbollah chief Naim Kassem, who accused the government of aiding Israel instead of defending sovereignty.  Salam: the gre…",
-   "link": "https://t.me/OSINTLive/561726",
-   "summary_raw": "Open Source Intel Lebanese PM Nawaf Salam has hit back at Hezbollah chief Naim Kassem, who accused the government of aiding Israel instead of defending sovereignty.  Salam: the greatest help to Israel came from those who pulled Lebanon into \"absurd\" aid wars, giving Israel the reasons to strike its cities, kill its children and displace hundreds of thousands.  He added that whoever seizes the state's war decisions and ties Lebanon to external agendas \"has no right to hand out certificates of patriotism, and certainly not to speak of sovereignty.\" tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-08-04T11:32:57+00:00",
-   "collected": "2026-08-04T12:21:36.885141+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Λιβανέζος πρωθυπουργός Nawaf Salam απάντησε στον Hezbollah λέγοντας ότι η μεγαλύτερη βοήθεια στο Ισραήλ ήρθε από εκείνους που έσυραν τον Λίβανο σε «παράλογους» πολέμους, δίνοντας αφορμές για ισραηλινές επιθέσεις. Κάλεσε τους ηγέτες που ελέγχουν αποδέκτους του πολέμου να μην «μοιράζουν πιστοποιητικά πατριωτισμού».",
-   "angle": "Οι εσωτερικές διαφορές στον Λίβανο για την κρίση: Κυβέρνηση εναντίον Hezbollah για ευθύνες στον πόλεμο με το Ισραήλ",
-   "corroborated_by": [
-    "OSINT613"
-   ]
-  },
-  {
-   "id": "568127d4d551c365",
-   "title": "EPP leader Weber urges ‘isolated Sánchez government’ to reverse course on migration",
-   "link": "https://brusselssignal.eu/2026/08/epp-leader-weber-urges-isolated-sanchez-government-to-reverse-course-on-migration/",
-   "summary_raw": "EPP leader Manfred Weber has urged Spain's government to change its migration policy, citing public protests and rising fatalities from uncontrolled immigration.\n<p><a href=\"https://brusselssignal.eu/2026/08/epp-leader-weber-urges-isolated-sanchez-government-to-reverse-course-on-migration/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-04T11:26:56+00:00",
-   "collected": "2026-08-04T12:21:27.812690+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο πρόεδρος του ΕΛΚ Μανφρεντ Βέμπερ καλεί την ισπανική κυβέρνηση του Σάντσεθ να αλλάξει πολιτική στη μετανάστευση, επικαλούμενος διαδηλώσεις και αυξημένα θύματα από ανεξέλεγκτη μετανάστευση.",
-   "angle": "Πολιτικές πιέσεις στη Μαδρίτη: Τι ζητά η ευρωπαϊκή δεξιά από τον Σάντσεθ για τη μετανάστευση",
-   "corroborated_by": [
-    "Remix News",
-    "The European Conservative"
-   ]
-  },
-  {
-   "id": "2923920031ba20a4",
-   "title": "Lebanese PM Slams Hezbollah Chief",
-   "link": "https://www.osint613.com/post/lebanese-pm-slams-hezbollah-chief-19427",
-   "summary_raw": "Lebanese PM Nawaf Salam has hit back at Hezbollah chief Naim Kassem, who accused the government of aiding Israel instead of defending sovereignty.\n\nSalam: the greatest help to Israel came from those who pulled Lebanon into \"absurd\" aid wars, giving Israel the reasons to strike its cities, kill its children and displace hundreds of thousands.\n\nHe added that whoever seizes the state's war decisions and ties Lebanon to external agendas \"has no right to hand out certificates of patriotism, and ce...",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-08-04T11:26:49+00:00",
-   "collected": "2026-08-04T12:21:31.476376+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο λιβανέζος πρωθυπουργός Ναουάφ Σαλάμ αντεπιτέθηκε στον ηγέτη της Χεζμπολάχ Ναΐμ Κασέμ, κατηγορώντας την οργάνωση ότι έσυρε τον Λίβανο σε ξένες συρράξεις.",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @OSINTLive"
-   ]
-  },
-  {
-   "id": "fe7bc12c8b94b133",
-   "title": "Στάχτη και μπούρμπερη",
-   "link": "https://www.efsyn.gr/stiles/1441562/stahti-kai-mpoyrmperi/",
-   "summary_raw": "Οταν οι μετεωρολόγοι προειδοποιούν έγκαιρα για «κόκκινο συναγερμό», η επίκληση της «κλιματικής κρίσης» ακούγεται ως φθηνή δικαιολογία",
-   "source": "Εφημερίδα των Συντακτών",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-04T11:26:04+00:00",
-   "collected": "2026-08-04T15:38:53.826666+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Οταν οι μετεωρολόγοι προειδοποιούν έγκαιρα για «κόκκινο συναγερμό», η επίκληση της «κλιματικής κρίσης» ακούγεται ως φθηνή δικαιολογία",
-   "angle": null
-  },
-  {
-   "id": "c31e8df9d55b27a2",
-   "title": "Στις πυρόπληκτες περιοχές της Βοιωτίας ο Ανδρουλάκης: Η κλιματική κρίση δεν είναι άλλοθι για τις αδυναμίες του κρατικού μηχανισμού",
-   "link": "https://www.in.gr/2026/08/04/politics/politiki-grammateia/stis-pyropliktes-perioxes-tis-voiotias-o-androulakis-i-klimatiki-krisi-den-einai-allothi-gia-tis-adynamies-tou-kratikou-mixanismou/",
-   "summary_raw": "<div><img alt=\"Ανδρουλάκης\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/08/7050465-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Αν δεν επενδύσουμε σε σχέδια πρόληψης και ετοιμότητας, δεν θα πετύχουμε ποτέ την ανθεκτικότητα που χρειάζεται η πατρίδα μας για να αντέξει στην κλιματική κρίση, τόνισε ο Νίκος Ανδρουλάκης, σημειώνοντας πως το Πυροσβεστικό Σώμα «είναι γερασμένο».</p>\n<p>The post <a href=\"https://www.in.gr/2026/08/04/politics/politiki-grammateia/stis-pyropliktes-perioxes-tis-voiotias-o-androulakis-i-klimatiki-krisi-den-einai-allothi-gia-tis-adynamies-tou-kratikou-mixanismou/\">Στις πυρόπληκτες περιοχές της Βοιωτίας ο Ανδρουλάκης: Η κλιματική κρίση δεν είναι άλλοθι για τις αδυναμίες του κρατικού μηχανισμού</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-04T11:24:34+00:00",
-   "collected": "2026-08-04T12:21:23.376427+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Νίκος Ανδρουλάκης στις πυρόπληκτες περιοχές της Βοιωτίας κατήγγειλε ότι η κλιματική κρίση δεν πρέπει να γίνει άλλοθι για τις αδυναμίες του κράτους, κριτικάροντας ταυτόχρονα το «γερασμένο» Πυροσβεστικό Σώμα.",
-   "angle": "Ανδρουλάκης: Κλίμα και κρατική αδυναμία - δύο πληγές που καίνε τη Βοιωτία",
-   "corroborated_by": [
-    "ΕΡΤ News",
-    "Τα Νέα"
-   ]
-  },
-  {
-   "id": "23f675410501f1e1",
-   "title": "Ceuta has exposed the EU’s border fraud",
-   "link": "https://www.spiked-online.com/2026/08/04/ceuta-has-exposed-the-eus-border-fraud/",
-   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/08/04/ceuta-has-exposed-the-eus-border-fraud/\">Ceuta has exposed the EU’s border fraud</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
-   "source": "Spiked",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-08-04T11:22:12+00:00",
-   "collected": "2026-08-04T12:21:30.994192+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Η κρίση στη Θέουτα αποκάλυψε τις αδυναμίες της ΕΕ στην αντιμετώπιση του περιοριστικού ελέγχου των συνόρων και την καταπολέμηση της παράνομης μετανάστευσης.",
-   "angle": "Πώς η Θέουτα γίνεται δοκιμάσιμο πεδίο για τις ευρωπαϊκές πολιτικές ασύλου;",
-   "corroborated_by": [
-    "The European Conservative"
-   ]
-  },
-  {
-   "id": "9ad756b212502a6a",
-   "title": "Romania Blows Up Rock in Danube in Bid To Keep Nuclear Power Plant Running",
-   "link": "https://europeanconservative.com/articles/news-corner/romania-blows-up-rock-in-danube-in-bid-to-keep-nuclear-power-plant-running/",
-   "summary_raw": "Explosives were used by the Romanian military to direct more water towards the Cernavodă nuclear power plant amid critically low Danube levels.",
-   "source": "The European Conservative",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-04T11:15:18+00:00",
-   "collected": "2026-08-04T15:38:57.733263+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το ρουμανικό στρατό χρησιμοποίησε εκρηκτικά για να ανακατευθύνει νερά προς το πυρηνικό εργοστάσιο Cernavodă αντιμετωπίζοντας κρίσιμα χαμηλά επίπεδα νερού στο Δούναβη.",
-   "angle": null
-  },
-  {
-   "id": "0f8473d544da54a0",
-   "title": "Top fire alert rating for four regions on Wednesday",
-   "link": "https://www.ekathimerini.com/news/1311538/top-fire-alert-rating-for-four-regions-on-wednesday/",
-   "summary_raw": "As fires continued to smolder near the Greek capital and neighboring regions, the Ministry of Climate Crisis and Civil Protection placed the region, Evia, Lesvos and Chios on a “Red Code” alert, due to a very high risk of wildfires predicted for Wednesday.",
-   "source": "Kathimerini (EN)",
-   "side": "greek_media",
-   "lang": "en",
-   "published": "2026-08-04T11:12:00+00:00",
-   "collected": "2026-08-04T12:20:28.021096+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το Υπουργείο Κλιματικής Κρίσης ανακήρυξε κατάσταση «Red Code» (μέγιστη επικινδυνότητα) για τέσσερις περιοχές - Εύβοια, Λέσβο, Χίο και περιοχές κοντά στην Αθήνα - λόγω της πολύ υψηλής πρόγνωσης κινδύνου πυρκαγιών για την Τετάρτη.",
-   "angle": "Έκτακτη κατάσταση πολιτικής προστασίας: σε μέγιστο συναγερμό τέσσερις περιοχές της χώρας"
-  },
-  {
-   "id": "71153c075186961e",
-   "title": "Υψηλή η επικινδυνότητα για εκδήλωση πυρκαγιάς στην Κρήτη αύριο, Τετάρτη (5/8)",
-   "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/chania/ypsili-i-epikindynotita-gia-ekdilosi-pyrkagias-stin-kriti-ayrio-tetarti-5-8/",
-   "summary_raw": "<img alt=\"[388787] ΓΙΑ 3Η ΗΜΕΡΑ ΣΥΝΕΧΙΖΕΤΑΙ Η ΜΑΧΗ ΣΤΗΝ ΜΕΓΑΛΗ ΠΥΡΚΑΓΙΑ ΤΗΣ ΒΟΙΩΤΙΑΣ ΠΟΥ ΠΕΡΑΣΕ ΣΤΗΝ ΑΤΤΙΚΗ (ΤΑΤΙΑΝΑ ΜΠΟΛΑΡΗ/EUROKINISSI)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/veniza-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Σε κατηγορία κινδύνου 3 (υψηλός κίνδυνος)&#160;για εκδήλωση&#160;πυρκαγιάς&#160;βρίσκεται ολόκληρη η&#160;Κρήτη&#160; για αύριΤετάρτη (5/8), σύμφωνα με τον Ημερήσιο Χάρτη Πρόβλεψης Κινδύνου Πυρκαγιάς που εκδίδει το Υπουργείο Κλιματικής Κρίσης και Πολιτικής Προστασίας. Οι αρχές καλούν πολίτες και επισκέπτες να είναι ιδιαίτερα προσεκτικοί,&#160;να αποφεύγουν κάθε ενέργεια που μπορεί να προκαλέσει φωτιά&#160;στην ύπαιθρο και να ακολουθούν πιστά τις οδηγίες των ... <a class=\"read-more\" href=\"https://www.ertnews.gr/perifereiakoi-stathmoi/chania/ypsili-i-epikindynotita-gia-ekdilosi-pyrkagias-stin-kriti-ayrio-tetarti-5-8/\" title=\"Υψηλή η επικινδυνότητα για εκδήλωση πυρκαγιάς στην Κρήτη αύριο, Τετάρτη (5/8)\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-04T11:11:00+00:00",
-   "collected": "2026-08-04T12:20:30.050160+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ολόκληρη η Κρήτη βρίσκεται σε κατάσταση υψηλού κινδύνου (κατηγορία 3) για εκδήλωση πυρκαγιών την Τετάρτη 5 Αυγούστου, σύμφωνα με τον Ημερήσιο Χάρτη Πρόβλεψης Κινδύνου του Υπουργείου.",
-   "angle": "Προειδοποίηση για την Κρήτη: μέγιστη επικινδυνότητα πυρκαγιών την Τετάρτη",
-   "corroborated_by": [
-    "Καθημερινή"
-   ]
-  },
-  {
-   "id": "467745dfb26d34a3",
-   "title": "Υψηλός κίνδυνος πυρκαγιάς αύριο – Red Code για Αττική, Εύβοια, Λέσβο και Χίο",
-   "link": "https://www.kathimerini.gr/society/564383578/ypsilos-kindynos-pyrkagias-ayrio-red-code-gia-attiki-eyvoia-lesvo-kai-chio/",
-   "summary_raw": "Σε κατάσταση κινητοποίησης Red Code τίθενται αύριο, Τετάρτη, τρεις Περιφέρειες λόγω υψηλού κινδύνου πυρκαγιάς. Συγκεκριμένα, σε «κόκκινο συναγερμό» θα είναι: η Περιφέρεια Αττικής η Περιφερειακή Ενότητα Ευβοίας της Περιφέρειας Στερεάς Ελλάδας οι Περιφερειακές Ενότητες Λέσβου και Χίου της Περιφέρειας Βορείου Αιγαίου. Η απόφαση ελήφθη καθώς, σύμφωνα με την Ομάδα Εκδοσης του Ημερήσιου Χάρτη Πρόβλεψης Κινδύνου […]",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-04T11:10:46+00:00",
-   "collected": "2026-08-04T12:21:21.715657+00:00",
-   "keywords_hit": [
-    "αιγαίο"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Κατάσταση Red Code κινδύνου πυρκαγιάς για την Τετάρτη σε Αττική, Εύβοια, Λέσβο και Χίο λόγω ακραίων καιρικών συνθηκών.",
-   "angle": "Κόκκινο συναγερμό πυρκαγιάς: Πώς προετοιμάζονται τα νησιά και η Αττική για τη νέα πύρινη δοκιμασία",
-   "corroborated_by": [
-    "ΕΡΤ News"
    ]
   }
  ]
