@@ -1,7 +1,383 @@
 {
- "updated": "2026-08-12T15:18:34.608890+00:00",
- "count": 1913,
+ "updated": "2026-08-12T16:13:33.429958+00:00",
+ "count": 1921,
  "items": [
+  {
+   "id": "800ec7f150a12be9",
+   "title": "Lozan'ın Gölgesinde - Batı Trakya Türklerinin bir asırlık hak mücadelesi",
+   "link": "https://www.milletgazetesi.gr/bati-trakya/lozanin-golgesinde-bati-trakya-turklerinin-bir-asirlik-hak-mucadelesi",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Batı Trakya)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-08-12T16:12:45.143168+00:00",
+   "collected": "2026-08-12T16:12:45.143187+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "6d8665b7b0747a74",
+   "title": "Israel seeking to 'remove Palestine from world's agenda', Erdogan says",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-seeking-remove-palestine-worlds-agenda-erdogan-says",
+   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-seeking-remove-palestine-worlds-agenda-erdogan-says\" rel=\"bookmark\">\n<span class=\"field field-title\">Israel seeking to 'remove Palestine from world's agenda', Erdogan says</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Turkish President Recep Tayyip Erdogan on Wednesday accused Israeli Prime Minister Netanyahu's government of seeking to \"remove Palestine\" from the world's agenda.&nbsp;</p>\n\n<p>\"The aim of the Netanyahu government is to remove Palestine from the common agenda of humanity by profiting from chaos and new conflicts in the region,\" Erdogan said at a joint news conference with his Palestinian counterpart Mahmoud Abbas in Ankara.&nbsp;</p>\n\n<p>\"No matter what they do, they will not succeed. The Palestinian cause will continue to grow in people's hearts as they try to destroy it,\" he said, vowing Turkey would fight for the establishment of a Palestinian state.&nbsp;</p>\n</div>\n      \n  </div>\n\n</article>",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-12T16:09:35+00:00",
+   "collected": "2026-08-12T16:11:59.686329+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Israel seeking to 'remove Palestine from world's agenda', Erdogan says Turkish President Recep Tayyip Erdogan on Wednesday accused Israeli Prime Minister Netanyahu's government of seeking to \"remove P",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "093b7465bb183e3d",
+   "title": "Open Source Intel Turkish President Erdogan on Israel-Palestine:  As Türkiye, in consultation with our Palestinian brothers and sisters, we are advancing the Palestinian cause on t…",
+   "link": "https://t.me/OSINTLive/563697",
+   "summary_raw": "Open Source Intel Turkish President Erdogan on Israel-Palestine:  As Türkiye, in consultation with our Palestinian brothers and sisters, we are advancing the Palestinian cause on the basis of a two-state solution. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-12T15:57:09+00:00",
+   "collected": "2026-08-12T16:12:40.901078+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Open Source Intel Turkish President Erdogan on Israel-Palestine: As Türkiye, in consultation with our Palestinian brothers and sisters, we are advancing the Palestinian cause on the basis of a two-sta",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Middle East Eye",
+    "OSINT613",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "6509cf4ccfc1e3d3",
+   "title": "Supporting Palestine is shared responsibility of all humanity: Turkish president",
+   "link": "https://www.aa.com.tr/en/world/supporting-palestine-is-shared-responsibility-of-all-humanity-turkish-president/4025603",
+   "summary_raw": "Turkish President Recep Tayyip Erdogan, Palestinian counterpart Mahmoud Abbas meet at presidential palace in Ankara",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-12T15:46:40+00:00",
+   "collected": "2026-08-12T16:11:43.709109+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Recep Tayyip Erdogan, Palestinian counterpart Mahmoud Abbas meet at presidential palace in Ankara",
+   "angle": null,
+   "corroborated_by": [
+    "Middle East Eye",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ],
+   "locations": [
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "493cf83936a5f982",
+   "title": "Meta, TikTok to Fact-Check Spain Border Crossing Content",
+   "link": "https://www.in.gr/2026/08/12/english-edition/meta-tiktok-to-fact-check-spain-border-crossing-content/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"504\" src=\"https://www.in.gr/wp-content/uploads/2026/08/en-768x504.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>The agreement with the EU follows a deadly rush into Ceuta that was fueled in part by viral videos and misinformation, as authorities seek to prevent people-smuggling networks from enticing migrants to attempt dangerous crossings</p>\n<p>The post <a href=\"https://www.in.gr/2026/08/12/english-edition/meta-tiktok-to-fact-check-spain-border-crossing-content/\">Meta, TikTok to Fact-Check Spain Border Crossing Content</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-12T15:46:26+00:00",
+   "collected": "2026-08-12T16:12:29.442016+00:00",
+   "keywords_hit": [
+    "migrant",
+    "smuggl"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The agreement with the EU follows a deadly rush into Ceuta that was fueled in part by viral videos and misinformation, as authorities seek to prevent people-smuggling networks from enticing migrants t",
+   "angle": null
+  },
+  {
+   "id": "714dee4eaf934777",
+   "title": "EXCLUSIVE: Watchdog Group Says Appeals Court Must Revisit Navarro Conviction",
+   "link": "https://www.dailysignal.com/2026/08/12/court-revisit-navarro-conviction/",
+   "summary_raw": "A conservative watchdog group called for a federal appeals court to reconsider a ruling upholding the conviction of Peter Navarro, one of President Donald Trump’s closest advisers in both his first and second terms. The Oversight Project filed an amicus brief late Tuesday in Navarro&#8217;s appeal to the D.C. Circuit Court of Appeals. Navarro spent...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-12T15:45:11+00:00",
+   "collected": "2026-08-12T16:12:37.236645+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A conservative watchdog group called for a federal appeals court to reconsider a ruling upholding the conviction of Peter Navarro, one of President Donald Trump’s closest advisers in both his first an",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "153fbe85b5146a5a",
+   "title": "Exclusive: UK to announce raft of new policies on Israel including settlement goods ban",
+   "link": "https://www.middleeasteye.net/news/uk-ban-israeli-settlement-goods-next-month-government-mulls-further-sanctions-and-arms-sales",
+   "summary_raw": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/uk-ban-israeli-settlement-goods-next-month-government-mulls-further-sanctions-and-arms-sales\" rel=\"bookmark\">\n<span class=\"field field-title\">Exclusive: UK to announce raft of new policies on Israel including settlement goods ban</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/imran-mulla\" lang=\"lang\" title=\"View user profile.\">Imran Mulla</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-12T12:09:55+01:00\" title=\"12 August 2026 12:09 BST\">Wed, 08/12/2026 - 12:09</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">MEE can reveal new details of potential policies on Israel and the occupied West Bank under discussion in the British government</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"576\" type=\"image/webp\" width=\"1024\" />\n                  <img alt=\"UK Foreign Secretary Ed Miliband",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-12T15:40:35+00:00",
+   "collected": "2026-08-12T16:11:59.690573+00:00",
+   "keywords_hit": [
+    "f-35",
+    "crete"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Exclusive: UK to announce raft of new policies on Israel including settlement goods ban Submitted by Imran Mulla on Wed, 08/12/2026 - 12:09 MEE can reveal new details of potential policies on Israel a",
+   "angle": null
+  },
+  {
+   "id": "ef74aea283ce058f",
+   "title": "Erdogan Backs Two-State Solution",
+   "link": "https://www.osint613.com/post/erdogan-backs-two-state-solution-20145",
+   "summary_raw": "Turkish President Erdogan on Israel-Palestine:\n\nAs Türkiye, in consultation with our Palestinian brothers and sisters, we are advancing the Palestinian cause on the basis of a two-state solution.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-12T15:37:41+00:00",
+   "collected": "2026-08-12T16:12:37.406872+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Erdogan on Israel-Palestine: As Türkiye, in consultation with our Palestinian brothers and sisters, we are advancing the Palestinian cause on the basis of a two-state solution.",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Middle East Eye",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "e7f0c25c8a22879b",
+   "title": "Καύσωνας και ανομβρία απειλούν με λουκέτο τον πυρηνικό σταθμό της Ουγγαρίας – Έκτακτες παρεμβάσεις στον Δούναβη",
+   "link": "https://www.ertnews.gr/eidiseis/kaysonas-kai-anomvria-apeiloun-me-louketo-ton-pyriniko-stathmo-tis-ouggarias-ektaktes-paremvaseis-ston-dounavi/",
+   "summary_raw": "<img alt=\"HUNGARY-WEATHER-CLIMATE-DROUGHT-HEATWAVE-DANUBE\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/000-c44e4q2-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Σε επείγουσες παρεμβάσεις στον Δούναβη προχωρά η κυβέρνηση της Ουγγαρίας προκειμένου να διασφαλίσει τη συνέχιση της λειτουργίας του μοναδικού πυρηνικού σταθμού της χώρας Πακς, ο οποίος απειλείται με πλήρη διακοπή λόγω της δραματικής πτώσης της στάθμης του ποταμού. Όπως ανακοίνωσε την Τετάρτη ο πρωθυπουργός της Ουγγαρίας, Πέτερ Μαγιάρ, οι αρχές θα ξεκινήσουν την κατασκευή ενός ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/kaysonas-kai-anomvria-apeiloun-me-louketo-ton-pyriniko-stathmo-tis-ouggarias-ektaktes-paremvaseis-ston-dounavi/\" title=\"Καύσωνας και ανομβρία απειλούν με λουκέτο τον πυρηνικό σταθμό της Ουγγαρίας &#8211; Έκτακτες παρεμβάσεις στον Δούναβη\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-12T15:35:00+00:00",
+   "collected": "2026-08-12T16:11:47.258292+00:00",
+   "keywords_hit": [
+    "πυρηνικ",
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Σε επείγουσες παρεμβάσεις στον Δούναβη προχωρά η κυβέρνηση της Ουγγαρίας προκειμένου να διασφαλίσει τη συνέχιση της λειτουργίας του μοναδικού πυρηνικού σταθμού της χώρας Πακς, ο οποίος απειλείται με π",
+   "angle": null
+  },
+  {
+   "id": "6c906150531ee772",
+   "title": "Κατερίνα Μπέρδου: Έβρος Μετά – Τρία χρόνια μετά, από τα σχέδια πρέπει να περάσουμε στον απολογισμό",
+   "link": "https://www.evros-news.gr/2026/08/12/katerina-berdou-evros-meta-tria-chronia-meta-apo-ta-schedia-prepei-na-perasoume-ston-apologismo/",
+   "summary_raw": "της Κατερίνας Μπέρδου* Σχεδόν τρία χρόνια μετά τη μεγάλη καταστροφή του 2023 και μετά από 14 συνεδριάσεις της Επιτροπής Ανασυγκρότησης, οι πολίτες του Έβρου έχουν [&#8230;]",
+   "source": "Evros News",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-08-12T15:26:58+00:00",
+   "collected": "2026-08-12T16:11:54.301605+00:00",
+   "keywords_hit": [
+    "έβρος"
+   ],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "της Κατερίνας Μπέρδου* Σχεδόν τρία χρόνια μετά τη μεγάλη καταστροφή του 2023 και μετά από 14 συνεδριάσεις της Επιτροπής Ανασυγκρότησης, οι πολίτες του Έβρου έχουν […]",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
+    }
+   ]
+  },
+  {
+   "id": "9ec68f148dd596bc",
+   "title": "Open Source Intel Erdogan: “The people of Gaza have clearly demonstrated that they support peace, want peace, and have a strong will to achieve it.” tweet",
+   "link": "https://t.me/OSINTLive/563688",
+   "summary_raw": "Open Source Intel Erdogan: “The people of Gaza have clearly demonstrated that they support peace, want peace, and have a strong will to achieve it.” tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-12T15:26:50+00:00",
+   "collected": "2026-08-12T16:12:40.899819+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Open Source Intel Erdogan: “The people of Gaza have clearly demonstrated that they support peace, want peace, and have a strong will to achieve it.” tweet",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Middle East Eye",
+    "OSINT613",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "6e3e7e8c0d6e4fa3",
+   "title": "Turkish President Erdogan on Israel-Palestine:  As Türkiye, in consultation with our Palestinian brothers and sisters, we are advancing the Palestinian cause on the basis of a two-…",
+   "link": "https://t.me/ClashReport/92358",
+   "summary_raw": "Turkish President Erdogan on Israel-Palestine:  As Türkiye, in consultation with our Palestinian brothers and sisters, we are advancing the Palestinian cause on the basis of a two-state solution.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-12T15:22:17+00:00",
+   "collected": "2026-08-12T16:12:38.881682+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Erdogan on Israel-Palestine: As Türkiye, in consultation with our Palestinian brothers and sisters, we are advancing the Palestinian cause on the basis of a two-state solution.",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Middle East Eye",
+    "OSINT613",
+    "Telegram @OSINTLive"
+   ]
+  },
+  {
+   "id": "1b624055b8fde885",
+   "title": "Turkish President Erdogan:  The existence of a sovereign Palestinian state is being undermined.   We cannot ignore this or remain indifferent.",
+   "link": "https://t.me/ClashReport/92357",
+   "summary_raw": "Turkish President Erdogan:  The existence of a sovereign Palestinian state is being undermined.   We cannot ignore this or remain indifferent.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-12T15:20:59+00:00",
+   "collected": "2026-08-12T16:12:38.881553+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Erdogan: The existence of a sovereign Palestinian state is being undermined. We cannot ignore this or remain indifferent.",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Middle East Eye",
+    "OSINT613",
+    "Telegram @OSINTLive"
+   ]
+  },
+  {
+   "id": "b8686fbbf4ac3e20",
+   "title": "Turkish President Erdogan:  The genocidal Netanyahu government continues its unlawful actions in the West Bank and Jerusalem before the eyes of the entire world.  Unfortunately, th…",
+   "link": "https://t.me/ClashReport/92356",
+   "summary_raw": "Turkish President Erdogan:  The genocidal Netanyahu government continues its unlawful actions in the West Bank and Jerusalem before the eyes of the entire world.  Unfortunately, the policies of occupation, forced displacement and annexation continue to intensify.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-12T15:20:09+00:00",
+   "collected": "2026-08-12T16:12:38.881441+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Erdogan: The genocidal Netanyahu government continues its unlawful actions in the West Bank and Jerusalem before the eyes of the entire world. Unfortunately, the policies of occupati",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Middle East Eye",
+    "OSINT613",
+    "Telegram @OSINTLive"
+   ],
+   "locations": [
+    {
+     "name": "Ιερουσαλήμ",
+     "lat": 31.78,
+     "lon": 35.22
+    }
+   ]
+  },
+  {
+   "id": "08070a0c0d459d60",
+   "title": "Turkish President Erdogan:  We will resolutely continue our efforts toward the establishment of an independent and territorially contiguous Palestinian state, based on the 1967 bor…",
+   "link": "https://t.me/ClashReport/92355",
+   "summary_raw": "Turkish President Erdogan:  We will resolutely continue our efforts toward the establishment of an independent and territorially contiguous Palestinian state, based on the 1967 borders, with East Jerusalem as its capital.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-12T15:18:33+00:00",
+   "collected": "2026-08-12T16:12:38.881272+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Erdogan: We will resolutely continue our efforts toward the establishment of an independent and territorially contiguous Palestinian state, based on the 1967 borders, with East Jerus",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Middle East Eye",
+    "OSINT613",
+    "Telegram @OSINTLive"
+   ],
+   "locations": [
+    {
+     "name": "Ιερουσαλήμ",
+     "lat": 31.78,
+     "lon": 35.22
+    }
+   ]
+  },
   {
    "id": "4f1560acd0ae66a9",
    "title": "Τηλεφωνική επικοινωνία Γεραπετρίτη – Ρούμπιο: Στο επίκεντρο στρατηγικός διάλογος, Μέση Ανατολή, Ιράν και Ουκρανία",
@@ -178,6 +554,70 @@
    ]
   },
   {
+   "id": "377703b6e116dbf4",
+   "title": "Open Source Intel Palestinian Authority President Mahmoud Abbas held talks with Turkish President Erdogan in Ankara. https://twitter.com/Osint613/status/2087550359640154120/video/1…",
+   "link": "https://t.me/OSINTLive/563681",
+   "summary_raw": "Open Source Intel Palestinian Authority President Mahmoud Abbas held talks with Turkish President Erdogan in Ankara. https://twitter.com/Osint613/status/2087550359640154120/video/1 tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-12T14:56:39+00:00",
+   "collected": "2026-08-12T16:12:40.898863+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Open Source Intel Palestinian Authority President Mahmoud Abbas held talks with Turkish President Erdogan in Ankara. https://twitter.com/Osint613/status/2087550359640154120/video/1 tweet",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Middle East Eye",
+    "OSINT613",
+    "Telegram @clashreport"
+   ],
+   "locations": [
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "aae3c1e0bf396980",
+   "title": "Abbas Meets Erdogan in Ankara Talks",
+   "link": "https://www.osint613.com/post/abbas-meets-erdogan-ankara-talks-20133",
+   "summary_raw": "Palestinian Authority President Mahmoud Abbas held talks with Turkish President Erdogan in Ankara.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-12T14:42:45+00:00",
+   "collected": "2026-08-12T16:12:37.408473+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Palestinian Authority President Mahmoud Abbas held talks with Turkish President Erdogan in Ankara.",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Middle East Eye",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ],
+   "locations": [
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
    "id": "61b8c5e2c8e5d77b",
    "title": "Τουρνάς για πυρκαγιές: Εξαιρετικά κρίσιμη η αυριανή ημέρα, κανένα περιθώριο εφησυχασμού",
    "link": "https://www.ertnews.gr/eidiseis/ellada/tournas-gia-pyrkagies-eksairetika-krisimi-i-ayriani-imera-kanena-perithorio-efisyxasmou/",
@@ -280,6 +720,23 @@
    "angle": null
   },
   {
+   "id": "08fafc0c55c43e03",
+   "title": "The Ballot Measure to Let Noncitizens Vote in Los Angeles Is Dead—for Now",
+   "link": "https://www.dailysignal.com/2026/08/12/noncitizens-vote-los-angeles/",
+   "summary_raw": "The Los Angeles City Council has reversed course on a ballot measure that would have asked voters in the nation’s second-largest city to decide whether noncitizens may vote in city and school board elections. However, this news isn’t as simple as it might seem. The motion’s author, Councilman Hugo Soto-Martinez, said that he authored the motion for noncitizen voting because...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-12T14:20:00+00:00",
+   "collected": "2026-08-12T16:12:37.236870+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The Los Angeles City Council has reversed course on a ballot measure that would have asked voters in the nation’s second-largest city to decide whether noncitizens may vote in city and school board el",
+   "angle": null
+  },
+  {
    "id": "a6bff1a01950a7b8",
    "title": "Stryker’lar İçin Avrupa’da Yarış: Yunanistan Harekete Geçti",
    "link": "https://www.savunmasanayist.com/strykerlar-icin-avrupada-yaris-yunanistan-harekete-gecti/",
@@ -323,6 +780,23 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Μαχητικό αεροσκάφος F-16 συνετρίβη στην επαρχία Γιαλόβα της βορειοδυτικής Τουρκίας, κατά τη διάρκεια εκπαιδευτικής πτήσης, όπως ανακοίνωσε το τουρκικό υπουργείο Άμυνας. Σύμφωνα με την ίδια ανακοίνωση,",
+   "angle": null
+  },
+  {
+   "id": "4fed5140d6231a1b",
+   "title": "Porsche to form EU CO₂ pool with Xpeng",
+   "link": "https://www.electrive.com/2026/08/12/porsche-to-form-eu-co%e2%82%82-pool-with-xpeng/",
+   "summary_raw": "<div><img alt=\"Porsche taycan my my\" class=\"attachment-medium size-medium wp-post-image\" height=\"267\" src=\"https://www.electrive.com/media/2026/06/porsche-taycan-my27-my2027-2026-07-400x267.jpg\" style=\"margin-bottom: 15px;\" title=\"porsche taycan my27 my2027 2026 07\" width=\"400\" /></div>Porsche has apparently left Volkswagen Group’s EU CO₂ emissions pool and will instead pool its new-car registrations with Chinese EV manufacturer Xpeng in 2026 and 2027. The arrangement could generate regulatory credits for Xpeng as its European sales grow.",
+   "source": "Electrive (EU ηλεκτροκίνηση)",
+   "side": "green_emobility",
+   "lang": "en",
+   "published": "2026-08-12T14:03:41+00:00",
+   "collected": "2026-08-12T16:12:17.672226+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Porsche has apparently left Volkswagen Group’s EU CO₂ emissions pool and will instead pool its new-car registrations with Chinese EV manufacturer Xpeng in 2026 and 2027. The arrangement could generate",
    "angle": null
   },
   {
@@ -468,6 +942,26 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "«Και ο τελευταίος από όσους εισήλθαν παράτυπα στην Ισπανία θα επιστρέψει στο Μαρόκο», διαβεβαίωσε χθες από τη Θέουτα, μετά τη συνάντησή του με τον πρόεδρο του αυτόνομου ισπανικού θύλακα, ο υπουργός Εξ",
+   "angle": null
+  },
+  {
+   "id": "dc29fb2ec8d2fe4d",
+   "title": "Erdogan eyes expansion of regional defence pact",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-eyes-expansion-regional-defence-pact",
+   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-eyes-expansion-regional-defence-pact\" rel=\"bookmark\">\n<span class=\"field field-title\">Erdogan eyes expansion of regional defence pact</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>President Recep Tayyip Erdogan has said he hoped more countries would join a defence agreement signed last week between Turkey, Saudi Arabia and Pakistan.</p>\n\n<p>The Mecca Joint Defence Agreement was signed on Friday.</p>\n\n<p>\"Our vision for it is not limited to the three countries,\" the Turkish leader told Asharq Al-Awsat.&nbsp;\"Rather we aspire for it to grow, and perhaps appropriate conditions will emerge one day for all countries of the region to gather under its umbrella.\"&nbsp;</p>\n\n<p>Foreign Minister Hakan Fidan on Saturday said Turkey expected Egypt to join the pact \"in the next stage\", telling the Anadolu state news agency only \"a few technical issues\" stood in the way.&nbsp;</p>\n\n<p>Egypt has not commented on the agreement nor on the remarks by Fidan, who will visit Cairo on Thu",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-12T13:21:49+00:00",
+   "collected": "2026-08-12T16:11:59.701566+00:00",
+   "keywords_hit": [
+    "erdogan",
+    "fidan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Erdogan eyes expansion of regional defence pact President Recep Tayyip Erdogan has said he hoped more countries would join a defence agreement signed last week between Turkey, Saudi Arabia and Pakista",
    "angle": null
   },
   {
@@ -977,6 +1471,25 @@
    ]
   },
   {
+   "id": "5bd721bbbcbb4b43",
+   "title": "ΕΚΤΑΚΤΟ: Συντριβή τουρκικού F-16 στη Γιάλοβα από βλάβη - Defence Point",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3blVSUzNHUWdqUUs0ejlhd1ppUUFSYmN5Nm5pLUpRZUxqRUV0cUZza1RxaUhXY3VZWXpVUy10NkJWQVVIRWJ5a0k5cmhzemZZV2dHWHFENWp0WFBsbVhuMDFhX0JCaDJub0hUdw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB3blVSUzNHUWdqUUs0ejlhd1ppUUFSYmN5Nm5pLUpRZUxqRUV0cUZza1RxaUhXY3VZWXpVUy10NkJWQVVIRWJ5a0k5cmhzemZZV2dHWHFENWp0WFBsbVhuMDFhX0JCaDJub0hUdw?oc=5\" target=\"_blank\">ΕΚΤΑΚΤΟ: Συντριβή τουρκικού F-16 στη Γιάλοβα από βλάβη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defence Point</font>",
+   "source": "Defence Point",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-12T12:40:34+00:00",
+   "collected": "2026-08-12T16:11:47.756716+00:00",
+   "keywords_hit": [
+    "f-16"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "ΕΚΤΑΚΤΟ: Συντριβή τουρκικού F-16 στη Γιάλοβα από βλάβη Defence Point",
+   "angle": null
+  },
+  {
    "id": "931fac1867e9ed5d",
    "title": "Πολωνία και Βαλτικές χώρες ενισχύουν τη φύλαξη κρίσιμων υποδομών",
    "link": "https://flight.com.gr/poland-baltics-critical-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=poland-baltics-critical-infrastructure",
@@ -1306,6 +1819,28 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "OPEC cuts 2026 oil demand growth forecast to 580,000 bpd from 780,000.",
+   "angle": null
+  },
+  {
+   "id": "1cf76357303a98fb",
+   "title": "The war on Iran cracked the US-led regional order. The Mecca pact could deal the final blow",
+   "link": "https://www.middleeasteye.net/opinion/mecca-pact-war-iran-end-us-hegemony-middle-east",
+   "summary_raw": "<article class=\"opinion default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/opinion/mecca-pact-war-iran-end-us-hegemony-middle-east\" rel=\"bookmark\">\n<span class=\"field field-title\">The war on Iran cracked the US-led regional order. The Mecca pact could deal the final blow</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/sami-al-arian\" lang=\"lang\" title=\"View user profile.\">Sami Al-Arian</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-11T22:30:29+01:00\" title=\"11 August 2026 22:30 BST\">Tue, 08/11/2026 - 22:30</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">The new alliance is no Sunni 'Islamic Nato' against Iran, but could lay the foundation for an independent security framework that eventually draws in Tehran, Cairo and beyond</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"788\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"Turkish President ",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-12T12:03:15+00:00",
+   "collected": "2026-08-12T16:11:59.710486+00:00",
+   "keywords_hit": [
+    "erdogan",
+    "fidan",
+    "refugee",
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The war on Iran cracked the US-led regional order. The Mecca pact could deal the final blow Submitted by Sami Al-Arian on Tue, 08/11/2026 - 22:30 The new alliance is no Sunni 'Islamic Nato' against Ir",
    "angle": null
   },
   {
@@ -1673,6 +2208,29 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Σε πολύ υψηλό κίνδυνο εκδήλωσης πυρκαγιάς (κατηγορία 4) θα είναι αύριο (13/8) ο νομός Χαλκιδικής, σύμφωνα με το Χάρτη Πρόβλεψης Κινδύνου Πυρκαγιάς που εκδίδει η Γενική Γραμματεία Πολιτικής Προστασίας ",
+   "angle": null
+  },
+  {
+   "id": "759ada7c28c97d95",
+   "title": "Libya reels from assassination, oil strikes and central bank turmoil",
+   "link": "https://www.middleeasteye.net/news/libya-reels-assassination-oil-strikes-and-central-bank-turmoil",
+   "summary_raw": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/libya-reels-assassination-oil-strikes-and-central-bank-turmoil\" rel=\"bookmark\">\n<span class=\"field field-title\">Libya reels from assassination, oil strikes and central bank turmoil</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/elis-gjevori\" lang=\"lang\" title=\"View user profile.\">Elis Gjevori</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-12T11:41:53+01:00\" title=\"12 August 2026 11:41 BST\">Wed, 08/12/2026 - 11:41</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">The violence has shaken claims of stability and placed further pressure on Libya’s divided authorities</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"576\" type=\"image/webp\" width=\"1024\" />\n                  <img alt=\"alt\" height=\"576\" src=\"https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-s",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-12T11:24:00+00:00",
+   "collected": "2026-08-12T16:11:59.713134+00:00",
+   "keywords_hit": [
+    "hydrocarbon",
+    "libya",
+    "benghazi",
+    "haftar",
+    "tripoli"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Libya reels from assassination, oil strikes and central bank turmoil Submitted by Elis Gjevori on Wed, 08/12/2026 - 11:41 The violence has shaken claims of stability and placed further pressure on Lib",
    "angle": null
   },
   {
@@ -3940,6 +4498,26 @@
    ]
   },
   {
+   "id": "c87841489a117a0b",
+   "title": "China's Xi Jinping Reaches Out to Cuba's Raul Castro as Latin America Turns Right",
+   "link": "https://www.breitbart.com/asia/2026/08/11/chinas-xi-jinping-reaches-out-to-cubas-raul-castro-as-latin-america-turns-right/",
+   "summary_raw": "<p>Xi Jinping marked the 100th anniversary of the birth of mass murderer Fidel Castro with a letter to his brother and dirty-works specialist, Raúl, on Monday – a reminder to Cuba that China is fighting tooth and nail to retain its influence in Latin America after successive conservative presidential wins.</p>\n<p>The post <a href=\"https://www.breitbart.com/asia/2026/08/11/chinas-xi-jinping-reaches-out-to-cubas-raul-castro-as-latin-america-turns-right/\" rel=\"nofollow\">China&#8217;s Xi Jinping Reaches Out to Cuba&#8217;s Raúl Castro as Latin America Turns Right</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-11T23:55:11+00:00",
+   "collected": "2026-08-12T16:12:37.005340+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Xi Jinping marked the 100th anniversary of the birth of mass murderer Fidel Castro with a letter to his brother and dirty-works specialist, Raúl, on Monday – a reminder to Cuba that China is fighting ",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "c33a60830165186a",
    "title": "Blame Jesus for Jason Arday",
    "link": "https://unherd.com/2026/08/blame-jesus-for-jason-arday/?edition=us",
@@ -4393,6 +4971,26 @@
    "turkish_narrative": false,
    "summary_el": "Χρησιμοποιώντας προηγμένους πυραύλους που μπορούν να αλλάζουν αιφνιδιαστικά πορεία, το Ιράν σφυροκοπούσε τα αμυντικά συστήματα των βάσεων, αναγκάζοντας τις αμερικανικές δυνάμεις να καταναλώνουν τα περ",
    "angle": null
+  },
+  {
+   "id": "7ea74322dbcc6645",
+   "title": "Court Rules Against Confederate School Names in Virginia’s Shenandoah County",
+   "link": "https://www.dailysignal.com/2026/08/11/court-rules-against-confederate-school-names-in-virginia/",
+   "summary_raw": "A federal judge ruled that Shenandoah County must once again change the names of two schools it had returned to their original names in 2024. The schools had been named Stonewall Jackson High School and Ashby-Lee Elementary School until the names were changed in 2020 to Mountain View High School and Honey Run Elementary School....",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-11T19:50:00+00:00",
+   "collected": "2026-08-12T16:12:37.238488+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A federal judge ruled that Shenandoah County must once again change the names of two schools it had returned to their original names in 2024. The schools had been named Stonewall Jackson High School a",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
   },
   {
    "id": "4c719475674c9694",
@@ -41153,439 +41751,6 @@
    "angle": "Η άνοδος της ακροδεξιάς ένστασης στη Γερμανία: μνημόνια κατά προσφύγων από έφηβους;",
    "corroborated_by": [
     "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "b80dcae28ed79c57",
-   "title": "Federal Appeals Court Upholds Florida's Ban on Exposing Children to 'Lewd' Drag Shows",
-   "link": "https://www.breitbart.com/entertainment/2026/08/05/federal-appeals-court-upholds-floridas-ban-on-exposing-children-to-lewd-drag-shows/",
-   "summary_raw": "<p>A federal appeals court has upheld Florida’s child protection law that seeks to prevent kids from attending or being exposed to “adult live performances” like suggestive drag shows or lewd \"drag queen\" story hours.</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/08/05/federal-appeals-court-upholds-floridas-ban-on-exposing-children-to-lewd-drag-shows/\" rel=\"nofollow\">Federal Appeals Court Upholds Florida&#8217;s Ban on Exposing Children to &#8216;Lewd&#8217; Drag Shows</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-05T16:03:04+00:00",
-   "collected": "2026-08-06T00:14:46.560765+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A federal appeals court has upheld Florida’s child protection law that seeks to prevent kids from attending or being exposed to “adult live performances” like suggestive drag shows or lewd \"drag queen",
-   "angle": null
-  },
-  {
-   "id": "d88871cae15928e9",
-   "title": "Mitsotakis after Meridiam buy-in: Interconnector will end Cyprus’ energy isolation",
-   "link": "https://cyprus-mail.com/2026/08/05/mitsotakis-after-meridiam-buy-in-interconnector-will-end-cyprus-energy-isolation",
-   "summary_raw": "Greek Prime Minister Kyriakos Mitsotakis on Wednesday declared that the planned Great Sea Interconnector project will “end Cyprus’ energy isolation”, after French asset management firm Meridiam took a controlling stake in the project’s holding company. “The project will put an end to Cyprus’ energy isolation and strengthen the energy security of the eastern Mediterranean and [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-08-05T16:00:05+00:00",
-   "collected": "2026-08-05T17:55:30.863450+00:00",
-   "keywords_hit": [
-    "interconnector",
-    "energy security"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ο πρωθυπουργός Μητσοτάκης δήλωσε ότι το έργο Great Sea Interconnector θα θέσει τέρμα στην ενεργειακή απομόνωση της Κύπρου, μετά την ανάληψη του από τη γαλλική Meridiam.",
-   "angle": null,
-   "corroborated_by": [
-    "The National Herald",
-    "in-cyprus (Philenews)"
-   ],
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "2c8ac52a157f1c0e",
-   "title": "Υπουργικό Συμβούλιο: Συνεδριάζει την Πέμπτη υπό τη νέα του σύνθεση – Τι ώρα θα γίνει η διαβεβαίωση και οι τελετές παράδοσης – παραλαβής",
-   "link": "https://www.philenews.com/politiki/article/1756042/ipourgiko-simvoulio-sinedriazi-tin-pempti-ipo-ti-nea-tou-sinthesi-ti-ora-tha-gini-i-diaveveosi-ke-i-teletes-paradosis-paralavis/",
-   "summary_raw": "<p>Με τη νέα του σύνθεση θα συνεδριάσει την Πέμπτη στις 1300 το Υπουργικό Συμβούλιο, μετά τον μίνι ανασχηματισμό στον οποίο προέβη την Τρίτη ο Πρόεδρος της Δημοκρατίας, Νίκος Χριστοδουλίδης. Θα προηγηθούν&#160;η τελετή διαβεβαίωσης των νέων μελών της Κυβέρνησης, στην παρουσία του Προέδρου Χριστοδουλίδη,&#160;στο Προεδρικό Μέγαρο, και οι τελετές παράδοσης παραλαβής.&#160; Συγκεκριμένα, στις 1015 θα γίνει [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/politiki/article/1756042/ipourgiko-simvoulio-sinedriazi-tin-pempti-ipo-ti-nea-tou-sinthesi-ti-ora-tha-gini-i-diaveveosi-ke-i-teletes-paradosis-paralavis/\">Υπουργικό Συμβούλιο: Συνεδριάζει την Πέμπτη υπό τη νέα του σύνθεση &#8211; Τι ώρα θα γίνει η διαβεβαίωση και οι τελετές παράδοσης &#8211; παραλαβής</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-08-05T15:58:47+00:00",
-   "collected": "2026-08-05T17:55:42.895769+00:00",
-   "keywords_hit": [
-    "χριστοδουλίδης"
-   ],
-   "category": "Κυπριακό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Με τη νέα του σύνθεση θα συνεδριάσει την Πέμπτη στις 1300 το Υπουργικό Συμβούλιο, μετά τον μίνι ανασχηματισμό στον οποίο προέβη την Τρίτη ο Πρόεδρος της Δημοκρατίας, Νίκος Χριστοδουλίδης. Θα προηγηθού",
-   "angle": null
-  },
-  {
-   "id": "e3bb227c92d7003c",
-   "title": "Υπεγράφη η συμφωνία για την ηλεκτρική διασύνδεση της Ελλάδας με την Κύπρο – Μητσοτάκης: «Ενώνουμε δυνάμεις για ένα ευρωπαϊκό εγχείρημα κοινού ενδιαφέροντος»",
-   "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/ypegrafi-i-symfonia-gia-tin-ilektriki-diasyndesi-tis-elladas-me-tin-kypro-mitsotakis-enonoume-dynameis-gia-ena-eyropaiko-egxeirima-koinou-endiaferontos/",
-   "summary_raw": "<img alt=\"[388837] ΥΠΟΓΡΑΦΗ ΣΥΜΦΩΝΙΑΣ ΓΙΑ ΤΗΝ ΕΙΣΟΔΟ ΓΑΛΛΙΚΟΥ ΕΠΕΝΔΥΤΙΚΟΥ ΟΜΙΛΟΥ ΣΤΗΝ ΑΝΑΠΤΥΞΗ ΤΟΥ ΕΡΓΟΥ ΤΗΣ ΗΛΕΚΤΡΙΚΗΣ ΔΙΑΣΥΝΔΕΣΗΣ ΕΛΛΑΔΑΣ - ΚΥΠΡΟΥ ΠΑΡΟΥΣΙΑ ΤΟΥ ΠΡΩΘΥΠΟΥΡΓΟΥ ΚΥΡΙΑΚΟΥ ΜΗΤΣΟΤΑΚΗ  (ΤΑΤΙΑΝΑ ΜΠΟΛΑΡΗ/EUROKINISSI)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/7051309-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Σημαντική ώθηση στην υλοποίηση της ηλεκτρικής διασύνδεσης Ελλάδας – Κύπρου δίνει η είσοδος της γαλλικής επενδυτικής εταιρείας Meridiam στο μετοχικό σχήμα της εταιρείας ειδικού σκοπού Great Sea Interconnector (GSI), η οποία έχει συσταθεί από τον ΑΔΜΗΕ για την κατασκευή του έργου. Η συμφωνία υπεγράφη στο Μέγαρο Μαξίμου, παρουσία του πρωθυπουργού Κυριάκου Μητσοτάκη, ο οποίος έκανε ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ellada/politiki/ypegrafi-i-symfonia-gia-tin-ilektriki-diasyndesi-tis-elladas-me-tin-kypro-mitsotakis-enonoume-dynameis-gia-ena-eyropaiko-egxeirima-koinou-endiaferontos/\" title=\"Υπεγράφη η συμφωνία για την ηλεκτρική διασύνδεση της Ελλάδας με την Κύπρο &#8211; Μητσοτάκης: «Ενώνουμε δυνάμεις για ένα ευρωπαϊκό εγχείρημα κο",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-05T15:53:13+00:00",
-   "collected": "2026-08-05T17:55:22.589026+00:00",
-   "keywords_hit": [
-    "διασύνδεση",
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Υπεγράφη συμφωνία για την ηλεκτρική διασύνδεση Ελλάδας-Κύπρου με την είσοδο της γαλλικής εταιρείας Meridiam, ενώ ο πρωθυπουργός Μητσοτάκης χαρακτήρισε το έργο ως «ευρωπαϊκό εγχείρημα κοινού ενδιαφέροντος».",
-   "angle": "Στρατηγική ενέργεια: Η ενίσχυση της ηλεκτρικής διασύνδεσης με Κύπρο ως εργαλείο ενέργειακής ασφάλειας και γεωπολιτικής θέσης στην Ανατολική Μεσόγειο.",
-   "corroborated_by": [
-    "Εφημερίδα των Συντακτών",
-    "Καθημερινή",
-    "Πτήση & Διάστημα"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "abdf23040869683c",
-   "title": "‘Aren’t the Same Thing’: Black Congressman Shoots Down Jim Crow 2.0 Claim",
-   "link": "https://www.dailysignal.com/2026/08/05/black-congressman-jim-crow-2-0/",
-   "summary_raw": "FIRST ON THE DAILY SIGNAL — A black congressman who lived through the Jim Crow era told the Daily Signal that the left&#8217;s claim that requiring a voter to present identification before casting a ballot is an &#8220;elitist claim&#8221; used to gather support for their &#8220;Godless&#8221; policies. &#8220;What they [Republicans] are proposing in this so-called...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-05T15:45:00+00:00",
-   "collected": "2026-08-06T12:21:24.356034+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "FIRST ON THE DAILY SIGNAL — A black congressman who lived through the Jim Crow era told the Daily Signal that the left’s claim that requiring a voter to present identification before casting a ballot ",
-   "angle": null,
-   "corroborated_by": [
-    "Remix News"
-   ]
-  },
-  {
-   "id": "60f23804c3ca68f5",
-   "title": "ΕΞΕΛΙΞΗ: Η γαλλική Meridiam μπήκε στο έργο ηλεκτρικής διασύνδεσης Ελλάδας–Κύπρου",
-   "link": "https://flight.com.gr/%ce%b5%ce%be%ce%b5%ce%bb%ce%b9%ce%be%ce%b7-%ce%b7-%ce%b3%ce%b1%ce%bb%ce%bb%ce%b9%ce%ba%ce%ae-meridiam-%ce%bc%cf%80%ce%ae%ce%ba%ce%b5-%cf%83%cf%84%ce%bf-%ce%ad%cf%81%ce%b3%ce%bf-%ce%b7%ce%bb%ce%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25ce%25b5%25ce%25be%25ce%25b5%25ce%25bb%25ce%25b9%25ce%25be%25ce%25b7-%25ce%25b7-%25ce%25b3%25ce%25b1%25ce%25bb%25ce%25bb%25ce%25b9%25ce%25ba%25ce%25ae-meridiam-%25ce%25bc%25cf%2580%25ce%25ae%25ce%25ba%25ce%25b5-%25cf%2583%25cf%2584%25ce%25bf-%25ce%25ad%25cf%2581%25ce%25b3%25ce%25bf-%25ce%25b7%25ce%25bb%25ce%25b5",
-   "summary_raw": "<p>Παρουσία του Πρωθυπουργού Κυριάκου Μητσοτάκη υπεγράφη σήμερα στο Μέγαρο Μαξίμου η συμφωνία για την είσοδο του γαλλικού επενδυτικού ομίλου Meridiam ως πλειοψηφικού μετόχου στην εταιρεία Great Sea Interconnector (GSI), η οποία σύμφωνα με τον αρχικό σχεδιασμό θα αναλάβει την ανάπτυξη του έργου της ηλεκτρικής διασύνδεσης Ελλάδας-Κύπρου, ενώ υπεγράφη επίσης τριμερής συμφωνία μεταξύ ΑΔΜΗΕ, GSI και [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/%ce%b5%ce%be%ce%b5%ce%bb%ce%b9%ce%be%ce%b7-%ce%b7-%ce%b3%ce%b1%ce%bb%ce%bb%ce%b9%ce%ba%ce%ae-meridiam-%ce%bc%cf%80%ce%ae%ce%ba%ce%b5-%cf%83%cf%84%ce%bf-%ce%ad%cf%81%ce%b3%ce%bf-%ce%b7%ce%bb%ce%b5/\">ΕΞΕΛΙΞΗ: Η γαλλική Meridiam μπήκε στο έργο ηλεκτρικής διασύνδεσης Ελλάδας–Κύπρου</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
-   "source": "Πτήση & Διάστημα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-05T15:44:19+00:00",
-   "collected": "2026-08-05T17:55:24.126559+00:00",
-   "keywords_hit": [
-    "διασύνδεση",
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Υπεγράφη σήμερα στο Μέγαρο Μαξίμου η συμφωνία για την είσοδο της γαλλικής Meridiam ως πλειοψηφικής μετόχου στην Great Sea Interconnector, έργο ηλεκτρικής διασύνδεσης Ελλάδας-Κύπρου.",
-   "angle": null,
-   "corroborated_by": [
-    "iefimerida",
-    "ΕΡΤ News",
-    "Εφημερίδα των Συντακτών",
-    "Καθημερινή"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "81cc6bbb03f8fc55",
-   "title": "Τιτάνιος ο αγώνας επί πέντε ημέρες των πυροσβεστών",
-   "link": "https://www.ertnews.gr/roi-idiseon/titanios-o-agonas-epi-pente-imeres-ton-pyrosveston/",
-   "summary_raw": "<img alt=\"Climate Hottest Year\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"682\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/ap26216553635368.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Με ασύμμετρο&#160;εχθρό τους θυελλώδεις&#160;ανέμους και τις ισχυρές ριπές που άλλαζαν συνέχεια&#160;κατεύθυνση&#160;και εξάπλωναν τη φωτιά πυροσβέστες&#160;και&#160;εθελοντές&#160;προσπάθησαν να σώσουν σπίτια και φυσικό περιβάλλον. Ο Ιωάννης Κολοβός, διοικητής της 1ης ΕΜΟΔΕ είπε στο ΕΡΤnews: «Οι ώρες είναι αμέτρητες στο πεδίο κανένας δεν έχει&#160;ξεκουραστεί κανένας&#160;δεν έχει σταματήσει. Με δυο και τρεις ώρες ύπνου&#160;κάθε&#160;πυροσβέστης συνεχίζει και παίρνει δυνάμεις και πάει ... <a class=\"read-more\" href=\"https://www.ertnews.gr/roi-idiseon/titanios-o-agonas-epi-pente-imeres-ton-pyrosveston/\" title=\"Τιτάνιος ο αγώνας επί πέντε ημέρες των πυροσβεστών\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-05T15:43:13+00:00",
-   "collected": "2026-08-05T17:55:22.589404+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Πεντάμερος τιτάνιος αγώνας πυροσβεστών και εθελοντών κατά των πυρκαγιών με θυελλώδεις ανέμους, χωρίς κανείς να έχει καν ξεκουραστεί.",
-   "angle": "Εξαντλητική αποστολή: Το ανθρώπινο κόστος της πυροσβεστικής αποστολής υπό ακραίες καιρικές συνθήκες και τα όρια της αντοχής."
-  },
-  {
-   "id": "f5c3f19b3a7123c3",
-   "title": "Meridiam’s Entry Into Great Sea Interconnector Seen as Strong Vote of Confidence in Greece’s Energy Sector",
-   "link": "https://www.thenationalherald.com/meridiams-entry-into-great-sea-interconnector-seen-as-strong-vote-of-confidence-in-greeces-energy-sector/",
-   "summary_raw": "<p>ATHENS - The agreement for French investment group Meridiam to become the majority shareholder in Great Sea Interconnector (GSI) marks a significant development for the electricity interconnection project between Greece and Cyprus. According to government sources, Meridiam's participation strengthens both the conditions and the credibility needed to accelerate the project's implementation. The sources noted that GSI was established from the outset as the special purpose vehicle (SPV) responsible for developing and delivering the project, with the participation of strategic investors.</p>\n<p>The post <a href=\"https://www.thenationalherald.com/meridiams-entry-into-great-sea-interconnector-seen-as-strong-vote-of-confidence-in-greeces-energy-sector/\">Meridiam’s Entry Into Great Sea Interconnector Seen as Strong Vote of Confidence in Greece’s Energy Sector</a> appeared first on <a href=\"https://www.thenationalherald.com\">The National Herald</a>.</p>",
-   "source": "The National Herald",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-08-05T15:41:44+00:00",
-   "collected": "2026-08-05T17:55:46.577718+00:00",
-   "keywords_hit": [
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Η γαλλική Meridiam γίνεται μεγαλομέτοχος του Great Sea Interconnector, του έργου διασύνδεσης Ελλάδας-Κύπρου, ενισχύοντας τη χρηματοδοτική του κάλυψη και τις προοπτικές υλοποίησης.",
-   "angle": "Τι σημαίνει η γαλλική επένδυση στο καλώδιο Ελλάδας-Κύπρου για την ενεργειακή ασφάλεια της χώρας;",
-   "corroborated_by": [
-    "Cyprus Mail",
-    "in-cyprus (Philenews)"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "ec8877178890c30f",
-   "title": "Arrest After Four Men Stabbed in London’s Covent Garden",
-   "link": "https://europeanconservative.com/articles/news-corner/london-stabbing-female-suspect-mental-health-episode/",
-   "summary_raw": "The serious violence on the edge of the English capital’s West End may have been a ‘mental health’ episode according to leaked police information.",
-   "source": "The European Conservative",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-05T15:40:53+00:00",
-   "collected": "2026-08-05T17:56:25.863713+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The serious violence on the edge of the English capital’s West End may have been a ‘mental health’ episode according to leaked police information.",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "cd85e878a6b4ddc5",
-   "title": "Deal bringing Meridiam into Cyprus-Greece Great Sea Interconnector signed",
-   "link": "https://en.philenews.com/insider/mitsotakis-meridiam-greece-cyprus-interconnector-strategic/",
-   "summary_raw": "Greek Prime Minister Kyriakos Mitsotakis described the agreement bringing French investment group Meridiam in as majority shareholder of Great Sea Interconnector (GSI) as being of strategic importance for energy stability in the region. The agreement, under which GSI is set to develop the Greece-Cyprus electricity interconnection, was signed today at the Maximos Mansion in Mitsotakis&#8217;s [&#8230;]",
-   "source": "in-cyprus (Philenews)",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-08-05T15:40:42+00:00",
-   "collected": "2026-08-05T17:55:31.751922+00:00",
-   "keywords_hit": [
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ο πρωθυπουργός Μητσοτάκης περιέγραψε τη συμφωνία εισόδου της Meridiam ως «στρατηγικής σημασίας» για την ενεργειακή σταθερότητα της περιοχής.",
-   "angle": null,
-   "corroborated_by": [
-    "Cyprus Mail",
-    "The National Herald"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "370cb78e40d1b163",
-   "title": "Κρατική αρωγή και στήριξη των πληγέντων – Το σχέδιο αποκατάστασης των περιοχών που επλήγησαν από τις πυρκαγιές",
-   "link": "https://www.ertnews.gr/eidiseis/kratiki-arogi-kai-stiriksi-ton-pligenton-to-sxedio-apokatastasis-ton-perioxon-pou-epligisan-apo-tis-pyrkagies/",
-   "summary_raw": "<img alt=\"ÊËÉÌÁÊÉÁ ÔÇÓ ÃÅÍÉÊÇÓ ÃÑÁÌÌÁÔÅÉÁÓ ÁÐÏÊÁÔÁÓÔÁÓÇÓ ÖÕÓÉÊÙÍ ÊÁÔÁÓÔÑÏÖÙÍ ÊÁÔÁÃÑÁÖÏÕÍ ÔÇÓ ÆÇÌÉÅÓ ÁÐÏ ÔÇÍ ÐÕÑÊÁÃÉÁ ÓÔÏ ÐÏÑÔÏ ÃÅÑÌÅÍÏ\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/aftopsia-fotia-porto-germeno-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Ένα ολοκληρωμένο πλαίσιο παρεμβάσεων για την άμεση αντιμετώπιση των συνεπειών των πυρκαγιών που έπληξαν τις τελευταίες εβδομάδες περιοχές της χώρας, με προτεραιότητα την προστασία των πολιτών, την ταχεία καταγραφή και αποτίμηση των ζημιών, τη στήριξη των πληγέντων μέσω των προβλεπόμενων οικονομικών ενισχύσεων και την αποκατάσταση των περιοχών που επλήγησαν, υλοποιούν -σύμφωνα με το υπουργείο Κλιματικής ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/kratiki-arogi-kai-stiriksi-ton-pligenton-to-sxedio-apokatastasis-ton-perioxon-pou-epligisan-apo-tis-pyrkagies/\" title=\"Κρατική αρωγή και στήριξη των πληγέντων &#8211; Το σχέδιο αποκατάστασης των περιοχών που επλήγησαν από τις πυρκαγιές\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-05T15:28:08+00:00",
-   "collected": "2026-08-05T17:55:22.590289+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Ένα ολοκληρωμένο πλαίσιο παρεμβάσεων για την άμεση αντιμετώπιση των συνεπειών των πυρκαγιών που έπληξαν τις τελευταίες εβδομάδες περιοχές της χώρας, με προτεραιότητα την προστασία των πολιτών, την ταχ",
-   "angle": null
-  },
-  {
-   "id": "7a7dc942cc6413f7",
-   "title": "Έπεσαν οι υπογραφές για την είσοδο της Meridiam στην GSI – Ποια η σημασία της συμφωνίας και τι δήλωσε ο Μητσοτάκης",
-   "link": "https://www.philenews.com/oikonomia/kypros/article/1756021/epesan-i-ipografes-gia-tin-isodo-tis-meridiam-stin-gsi-pia-i-simasia-tis-simfonias-ke-ti-dilose-o-mitsotakis/",
-   "summary_raw": "<p>Στρατηγικής σημασίας χαρακτήρισε ο Έλληνας πρωθυπουργός, Κυριάκος Μητσοτάκης, τη συμφωνία για είσοδο της Meridiam ως πλειοψηφικού μετόχου στην εταιρεία Great Sea Interconnector (GSI) η οποία σύμφωνα με τον αρχικό σχεδιασμό, θα αναλάβει την ανάπτυξη του έργου της ηλεκτρικής διασύνδεσης Ελλάδας – Κύπρου. Η συμφωνία υπεγράφη σήμερα στο Μέγαρο Μαξίμου, στην παρουσία του κ. Μητσοτάκη. «Για εμάς αυτό το έργο είναι [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/oikonomia/kypros/article/1756021/epesan-i-ipografes-gia-tin-isodo-tis-meridiam-stin-gsi-pia-i-simasia-tis-simfonias-ke-ti-dilose-o-mitsotakis/\">Έπεσαν οι υπογραφές για την είσοδο της Meridiam στην GSI &#8211; Ποια η σημασία της συμφωνίας και τι δήλωσε ο Μητσοτάκης</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-08-05T15:28:02+00:00",
-   "collected": "2026-08-05T15:30:01.741844+00:00",
-   "keywords_hit": [
-    "διασύνδεση",
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Υπεγράφη σήμερα η συμφωνία για την είσοδο της γαλλικής Meridiam ως πλειοψηφικού μετόχου στη Great Sea Interconnector (GSI), τη διασύνδεση Ελλάδας-Κύπρου που χαρακτήρισε στρατηγικής σημασίας ο πρωθυπουργός Κ. Μητσοτάκης.",
-   "angle": "Γιατί η ηλεκτρική διασύνδεση Ελλάδας-Κύπρου εξαρτάται από γαλλικές επενδύσεις και τι σημαίνει αυτό για τα κοινά συμφέροντα;",
-   "corroborated_by": [
-    "Newsbomb",
-    "in.gr",
-    "Εφημερίδα των Συντακτών",
-    "Πρώτο Θέμα",
-    "Τα Νέα"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "6fed145d43e04945",
-   "title": "Four Teenagers Arrested for Plotting Terrorist Attack in The Netherlands",
-   "link": "https://europeanconservative.com/articles/news-corner/netherlands-teenagers-arrested-plotting-terrorist-attack-islamism/",
-   "summary_raw": "Three of the young suspects have previous convictions related to joining an Islamist terrorist organization and planning a mass casualty attack.",
-   "source": "The European Conservative",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-05T15:26:58+00:00",
-   "collected": "2026-08-05T15:30:34.755006+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Τέσσερις έφηβοι συνελήφθησαν στην Ολλανδία για σχεδιασμό τρομοκρατικής επίθεσης. Τρεις από τους ύποπτους έχουν προηγούμενες καταδίκες σχετικά με σύνδεση με ισλαμιστικές τρομοκρατικές οργανώσεις.",
-   "angle": "Η αυξανόμενη απειλή της ενδογενούς τρομοκρατίας στην Ευρώπη: πώς νεαροί ακτιβιστών εξτρεμιστών ενδοτροφοδοτούν επιχειρήσεις αιματηρών επιθέσεων."
-  },
-  {
-   "id": "816f7b8655377d3d",
-   "title": "Mamdani Releases Film on Renters' Fight with Building Owner, Starring Tenant Czar Who Has Called to 'Seize Private Property'",
-   "link": "https://www.breitbart.com/entertainment/2026/08/05/nyc-mayor-zohran-mamdani-releases-new-short-documentary-about-tenants-fighting-building-owner/",
-   "summary_raw": "<p>New York City Mayor Zohran Mamdani released a short documentary about tenants across 93 buildings fighting Pinnacle Group, the owner.</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/08/05/nyc-mayor-zohran-mamdani-releases-new-short-documentary-about-tenants-fighting-building-owner/\" rel=\"nofollow\">Mamdani Releases Film on Renters&#8217; Fight with Building Owner, Starring Tenant Czar Who Has Called to &#8216;Seize Private Property&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-05T15:26:46+00:00",
-   "collected": "2026-08-05T23:19:36.753483+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "New York City Mayor Zohran Mamdani released a short documentary about tenants across 93 buildings fighting Pinnacle Group, the owner. The post Mamdani Releases Film on Renters’ Fight with Building Own",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "ae3b8d585dbb94b4",
-   "title": "Μεταναστευτικό: Δύο νέες \"καραβιές\" με 112 άτομα στην Κρήτη - Cretalive",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VcXc5a2h6Unl1NktDWEdhSGdVUTYwekJiZG1uN0tfaF9vVXc3NmlwOE9RODNySkRsUkhKc3hQTnF0NDYwMHdLS3Q0OTYyeVlncDFtbGxkbHYyZ1RpOVF1YTZ3SzlwajJjdS1NQ1BQWF9NQQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1VcXc5a2h6Unl1NktDWEdhSGdVUTYwekJiZG1uN0tfaF9vVXc3NmlwOE9RODNySkRsUkhKc3hQTnF0NDYwMHdLS3Q0OTYyeVlncDFtbGxkbHYyZ1RpOVF1YTZ3SzlwajJjdS1NQ1BQWF9NQQ?oc=5\" target=\"_blank\">Μεταναστευτικό: Δύο νέες \"καραβιές\" με 112 άτομα στην Κρήτη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cretalive</font>",
-   "source": "Cretalive",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-05T15:24:32+00:00",
-   "collected": "2026-08-05T19:58:08.277485+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Δύο σκάφη με 112 μετανάστες έφθασαν στην Κρήτη, σύμφωνα με την Cretalive.",
-   "angle": "Η αύξηση των αφίξεων μεταναστών στα ελληνικά νησιά και η πίεση στο σύστημα υποδοχής",
-   "corroborated_by": [
-    "Zarpanews (Χανιά)"
-   ],
-   "locations": [
-    {
-     "name": "Κρήτη",
-     "lat": 35.24,
-     "lon": 24.81
-    }
-   ]
-  },
-  {
-   "id": "a638838a79a06213",
-   "title": "Σλοβενία: Ο πυρηνικός σταθμός Κορσκ θα μειώσει την παραγωγή του λόγω της χαμηλής στάθμης του ποταμού Σάβου",
-   "link": "https://www.tanea.gr/2026/08/05/epikairotita/slovenia-o-pyrinikos-stathmos-korsk-tha-meiosei-tin-paragogi-tou-logo-tis-xamilis-stathmis-tou-potamou-savou/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"685\" src=\"https://www.tanea.gr/wp-content/uploads/2026/08/Savos-River-1024x685.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>O Πυρηνικός σταθμός Κορσκ στη Σλοβενία ανακοίνωσε ότι θα μειώσει την παραγωγή του στο 80%, εξαιτίας της χαμηλής στάθμης του νερού και των υψηλών θερμοκρασιών στον ποταμό Σάβο. Σε σχετική ανακοίνωση, ο σταθμός επισημαίνει πως ενδέχεται να προχωρήσει σε περαιτέρω μειώσεις, εφόσον το απαιτήσουν οι συνθήκες. Η παρατεταμένη ζέστη και η ξηρασία που πλήττουν την [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-05T15:23:51+00:00",
-   "collected": "2026-08-05T15:30:29.431347+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο πυρηνικός σταθμός Κορσκ της Σλοβενίας θα μειώσει την παραγωγή του στο 80% λόγω της χαμηλής στάθμης του ποταμού Σάβου και των υψηλών θερμοκρασιών, με ενδεχόμενη περαιτέρω μείωση.",
-   "angle": "Πώς η κλιματική κρίση απειλεί την ενεργειακή σταθερότητα της Ευρώπης μέσα από τα πυρηνικά εργοστάσια;",
-   "corroborated_by": [
-    "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "414272dafea90f5d",
-   "title": "Russian Drone Boss Fighting for Life After Car Bomb Blast",
-   "link": "https://europeanconservative.com/articles/news-corner/russian-drone-boss-fighting-for-life-after-car-bomb-blast/",
-   "summary_raw": "The deadly explosion targeted the founder of the company behind the Upyr kamikaze drones used by Russian troops in Ukraine.",
-   "source": "The European Conservative",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-05T15:21:01+00:00",
-   "collected": "2026-08-05T21:36:17.375997+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο ιδρυτής της εταιρείας που παραγάγει drones Upyr για τη Ρωσία αγωνίζεται για τη ζωή του μετά από έκρηξη αυτοκινήτου-βόμβας.",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
    ]
   }
  ]
