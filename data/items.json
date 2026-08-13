@@ -1,7 +1,421 @@
 {
- "updated": "2026-08-13T06:49:57.499994+00:00",
- "count": 1941,
+ "updated": "2026-08-13T08:47:26.958879+00:00",
+ "count": 1947,
  "items": [
+  {
+   "id": "cb8dc8b5925bff1d",
+   "title": "Orman yangını alarmı: Beş bölgede en yüksek risk",
+   "link": "https://www.milletgazetesi.gr/yunanistan/orman-yangini-alarmi-bes-bolgede-en-yuksek-risk",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Yunanistan)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-08-13T08:46:34.708352+00:00",
+   "collected": "2026-08-13T08:46:34.708367+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null
+  },
+  {
+   "id": "56834210280872a0",
+   "title": "Θεσσαλονίκη: Τρεις συλλήψεις για διακίνηση μεταναστών – Έκρυβαν άτομο στο πορτμπαγκάζ",
+   "link": "https://www.pentapostagma.gr/koinonia/7384943_thessaloniki-treis-syllipseis-gia-diakinisi-metanaston-ekryban-atomo-sto",
+   "summary_raw": "Οι συλληφθέντες, με τις δικογραφίες που σχηματίστηκαν σε βάρος τους, θα οδηγηθούν στον αρμόδιο Εισαγγελέα, ενώ...",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-13T08:44:57+00:00",
+   "collected": "2026-08-13T08:45:47.279591+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Οι συλληφθέντες, με τις δικογραφίες που σχηματίστηκαν σε βάρος τους, θα οδηγηθούν στον αρμόδιο Εισαγγελέα, ενώ...",
+   "angle": null,
+   "corroborated_by": [
+    "ΕΡΤ News",
+    "Πρώτο Θέμα"
+   ],
+   "locations": [
+    {
+     "name": "Θεσσαλονίκη",
+     "lat": 40.64,
+     "lon": 22.94
+    }
+   ]
+  },
+  {
+   "id": "012a302fadc5a855",
+   "title": "Houthi Boats Destroyed Off Yemen Coast",
+   "link": "https://www.osint613.com/post/houthi-boats-destroyed-off-yemen-coast-20194",
+   "summary_raw": "Two Houthi boats were destroyed off Yemen's western coast by Yemeni naval forces and coast guard, a military source told Al-Arabiya.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-13T08:36:36+00:00",
+   "collected": "2026-08-13T08:46:24.799658+00:00",
+   "keywords_hit": [
+    "coast guard"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Two Houthi boats were destroyed off Yemen's western coast by Yemeni naval forces and coast guard, a military source told Al-Arabiya.",
+   "angle": null
+  },
+  {
+   "id": "f819355a22414123",
+   "title": "Τρεις συλλήψεις για διακίνηση μεταναστών στη Σταυρούπολη Θεσσαλονίκης, έκρυβαν τον έναν στο πορτμπαγκάζ",
+   "link": "https://www.protothema.gr/greece/article/1864349/treis-sullipseis-gia-diakinisi-metanaston-sti-stauroupoli-thessalonikis-ekruvan-ton-enan-sto-portbagaz/?utm_source=rss",
+   "summary_raw": "Συνολικά έξι αλλοδαποί εντοπίστηκαν σε τρία οχήματα – Είχαν καταβάλει έως και 5.000 ευρώ ο καθένας για να φτάσουν στη Θεσσαλονίκη",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-13T08:34:04+00:00",
+   "collected": "2026-08-13T08:46:14.351965+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Συνολικά έξι αλλοδαποί εντοπίστηκαν σε τρία οχήματα – Είχαν καταβάλει έως και 5.000 ευρώ ο καθένας για να φτάσουν στη Θεσσαλονίκη",
+   "angle": null,
+   "corroborated_by": [
+    "ΕΡΤ News",
+    "Πενταπόσταγμα"
+   ],
+   "locations": [
+    {
+     "name": "Θεσσαλονίκη",
+     "lat": 40.64,
+     "lon": 22.94
+    }
+   ]
+  },
+  {
+   "id": "eb0244e13b1ec28e",
+   "title": "Σταματά πλήρως η λειτουργία του τελευταίου πυρηνικού σταθμού της Ρουμανίας λόγω της ξηρασίας στον Δούναβη",
+   "link": "https://www.protothema.gr/world/article/1864343/stamata-pliros-i-leitourgia-tou-purinikou-stathmou-tis-roumanias-logo-tis-xirasias-ston-dounavi/?utm_source=rss",
+   "summary_raw": "Στο τραπέζι ακόμη και σταδιακές περικοπές ρεύματος στη βιομηχανία",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-13T08:26:00+00:00",
+   "collected": "2026-08-13T08:46:14.352573+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Στο τραπέζι ακόμη και σταδιακές περικοπές ρεύματος στη βιομηχανία",
+   "angle": null,
+   "corroborated_by": [
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "cbe224385352aec2",
+   "title": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
+   "link": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+   "summary_raw": "<p>In France, 80 departments have been placed on an orange heat warning</p><p><strong>Over in England, the amber warning by the Met Office stretches from London to Sheffield, covering parts of the South East, East Midlands, East of England, West Midlands and South Yorkshire and is in place from 9am to midnight on Thursday,</strong> PA reported.</p><p>Met Office forecaster <strong>Alex Burkill</strong> said:</p><p><em>“<strong>Temperatures</strong> [in areas covered by the amber warning] <strong>could reach highs of around 36, 37, possibly 38C.</strong></em></p><p><em>Now when you get these sorts of high temperatures, well t<strong>hat’s when we could see impacts to our infrastructure, o</strong>ur railway lines, our roads, they are not designed for this sort of heat.</em></p> <a href=\"https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates\">Continue reading...</a>",
+   "source": "Guardian Environment",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-08-13T08:20:03+00:00",
+   "collected": "2026-08-13T08:45:59.332826+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "In France, 80 departments have been placed on an orange heat warning Over in England, the amber warning by the Met Office stretches from London to Sheffield, covering parts of the South East, East Mid",
+   "angle": null,
+   "corroborated_by": [
+    "Brussels Signal",
+    "Electrive (EU ηλεκτροκίνηση)"
+   ]
+  },
+  {
+   "id": "f1d004a9d8e54077",
+   "title": "H πτώση των υδάτων στον Δούναβη κλείνει πυρηνικό σταθμό στη Ρουμανία",
+   "link": "https://www.tanea.gr/2026/08/13/world/h-ptosi-ton-ydaton-ston-doynavi-kleinei-pyriniko-stathmo-sti-roymania/",
+   "summary_raw": "<div><img alt=\"Πυρηνικός σταθμός ενέργειας\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/02/pirinikos-stathmos-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Η Nuclearelectrica, η διαχειρίστρια εταιρεία του πυρηνικού σταθμού της Τσερναβόντα στην Ρουμανία, ανακοίνωσε την έναρξη των διαδικασιών για την διακοπή της λειτουργίας και της δεύτερης μονάδες του σταθμού εξαιτίας της πτώσης της στάθμης των υδάτων του Δούναβη που χρησιμοποιούνται για την ψύξη του συστήματος. La Roumanie est obligée de fermer son unique centrale nucléaire, elle [&#8230;]",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-13T08:12:45+00:00",
+   "collected": "2026-08-13T08:46:17.975141+00:00",
+   "keywords_hit": [
+    "πυρηνικ",
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η Nuclearelectrica, η διαχειρίστρια εταιρεία του πυρηνικού σταθμού της Τσερναβόντα στην Ρουμανία, ανακοίνωσε την έναρξη των διαδικασιών για την διακοπή της λειτουργίας και της δεύτερης μονάδες του στα",
+   "angle": null,
+   "corroborated_by": [
+    "Πρώτο Θέμα"
+   ]
+  },
+  {
+   "id": "0ec435c5a5549ce7",
+   "title": "Millions face higher water bills as suppliers allowed £3.4bn extra spending",
+   "link": "https://www.theguardian.com/business/2026/aug/13/water-bills-suppliers-spending-england-wales-ofwat",
+   "summary_raw": "<p>Firms in England and Wales seek to fund measures including supporting new homes and datacentres</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Business live – latest updates</a></p></li></ul><p>Millions of households in England and Wales face higher bills after water companies were given the green light to spend £3.4bn more than planned, including to support new homes and datacentres.</p><p>The new spending will come on top of the £104bn programme of investment approved by the regulator that had already meant <a href=\"https://www.theguardian.com/money/2024/dec/19/water-bills-for-households-in-england-and-wales-to-rise\">water bills will rise by 36%</a> over the second half of the decade.</p> <a href=\"https://www.theguardian.com/business/2026/aug/13/water-bills-suppliers-spending-england-wales-ofwat\">Continue reading...</a>",
+   "source": "Guardian Environment",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-08-13T08:10:54+00:00",
+   "collected": "2026-08-13T08:45:59.333493+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Firms in England and Wales seek to fund measures including supporting new homes and datacentres Business live – latest updates Millions of households in England and Wales face higher bills after water",
+   "angle": null,
+   "corroborated_by": [
+    "Electrive (EU ηλεκτροκίνηση)"
+   ]
+  },
+  {
+   "id": "e73c67db81ba9a87",
+   "title": "Great Sea Interconnector moves ahead with Cyprus-Israel investment request",
+   "link": "https://cyprus-mail.com/2026/08/13/great-sea-interconnector-moves-ahead-with-cyprus-israel-investment-request",
+   "summary_raw": "The Great Sea Interconnector (GSI) project took another step forward on Thursday after Greece’s Independent Power Transmission Operator (Admie), the project promoter, submitted an investment request for the Cyprus-Israel electricity interconnection to the energy regulators of both countries. The application marks the next stage in the implementation of the project under the European Union’s Trans-European [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-08-13T07:47:53+00:00",
+   "collected": "2026-08-13T08:45:34.376052+00:00",
+   "keywords_hit": [
+    "interconnector"
+   ],
+   "category": "Ενέργεια",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "The Great Sea Interconnector (GSI) project took another step forward on Thursday after Greece’s Independent Power Transmission Operator (Admie), the project promoter, submitted an investment request f",
+   "angle": null,
+   "corroborated_by": [
+    "in-cyprus (Philenews)"
+   ],
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "25e928ca2286bbd1",
+   "title": "Ο Ζελένσκι ζητά το 10% του αποθέματος Patriot που διαθέτουν οι ΗΠΑ  για να αμυνθεί η Ουκρανία στη Ρωσία",
+   "link": "https://www.protothema.gr/world/article/1864332/o-zelenski-zita-to-10-tou-apothematos-patriot-pou-diathetoun-oi-ipa-gia-na-amunthei-i-oukrania-sti-rosia/?utm_source=rss",
+   "summary_raw": "Ακόμα κι αν μας πουλήσουν το 5% θα μπορέσουμε να βγάλουμε τον χειμώνα, είπε ο Ουκρανός πρόεδρος - Ο ουκρανικός λαός έχει κουραστεί, ο Πούτιν δεν θέλει να σταματήσει τον πόλεμο, πρόσθεσε",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-13T07:41:00+00:00",
+   "collected": "2026-08-13T08:46:14.353538+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ακόμα κι αν μας πουλήσουν το 5% θα μπορέσουμε να βγάλουμε τον χειμώνα, είπε ο Ουκρανός πρόεδρος - Ο ουκρανικός λαός έχει κουραστεί, ο Πούτιν δεν θέλει να σταματήσει τον πόλεμο, πρόσθεσε",
+   "angle": null
+  },
+  {
+   "id": "b70b8c423ba0c53c",
+   "title": "Επέτειο της επακούμβησης της τουρκικής Φ/Γ Κεμάλ Ρέις στο Αιγαίο",
+   "link": "https://www.pentapostagma.gr/ethnika-themata/polemiko-naytiko/7384934_epeteio-tis-epakoymbisis-tis-toyrkikis-f/g-kemal-reis-sto",
+   "summary_raw": "Για να θυμούνται οι παλαιότεροι και να μαθαίνουν οι νέοι -Η κίνηση αυτή του ελληνικού Πολεμικού Ναυτικού έκανε εντύπωσε...",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-13T07:38:11+00:00",
+   "collected": "2026-08-13T08:45:47.280526+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Για να θυμούνται οι παλαιότεροι και να μαθαίνουν οι νέοι -Η κίνηση αυτή του ελληνικού Πολεμικού Ναυτικού έκανε εντύπωσε...",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "fa03fcd6894bf9a2",
+   "title": "Καύσιμα: Νέα άνοδος από τα διυλιστήρια – Καλπάζει η τιμή του φυσκού αερίου ενώ υποχωρεί η τιμή του ηλεκτρικού ρεύματος",
+   "link": "https://www.ertnews.gr/eidiseis/ellada/kaysima-nea-anodos-apo-ta-diylistiria-kalpazei-i-timi-tou-fyskou-aeriou-eno-ypoxorei-i-timi-tou-ilektrikou-reymatos/",
+   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/venzini-pratirio-768x512-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>Νέα άνοδο παρουσιάζουν οι τιμές πώλησης καυσίμων από τα διυλιστήρια, καθώς το πετρέλαιο στις διεθνείς αγορές παραμένει κοντά στα 90 δολάρια το βαρέλι. Την ίδια στιγμή, το φυσικό αέριο καταγράφει τη δεύτερη υψηλότερη τιμή από την έναρξη του πολέμου στη Μέση Ανατολή, ενώ, υποχωρεί η τιμή χονδρικής στο ρεύμα. Αναλυτικά, στη διεθνή αγορά το πετρέλαιο ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ellada/kaysima-nea-anodos-apo-ta-diylistiria-kalpazei-i-timi-tou-fyskou-aeriou-eno-ypoxorei-i-timi-tou-ilektrikou-reymatos/\" title=\"Καύσιμα: Νέα άνοδος από τα διυλιστήρια &#8211; Καλπάζει η τιμή του φυσκού αερίου ενώ υποχωρεί η τιμή του ηλεκτρικού ρεύματος\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-13T07:30:21+00:00",
+   "collected": "2026-08-13T08:45:24.874333+00:00",
+   "keywords_hit": [
+    "φυσικό αέριο"
+   ],
+   "category": "Ενέργεια",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Νέα άνοδο παρουσιάζουν οι τιμές πώλησης καυσίμων από τα διυλιστήρια, καθώς το πετρέλαιο στις διεθνείς αγορές παραμένει κοντά στα 90 δολάρια το βαρέλι. Την ίδια στιγμή, το φυσικό αέριο καταγράφει τη δε",
+   "angle": null
+  },
+  {
+   "id": "80e1c8670558117b",
+   "title": "Θεσσαλονίκη: Συνελήφθησαν τρία άτομα για δύο παράνομες μεταφορές αλλοδαπών",
+   "link": "https://www.ertnews.gr/ert3/thessaloniki-synelifthisan-tria-atoma-gia-dyo-paranomes-metafores-allodapon-2/",
+   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/astynomia8-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Συνελήφθησαν στη Θεσσαλονίκη τρία άτομα, που εμπλέκονται σε δύο παράνομες μεταφορές αλλοδαπών. Πρόκειται για αλλοδαπούς ηλικίας 23, 26 και 59 ετών, σε βάρος των οποίων σχηματίσθηκαν δικογραφίες, κατά περίπτωση, από τα Τμήματα Διαχείρισης Μετανάστευσης Αγίου Αθανασίου και Θέρμης αντίστοιχα, για εγκληματική οργάνωση, παράνομη μεταφορά – προώθηση μεταναστών στο εσωτερικό της Χώρας και απείθεια. Ειδικότερα, το ... <a class=\"read-more\" href=\"https://www.ertnews.gr/ert3/thessaloniki-synelifthisan-tria-atoma-gia-dyo-paranomes-metafores-allodapon-2/\" title=\"Θεσσαλονίκη: Συνελήφθησαν τρία άτομα για δύο παράνομες μεταφορές αλλοδαπών\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-13T07:12:59+00:00",
+   "collected": "2026-08-13T08:45:24.875958+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Συνελήφθησαν στη Θεσσαλονίκη τρία άτομα, που εμπλέκονται σε δύο παράνομες μεταφορές αλλοδαπών. Πρόκειται για αλλοδαπούς ηλικίας 23, 26 και 59 ετών, σε βάρος των οποίων σχηματίσθηκαν δικογραφίες, κατά ",
+   "angle": null,
+   "corroborated_by": [
+    "Πενταπόσταγμα",
+    "Πρώτο Θέμα"
+   ],
+   "locations": [
+    {
+     "name": "Θεσσαλονίκη",
+     "lat": 40.64,
+     "lon": 22.94
+    }
+   ]
+  },
+  {
+   "id": "02b425dc96ba361b",
+   "title": "Η κλιματική κρίση, οι συνέπειές της και η δημόσια υγεία",
+   "link": "https://www.efsyn.gr/stiles/1447057/i-klimatiki-krisi-oi-synepeies-tis-kai-i-dimosia-ygeia/",
+   "summary_raw": "Ο καπνός μιας πυρκαγιάς δεν αποτελεί απλώς μια δυσάρεστη οσμή, ούτε έναν προσωρινό ερεθισμό",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-13T07:07:30+00:00",
+   "collected": "2026-08-13T08:46:19.535792+00:00",
+   "keywords_hit": [
+    "κλιματικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Ο καπνός μιας πυρκαγιάς δεν αποτελεί απλώς μια δυσάρεστη οσμή, ούτε έναν προσωρινό ερεθισμό",
+   "angle": null
+  },
+  {
+   "id": "ecda021a7aa26c59",
+   "title": "Nextpower: Ολοκληρωμένα συστήματα για την υποστήριξη φωτοβολταϊκών πάρκων - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXZ2aWl5bE5ldzF6RHdFbmNGRE54ZWpCUno1MjZCZTJ1a1dPWjN0UUZ0aWlURGtUTFZILWRQRE5fOFBKdGpNWEhDTEU3dEwyTGRFRmpVV1BiYjcwckVKWGxTcTV6LUgyQXg4b3NZeTAtTjkzaGJNRklIc0hkZmJzNHpta0tYOF9sY0F6c1VYVnR5WUdxSU4wbFgwZGdtazRoLVE?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXZ2aWl5bE5ldzF6RHdFbmNGRE54ZWpCUno1MjZCZTJ1a1dPWjN0UUZ0aWlURGtUTFZILWRQRE5fOFBKdGpNWEhDTEU3dEwyTGRFRmpVV1BiYjcwckVKWGxTcTV6LUgyQXg4b3NZeTAtTjkzaGJNRklIc0hkZmJzNHpta0tYOF9sY0F6c1VYVnR5WUdxSU4wbFgwZGdtazRoLVE?oc=5\" target=\"_blank\">Nextpower: Ολοκληρωμένα συστήματα για την υποστήριξη φωτοβολταϊκών πάρκων</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-08-13T07:06:00+00:00",
+   "collected": "2026-08-13T08:45:51.461915+00:00",
+   "keywords_hit": [
+    "φωτοβολταϊκ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Nextpower: Ολοκληρωμένα συστήματα για την υποστήριξη φωτοβολταϊκών πάρκων Energypress",
+   "angle": null
+  },
+  {
+   "id": "ea521de347578f5e",
+   "title": "Αρμοδιότητες Διαχειριστή και Ιδιοκτήτη Γραμμών Διασύνδεσης",
+   "link": "https://www.philenews.com/oikonomia/apopsis-ikonomia/article/1758719/armodiotites-diachiristi-ke-idioktiti-grammon-diasindesis/",
+   "summary_raw": "<p>Πολλά γράφονται για τον Great Sea Interconnector, κάποιοι παραθέτουν οικονομικά στοιχεία, κάποιοι τεχνικά και κάποιοι άλλοι πολιτικά. Η περιρρέουσα ατμόσφαιρα αφήνει την εντύπωση ότι τίποτε δεν έχει ξεκαθαρίσει, ότι υπάρχουν κενά, ότι η Κυβέρνηση πρέπει να τοποθετηθεί, ενώ όλα τα θέματα πλην ενός έχουν ξεκαθαρίσει το 2021, το 2023 και το 2025. Και επεξηγώ. &#8211; [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/oikonomia/apopsis-ikonomia/article/1758719/armodiotites-diachiristi-ke-idioktiti-grammon-diasindesis/\">Αρμοδιότητες Διαχειριστή και Ιδιοκτήτη Γραμμών Διασύνδεσης</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-08-13T07:04:37+00:00",
+   "collected": "2026-08-13T08:45:48.654863+00:00",
+   "keywords_hit": [
+    "διασύνδεση",
+    "interconnector"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Πολλά γράφονται για τον Great Sea Interconnector, κάποιοι παραθέτουν οικονομικά στοιχεία, κάποιοι τεχνικά και κάποιοι άλλοι πολιτικά. Η περιρρέουσα ατμόσφαιρα αφήνει την εντύπωση ότι τίποτε δεν έχει ξ",
+   "angle": null
+  },
+  {
+   "id": "a4c8d4d5d9787728",
+   "title": "IPTO files investment request for Cyprus-Israel power link",
+   "link": "https://en.philenews.com/insider/gsi-investment-request-cyprus-israel-interconnector/",
+   "summary_raw": "IPTO has filed an investment request with the regulatory authorities of Cyprus and Israel for the Cyprus-Israel electricity interconnection, as the body delivering the Great Sea Interconnector. The company submitted the request under the European TEN-E Regulation, it said, describing the filing as a further step in advancing the link between the two countries. The [&#8230;]",
+   "source": "in-cyprus (Philenews)",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-08-13T07:02:06+00:00",
+   "collected": "2026-08-13T08:45:35.310578+00:00",
+   "keywords_hit": [
+    "interconnector"
+   ],
+   "category": "Ενέργεια",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "IPTO has filed an investment request with the regulatory authorities of Cyprus and Israel for the Cyprus-Israel electricity interconnection, as the body delivering the Great Sea Interconnector. The co",
+   "angle": null,
+   "corroborated_by": [
+    "Cyprus Mail"
+   ],
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "b5cf3195bf0ee0f8",
+   "title": "The Cambridge don who once had links to an Islamist terror group",
+   "link": "https://www.spiked-online.com/2026/08/13/the-cambridge-don-who-once-had-links-to-an-islamist-terror-group/",
+   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/08/13/the-cambridge-don-who-once-had-links-to-an-islamist-terror-group/\">The Cambridge don who once had links to an Islamist terror group</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
+   "source": "Spiked",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-08-13T06:55:22+00:00",
+   "collected": "2026-08-13T08:46:24.295887+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The post The Cambridge don who once had links to an Islamist terror group appeared first on spiked .",
+   "angle": null
+  },
   {
    "id": "65d7104ffd6d8c13",
    "title": "GSI: Ο ΑΔΜΗΕ ανοίγει τον δρόμο για την επένδυση – Κατατέθηκε το αίτημα στους ρυθμιστές Κύπρου και Ισραήλ",
@@ -31,6 +445,25 @@
      "lon": 33.2
     }
    ]
+  },
+  {
+   "id": "9a435515a983925d",
+   "title": "The CIA had “low confidence” in Israeli intelligence warning of an Iranian plot to kill Trump during his July visit to Türkiye.  Some U.S. officials suspected the warning was partl…",
+   "link": "https://t.me/ClashReport/92392",
+   "summary_raw": "The CIA had “low confidence” in Israeli intelligence warning of an Iranian plot to kill Trump during his July visit to Türkiye.  Some U.S. officials suspected the warning was partly intended to influence Trump’s policies toward Iran and Türkiye.  Despite the doubts, the Secret Service secretly moved Trump to a smaller military jet, which flew him to Britain under F-16 escort.  Source: WaPo",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-13T06:43:37+00:00",
+   "collected": "2026-08-13T08:46:26.750427+00:00",
+   "keywords_hit": [
+    "f-16"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The CIA had “low confidence” in Israeli intelligence warning of an Iranian plot to kill Trump during his July visit to Türkiye. Some U.S. officials suspected the warning was partly intended to influen",
+   "angle": null
   },
   {
    "id": "619ea3e4a22dd206",
@@ -177,6 +610,28 @@
    ]
   },
   {
+   "id": "ce81a1ab92fa275f",
+   "title": "Romania sinks barges to keep Danube flowing to nuclear plant",
+   "link": "https://www.ekathimerini.com/multimedia/images/1312261/romania-sinks-barges-to-keep-danube-flowing-to-nuclear-plant/",
+   "summary_raw": "Romanian authorities have resorted to extraordinary measures to raise the water level of the Danube high enough to keep the Cernavoda nuclear plant operating, including sinking four barges full of rocks.",
+   "source": "Kathimerini (EN)",
+   "side": "greek_media",
+   "lang": "en",
+   "published": "2026-08-13T06:04:56+00:00",
+   "collected": "2026-08-13T08:45:22.980455+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Romanian authorities have resorted to extraordinary measures to raise the water level of the Danube high enough to keep the Cernavoda nuclear plant operating, including sinking four barges full of roc",
+   "angle": null,
+   "corroborated_by": [
+    "Electrive (EU ηλεκτροκίνηση)"
+   ]
+  },
+  {
    "id": "f343e81f6af0a9a1",
    "title": "Κλιματοπληθωρισμός: Τι είναι το climateflation και γιατί μας αφορά άμεσα",
    "link": "https://www.in.gr/2026/08/13/economy/klimatoplithorismos-ti-einai-to-climateflation-kai-giati-mas-afora-amesa/",
@@ -254,6 +709,32 @@
     "in.gr",
     "Καθημερινή",
     "Πενταπόσταγμα"
+   ]
+  },
+  {
+   "id": "ca2b25b3a398533e",
+   "title": "GSI: Βιώσιμη σε όλα τα σενάρια και η διασύνδεση Κύπρου–Ισραήλ - Κατατέθηκε στους Ρυθμιστές των δύο χωρών το αίτημα για έγκριση της επένδυσης από τον ΑΔΜΗΕ - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMC1sV2J5Zkd5bE1aZm1DZGNHNW4wOHFhQVRFWWVjQzlCZ0lWOWZGbmtOMkltQjRnZmdENGRmTm5UUWJBcnFqYlJYd19MRGY4clh1NVFfYmtPV2hHbHVIcVJWMUduTGQtcTUzSEVHM251UFFLQ3IyR05GZ0pXMG1mdS1wcnVXaE5hX2VseTh2bXA4emlhVDhsaV9ndHlSWlNEMmF1amlxMWdqS3hVOWJONW5IY1RKTEp2bjN5YlJB?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOMC1sV2J5Zkd5bE1aZm1DZGNHNW4wOHFhQVRFWWVjQzlCZ0lWOWZGbmtOMkltQjRnZmdENGRmTm5UUWJBcnFqYlJYd19MRGY4clh1NVFfYmtPV2hHbHVIcVJWMUduTGQtcTUzSEVHM251UFFLQ3IyR05GZ0pXMG1mdS1wcnVXaE5hX2VseTh2bXA4emlhVDhsaV9ndHlSWlNEMmF1amlxMWdqS3hVOWJONW5IY1RKTEp2bjN5YlJB?oc=5\" target=\"_blank\">GSI: Βιώσιμη σε όλα τα σενάρια και η διασύνδεση Κύπρου–Ισραήλ - Κατατέθηκε στους Ρυθμιστές των δύο χωρών το αίτημα για έγκριση της επένδυσης από τον ΑΔΜΗΕ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-08-13T05:45:24+00:00",
+   "collected": "2026-08-13T08:45:51.459180+00:00",
+   "keywords_hit": [
+    "διασύνδεση"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "GSI: Βιώσιμη σε όλα τα σενάρια και η διασύνδεση Κύπρου–Ισραήλ - Κατατέθηκε στους Ρυθμιστές των δύο χωρών το αίτημα για έγκριση της επένδυσης από τον ΑΔΜΗΕ Energypress",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
    ]
   },
   {
@@ -568,6 +1049,23 @@
    "angle": null
   },
   {
+   "id": "7e12d0b7ca2f61e7",
+   "title": "Flood relief millions reach family and neighbours of Tusk party activist",
+   "link": "https://brusselssignal.eu/2026/08/flood-relief-millions-reach-family-and-neighbours-of-tusk-party-activist/",
+   "summary_raw": "A report has revealed that a local official nominated by Tusk's coalition awarded flood relief funds to family and neighbors who were not affected by the floods, prompting a government investigation.\n<p><a href=\"https://brusselssignal.eu/2026/08/flood-relief-millions-reach-family-and-neighbours-of-tusk-party-activist/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-13T04:00:50+00:00",
+   "collected": "2026-08-13T08:46:20.540018+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A report has revealed that a local official nominated by Tusk's coalition awarded flood relief funds to family and neighbors who were not affected by the floods, prompting a government investigation. ",
+   "angle": null
+  },
+  {
    "id": "ffdde74f311662f1",
    "title": "India fuels worldwide jump in planned coal production",
    "link": "https://www.theguardian.com/environment/2026/aug/13/india-planned-coal-production-new-mine",
@@ -624,6 +1122,28 @@
    "angle": null,
    "corroborated_by": [
     "Daily Signal"
+   ]
+  },
+  {
+   "id": "b5b2781e6fde0398",
+   "title": "Eclipse strips up to 9.7GW from Europe’s solar-heavy grids",
+   "link": "https://brusselssignal.eu/2026/08/eclipse-strips-up-to-9-7gw-from-europes-solar-heavy-grids/",
+   "summary_raw": "As Europe prepares for a total solar eclipse on August 12, transmission operators anticipate solar power generation could drop by up to 9.7 gigawatts, prompting contingency measures.\n<p><a href=\"https://brusselssignal.eu/2026/08/eclipse-strips-up-to-9-7gw-from-europes-solar-heavy-grids/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-13T03:00:43+00:00",
+   "collected": "2026-08-13T08:46:20.540246+00:00",
+   "keywords_hit": [
+    "solar"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "As Europe prepares for a total solar eclipse on August 12, transmission operators anticipate solar power generation could drop by up to 9.7 gigawatts, prompting contingency measures. Source",
+   "angle": null,
+   "corroborated_by": [
+    "Guardian Environment"
    ]
   },
   {
@@ -10900,6 +11420,28 @@
    "turkish_narrative": false,
    "summary_el": "Ένας πυρηνικός σταθμός στη βόρεια Γαλλία τέθηκε εκτός λειτουργίας σε τρεις από τους αντιδραστήρες του, καθώς ένα κοπάδι μεδουσών έφραξε τις αντλίες που χρησιμοποιούνται για την ψύξη των μονάδων, ανακο",
    "angle": null
+  },
+  {
+   "id": "4a22d00b972743df",
+   "title": "Wales grants decade-long rates relief for EV charging sites",
+   "link": "https://www.electrive.com/2026/08/11/wales-grants-decade-long-rates-relief-for-ev-charging-sites/",
+   "summary_raw": "<div><img alt=\"Ev charger cropped\" class=\"attachment-medium size-medium wp-post-image\" height=\"267\" src=\"https://www.electrive.com/media/2026/03/ev-charger-cropped-400x267.jpeg\" style=\"margin-bottom: 15px;\" title=\"ev charger cropped\" width=\"400\" /></div>Electric vehicle charging bays and forecourts in Wales will receive 100 per cent relief from non-domestic rates until 2036. The Welsh government says the measure should support investment in charging infrastructure, particularly in underserved areas.",
+   "source": "Electrive (EU ηλεκτροκίνηση)",
+   "side": "green_emobility",
+   "lang": "en",
+   "published": "2026-08-11T13:30:00+00:00",
+   "collected": "2026-08-13T08:46:01.197739+00:00",
+   "keywords_hit": [
+    "electric vehicle"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Electric vehicle charging bays and forecourts in Wales will receive 100 per cent relief from non-domestic rates until 2036. The Welsh government says the measure should support investment in charging ",
+   "angle": null,
+   "corroborated_by": [
+    "Guardian Environment"
+   ]
   },
   {
    "id": "04c44271dd4b133c",
@@ -41953,411 +42495,6 @@
      "lon": 25.5
     }
    ]
-  },
-  {
-   "id": "06564f1cdfe2c4cb",
-   "title": "In a first, Utah got more power from solar than any other source",
-   "link": "https://grist.org/energy/utah-solar-power-coal-generation/",
-   "summary_raw": "",
-   "source": "Grist",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-08-06T08:30:00+00:00",
-   "collected": "2026-08-08T09:56:26.086984+00:00",
-   "keywords_hit": [
-    "solar"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null
-  },
-  {
-   "id": "4c55500ac4819663",
-   "title": "French Green leader calls for X to be shut down over ‘supremacist’ Musk’s support for Marine Le Pen",
-   "link": "https://rmx.news/article/french-green-leader-calls-for-x-to-be-shut-down-over-supremacist-musks-support-for-marine-le-pen/",
-   "summary_raw": "<p>Marine Tondelier accused Elon Musk of manipulating French political debate while polls show her trailing the National Rally figure by more than 30 points</p>\n<p>The post <a href=\"https://rmx.news/article/french-green-leader-calls-for-x-to-be-shut-down-over-supremacist-musks-support-for-marine-le-pen/\">French Green leader calls for X to be shut down over &#8216;supremacist&#8217; Musk’s support for Marine Le Pen</a> appeared first on <a href=\"https://rmx.news\">Remix News</a>.</p>",
-   "source": "Remix News",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-06T08:22:19+00:00",
-   "collected": "2026-08-06T12:21:19.558962+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Marine Tondelier accused Elon Musk of manipulating French political debate while polls show her trailing the National Rally figure by more than 30 points The post French Green leader calls for X to be",
-   "angle": null,
-   "corroborated_by": [
-    "Brussels Signal"
-   ]
-  },
-  {
-   "id": "d65c3fc832033fb7",
-   "title": "Why is France developing a new nuclear strategy?",
-   "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
-   "summary_raw": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal",
-   "source": "Al Jazeera English",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-06T08:17:26+00:00",
-   "collected": "2026-08-06T10:01:06.555232+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal",
-   "angle": null
-  },
-  {
-   "id": "5e8a49f027585bdc",
-   "title": "Παπασταύρου στο ΕΡΤnews για GSI: «Η υλοποίηση περνά μέσα από την Ευρώπη, όχι από την Τουρκία»",
-   "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/papastayrou-sto-ertnews-gia-gsi-i-ylopoiisi-perna-mesa-apo-tin-eyropi-oxi-apo-tin-tourkia/",
-   "summary_raw": "<img alt=\"papastavroy\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"449\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/papastavroy.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"778\" /><p>Για τη νέα δυναμική που αποκτά η ηλεκτρική διασύνδεση Ελλάδας–Κύπρου μετά την είσοδο του γαλλικού επενδυτικού ομίλου Meridiam ως πλειοψηφικού μετόχου στην εταιρεία Great Sea Interconnector μίλησε στο ΕΡΤnews ο υπουργός Περιβάλλοντος και Ενέργειας, Σταύρος Παπασταύρου. Ο υπουργός αναφέρθηκε στη στρατηγική και γεωπολιτική σημασία του έργου, στα επόμενα βήματα για την υλοποίησή του, καθώς και ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ellada/politiki/papastayrou-sto-ertnews-gia-gsi-i-ylopoiisi-perna-mesa-apo-tin-eyropi-oxi-apo-tin-tourkia/\" title=\"Παπασταύρου στο ΕΡΤnews για GSI: «Η υλοποίηση περνά μέσα από την Ευρώπη, όχι από την Τουρκία»\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-06T08:15:58+00:00",
-   "collected": "2026-08-06T10:00:44.202735+00:00",
-   "keywords_hit": [
-    "διασύνδεση",
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Για τη νέα δυναμική που αποκτά η ηλεκτρική διασύνδεση Ελλάδας–Κύπρου μετά την είσοδο του γαλλικού επενδυτικού ομίλου Meridiam ως πλειοψηφικού μετόχου στην εταιρεία Great Sea Interconnector μίλησε στο ",
-   "angle": null,
-   "corroborated_by": [
-    "Philenews"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "9f1d5cab0f406506",
-   "title": "Παπασταύρου για GSI, βυθομετρήσεις και Τουρκία: Θα προστατέψουμε τον εαυτό μας",
-   "link": "https://www.philenews.com/oikonomia/kypros/article/1756274/papastavrou-gia-gsi-vithometrisis-ke-tourkia-tha-prostatepsoume-ton-eafto-mas/",
-   "summary_raw": "<p>Μιλώντας νωρίτερα την Πέμπτη στον τηλεοπτικό σταθμό OPEN, ο υπουργός Περιβάλλοντος και Ενέργειας της Ελλάδας, Σταύρος Παπασταύρου, κλήθηκε να σχολιάσει τα γεωπολιτικά θέματα που εγείρει η Τουρκία για την ηλεκτρική διασύνδεση Ελλάδας &#8211; Κύπρου και απάντησε πως η χώρα θα προστατεύσει τον ευατό της και τα συμφέροντάς της και ότι είναι αποφασιστικής σημασίας οι ισχυρές [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/oikonomia/kypros/article/1756274/papastavrou-gia-gsi-vithometrisis-ke-tourkia-tha-prostatepsoume-ton-eafto-mas/\">Παπασταύρου για GSI, βυθομετρήσεις και Τουρκία: Θα προστατέψουμε τον εαυτό μας</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-08-06T08:07:51+00:00",
-   "collected": "2026-08-06T10:01:04.555377+00:00",
-   "keywords_hit": [
-    "διασύνδεση"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Μιλώντας νωρίτερα την Πέμπτη στον τηλεοπτικό σταθμό OPEN, ο υπουργός Περιβάλλοντος και Ενέργειας της Ελλάδας, Σταύρος Παπασταύρου, κλήθηκε να σχολιάσει τα γεωπολιτικά θέματα που εγείρει η Τουρκία για ",
-   "angle": null,
-   "corroborated_by": [
-    "ΕΡΤ News"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "705996825fd300b0",
-   "title": "Πυρόπληκτες περιοχές: Μέσα στον Αύγουστο οι μελέτες, έως τον Δεκέμβριο τα έργα αποκατάστασης",
-   "link": "https://www.tanea.gr/2026/08/06/economy/pyropliktes-perioxes-mesa-ston-aygousto-oi-meletes-eos-ton-dekemvrio-ta-erga-apokatastasis/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/08/anemoi0fotia-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Με γρήγορους ρυθμούς προχωρούν οι διαδικασίες για την αποκατάσταση των περιοχών σε δυτική Αττική και Βοιωτία που επλήγησαν από τις πρόσφατες φωτιές. Η κυβέρνηση θέτει στόχο έως τις αρχές του Δεκεμβρίου να έχουν ολοκληρωθεί τα αντιδιαβρωτικά και αντιπλημμυρικά έργα ενώ άμεσα θα δοθούν και οι ενισχύσεις για τους πυρόπληκτους. Ο υφυπουργός Κλιματικής Κρίσης και Πολιτικής [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-06T08:05:56+00:00",
-   "collected": "2026-08-06T10:01:28.798488+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Με γρήγορους ρυθμούς προχωρούν οι διαδικασίες για την αποκατάσταση των περιοχών σε δυτική Αττική και Βοιωτία που επλήγησαν από τις πρόσφατες φωτιές. Η κυβέρνηση θέτει στόχο έως τις αρχές του Δεκεμβρίο",
-   "angle": null
-  },
-  {
-   "id": "4a3879832b1516a3",
-   "title": "Ore Energy Raises $43 Million for Multi-Day Storage Solution Made from Iron, Water and Air",
-   "link": "https://www.esgtoday.com/ore-energy-raises-43-million-for-multi-day-storage-solution-made-from-iron-water-and-air/?utm_source=rss&utm_medium=rss&utm_campaign=ore-energy-raises-43-million-for-multi-day-storage-solution-made-from-iron-water-and-air",
-   "summary_raw": "<p><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"531\" src=\"https://www.esgtoday.com/wp-content/uploads/2026/08/Ore-Energy.jpg\" width=\"814\" /></p>Long-duration energy storage startup Ore Energy announced that it has raised $43 million in a [&#8230;]",
-   "source": "ESG Today",
-   "side": "green_esg",
-   "lang": "en",
-   "published": "2026-08-06T08:01:38+00:00",
-   "collected": "2026-08-06T10:01:13.526327+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Long-duration energy storage startup Ore Energy announced that it has raised $43 million in a […]",
-   "angle": null,
-   "corroborated_by": [
-    "Inside Climate News"
-   ]
-  },
-  {
-   "id": "a6fb54514b4a50ec",
-   "title": "ASTYBUS: 27.642 διαδρομές στην Αστυπάλαια – Το «έξυπνο» μοντέλο μετακίνησης που έγινε μέρος της καθημερινότητας",
-   "link": "https://www.dimokratiki.gr/06-08-2026/astybus-27-642-diadromes-stin-astypalea-to-exypno-montelo-metakinisis-pou-egine-meros-tis-kathimerinotitas/?utm_source=rss&utm_medium=rss&utm_campaign=astybus-27-642-diadromes-stin-astypalea-to-exypno-montelo-metakinisis-pou-egine-meros-tis-kathimerinotitas",
-   "summary_raw": "<p>Την επιτυχημένη πορεία του πρωτοποριακού συστήματος μετακίνησης ASTYBUS στην Αστυπάλαια ανέδειξε με ανάρτησή του ο Περιφερειάρχης Νοτίου Αιγαίου, Γιώργος Χατζημάρκος, επισημαίνοντας ότι το εγχείρημα αποτελεί πλέον ένα απτό παράδειγμα του πώς η καινοτομία, η τεχνολογία και η βιώσιμη κινητικότητα μπορούν να ενσωματωθούν στην καθημερινή ζωή ενός νησιού. Όπως τονίζει, η λειτουργία του προγράμματος, που υλοποιείται μέσω της Αναπτυξιακής Εταιρείας της...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/06-08-2026/astybus-27-642-diadromes-stin-astypalea-to-exypno-montelo-metakinisis-pou-egine-meros-tis-kathimerinotitas/\" style=\"font-size: 12px;\" title=\"ASTYBUS: 27.642 διαδρομές στην Αστυπάλαια – Το «έξυπνο» μοντέλο μετακίνησης που έγινε μέρος της καθημερινότητας\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/06-08-2026/astybus-27-642-diadromes-stin-astypalea-to-exypno-montelo-metakinisis-pou-egine-meros-tis-kathimerinotitas/\">ASTYBUS: 27.642 διαδρομές στην Αστυπάλαια – Το «έξυπνο» μοντέλο μετακίνησης που έγινε μέρος της καθημερινότητας</a></p>",
-   "source": "Δημοκρατική Ρόδου",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-06T08:01:07+00:00",
-   "collected": "2026-08-06T10:01:23.728776+00:00",
-   "keywords_hit": [
-    "αιγαίο"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Την επιτυχημένη πορεία του πρωτοποριακού συστήματος μετακίνησης ASTYBUS στην Αστυπάλαια ανέδειξε με ανάρτησή του ο Περιφερειάρχης Νοτίου Αιγαίου, Γιώργος Χατζημάρκος, επισημαίνοντας ότι το εγχείρημα α",
-   "angle": null
-  },
-  {
-   "id": "cbbe0e9dd750494b",
-   "title": "Spain lambasts Italy's call for its suspension from Schengen zone as migrants flood Ceuta enclave - TRT World",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kSFNMRGRVXzNpd1lKNThfMFU3QlZ6ek03Z3dNWHhBSGxpcFoxN1p1RUI4Wi1uRDY2NnFSMldfcmN6M0MybFk3MFRQVjZ5LVBlSkdheHFTYm8?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kSFNMRGRVXzNpd1lKNThfMFU3QlZ6ek03Z3dNWHhBSGxpcFoxN1p1RUI4Wi1uRDY2NnFSMldfcmN6M0MybFk3MFRQVjZ5LVBlSkdheHFTYm8?oc=5\" target=\"_blank\">Spain lambasts Italy's call for its suspension from Schengen zone as migrants flood Ceuta enclave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font>",
-   "source": "TRT World",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-08-06T07:58:11+00:00",
-   "collected": "2026-08-07T03:19:25.255678+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Spain lambasts Italy's call for its suspension from Schengen zone as migrants flood Ceuta enclave TRT World",
-   "angle": null
-  },
-  {
-   "id": "620543e1f5037080",
-   "title": "Poland calls on EU to deny residence rights to illegal migrants",
-   "link": "https://brusselssignal.eu/2026/08/poland-calls-on-eu-to-deny-residence-rights-to-illegal-migrants/",
-   "summary_raw": "Poland has called on the EU to deny residence rights to illegal migrants, urging a tougher response to the migration crisis in Ceuta and sharing its own border protection strategies.\n<p><a href=\"https://brusselssignal.eu/2026/08/poland-calls-on-eu-to-deny-residence-rights-to-illegal-migrants/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-06T07:57:55+00:00",
-   "collected": "2026-08-06T10:01:31.119687+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Poland has called on the EU to deny residence rights to illegal migrants, urging a tougher response to the migration crisis in Ceuta and sharing its own border protection strategies. Source",
-   "angle": null
-  },
-  {
-   "id": "243421e31764b2d6",
-   "title": "New agriculture minister vows to build on predecessor’s work",
-   "link": "https://cyprus-mail.com/2026/08/06/new-agriculture-minister-vows-to-build-on-predecessors-work",
-   "summary_raw": "Newly sworn in Agriculture Minister Christos Senekis pledged to deliver “tangible results” and build on the work of his predecessor Maria Panayiotou after being sworn in on Thursday as part of President Nikos Christodoulides’ cabinet reshuffle. Speaking on behalf of the government’s newly appointed members at the presidential palace, Senekis said the appointments carried “a [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-08-06T07:46:55+00:00",
-   "collected": "2026-08-06T10:00:53.099079+00:00",
-   "keywords_hit": [
-    "christodoulides"
-   ],
-   "category": "Κυπριακό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Newly sworn in Agriculture Minister Christos Senekis pledged to deliver “tangible results” and build on the work of his predecessor Maria Panayiotou after being sworn in on Thursday as part of Preside",
-   "angle": null
-  },
-  {
-   "id": "7c41f741464c0e62",
-   "title": "Δένδιας για τα έξι χρόνια από την υπογραφή της Συμφωνίας Οριοθέτησης ΑΟΖ με την Αίγυπτο: Κατοχυρώσαμε το εθνικό συμφέρον",
-   "link": "https://www.ertnews.gr/eidiseis/dendias-gia-ta-eksi-xronia-apo-tin-ypografi-tis-symfonias-oriothetisis-aoz-me-tin-aigypto-katoxyrosame-to-ethniko-symferon/",
-   "summary_raw": "<img alt=\"dendias\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"791\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/dendias-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1020\" /><p>«Έξι χρόνια από την υπογραφή της Συμφωνίας Οριοθέτησης ΑΟΖ με την Αίγυπτο, την οποία είχα την τιμή να υπογράψω ως Υπουργός Εξωτερικών, με τον τότε ομόλογό μου Σάμεχ Σούκρι. Κατοχυρώσαμε το εθνικό συμφέρον, στέλνοντας το μήνυμα ότι το Διεθνές Δίκαιο και το Δίκαιο της Θάλασσας είναι η βάση επίλυσης κάθε διαφοράς.» Αυτό τόνισε με ανάρτησή ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/dendias-gia-ta-eksi-xronia-apo-tin-ypografi-tis-symfonias-oriothetisis-aoz-me-tin-aigypto-katoxyrosame-to-ethniko-symferon/\" title=\"Δένδιας για τα έξι χρόνια από την υπογραφή της Συμφωνίας Οριοθέτησης ΑΟΖ με την Αίγυπτο: Κατοχυρώσαμε το εθνικό συμφέρον\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-06T07:28:21+00:00",
-   "collected": "2026-08-06T10:00:44.205282+00:00",
-   "keywords_hit": [
-    "αοζ",
-    "dendias",
-    "δένδιας"
-   ],
-   "category": "Αιγαίο-ΑΟΖ",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "«Έξι χρόνια από την υπογραφή της Συμφωνίας Οριοθέτησης ΑΟΖ με την Αίγυπτο, την οποία είχα την τιμή να υπογράψω ως Υπουργός Εξωτερικών, με τον τότε ομόλογό μου Σάμεχ Σούκρι. Κατοχυρώσαμε το εθνικό συμφ",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Σάμος",
-     "lat": 37.75,
-     "lon": 26.98
-    }
-   ]
-  },
-  {
-   "id": "4fe594c3ac91433d",
-   "title": "Christodoulides praises govt, outgoing ministers at replacements’ swearing-in",
-   "link": "https://cyprus-mail.com/2026/08/06/christodoulides-praises-govt-outgoing-ministers-at-replacements-swearing-in",
-   "summary_raw": "President Nikos Christodoulides heaped praise upon his government and upon the ministers whom he relieved of their duties as their replacements were sworn in on Thursday morning. “With feelings of appreciation and joy, we welcome the new cabinet members, the commissioners, and all the appointees who from today become fellow travellers in the extremely honourable [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-08-06T07:18:22+00:00",
-   "collected": "2026-08-06T10:00:53.099473+00:00",
-   "keywords_hit": [
-    "christodoulides"
-   ],
-   "category": "Κυπριακό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "President Nikos Christodoulides heaped praise upon his government and upon the ministers whom he relieved of their duties as their replacements were sworn in on Thursday morning. “With feelings of app",
-   "angle": null
-  },
-  {
-   "id": "d2bd97f4d20f504a",
-   "title": "Έξι χρόνια από την υπογραφή Οριοθέτησης ΑΟΖ με την Αίγυπτο -Δένδιας: Κατοχυρώσαμε το εθνικό συμφέρον - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByU29ycHBzbTU4dkZ2VTV2X1o3QW02RmxncngyYVJhQ083QzI5RjlBZk1qUmlLeHVjYi0wUXNVcVBaU2VqSGRXOERERzdmbVFaRzYzVF9feTVIQWRoYnRFa01INmp5RjNDOE1DZm8tMVN3emRYdml2TWR2RUPSAYIBQVVfeXFMT2pIXzdrRUNNdnZKdTU3NVctTVlUZ0w2a0ZwVXV4SHdzUEZib182WEFPT0pLRUxFVjFQNEhZQU5DdTg5LVcyTEhCNS1KbTNKdGtHMmN0YmtXdWNwYzh5NzRVRjJJQjE2cGVheXMxSzlUTlR4RjNjUXdtQmh1U3RvOFpwUQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFByU29ycHBzbTU4dkZ2VTV2X1o3QW02RmxncngyYVJhQ083QzI5RjlBZk1qUmlLeHVjYi0wUXNVcVBaU2VqSGRXOERERzdmbVFaRzYzVF9feTVIQWRoYnRFa01INmp5RjNDOE1DZm8tMVN3emRYdml2TWR2RUPSAYIBQVVfeXFMT2pIXzdrRUNNdnZKdTU3NVctTVlUZ0w2a0ZwVXV4SHdzUEZib182WEFPT0pLRUxFVjFQNEhZQU5DdTg5LVcyTEhCNS1KbTNKdGtHMmN0YmtXdWNwYzh5NzRVRjJJQjE2cGVheXMxSzlUTlR4RjNjUXdtQmh1U3RvOFpwUQ?oc=5\" target=\"_blank\">Έξι χρόνια από την υπογραφή Οριοθέτησης ΑΟΖ με την Αίγυπτο -Δένδιας: Κατοχυρώσαμε το εθνικό συμφέρον</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-06T07:00:44+00:00",
-   "collected": "2026-08-06T15:34:02.067195+00:00",
-   "keywords_hit": [
-    "αοζ",
-    "δένδιας"
-   ],
-   "category": "Αιγαίο-ΑΟΖ",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Έξι χρόνια από την υπογραφή Οριοθέτησης ΑΟΖ με την Αίγυπτο -Δένδιας: Κατοχυρώσαμε το εθνικό συμφέρον iefimerida.gr",
-   "angle": null
-  },
-  {
-   "id": "c2730610789e60ca",
-   "title": "Γαλλική «ασπίδα» στη διασύνδεση Ελλάδας-Κύπρου -Νέα ώθηση στο έργο - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOElrdWY2WGEtVWdBdE5hTUt6Q3hQU29HRmlGT3NzZWhKYXRiekE3eExqN3c0S29XMlA4czRIbHRYSXQ2TVMzZkVYdnVGV2NfN2FWT202NzF3N0U4T0FOY3J1dmtqdF9OVllVTDgwVDBfenM3V1FQREFRWFVBUTZXLTEtbTdTUXVK0gGOAUFVX3lxTE92WWtvbEoxYUhlZWhIemJ1cUhVaGtsSll6bHpxTWNIZUlsaDEtVWtLMkFMU3JHR0tYTDFtXzVoNi1RTDlsRWcxNkdvQnpIazhPa1VyWEloSEJ0UUtGUmt0UVEwSW9BVWZSblNIdzNVTmNFVUQ5d21FaElVdXhpd2NHN3hyRjVva2cwRURGRlE?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOElrdWY2WGEtVWdBdE5hTUt6Q3hQU29HRmlGT3NzZWhKYXRiekE3eExqN3c0S29XMlA4czRIbHRYSXQ2TVMzZkVYdnVGV2NfN2FWT202NzF3N0U4T0FOY3J1dmtqdF9OVllVTDgwVDBfenM3V1FQREFRWFVBUTZXLTEtbTdTUXVK0gGOAUFVX3lxTE92WWtvbEoxYUhlZWhIemJ1cUhVaGtsSll6bHpxTWNIZUlsaDEtVWtLMkFMU3JHR0tYTDFtXzVoNi1RTDlsRWcxNkdvQnpIazhPa1VyWEloSEJ0UUtGUmt0UVEwSW9BVWZSblNIdzNVTmNFVUQ5d21FaElVdXhpd2NHN3hyRjVva2cwRURGRlE?oc=5\" target=\"_blank\">Γαλλική «ασπίδα» στη διασύνδεση Ελλάδας-Κύπρου -Νέα ώθηση στο έργο</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-06T07:00:00+00:00",
-   "collected": "2026-08-06T12:21:18.614370+00:00",
-   "keywords_hit": [
-    "διασύνδεση"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Γαλλική «ασπίδα» στη διασύνδεση Ελλάδας-Κύπρου -Νέα ώθηση στο έργο iefimerida.gr",
-   "angle": null,
-   "corroborated_by": [
-    "ΕΡΤ News"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "05b4390cf728cbad",
-   "title": "Κάγια Κάλλας σε Γ. Μανιάτη για «Γαλάζια Πατρίδα»: «Η ΕΕ αναμένει από την Τουρκία να σέβεται τα κυριαρχικά δικαιώματα των κρατών μελών» - slpress.gr",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNb1RkUUgwb1Iwckhzazhkd2cwMHEtY0p2bUlXYVcwdkM4a0ZaZ19qUEJLaDktS0szU2tkMC1hRDJScHY4TGFGQmpIR2Q5V1JJc3NwcFNWUjVudXBvdS1tcGdxZnZ6LWN2cm90QVFFOTNxVklfSFAzbVpEX2loUWdfVmpyODlRTWhNaDVmeFdsSEd4Y3NySHgzbnk1YjkwNFJJcEkzWGU4WWZDQVVRYXlSYm5yN2VzcG1aaC1UdDBOOWY1ME9lb1p5ZjdXUEJ6OFJwVTdDQjZkeVlaejd5Q2JwU0I5aXdKa2V1ZUtJREJqXzltb2fSAfgBQVVfeXFMTkxSVnNkaXp1b0VKM1dNM3A0ZGFvXzR6MHIzTWFySmJCajF2M0lxNS1wODJCU2tCWmlEb3Q3SjhfcEdvQTBmaElXR3hJNXpkZ0dCNkxEX2txZTF5Z2doR1g2a2Q5YWJHOXFLQU5FMnNaYmRMOEtET2hOV0RrWHJHcmtrdzlueFlsal9SbHF3eW1mclFNTF9Ba1hQOE9saG9qZV9xMzlVaUU5Qm0tMmxJcF8zMXkyWDVsYkNycjU0eXJtMjJRcTlTNmJOajNNOFh2QVpYeFBmcE5xWXp0SV9ZUGRLYVplMFBnMS03YjZpTmo0cDVKVmtxTE4?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNb1RkUUgwb1Iwckhzazhkd2cwMHEtY0p2bUlXYVcwdkM4a0ZaZ19qUEJLaDktS0szU2tkMC1hRDJScHY4TGFGQmpIR2Q5V1JJc3NwcFNWUjVudXBvdS1tcGdxZnZ6LWN2cm90QVFFOTNxVklfSFAzbVpEX2loUWdfVmpyODlRTWhNaDVmeFdsSEd4Y3NySHgzbnk1YjkwNFJJcEkzWGU4WWZDQVVRYXlSYm5yN2VzcG1aaC1UdDBOOWY1ME9lb1p5ZjdXUEJ6OFJwVTdDQjZkeVlaejd5Q2JwU0I5aXdKa2V1ZUtJREJqXzltb2fSAfgBQVVfeXFMTkxSVnNkaXp1b0VKM1dNM3A0ZGFvXzR6MHIzTWFySmJCajF2M0lxNS1wODJCU2tCWmlEb3Q3SjhfcEdvQTBmaElXR3hJNXpkZ0dCNkxEX2txZTF5Z2doR1g2a2Q5YWJHOXFLQU5FMnNaYmRMOEtET2hOV0RrWHJHcmtrdzlueFlsal9SbHF3eW1mclFNTF9Ba1hQOE9saG9qZV9xMzlVaUU5Qm0tMmxJcF8zMXkyWDVsYkNycjU0eXJtMjJRcTlTNmJOajNNOFh2QVpYeFBmcE5xWXp0SV9ZUGRLYVplMFBnMS03YjZpTmo0cDVKVmtxTE4?oc=5\" target=\"_blank\">Κάγια Κάλλας σε Γ. Μανιάτη για «Γαλάζια Πατρίδα»: «Η ΕΕ αναμένει από την Τουρκία να σέβεται τα κυριαρχικά δικαιώματα των κρατών μελών»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">slpress.gr</font>",
-   "source": "SLpress",
-   "side": "greek_analysis",
-   "lang": "el",
-   "published": "2026-08-06T07:00:00+00:00",
-   "collected": "2026-08-09T21:50:20.137286+00:00",
-   "keywords_hit": [
-    "γαλάζια πατρίδα"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Κάγια Κάλλας σε Γ. Μανιάτη για «Γαλάζια Πατρίδα»: «Η ΕΕ αναμένει από την Τουρκία να σέβεται τα κυριαρχικά δικαιώματα των κρατών μελών» slpress.gr",
-   "angle": null
-  },
-  {
-   "id": "150c481f66240929",
-   "title": "Υπογράφηκε η παράδοση-παραλαβή του οικοπέδου όπου θα μετεγκατασταθεί η Πυροσβεστική Υπηρεσία Κομοτηνής",
-   "link": "https://www.ertnews.gr/eidiseis/ypografike-i-paradosi-paralavi-tou-oikopedou-opou-tha-metegkatastathei-i-pyrosvestiki-ypiresia-komotinis/",
-   "summary_raw": "<img alt=\"komotini-pirosvestiki3\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1438\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/komotini-pirosvestiki3.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1920\" /><p>Αναρτήθηκε στη Διαύγεια η απόφαση της παραχώρησης εκ μέρους του Υπουργείου Αγροτικής Ανάπτυξης προς το Υπουργείο Κλιματικής Κρίσης &#38; Πολιτικής Προστασίας, της χρήσης ακινήτου στην Κομοτηνή με σκοπό την κατασκευή κτιρίου για τη μετεγκατάσταση της τοπικής Πυροσβεστικής Υπηρεσίας και των Διοικητικών Πυροσβεστικών Υπηρεσιών της Περιφερειακής Ενότητας Ροδόπης. Η θέση της εν λόγω οικοπεδικής έκτασης, εμβαδού ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ypografike-i-paradosi-paralavi-tou-oikopedou-opou-tha-metegkatastathei-i-pyrosvestiki-ypiresia-komotinis/\" title=\"Υπογράφηκε η παράδοση-παραλαβή του οικοπέδου όπου θα μετεγκατασταθεί η Πυροσβεστική Υπηρεσία Κομοτηνής\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-06T06:57:00+00:00",
-   "collected": "2026-08-06T10:00:44.206762+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Αναρτήθηκε στη Διαύγεια η απόφαση της παραχώρησης εκ μέρους του Υπουργείου Αγροτικής Ανάπτυξης προς το Υπουργείο Κλιματικής Κρίσης & Πολιτικής Προστασίας, της χρήσης ακινήτου στην Κομοτηνή με σκοπό τη",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κομοτηνή",
-     "lat": 41.12,
-     "lon": 25.41
-    }
-   ]
-  },
-  {
-   "id": "fb41d16eb39e4763",
-   "title": "υδροδιπλωματία - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEpXU3ZNV1hxczk2RlppdjF0YjNTd0xZMjBtVkFSdm12M1B3UEY2QWs0bUdfQl9CUHU4OFBJeGhSY1QzQzR4RTI5bkxCb1c0eWpYdXFPempjN1hnU3BMMmRIc2xEMXhlRVRkdVozaWg1NkJMUmk3bWxwY280bnZoa01TREd5eUxkcy1xQnhUcDhtcl9BZzZZRDVRVExjazY1WWM5R2xtMDJ2Z1JQamc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEpXU3ZNV1hxczk2RlppdjF0YjNTd0xZMjBtVkFSdm12M1B3UEY2QWs0bUdfQl9CUHU4OFBJeGhSY1QzQzR4RTI5bkxCb1c0eWpYdXFPempjN1hnU3BMMmRIc2xEMXhlRVRkdVozaWg1NkJMUmk3bWxwY280bnZoa01TREd5eUxkcy1xQnhUcDhtcl9BZzZZRDVRVExjazY1WWM5R2xtMDJ2Z1JQamc?oc=5\" target=\"_blank\">υδροδιπλωματία</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-08-06T06:49:24+00:00",
-   "collected": "2026-08-07T12:00:06.669032+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "υδροδιπλωματία ecopress",
-   "angle": null
   }
  ]
 }
