@@ -1,7 +1,95 @@
 {
- "updated": "2026-08-15T14:43:14.230800+00:00",
- "count": 1909,
+ "updated": "2026-08-15T15:38:54.308802+00:00",
+ "count": 1910,
  "items": [
+  {
+   "id": "74247329143b1c43",
+   "title": "Morocco detains 111 migrants after attempted mass crossing into Spain's Ceuta",
+   "link": "https://www.aa.com.tr/en/world/morocco-detains-111-migrants-after-attempted-mass-crossing-into-spains-ceuta/4028352",
+   "summary_raw": "Authorities deploy additional security personnel, drones after social media calls for mass crossings into Ceuta, Melilla",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-15T15:26:57+00:00",
+   "collected": "2026-08-15T15:37:12.012131+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Authorities deploy additional security personnel, drones after social media calls for mass crossings into Ceuta, Melilla",
+   "angle": null
+  },
+  {
+   "id": "568e2e4bfb7034c6",
+   "title": "⚡️ A photo of Turkish Foreign Minister Hakan Fidan, with a map of historical Palestine behind him, sparked the anger of the Israeli occupation, after it was taken during his meetin…",
+   "link": "https://t.me/me_observer_TG/1068466",
+   "summary_raw": "⚡️ A photo of Turkish Foreign Minister Hakan Fidan, with a map of historical Palestine behind him, sparked the anger of the Israeli occupation, after it was taken during his meeting with the head of the Libyan Government of National Unity, Abdul Hamid Dbeibeh, in Tripoli. The occupation's foreign ministry claimed that Fidan's appearance in front of the map represents a threat to erase Israel, before attacking the Libyan government, claiming that its reception of the Turkish minister does not serve its security interests.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-08-15T15:21:30+00:00",
+   "collected": "2026-08-15T15:38:08.240716+00:00",
+   "keywords_hit": [
+    "fidan",
+    "libya",
+    "tripoli"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ A photo of Turkish Foreign Minister Hakan Fidan, with a map of historical Palestine behind him, sparked the anger of the Israeli occupation, after it was taken during his meeting with the head of t",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Τρίπολη",
+     "lat": 32.89,
+     "lon": 13.19
+    }
+   ]
+  },
+  {
+   "id": "d5b793c8f251a841",
+   "title": "Visioner 🇺🇦🚀 Ukraine is approaching a dangerous breaking point in the battle for its skies, with Patriot interceptor stocks now critically depleted as Russia dramatically expands i…",
+   "link": "https://t.me/OSINTLive/564361",
+   "summary_raw": "Visioner 🇺🇦🚀 Ukraine is approaching a dangerous breaking point in the battle for its skies, with Patriot interceptor stocks now critically depleted as Russia dramatically expands its ballistic missile campaign. According to the Financial Times, the shortage has already left Kyiv unable to intercept recent waves of Russian ballistic missiles.   Ukraine has exhausted much of the limited supply delivered in recent weeks, while replacements are not arriving fast enough. Kyiv estimates it needs at least 300 additional PAC-3 interceptors to withstand Russia’s expected winter campaign. The problem is becoming more acute as Moscow increases production and launches, while U.S. and allied inventories have also been heavily depleted by other conflicts.   The imbalance is becoming one of Ukraine’s most serious strategic vulnerabilities. Kyiv can increasingly strike Russian refineries, military facilities and defense industries deep behind the front, but those gains could be undermined if Russia is allowed to attack Ukrainian cities and critical infrastructure with ballistic missiles that cannot be intercepted. Without an urgent Western replenishment effort, the coming winter could turn the sho",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-15T15:09:27+00:00",
+   "collected": "2026-08-15T15:38:08.939391+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Visioner 🇺🇦🚀 Ukraine is approaching a dangerous breaking point in the battle for its skies, with Patriot interceptor stocks now critically depleted as Russia dramatically expands its ballistic missile",
+   "angle": null,
+   "corroborated_by": [
+    "Middle East Eye"
+   ]
+  },
+  {
+   "id": "06a8fb180939522e",
+   "title": "Turkish President Erdogan to Al Jazeera:  Türkiye cannot leave Gaza alone, and we will do whatever is necessary to support it.",
+   "link": "https://t.me/ClashReport/92641",
+   "summary_raw": "Turkish President Erdogan to Al Jazeera:  Türkiye cannot leave Gaza alone, and we will do whatever is necessary to support it.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-15T14:48:13+00:00",
+   "collected": "2026-08-15T15:38:07.007569+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Erdogan to Al Jazeera: Türkiye cannot leave Gaza alone, and we will do whatever is necessary to support it.",
+   "angle": null
+  },
   {
    "id": "96844963f3790f3c",
    "title": "Visioner 🇰🇷🇰🇵⚡️ South Korean President Lee Jae-myung is proposing a potentially historic diplomatic process with North Korea, seeking to formally end a war that has technically rem…",
@@ -187,6 +275,28 @@
      "lat": 32.12,
      "lon": 20.07
     }
+   ]
+  },
+  {
+   "id": "c2222baa7d9b1786",
+   "title": "How Iran and Ukraine are strategically sinking their rivals at sea",
+   "link": "https://www.middleeasteye.net/opinion/how-iran-and-ukraine-are-strategically-sinking-their-rivals-sea",
+   "summary_raw": "<article class=\"opinion default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/opinion/how-iran-and-ukraine-are-strategically-sinking-their-rivals-sea\" rel=\"bookmark\">\n<span class=\"field field-title\">How Iran and Ukraine are strategically sinking their rivals at sea</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/omar-ashour\" lang=\"lang\" title=\"View user profile.\">Omar Ashour</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-07-06T20:54:02+01:00\" title=\"6 July 2026 20:54 BST\">Mon, 07/06/2026 - 20:54</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">Through a combination of tactics, both countries have managed to keep superior fleets at bay, dealing significant blows to the US and Russia</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"500\" type=\"image/webp\" width=\"889\" />\n                  <img alt=\"Images released by Ukrainian authorities in November 2025 show what t",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-15T14:26:30+00:00",
+   "collected": "2026-08-15T15:37:26.871125+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "How Iran and Ukraine are strategically sinking their rivals at sea Submitted by Omar Ashour on Mon, 07/06/2026 - 20:54 Through a combination of tactics, both countries have managed to keep superior fl",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive"
    ]
   },
   {
@@ -533,6 +643,26 @@
    "turkish_narrative": false,
    "summary_el": "Από τα Χανιά, ο Κυριάκος Μητσοτάκης αναφέρθηκε στους πυροσβέστες, τους εθελοντές, τα στελέχη των ενόπλων δυνάμεων και της τοπικής αυτοδιοίκησης, που και φέτος δίνουν αυτή την δύσκολη μάχη «απέναντι στ",
    "angle": null
+  },
+  {
+   "id": "8f05dc69b414c3ed",
+   "title": "Russia Threatens to Board British and French Ships in Revenge For 'Shadow Fleet' Seizures",
+   "link": "https://www.breitbart.com/europe/2026/08/15/russia-threatens-to-board-british-and-french-ships-in-revenge/",
+   "summary_raw": "<p>President Vladimir Putin threatened retaliation against British and French 'pirates' over the seizure of Russian 'shadow fleet' oil tankers, saying his navy was ready to start capturing European ships in return.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/15/russia-threatens-to-board-british-and-french-ships-in-revenge/\" rel=\"nofollow\">Russia Threatens to Board British and French Ships in Revenge For &#8216;Shadow Fleet&#8217; Seizures</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-15T11:07:26+00:00",
+   "collected": "2026-08-15T15:38:05.469957+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "President Vladimir Putin threatened retaliation against British and French 'pirates' over the seizure of Russian 'shadow fleet' oil tankers, saying his navy was ready to start capturing European ships",
+   "angle": null,
+   "corroborated_by": [
+    "Spiked"
+   ]
   },
   {
    "id": "389e33d9a0022ddc",
@@ -41459,117 +41589,6 @@
    "angle": null,
    "corroborated_by": [
     "Breitbart"
-   ]
-  },
-  {
-   "id": "ee789d0fd1aab814",
-   "title": "Libya Restarts Oil Flow After Zaqout-Sidra Pipeline Repairs",
-   "link": "https://libyareview.com/67411/oil-pumping-resumes-on-libyas-zaqout-sidra-pipeline-after-leak/",
-   "summary_raw": "<p>Libya&#8217;s Al Waha Oil Company said on Saturday it had contained an oil leak on the Zaqout-Sidra pipeline and resumed pumping after completing repairs within 24 hours of detecting the problem. The company said the leak was discovered during a routine inspection of the pipeline, prompting technical and maintenance teams to begin emergency work on [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67411/oil-pumping-resumes-on-libyas-zaqout-sidra-pipeline-after-leak/\">Libya Restarts Oil Flow After Zaqout-Sidra Pipeline Repairs</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-08-08T15:36:23+00:00",
-   "collected": "2026-08-08T15:48:46.483153+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "Ενέργεια",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Libya’s Al Waha Oil Company said on Saturday it had contained an oil leak on the Zaqout-Sidra pipeline and resumed pumping after completing repairs within 24 hours of detecting the problem. The compan",
-   "angle": null
-  },
-  {
-   "id": "b04113fa5e82ef3e",
-   "title": "Η υποθετική χώρα των μεταναστών",
-   "link": "https://www.efsyn.gr/stiles/1444343/i-ypothetiki-hora-ton-metanaston/",
-   "summary_raw": "Το 2024, σύμφωνα με εκτιμήσεις του ΟΗΕ, 304 εκατομμύρια άνθρωποι ζούσαν έξω από τη χώρα γέννησής τους – το 3,7% του παγκόσμιου πληθυσμού",
-   "source": "Εφημερίδα των Συντακτών",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-08T15:35:38+00:00",
-   "collected": "2026-08-08T15:49:18.419242+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Το 2024, σύμφωνα με εκτιμήσεις του ΟΗΕ, 304 εκατομμύρια άνθρωποι ζούσαν έξω από τη χώρα γέννησής τους – το 3,7% του παγκόσμιου πληθυσμού",
-   "angle": null
-  },
-  {
-   "id": "743e1ca7eb83ce44",
-   "title": "Turkish parliamentary committee approves first bill in PKK peace process - turkishminute.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFY0VlZlZTdEZzVXZVVwWk9wZXhEcFJwTFk2NGpQak5sNV9rNkZ1YVNmX2R6ODZiT1R6OEJYTEVtU01xQlhkSGZGQktBX1V4ZXZBalNFVWNjdTlXVlZ6OTJpOGRpSlJ2WVVYQkZGSk9mazQ3VTNQWEFwckJBSC1rR3hWQ1U1c3VLcnFrSGFubHluUEtRenhfOTZEZi1UZm9BNDJWTkRBX3NRRkFEYzQzb3dIanPSAboBQVVfeXFMTmtqdlpBeWF0cmVDRHBpZzhmbEkzZUFCS2dXNlpjVW9QZ05KeXZYU1FMZTcwLVZoZEEtMmVuMk45bXBCdldHTlhsRWdONjlfT2JhOWhzUFZJOXNxTWdLczU1bFVibEdjN210ckhYdERVWTU3SzdhUmxaQzhyY2hZYXFSaGZiVUJvVzVkZTZrZ0VLVlNBWHZNSjZPenRaTlZpQ1M4bVB3dGpQX3BqYUpycVVXRnk0aWxGOUdB?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFY0VlZlZTdEZzVXZVVwWk9wZXhEcFJwTFk2NGpQak5sNV9rNkZ1YVNmX2R6ODZiT1R6OEJYTEVtU01xQlhkSGZGQktBX1V4ZXZBalNFVWNjdTlXVlZ6OTJpOGRpSlJ2WVVYQkZGSk9mazQ3VTNQWEFwckJBSC1rR3hWQ1U1c3VLcnFrSGFubHluUEtRenhfOTZEZi1UZm9BNDJWTkRBX3NRRkFEYzQzb3dIanPSAboBQVVfeXFMTmtqdlpBeWF0cmVDRHBpZzhmbEkzZUFCS2dXNlpjVW9QZ05KeXZYU1FMZTcwLVZoZEEtMmVuMk45bXBCdldHTlhsRWdONjlfT2JhOWhzUFZJOXNxTWdLczU1bFVibEdjN210ckhYdERVWTU3SzdhUmxaQzhyY2hZYXFSaGZiVUJvVzVkZTZrZ0VLVlNBWHZNSjZPenRaTlZpQ1M4bVB3dGpQX3BqYUpycVVXRnk0aWxGOUdB?oc=5\" target=\"_blank\">Turkish parliamentary committee approves first bill in PKK peace process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">turkishminute.com</font>",
-   "source": "Turkish Minute",
-   "side": "turkish_opposition",
-   "lang": "en",
-   "published": "2026-08-08T15:15:25+00:00",
-   "collected": "2026-08-10T02:36:31.864222+00:00",
-   "keywords_hit": [],
-   "category": "Ελληνοτουρκικά",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Turkish parliamentary committee approves first bill in PKK peace process turkishminute.com",
-   "angle": null
-  },
-  {
-   "id": "7f90269d6bfba66d",
-   "title": "Visioner RT @NSTRIKE1231: 🚨🇺🇦🎯🇷🇺 Ukrainian drones have disabled two vessels linked to Russia’s shadow fleet in the Black Sea, expanding Kyiv’s pressure on Moscow’s maritime logisti…",
-   "link": "https://t.me/OSINTLive/562809",
-   "summary_raw": "Visioner RT @NSTRIKE1231: 🚨🇺🇦🎯🇷🇺 Ukrainian drones have disabled two vessels linked to Russia’s shadow fleet in the Black Sea, expanding Kyiv’s pressure on Moscow’s maritime logistics.  Ukrainian kamikaze drones struck a dry cargo vessel and a fuel tanker operating in Russian territorial waters near Gelendzhik and Tuapse.  The drones reportedly targeted the navigation bridges of both vessels, causing significant damage and leaving the ships unable to continue operating under their own power.  Both vessels now require maritime tug assistance to be moved from the area.  The strikes demonstrate Ukraine’s growing ability to target individual vessels supporting Russian maritime logistics even within waters close to Russia’s Black Sea coastline.  See the latest updates with us: @NSTRIKE1231 tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-08-08T15:11:35+00:00",
-   "collected": "2026-08-08T15:49:26.395680+00:00",
-   "keywords_hit": [
-    "territorial waters"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Visioner RT @NSTRIKE1231: 🚨🇺🇦🎯🇷🇺 Ukrainian drones have disabled two vessels linked to Russia’s shadow fleet in the Black Sea, expanding Kyiv’s pressure on Moscow’s maritime logistics. Ukrainian kamika",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Μαύρη Θάλασσα",
-     "lat": 43.0,
-     "lon": 34.0
-    }
-   ]
-  },
-  {
-   "id": "cd02560417ee78f8",
-   "title": "Turkey and Saudi Arabia's rocky relations: A brief history",
-   "link": "https://www.middleeasteye.net/news/turkey-and-saudi-arabia-bitter-rivals-strategic-partners",
-   "summary_raw": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/turkey-and-saudi-arabia-bitter-rivals-strategic-partners\" rel=\"bookmark\">\n<span class=\"field field-title\">Turkey and Saudi Arabia's rocky relations: A brief history</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/rayhan-uddin\" lang=\"lang\" title=\"View user profile.\">Rayhan Uddin</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-08T14:44:26+01:00\" title=\"8 August 2026 14:44 BST\">Sat, 08/08/2026 - 14:44</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">As Riyadh and Ankara sign a historic defence agreement with Pakistan, MEE charts the turbulent ties between the two powers </div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"720\" type=\"image/webp\" width=\"1280\" />\n                  <img alt=\"Turkey’s President Recep Tayyip Erdogan is received by Saudi Crown Prince Mohammed bin Salman in Mecc",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-08T15:00:21+00:00",
-   "collected": "2026-08-08T15:48:44.251993+00:00",
-   "keywords_hit": [
-    "erdogan",
-    "libya",
-    "haftar",
-    "tripoli",
-    "renewable"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Turkey and Saudi Arabia's rocky relations: A brief history Submitted by Rayhan Uddin on Sat, 08/08/2026 - 14:44 As Riyadh and Ankara sign a historic defence agreement with Pakistan, MEE charts the tur",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Άγκυρα",
-     "lat": 39.93,
-     "lon": 32.86
-    }
    ]
   }
  ]
