@@ -1,7 +1,175 @@
 {
- "updated": "2026-08-16T11:38:14.530521+00:00",
- "count": 1879,
+ "updated": "2026-08-16T13:08:19.127295+00:00",
+ "count": 1865,
  "items": [
+  {
+   "id": "75d22df3b1e5b01b",
+   "title": "#USA #Iran   It seems that the question of the Iranian nuclear program is no longer the question of how to solve the access of economic players to the Strait of Hormuz. The Iranian…",
+   "link": "https://t.me/OSINTdefender/19842",
+   "summary_raw": "#USA #Iran   It seems that the question of the Iranian nuclear program is no longer the question of how to solve the access of economic players to the Strait of Hormuz. The Iranian nuclear program is increasingly viewed in the context of regional security and control over strategic assets, such as the Strait of Hormuz, rather than just a nuclear issue. Iran is shifting its focus to managing maritime traffic and leveraging its position in the strait for economic and strategic advantages.  Subscribe to @OSINTdefender | 💬 Chat room",
+   "source": "Telegram @OSINTdefender",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-16T13:02:26+00:00",
+   "collected": "2026-08-16T13:07:45.543589+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "#USA #Iran It seems that the question of the Iranian nuclear program is no longer the question of how to solve the access of economic players to the Strait of Hormuz. The Iranian nuclear program is in",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ορμούζ",
+     "lat": 26.57,
+     "lon": 56.25
+    }
+   ]
+  },
+  {
+   "id": "db67bc62a9d57eae",
+   "title": "Trump administration pulls support for annual Arctic environmental report",
+   "link": "https://grist.org/science/trump-administration-pulls-support-for-annual-arctic-environmental-report/",
+   "summary_raw": "",
+   "source": "Grist",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-08-16T13:00:00+00:00",
+   "collected": "2026-08-16T13:06:05.758450+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null,
+   "corroborated_by": [
+    "Guardian Environment"
+   ]
+  },
+  {
+   "id": "112ff079af376e52",
+   "title": "Κλιματική αλλαγή: Γιατί οι πλημμύρες μπορούν να χτυπήσουν ακόμη και τις πιο άνυδρες περιοχές",
+   "link": "https://www.ertnews.gr/dimosio-vima/arthrografia/klimatiki-allagi-giati-oi-plimmyres-mporoun-na-xtypisoun-akomi-kai-tis-pio-anydres-perioxes/",
+   "summary_raw": "<img alt=\"eikona-37\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"469\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/eikona-37.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1028\" /><p>Η κλιματική αλλαγή ενισχύει την εκδήλωση ακραίων καιρικών φαινομένων, με τις πλημμύρες να αποτελούν έναν από τους σημαντικότερους φυσικούς κινδύνους παγκοσμίως. Το γεγονός ότι μια περιοχή είναι ξηρή ή άνυδρη δεν σημαίνει ότι δεν μπορεί να βρεθεί αντιμέτωπη με ακραία πλημμυρικά φαινόμενα, όπως συνέβη πρόσφατα στη Μάνη. Ο καθηγητής Διευθέτηση Ορεινών Υδάτων του Πανεπιστημίου Θράκης, ... <a class=\"read-more\" href=\"https://www.ertnews.gr/dimosio-vima/arthrografia/klimatiki-allagi-giati-oi-plimmyres-mporoun-na-xtypisoun-akomi-kai-tis-pio-anydres-perioxes/\" title=\"Κλιματική αλλαγή: Γιατί οι πλημμύρες μπορούν να χτυπήσουν ακόμη και τις πιο άνυδρες περιοχές\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-16T12:45:35+00:00",
+   "collected": "2026-08-16T13:03:09.425822+00:00",
+   "keywords_hit": [
+    "θράκη",
+    "κλιματικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Η κλιματική αλλαγή ενισχύει την εκδήλωση ακραίων καιρικών φαινομένων, με τις πλημμύρες να αποτελούν έναν από τους σημαντικότερους φυσικούς κινδύνους παγκοσμίως. Το γεγονός ότι μια περιοχή είναι ξηρή ή",
+   "angle": null
+  },
+  {
+   "id": "f10271bfd60da578",
+   "title": "Εκλογικές ασκήσεις για τα ψηφοδέλτια σε Ξάνθη και Ροδόπη – Η εμφάνιση της ΕΛΑΣ ανακατεύει την τράπουλα",
+   "link": "https://www.efsyn.gr/politiki/1447823/eklogikes-askiseis-gia-ta-psifodeltia-se-xanthi-kai-rodopi-i-eisodos-tis-elas-anakateyei-tin-trapoyla/",
+   "summary_raw": "Η είσοδος της ΕΛΑΣ στο πολιτικό σκηνικό ανακατεύει την τράπουλα στη Θράκη, με τα κόμματα να αναζητούν τους ενδεδειγμένους μειονοτικούς υποψηφίους Το μειονοτικό κόμμα έχει καταγράψει υψηλά τοπικά ποσοστά στις ευρωεκλογές, χωρίς όμως να μπορεί να προσεγγίσει σε πανελλαδικό επίπεδο το όριο του 3%.",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-16T12:45:32+00:00",
+   "collected": "2026-08-16T13:07:31.010064+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η είσοδος της ΕΛΑΣ στο πολιτικό σκηνικό ανακατεύει την τράπουλα στη Θράκη, με τα κόμματα να αναζητούν τους ενδεδειγμένους μειονοτικούς υποψηφίους Το μειονοτικό κόμμα έχει καταγράψει υψηλά τοπικά ποσοσ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ξάνθη",
+     "lat": 41.14,
+     "lon": 24.89
+    },
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "cbc385ee57a3f8bf",
+   "title": "Christodoulides: ‘The state is our most important achievement’",
+   "link": "https://cyprus-mail.com/2026/08/16/christodoulides-the-state-is-our-most-important-achievement",
+   "summary_raw": "President Nikos Christodoulides on Sunday described the Republic as the country’s “most important achievement” as Cyprus marked 66 years since its proclamation. In a message published on X, Christodoulides said the anniversary represented “the pinnacle moment in the centuries-old history of our country”, describing independence as the result of the struggles of the Cypriot people [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-08-16T12:09:32+00:00",
+   "collected": "2026-08-16T13:03:38.358048+00:00",
+   "keywords_hit": [
+    "christodoulides"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "President Nikos Christodoulides on Sunday described the Republic as the country’s “most important achievement” as Cyprus marked 66 years since its proclamation. In a message published on X, Christodou",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "b772172c52c74f2f",
+   "title": "Κυπριακή Δημοκρατία: 66 χρόνια από την ανακήρυξή της σε ανεξάρτητο κράτος – Η σημαντικότερη μας κατάκτηση, λέει ο Χριστοδουλίδης",
+   "link": "https://www.philenews.com/politiki/article/1759661/kipriaki-dimokratia-66-chronia-apo-tin-anakirixi-tis-se-anexartito-kratos/",
+   "summary_raw": "<p>Η 16η Αυγούστου σηματοδοτεί την επέτειο 66 χρόνων από την ανακήρυξη της Κύπρου σε ανεξάρτητο κράτος. Μετά από 82 χρόνια υπό βρετανική κυριαρχία, ο τελευταίος Βρετανός Κυβερνήτης της Κύπρου, Χιου Φουτ, μαζί με τον Πρώτο Πρόεδρο της Κυπριακής Δημοκρατίας, Αρχιεπίσκοπο Μακάριο Γ’, και τον Αντιπρόεδρο, Φαζίλ Κουτσιούκ, υπέγραψαν τις συμφωνίες Ζυρίχης-Λονδίνου, βάσει των οποίων γινόταν [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/politiki/article/1759661/kipriaki-dimokratia-66-chronia-apo-tin-anakirixi-tis-se-anexartito-kratos/\">Κυπριακή Δημοκρατία: 66 χρόνια από την ανακήρυξή της σε ανεξάρτητο κράτος &#8211; Η σημαντικότερη μας κατάκτηση, λέει ο Χριστοδουλίδης</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-08-16T11:59:24+00:00",
+   "collected": "2026-08-16T13:04:42.964946+00:00",
+   "keywords_hit": [
+    "χριστοδουλίδης"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η 16η Αυγούστου σηματοδοτεί την επέτειο 66 χρόνων από την ανακήρυξη της Κύπρου σε ανεξάρτητο κράτος. Μετά από 82 χρόνια υπό βρετανική κυριαρχία, ο τελευταίος Βρετανός Κυβερνήτης της Κύπρου, Χιου Φουτ,",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "832984ac098fb8bf",
+   "title": "Migrants Again Storm Spain's Ceuta",
+   "link": "https://www.osint613.com/post/migrants-again-storm-spains-ceuta-20402",
+   "summary_raw": "Two weeks after the previous mass influx, thousands of Moroccan migrants are again attempting to enter Spain's Ceuta enclave.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-16T11:37:57+00:00",
+   "collected": "2026-08-16T13:07:35.540350+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Two weeks after the previous mass influx, thousands of Moroccan migrants are again attempting to enter Spain's Ceuta enclave.",
+   "angle": null
+  },
   {
    "id": "e26baad2eb4ebe1d",
    "title": "Μέτρα έσχατης ανάγκης για την πυρηνική κρίση σε Ουγγαρία και Ρουμανία",
@@ -85,6 +253,28 @@
    "turkish_narrative": false,
    "summary_el": "Ukraine's Unmanned Systems Forces Commander Robert Brovdi allegedly emailed the brother of a Turkish sailor killed in a Ukrainian drone strike on the cargo ship MV Reyhan Sarı near Novorossiysk in Jul",
    "angle": null
+  },
+  {
+   "id": "4fa503f3ce21c841",
+   "title": "Over 8 in 10 British Voters Think Gov't Not Doing Enough to Stop Illegal Immigration",
+   "link": "https://www.breitbart.com/europe/2026/08/16/over-8-in-10-british-voters-think-govt-not-doing-enough-to-stop-illegal-immigration/",
+   "summary_raw": "<p>Over eight in ten British voters believe that the left-wing Labour Party government is not doing enough to prevent illegal immigrants from reaching English shores, potentially spelling trouble for recently installed Prime Minister Andy Burnham.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/16/over-8-in-10-british-voters-think-govt-not-doing-enough-to-stop-illegal-immigration/\" rel=\"nofollow\">Over 8 in 10 British Voters Think Gov&#8217;t Not Doing Enough to Stop Illegal Immigration</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-16T10:34:36+00:00",
+   "collected": "2026-08-16T13:07:35.307572+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Over eight in ten British voters believe that the left-wing Labour Party government is not doing enough to prevent illegal immigrants from reaching English shores, potentially spelling trouble for rec",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "36330667ca832b6b",
@@ -270,6 +460,26 @@
    "turkish_narrative": false,
    "summary_el": "⚡️ Wall Street Journal: In recent weeks, pessimism has increased in the White House regarding the possibility of reaching a final nuclear agreement with Iran. According to the report, President Trump'",
    "angle": null
+  },
+  {
+   "id": "c0ef002438f4e63d",
+   "title": "Britain is facing a housing disaster",
+   "link": "https://www.spiked-online.com/2026/08/16/britain-is-facing-a-housing-disaster/",
+   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/08/16/britain-is-facing-a-housing-disaster/\">Britain is facing a housing disaster</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
+   "source": "Spiked",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-08-16T08:55:49+00:00",
+   "collected": "2026-08-16T13:07:34.997808+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The post Britain is facing a housing disaster appeared first on spiked .",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "8453f0cf9292ec16",
@@ -40348,515 +40558,6 @@
    "turkish_narrative": false,
    "summary_el": "Έβρος: Πυρκαγιά στη Γιαννούλη Σουφλίου - Κινητοποιήθηκαν εναέρια μέσα Cretalive",
    "angle": null
-  },
-  {
-   "id": "5717faf7f66c4e9e",
-   "title": "Έβρος: Λάθος συναγερμός για την πυρκαγιά στη Γιαννούλη Σουφλίου - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iMnhKMzFIcXRzVzlnMHZCUklwMGZVQl9qQlFqQ002NXFWU3FXcmtfeFdvd2NyZ0VyMjdWQUhwUy1yX0lmNEluNktiOEsweF9mRVRpcVQ3RVlnbEZYeUp6U1Z0TlNzSHJCNndId1hGcDBqalhJUVgzMtIBfkFVX3lxTE5NYXU2cjFBZU1LR3c4eFpDTkFrRnBYNjBWZzBDXzRVaXYtdEEydDBrc0c4MHctSjg2ZlpqaDdidU9lcEhMc01KTnN1U052N2k2TG9xQ2dGUTItQzIzLXh6NTZGWGt6RzhXQUJOMVRFNHFta3lyenlSS0pESjEzZw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5iMnhKMzFIcXRzVzlnMHZCUklwMGZVQl9qQlFqQ002NXFWU3FXcmtfeFdvd2NyZ0VyMjdWQUhwUy1yX0lmNEluNktiOEsweF9mRVRpcVQ3RVlnbEZYeUp6U1Z0TlNzSHJCNndId1hGcDBqalhJUVgzMtIBfkFVX3lxTE5NYXU2cjFBZU1LR3c4eFpDTkFrRnBYNjBWZzBDXzRVaXYtdEEydDBrc0c4MHctSjg2ZlpqaDdidU9lcEhMc01KTnN1U052N2k2TG9xQ2dGUTItQzIzLXh6NTZGWGt6RzhXQUJOMVRFNHFta3lyenlSS0pESjEzZw?oc=5\" target=\"_blank\">Έβρος: Λάθος συναγερμός για την πυρκαγιά στη Γιαννούλη Σουφλίου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-09T13:02:17+00:00",
-   "collected": "2026-08-09T23:49:32.860958+00:00",
-   "keywords_hit": [
-    "έβρος"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Έβρος: Λάθος συναγερμός για την πυρκαγιά στη Γιαννούλη Σουφλίου iefimerida.gr",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Έβρος",
-     "lat": 41.12,
-     "lon": 26.35
-    }
-   ]
-  },
-  {
-   "id": "2040839939a73e61",
-   "title": "Female Police Officer Fired and Blacklisted over Transgender Joke",
-   "link": "https://www.breitbart.com/europe/2026/08/09/female-police-officer-fired-and-blacklisted-over-transgender-joke/",
-   "summary_raw": "<p>A female detective in Britain has been fired and reportedly placed on a blacklist that includes rapists and murderers after she criticised her force's LGBT policies as appeasing people with \"cocks in frocks\".</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/09/female-police-officer-fired-and-blacklisted-over-transgender-joke/\" rel=\"nofollow\">Female Police Officer Fired and Blacklisted over Transgender Joke</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-09T13:02:16+00:00",
-   "collected": "2026-08-09T14:55:35.453398+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "A female detective in Britain has been fired and reportedly placed on a blacklist that includes rapists and murderers after she criticised her force's LGBT policies as appeasing people with \"cocks in ",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @OSINTLive"
-   ]
-  },
-  {
-   "id": "39ebfb6d48278bd8",
-   "title": "In rural communities, fears amplified by ‘AI slop’ and social media hamper solar boom",
-   "link": "https://grist.org/energy/in-rural-communities-fears-amplified-by-ai-slop-and-social-media-hamper-solar-boom/",
-   "summary_raw": "",
-   "source": "Grist",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-08-09T13:00:00+00:00",
-   "collected": "2026-08-10T23:53:02.208755+00:00",
-   "keywords_hit": [
-    "solar"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null
-  },
-  {
-   "id": "8dcb0c96a5b4013f",
-   "title": "Open Source Intel WSJ Report: Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials…",
-   "link": "https://t.me/OSINTLive/562996",
-   "summary_raw": "Open Source Intel WSJ Report: Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials say. Full reopening of the strait would also lift the U.S. blockade on Iran's ports. tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-08-09T12:55:11+00:00",
-   "collected": "2026-08-09T14:03:19.648980+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Open Source Intel WSJ Report: Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials say. Full reopening",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
-   ]
-  },
-  {
-   "id": "0c99542e73332f1e",
-   "title": "Trump May Extend Ceasefire Over Iran",
-   "link": "https://www.osint613.com/post/trump-may-extend-ceasefire-over-iran-19839",
-   "summary_raw": "WSJ Report: Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials say. Full reopening of the strait would also lift the U.S. blockade on Iran's ports.",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-08-09T12:54:37+00:00",
-   "collected": "2026-08-09T13:18:15.096009+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "WSJ Report: Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials say. Full reopening of the strait wou",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
-   ]
-  },
-  {
-   "id": "65a9dc45884d9ad9",
-   "title": "Elevated wildfire risk on Monday, caution urged",
-   "link": "https://www.ekathimerini.com/news/1312019/elevated-wildfire-risk-on-monday-caution-urged/",
-   "summary_raw": "Authorities have placed large parts of southeastern Greece, including areas stretching from the southern mainland to Crete and the Aegean islands, under very high wildfire risk for Monday.",
-   "source": "Kathimerini (EN)",
-   "side": "greek_media",
-   "lang": "en",
-   "published": "2026-08-09T12:33:00+00:00",
-   "collected": "2026-08-09T14:02:13.763987+00:00",
-   "keywords_hit": [
-    "aegean"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Authorities have placed large parts of southeastern Greece, including areas stretching from the southern mainland to Crete and the Aegean islands, under very high wildfire risk for Monday.",
-   "angle": null
-  },
-  {
-   "id": "8f3d356a8dab4ff7",
-   "title": "Open Source Intel Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials say. Full r…",
-   "link": "https://t.me/OSINTLive/562988",
-   "summary_raw": "Open Source Intel Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials say. Full reopening of the strait would also lift the U.S. blockade on Iran's ports. tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-08-09T12:25:00+00:00",
-   "collected": "2026-08-09T14:03:19.647846+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Open Source Intel Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials say. Full reopening of the stra",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @clashreport"
-   ],
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
-   ]
-  },
-  {
-   "id": "947b4e2bbb17c38d",
-   "title": "Trump had hoped reopening the Strait of Hormuz would give him a way to declare victory and wind down the Iran conflict, even without a nuclear deal. But Tehran has sharply raised i…",
-   "link": "https://t.me/ClashReport/92021",
-   "summary_raw": "Trump had hoped reopening the Strait of Hormuz would give him a way to declare victory and wind down the Iran conflict, even without a nuclear deal. But Tehran has sharply raised its demands.  Iran wants U.S. forces withdrawn from the region, the naval blockade…",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-09T12:23:29+00:00",
-   "collected": "2026-08-09T14:03:16.713081+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Trump had hoped reopening the Strait of Hormuz would give him a way to declare victory and wind down the Iran conflict, even without a nuclear deal. But Tehran has sharply raised its demands. Iran wan",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @OSINTLive"
-   ],
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
-   ]
-  },
-  {
-   "id": "cf8a1506f86e0605",
-   "title": "ΓΕΩΤΕE: έξι άξονες για νέα εθνική πολιτική δασοπροστασίας - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CZHZXSnlQRWpWblRzNFIwNXZ0czZRb2NzNWhiSHFuLWd4b195SXJ5ZXk2ZWxPM1VxQ0VnSzNRWlNqZzRtbFdvbUxzTnlDck5HLWdkS2xWZ203alN4UV96UDJwYnVhNEZSOElLOWt3?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9CZHZXSnlQRWpWblRzNFIwNXZ0czZRb2NzNWhiSHFuLWd4b195SXJ5ZXk2ZWxPM1VxQ0VnSzNRWlNqZzRtbFdvbUxzTnlDck5HLWdkS2xWZ203alN4UV96UDJwYnVhNEZSOElLOWt3?oc=5\" target=\"_blank\">ΓΕΩΤΕE: έξι άξονες για νέα εθνική πολιτική δασοπροστασίας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-08-09T12:07:56+00:00",
-   "collected": "2026-08-09T13:17:47.158058+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "ΓΕΩΤΕE: έξι άξονες για νέα εθνική πολιτική δασοπροστασίας ecopress",
-   "angle": null
-  },
-  {
-   "id": "6aa3f5abd11bd44b",
-   "title": "Ξεκίνησε η επισκευή του αγωγού ύδρευσης στην Παραδημή - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXVDaUFIeDZNemtqNTJZSXdfdHFFcWN2Rkt2NWotaTlZN2xSVkRsNjhPQnVZV3dpZk9FU09EUVdjbE5DQWZxMkdqNkxKa2hIY2hFc01ad2I0V21yVUhDc2dIeEJMQkNOZVJ3b2JRZ1lfWldrUVdVTTI4WEdva1AzdHpJRmVxcEJVakI2RVZjeXBXMkRnSUtRNjNuRQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXVDaUFIeDZNemtqNTJZSXdfdHFFcWN2Rkt2NWotaTlZN2xSVkRsNjhPQnVZV3dpZk9FU09EUVdjbE5DQWZxMkdqNkxKa2hIY2hFc01ad2I0V21yVUhDc2dIeEJMQkNOZVJ3b2JRZ1lfWldrUVdVTTI4WEdva1AzdHpJRmVxcEJVakI2RVZjeXBXMkRnSUtRNjNuRQ?oc=5\" target=\"_blank\">Ξεκίνησε η επισκευή του αγωγού ύδρευσης στην Παραδημή</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-08-09T12:04:04+00:00",
-   "collected": "2026-08-10T04:56:53.711790+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Ξεκίνησε η επισκευή του αγωγού ύδρευσης στην Παραδημή Παρατηρητής της Θράκης",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "eb6c77ac57eb23be",
-   "title": "Trump Links Ceasefire to Iran Nuclear Deal",
-   "link": "https://www.osint613.com/post/trump-links-ceasefire-iran-nuclear-deal-19835",
-   "summary_raw": "Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials say. Full reopening of the strait would also lift the U.S. blockade on Iran's ports.",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-08-09T12:03:51+00:00",
-   "collected": "2026-08-09T13:18:15.096724+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Trump would extend the ceasefire indefinitely if Iran's nuclear program stays in check and the Strait of Hormuz reopens to traffic, American officials say. Full reopening of the strait would also lift",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
-   ]
-  },
-  {
-   "id": "3aa0ef68b0e56a41",
-   "title": "ΠΥΡ ΚΑΙ ΜΑΝΙΑ Ο ΠΟΥΤΙΝ! Η Τουρκία στέλνει 5 μαχητικά F-16 και 80 στρατιωτικούς στην Εσθονία",
-   "link": "https://www.pentapostagma.gr/videos/7384382_pyr-kai-mania-o-poytin-i-toyrkia-stelnei-5-mahitika-f-16-kai-80-stratiotikoys-stin",
-   "summary_raw": "Η Ρωσία παρακολουθεί με καχυποψία την Τουρκία στα σύνορά της Η Μόσχα του Πούτιν βλέπει τους Τούρκους να συντάσσονται ...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-09T12:00:18+00:00",
-   "collected": "2026-08-09T13:17:36.047736+00:00",
-   "keywords_hit": [
-    "f-16"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Η Ρωσία παρακολουθεί με καχυποψία την Τουρκία στα σύνορά της Η Μόσχα του Πούτιν βλέπει τους Τούρκους να συντάσσονται ...",
-   "angle": null
-  },
-  {
-   "id": "a89dc4c71bf743c9",
-   "title": "Climate Crisis?",
-   "link": "https://www.dailysignal.com/2026/08/09/climate-crisis/",
-   "summary_raw": "Just two years ago, the United Nations secretary general announced, &#8220;Global warming has ended &#8230; The era of global boiling has arrived!&#8221;&#160; &#8220;[We were]&#160;warned about this,&#8221; said a &#8220;Daily Show&#8221; host, &#8220;by every scientist for the last 50 years!&#8221;&#160; His audience applauded.&#160;&#160;&#160; Wow.&#160;Every&#160;scientist agreed!&#160;&#160;&#160; But&#160;here&#8217;s&#160;the thing. They&#160;didn&#8217;t.&#160; My new video&#160;covers how many of the scaremongers&#8217;...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-09T12:00:00+00:00",
-   "collected": "2026-08-09T13:18:14.653251+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Just two years ago, the United Nations secretary general announced, “Global warming has ended … The era of global boiling has arrived!” “[We were] warned about this,” said a “Daily Show” host, “by eve",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "086768ceee034bdd",
-   "title": "Εκτός σχεδίου δόμηση: Η ασφάλεια δικαίου που έγινε υπεύθυνη δήλωση - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kTXV6LXdqbHF1MC1xZS1Ma01TOTdRbVF4TzBBYlJQSXBKa0FCU21NYjNZMVYyemNnMVB5c0cwWmJCcy1LRmZ3N2szaW5rZ3hlcEh0NW1zT1pnb2ZpX0NkejRHOVhTd2daZHhF?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5kTXV6LXdqbHF1MC1xZS1Ma01TOTdRbVF4TzBBYlJQSXBKa0FCU21NYjNZMVYyemNnMVB5c0cwWmJCcy1LRmZ3N2szaW5rZ3hlcEh0NW1zT1pnb2ZpX0NkejRHOVhTd2daZHhF?oc=5\" target=\"_blank\">Εκτός σχεδίου δόμηση: Η ασφάλεια δικαίου που έγινε υπεύθυνη δήλωση</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-08-09T11:51:32+00:00",
-   "collected": "2026-08-09T13:17:47.157682+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Εκτός σχεδίου δόμηση: Η ασφάλεια δικαίου που έγινε υπεύθυνη δήλωση ecopress",
-   "angle": null
-  },
-  {
-   "id": "7fda8e9c330b5858",
-   "title": "Saudi Aramco refinery erupts in flames in Jizan as Houthis claim drone attack",
-   "link": "https://www.middleeasteye.net/news/saudi-aramco-facility-erupts-flames-jizan-houthis-claim-drone-attack",
-   "summary_raw": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/saudi-aramco-facility-erupts-flames-jizan-houthis-claim-drone-attack\" rel=\"bookmark\">\n<span class=\"field field-title\">Saudi Aramco refinery erupts in flames in Jizan as Houthis claim drone attack</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/mee-staff\" lang=\"lang\" title=\"View user profile.\">MEE staff</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-09T11:27:27+01:00\" title=\"9 August 2026 11:27 BST\">Sun, 08/09/2026 - 11:27</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">The Saudi energy ministry did not give a cause for the fire, while Yemen’s Houthis claimed they had targeted the site</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"788\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"Wreckage of what Yemen’s Houthis said was a downed Saudi drone in al-Jawf governor",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-09T11:47:26+00:00",
-   "collected": "2026-08-09T11:47:35.257447+00:00",
-   "keywords_hit": [
-    "fidan"
-   ],
-   "category": "Ενέργεια",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Saudi Aramco refinery erupts in flames in Jizan as Houthis claim drone attack Submitted by MEE staff on Sun, 08/09/2026 - 11:27 The Saudi energy ministry did not give a cause for the fire, while Yemen",
-   "angle": null
-  },
-  {
-   "id": "88da7200397f8c88",
-   "title": "Risk Assessment Committee reconvenes over strong winds and high temperatures",
-   "link": "https://greekcitytimes.com/2026/08/09/greece-risk-assessment-committee-strong-winds-forecast/",
-   "summary_raw": "<p>The Risk Assessment Committee reconvened on Sunday to assess persistent strong northerly winds across Greece, with scientists warning of gusts up to 9 Beaufort in parts of the Aegean and Crete over the coming days.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/08/09/greece-risk-assessment-committee-strong-winds-forecast/\">Risk Assessment Committee reconvenes over strong winds and high temperatures</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-08-09T11:46:44+00:00",
-   "collected": "2026-08-09T11:47:43.327456+00:00",
-   "keywords_hit": [
-    "aegean"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "The Risk Assessment Committee reconvened on Sunday to assess persistent strong northerly winds across Greece, with scientists warning of gusts up to 9 Beaufort in parts of the Aegean and Crete over th",
-   "angle": null
-  },
-  {
-   "id": "ef4148971904c542",
-   "title": "Θράκη: Σύλληψη δύο αλλοδαπών διακινητών \"μεταναστών\" - Defence Point",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXRkMjExbVpZNHUtbXgxSmRfaFU0MGpMSlZuUGZvQjJJX1BjRk9RckFqVW5GZThXWDNmZkREUW11dHpXOTNORk1JRm51aDJkblhYc1NLWlZjWVNuTkRMQ3BBd3ZsY0dHUGhpeG5wckJlQVowUjktYjZLbXdiM2cyVnRDUEZfM2haMnh6ZnhfbkFCLUN1?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXRkMjExbVpZNHUtbXgxSmRfaFU0MGpMSlZuUGZvQjJJX1BjRk9RckFqVW5GZThXWDNmZkREUW11dHpXOTNORk1JRm51aDJkblhYc1NLWlZjWVNuTkRMQ3BBd3ZsY0dHUGhpeG5wckJlQVowUjktYjZLbXdiM2cyVnRDUEZfM2haMnh6ZnhfbkFCLUN1?oc=5\" target=\"_blank\">Θράκη: Σύλληψη δύο αλλοδαπών διακινητών \"μεταναστών\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defence Point</font>",
-   "source": "Defence Point",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-09T11:45:41+00:00",
-   "collected": "2026-08-13T00:00:34.395537+00:00",
-   "keywords_hit": [
-    "θράκη",
-    "μεταναστ",
-    "διακινητ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Θράκη: Σύλληψη δύο αλλοδαπών διακινητών \"μεταναστών\" Defence Point",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "27093dd71fccbb5d",
-   "title": "⚡️ 🔴Director of Russia's Rosatom State Atomic Energy Corporation, Alexey Likhachev: - Rosatom has begun returning specialists to the Bushehr nuclear power plant in Iran, and the fi…",
-   "link": "https://t.me/me_observer_TG/1064484",
-   "summary_raw": "⚡️ 🔴Director of Russia's Rosatom State Atomic Energy Corporation, Alexey Likhachev: - Rosatom has begun returning specialists to the Bushehr nuclear power plant in Iran, and the first five of them have arrived at the site and begun performing their duties. - We plan to send the next group of employees to the Bushehr plant within the next two weeks, provided there is no new escalation. - Rosatom plans to return all specialists previously evacuated from Iran to the Bushehr plant as soon as possible. - If things go well, the number of Rosatom employees at the Bushehr plant will reach 100 people in the fall. - Likhachev on the return of Rosatom employees to Iran: This will only be possible after the United States and Iran reach a ceasefire agreement. - Construction of units 2 and 3 at the Bushehr plant continues, and preparatory work is underway at the hydraulic facilities.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-09T11:43:57+00:00",
-   "collected": "2026-08-09T11:48:27.638480+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ 🔴Director of Russia's Rosatom State Atomic Energy Corporation, Alexey Likhachev: - Rosatom has begun returning specialists to the Bushehr nuclear power plant in Iran, and the first five of them hav",
-   "angle": null
-  },
-  {
-   "id": "e061e94054fe1a9b",
-   "title": "Αυστηροί συνοριακοί έλεγχοι στην Ισπανία: Έλεγξαν περίπου 200 αφίξεις ταξιδιωτών από την Ιταλία - newsbomb.gr",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPczNSMXgydm82ZHFJRUVkejU1WjZUMGdhUlBSVXBseTMxdlBoUXM4Njd2OHJLbnBGNVRwUlk3RkRaSDc5SU1pY29DRlczY2MtQmp2dTZKRHpUbDNOa2NRMjBIejN5ZWR1SWNFRGwwckdQZ1NiZ25NNzFQblFfZFhJamRBazB3YnFwZ1EyeWlkWEJ1ZmpCRXp5dnpJdDg0alluTHpqSzA2MTlqTWVBNm8xYkFkWmJpS01xb1JVN3NyM0tCaW5vTmhlUFFweDJpTlRHUm03ZGxlSGdTZw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPczNSMXgydm82ZHFJRUVkejU1WjZUMGdhUlBSVXBseTMxdlBoUXM4Njd2OHJLbnBGNVRwUlk3RkRaSDc5SU1pY29DRlczY2MtQmp2dTZKRHpUbDNOa2NRMjBIejN5ZWR1SWNFRGwwckdQZ1NiZ25NNzFQblFfZFhJamRBazB3YnFwZ1EyeWlkWEJ1ZmpCRXp5dnpJdDg0alluTHpqSzA2MTlqTWVBNm8xYkFkWmJpS01xb1JVN3NyM0tCaW5vTmhlUFFweDJpTlRHUm03ZGxlSGdTZw?oc=5\" target=\"_blank\">Αυστηροί συνοριακοί έλεγχοι στην Ισπανία: Έλεγξαν περίπου 200 αφίξεις ταξιδιωτών από την Ιταλία</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsbomb.gr</font>",
-   "source": "Newsbomb",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-09T11:42:00+00:00",
-   "collected": "2026-08-09T15:48:54.108760+00:00",
-   "keywords_hit": [
-    "αφίξεις"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Αυστηροί συνοριακοί έλεγχοι στην Ισπανία: Έλεγξαν περίπου 200 αφίξεις ταξιδιωτών από την Ιταλία newsbomb.gr",
-   "angle": null
-  },
-  {
-   "id": "562da7c2da48ece6",
-   "title": "Netanyahu says Iran will 'not have nuclear weapons' with or without deal",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-iran-will-not-have-nuclear-weapons-or-without-deal",
-   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-iran-will-not-have-nuclear-weapons-or-without-deal\" rel=\"bookmark\">\n<span class=\"field field-title\">Netanyahu says Iran will 'not have nuclear weapons' with or without deal</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Israeli Prime Minister Benjamin Netanyahu said that he would prevent&nbsp;Iran&nbsp;from having nuclear weapons, a goal he has long alleged Tehran is pursuing, regardless of the course of negotiation efforts with Washington and Arab states.</p>\n\n<p>\"I want to emphasise once again: with an agreement or without an agreement, as long as I am prime minister,&nbsp;Iran&nbsp;will not have nuclear weapons,\" Netanyahu said at a cabinet meeting.</p>\n\n\n</div>\n      \n  </div>\n\n</article>",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-09T11:40:01+00:00",
-   "collected": "2026-08-09T11:47:35.257791+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Netanyahu says Iran will 'not have nuclear weapons' with or without deal Israeli Prime Minister Benjamin Netanyahu said that he would prevent Iran from having nuclear weapons, a goal he has long alleg",
-   "angle": null
-  },
-  {
-   "id": "05c97ce2411a20ee",
-   "title": "⚡️ 🔴UN High Commissioner for Refugees: Approximately 672,299 registered Syrians have returned from Lebanon to Syria since January 2025",
-   "link": "https://t.me/me_observer_TG/1064475",
-   "summary_raw": "⚡️ 🔴UN High Commissioner for Refugees: Approximately 672,299 registered Syrians have returned from Lebanon to Syria since January 2025",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-09T11:39:52+00:00",
-   "collected": "2026-08-09T11:48:27.637612+00:00",
-   "keywords_hit": [
-    "refugee"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ 🔴UN High Commissioner for Refugees: Approximately 672,299 registered Syrians have returned from Lebanon to Syria since January 2025",
-   "angle": null
-  },
-  {
-   "id": "ac56dcced0f17a5a",
-   "title": "Δύο συλλήψεις για παράνομη μεταφορά μεταναστών σε Έβρο και Ροδόπη - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGtSODA0eVpRZHBTRWpJZzJLM0xLbWowMld3dHpNdEV3SGRrZVlzbk9ySkVLQkprc05aWFF5TTVQQzUtMV9CMnFZWjFGWW1oeXRVOUpFdnJCYjVtZ2U4VnF1UkY4RkNZclFLcF9qUVJjTXIxckJhZmVoVkE0REhITVh3TmNnV2FFQmJoaDB5aW8xbjlRU0RhR3JacUhzQm1i0gGmAUFVX3lxTFBJazhVZDJTUjd4ZkNITzVDenJIcnFHZHhMeWwwRkVYellwOWVGNGs4enRqdGIyVVR1THA0Ym5hUUJQX3AtSHdJcHRDY2VNR2hzV1d6QjlLM2tZOUR6ZFFuV2VaYVJQc2FKQTlXLTdaTXF0ZW9rdVVKbnJxUnBvbmdfcndqN2FFN2tyYkcxNmtOckR0NnNhRWtKNmZ0cUhkWk03Z1dDbEE?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGtSODA0eVpRZHBTRWpJZzJLM0xLbWowMld3dHpNdEV3SGRrZVlzbk9ySkVLQkprc05aWFF5TTVQQzUtMV9CMnFZWjFGWW1oeXRVOUpFdnJCYjVtZ2U4VnF1UkY4RkNZclFLcF9qUVJjTXIxckJhZmVoVkE0REhITVh3TmNnV2FFQmJoaDB5aW8xbjlRU0RhR3JacUhzQm1i0gGmAUFVX3lxTFBJazhVZDJTUjd4ZkNITzVDenJIcnFHZHhMeWwwRkVYellwOWVGNGs4enRqdGIyVVR1THA0Ym5hUUJQX3AtSHdJcHRDY2VNR2hzV1d6QjlLM2tZOUR6ZFFuV2VaYVJQc2FKQTlXLTdaTXF0ZW9rdVVKbnJxUnBvbmdfcndqN2FFN2tyYkcxNmtOckR0NnNhRWtKNmZ0cUhkWk03Z1dDbEE?oc=5\" target=\"_blank\">Δύο συλλήψεις για παράνομη μεταφορά μεταναστών σε Έβρο και Ροδόπη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-09T11:38:27+00:00",
-   "collected": "2026-08-09T11:48:16.907791+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Δύο συλλήψεις για παράνομη μεταφορά μεταναστών σε Έβρο και Ροδόπη iefimerida.gr",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Έβρος",
-     "lat": 41.12,
-     "lon": 26.35
-    }
-   ]
-  },
-  {
-   "id": "1aa6b85b7097e800",
-   "title": "Iran's Top Diplomat Refuses to Directly Engage with U.S. Until Tehran's Demands Are Met",
-   "link": "https://www.breitbart.com/politics/2026/08/09/iran-refuses-to-engage-directly-with-u-s-until-its-demands-are-met/",
-   "summary_raw": "<p>There will be no direct talks between Iran and the U.S. as long as Washington continues to ignore Tehran's demands for solving the Strait of Hormuz dispute, Foreign Minister ⁠Abbas Araqchi said on ​Sunday.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/09/iran-refuses-to-engage-directly-with-u-s-until-its-demands-are-met/\" rel=\"nofollow\">Iran&#8217;s Top Diplomat Refuses to Directly Engage with U.S. Until Tehran&#8217;s Demands Are Met</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-09T11:37:48+00:00",
-   "collected": "2026-08-09T15:49:48.068148+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "There will be no direct talks between Iran and the U.S. as long as Washington continues to ignore Tehran's demands for solving the Strait of Hormuz dispute, Foreign Minister ⁠Abbas Araqchi said on ​Su",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
   }
  ]
 }
