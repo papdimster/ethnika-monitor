@@ -1,7 +1,54 @@
 {
- "updated": "2026-08-16T04:03:40.238115+00:00",
- "count": 1911,
+ "updated": "2026-08-16T04:53:21.742700+00:00",
+ "count": 1910,
  "items": [
+  {
+   "id": "256c6d728796a4d8",
+   "title": "Sky News found that more than 1,300 Strava users shared workout data from US military bases across the Middle East, revealing routes, routines, troop movements and even activity at…",
+   "link": "https://t.me/ClashReport/92671",
+   "summary_raw": "Sky News found that more than 1,300 Strava users shared workout data from US military bases across the Middle East, revealing routes, routines, troop movements and even activity at bases not shown on public maps. Many users posted under their real names, potentially making individual personnel identifiable.  Security experts say Iran could have used this information alongside other intelligence to monitor US forces and identify targets.   Sky News highlighted cases in Bahrain and Jordan where changes in Strava activity appeared to reveal where personnel had relocated before locations were later attacked by Iran.  The issue is not new: the Pentagon warned in 2018 that fitness-app location data could endanger troops.   Despite restrictions, personnel from the US and UK have continued sharing activities from sensitive sites, including RAF Akrotiri in Cyprus. Sky News also found Strava activity inside Israel’s Dimona nuclear research centre.  Source: Sky News",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-16T04:34:53+00:00",
+   "collected": "2026-08-16T04:52:37.588410+00:00",
+   "keywords_hit": [
+    "nuclear",
+    "cyprus"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Sky News found that more than 1,300 Strava users shared workout data from US military bases across the Middle East, revealing routes, routines, troop movements and even activity at bases not shown on ",
+   "angle": null
+  },
+  {
+   "id": "61dc3d0f065a2987",
+   "title": "Λιβύη: Έκρηξη κοντά σε ηλεκτροπαραγωγικό σταθμό – Εκτός λειτουργίας μέρος των μονάδων",
+   "link": "https://www.ertnews.gr/eidiseis/livyi-ekriksi-konta-se-ilektroparagogiko-stathmo-ektos-leitourgias-meros-ton-monadon/",
+   "summary_raw": "<img alt=\"libya\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"520\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/libya.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"780\" /><p>Έκρηξη σημειώθηκε το βράδυ του Σαββάτου κοντά σε ηλεκτροπαραγωγικό σταθμό στην περιοχή της Ζαουίγια, δυτικά της Τρίπολης, με αποτέλεσμα να τεθούν εκτός λειτουργίας ορισμένες από τις μονάδες παραγωγής ηλεκτρικής ενέργειας. Η κρατική Γενική Επιχείρηση Ηλεκτρισμού της Λιβύης, η οποία διαχειρίζεται τον σταθμό, ανακοίνωσε ότι συνεργεία τεχνικών διερευνούν τα αίτια της έκρηξης και εργάζονται για την ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/livyi-ekriksi-konta-se-ilektroparagogiko-stathmo-ektos-leitourgias-meros-ton-monadon/\" title=\"Λιβύη: Έκρηξη κοντά σε ηλεκτροπαραγωγικό σταθμό &#8211; Εκτός λειτουργίας μέρος των μονάδων\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-16T04:29:00+00:00",
+   "collected": "2026-08-16T04:51:40.606605+00:00",
+   "keywords_hit": [
+    "libya",
+    "λιβύη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Έκρηξη σημειώθηκε το βράδυ του Σαββάτου κοντά σε ηλεκτροπαραγωγικό σταθμό στην περιοχή της Ζαουίγια, δυτικά της Τρίπολης, με αποτέλεσμα να τεθούν εκτός λειτουργίας ορισμένες από τις μονάδες παραγωγής ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Τρίπολη",
+     "lat": 32.89,
+     "lon": 13.19
+    }
+   ]
+  },
   {
    "id": "1e33fbb35fe81f17",
    "title": "Η μεταναστευτική έκρηξη στη Θέουτα και η Κύπρος: Τα γεγονότα στον ισπανικό θύλακα και η πορεία προς τη Σένγκεν – Αναλύσεις από Γιώργο Κέντα και Χαράλαμπο Χρυσοστόμου",
@@ -41510,74 +41557,6 @@
    "turkish_narrative": false,
    "summary_el": "Νέα δεδομένα δημιουργούνται για την πολιτική χρηματοδότησης της ηλεκτροκίνησης στην Ελλάδα, καθώς η απόφαση της κυβέρνησης να ζητήσει την ενεργοποίηση της ευρωπαϊκής ρήτρας διαφυγής για την Ενέργεια μ",
    "angle": null
-  },
-  {
-   "id": "29f123bc01100886",
-   "title": "Εξασφάλιση χρηματοδότησης 500.000 € για ολοκλήρωση οδικού δικτύου του Δήμου Σουφλίου - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdFNmTnNKLVd4M0hFNDJ2YUFKZ2ZHUVhSRDh0SXpUX04taGZVQTk1MjBoWmVQSjdxSlRVQVBpZUF2bXJ6bWU2WVQ5cDYwU1VObmR6R2g1ZVlWN1daUVNSeDVySV9PUW5JQjFWVXU3SWtYYlRldkNDbklhU0prTVNXWmVhUkhlTWI3MDFjMkdnU0NFZFB1blE0UHJzMEc1aHdWYl80cWNHTmtNcWlsdERpNkRZVWt4Q1hIbzNwZXk0bU1RU2VKV0E?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdFNmTnNKLVd4M0hFNDJ2YUFKZ2ZHUVhSRDh0SXpUX04taGZVQTk1MjBoWmVQSjdxSlRVQVBpZUF2bXJ6bWU2WVQ5cDYwU1VObmR6R2g1ZVlWN1daUVNSeDVySV9PUW5JQjFWVXU3SWtYYlRldkNDbklhU0prTVNXWmVhUkhlTWI3MDFjMkdnU0NFZFB1blE0UHJzMEc1aHdWYl80cWNHTmtNcWlsdERpNkRZVWt4Q1hIbzNwZXk0bU1RU2VKV0E?oc=5\" target=\"_blank\">Εξασφάλιση χρηματοδότησης 500.000 € για ολοκλήρωση οδικού δικτύου του Δήμου Σουφλίου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-08-09T04:51:00+00:00",
-   "collected": "2026-08-10T10:38:02.485036+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Εξασφάλιση χρηματοδότησης 500.000 € για ολοκλήρωση οδικού δικτύου του Δήμου Σουφλίου Παρατηρητής της Θράκης",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "59f847dbe82554f4",
-   "title": "Φωτιά στην Αττικοβοιωτία: Στο μικροσκόπιο οι αστοχίες στο δίκτυο του αιολικού πάρκου που προκάλεσε τη φονική πυρκαγιά - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmt0RTJZR3ZrREVOR2RxZTBnMVZDbFpjdGpRVDdoZ3VPMndJUzdiN3NLcWptWUpGTmdCU2JNbjdTaW1iWUJIdEI3LXpqNFpWbGhaZjVYcHVyd05peThrN29lSHZqamlLUkZvc3VRXy1zREF6ZmF5VlNnNHRGSjFOcGRXSjdaU1VQSEJ4eTRFN2pleHpNeGfSAZsBQVVfeXFMTXJEelhVWmNfelVqYlluSktVSnlic05BUkRHbzl0bUhtdS1YWGlJT3BJYUJydTQ5QVZnalZhYWwtSkFPYlhxeGthR3E1RlVzOXNSYjR5akpPWGZNTzNjdFl2ZXFaYTlOREg5OHF2T1B4WExTZkRMNEVsR2xoOUd4TzllS1puaTlScWpoNUk5dHExcGtPaVVpcWRxcmc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmt0RTJZR3ZrREVOR2RxZTBnMVZDbFpjdGpRVDdoZ3VPMndJUzdiN3NLcWptWUpGTmdCU2JNbjdTaW1iWUJIdEI3LXpqNFpWbGhaZjVYcHVyd05peThrN29lSHZqamlLUkZvc3VRXy1zREF6ZmF5VlNnNHRGSjFOcGRXSjdaU1VQSEJ4eTRFN2pleHpNeGfSAZsBQVVfeXFMTXJEelhVWmNfelVqYlluSktVSnlic05BUkRHbzl0bUhtdS1YWGlJT3BJYUJydTQ5QVZnalZhYWwtSkFPYlhxeGthR3E1RlVzOXNSYjR5akpPWGZNTzNjdFl2ZXFaYTlOREg5OHF2T1B4WExTZkRMNEVsR2xoOUd4TzllS1puaTlScWpoNUk5dHExcGtPaVVpcWRxcmc?oc=5\" target=\"_blank\">Φωτιά στην Αττικοβοιωτία: Στο μικροσκόπιο οι αστοχίες στο δίκτυο του αιολικού πάρκου που προκάλεσε τη φονική πυρκαγιά</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-09T04:21:40+00:00",
-   "collected": "2026-08-09T10:54:57.559130+00:00",
-   "keywords_hit": [
-    "αιολικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Φωτιά στην Αττικοβοιωτία: Στο μικροσκόπιο οι αστοχίες στο δίκτυο του αιολικού πάρκου που προκάλεσε τη φονική πυρκαγιά iefimerida.gr",
-   "angle": null,
-   "corroborated_by": [
-    "Πενταπόσταγμα"
-   ]
-  },
-  {
-   "id": "5c3b3f68a278fd95",
-   "title": "Exclusive — Scott Presler Warns GOP Senators on SAVE America Act: ‘You Either Deliver or We Are Going to Get Rid of You’",
-   "link": "https://www.breitbart.com/politics/2026/08/08/exclusive-scott-pressler-warns-gop-senators-on-save-america-act-you-either-deliver-or-we-are-going-to-get-rid-of-you/",
-   "summary_raw": "<p>Early Vote Action founder Scott Presler sharply criticized Senate Republicans during a Breitbart News Saturday interview, arguing the party’s majority has failed to act with sufficient urgency on election-integrity legislation while calling on conservative voters to pressure lawmakers through primaries, town halls, voter registration, and grassroots organizing.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/08/exclusive-scott-pressler-warns-gop-senators-on-save-america-act-you-either-deliver-or-we-are-going-to-get-rid-of-you/\" rel=\"nofollow\">Exclusive — Scott Presler Warns GOP Senators on SAVE America Act: ‘You Either Deliver or We Are Going to Get Rid of You’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-09T04:12:19+00:00",
-   "collected": "2026-08-09T15:49:48.069400+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Early Vote Action founder Scott Presler sharply criticized Senate Republicans during a Breitbart News Saturday interview, arguing the party’s majority has failed to act with sufficient urgency on elec",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
   }
  ]
 }
