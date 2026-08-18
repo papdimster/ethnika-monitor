@@ -1,7 +1,65 @@
 {
- "updated": "2026-08-18T03:11:51.603305+00:00",
- "count": 1900,
+ "updated": "2026-08-18T04:01:46.263917+00:00",
+ "count": 1901,
  "items": [
+  {
+   "id": "804ad3c2e06ffbc8",
+   "title": "Open Source Intel UKMTO:  UKMTO has received a report of an incident in the Strait of Hormuz.   The Company Security Officer has reported that the vessel was struck by an unknown p…",
+   "link": "https://t.me/OSINTLive/564949",
+   "summary_raw": "Open Source Intel UKMTO:  UKMTO has received a report of an incident in the Strait of Hormuz.   The Company Security Officer has reported that the vessel was struck by an unknown projectile while conducting an outbound transit of the Strait of Hormuz. The impact caused damage to the engine room and resulted in a crew casualty. The remaining crew are currently being assisted by the Omani Coast Guard.  At present, no environmental impact has been reported.  Authorities are investigating.  Vessels are advised to transit with caution and report any suspicious activity to UKMTO.\" tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-18T03:46:43+00:00",
+   "collected": "2026-08-18T04:01:00.846554+00:00",
+   "keywords_hit": [
+    "coast guard"
+   ],
+   "category": "Ενέργεια",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel UKMTO: UKMTO has received a report of an incident in the Strait of Hormuz. The Company Security Officer has reported that the vessel was struck by an unknown projectile while conduct",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613"
+   ],
+   "locations": [
+    {
+     "name": "Ορμούζ",
+     "lat": 26.57,
+     "lon": 56.25
+    }
+   ]
+  },
+  {
+   "id": "b7280a2408d1eec0",
+   "title": "Vessel Struck in Strait of Hormuz",
+   "link": "https://www.osint613.com/post/vessel-struck-in-strait-of-hormuz-20573",
+   "summary_raw": "UKMTO:\n\nUKMTO has received a report of an incident in the Strait of Hormuz. \n\nThe Company Security Officer has reported that the vessel was struck by an unknown projectile while conducting an outbound transit of the Strait of Hormuz. The impact caused damage to the engine room and resulted in a crew casualty. The remaining crew are currently being assisted by the Omani Coast Guard.\n\nAt present, no environmental impact has been reported.\n\nAuthorities are investigating.\n\nVessels are advised to ...",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-18T03:23:42+00:00",
+   "collected": "2026-08-18T04:00:54.924863+00:00",
+   "keywords_hit": [
+    "coast guard"
+   ],
+   "category": "Ενέργεια",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "UKMTO: UKMTO has received a report of an incident in the Strait of Hormuz. The Company Security Officer has reported that the vessel was struck by an unknown projectile while conducting an outbound tr",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive"
+   ],
+   "locations": [
+    {
+     "name": "Ορμούζ",
+     "lat": 26.57,
+     "lon": 56.25
+    }
+   ]
+  },
   {
    "id": "9a37bd3fcee8018b",
    "title": "Φονικές πλημμύρες στις ΗΠΑ: Τουλάχιστον επτά νεκροί στην Ιντιάνα – Δρόμοι έγιναν ποτάμια και εκατοντάδες κάτοικοι απομακρύνθηκαν",
@@ -53,6 +111,26 @@
      "lon": 33.2
     }
    ]
+  },
+  {
+   "id": "7429906ea4f2aa92",
+   "title": "Κίνδυνος πυρκαγιάς: Σε «κίτρινο συναγερμό» σήμερα Αττική, Στερεά Ελλάδα, βόρεια Πελοπόννησος και Έβρος",
+   "link": "https://www.ertnews.gr/eidiseis/kindynos-pyrkagias-se-kitrino-synagermo-simera-attiki-sterea-ellada-voreia-peloponnisos-kai-evros/",
+   "summary_raw": "<img alt=\"pyrkagia\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/pyrkagia-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>Σε «κίτρινο συναγερμό» για κίνδυνο πυρκαγιάς τίθενται σήμερα, Τρίτη, 18 Αυγούστου, η Αττική, περιοχές της Στερεάς Ελλάδας, η βόρεια Πελοπόννησος και ο Έβρος, σύμφωνα με τον Χάρτη Πρόβλεψης Κινδύνου Πυρκαγιάς που έδωσε στη δημοσιότητα η Γενική Γραμματεία Πολιτικής Προστασίας. Ειδικότερα, στην κατηγορία κινδύνου 3, δηλαδή υψηλού κινδύνου πυρκαγιάς, περιλαμβάνονται η Αττική, η Βοιωτία, η Εύβοια, ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/kindynos-pyrkagias-se-kitrino-synagermo-simera-attiki-sterea-ellada-voreia-peloponnisos-kai-evros/\" title=\"Κίνδυνος πυρκαγιάς: Σε «κίτρινο συναγερμό» σήμερα Αττική, Στερεά Ελλάδα, βόρεια Πελοπόννησος και Έβρος\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-18T02:20:00+00:00",
+   "collected": "2026-08-18T04:00:03.844381+00:00",
+   "keywords_hit": [
+    "evros",
+    "έβρος"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Σε «κίτρινο συναγερμό» για κίνδυνο πυρκαγιάς τίθενται σήμερα, Τρίτη, 18 Αυγούστου, η Αττική, περιοχές της Στερεάς Ελλάδας, η βόρεια Πελοπόννησος και ο Έβρος, σύμφωνα με τον Χάρτη Πρόβλεψης Κινδύνου Πυ",
+   "angle": null
   },
   {
    "id": "cb6ced684beefb87",
@@ -4071,6 +4149,32 @@
    "turkish_narrative": false,
    "summary_el": "Στόχος της πλευράς μας είναι όπως στη συνάντηση που θα έχει ο Πρόεδρος της Δημοκρατίας Νίκος Χριστοδουλίδης με τον Τ/κ ηγέτη Τουφάν Έρχιουρμαν να γίνει μια ουσιαστική συζήτηση. Υπενθυμίζεται ότι η συν",
    "angle": null
+  },
+  {
+   "id": "c78227a855d75ee0",
+   "title": "ΑΑΔΕ: Πρόστιμο 1,32 εκατ. ευρώ σε επιχείρηση - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazJFc2hPTEF4Zy1kRDhmWUNLeWh2dzRING5PWGpJcmlqMlh3XzFwQ2RnclZLaDdwYUZlUUtRNXpwX1JYYnhnMXc3VHFPYkNxc2JSdVQ0R2lJbW1DUGZKZDA0Y1ZfbU9iWWp1YzA0LXpxdHpLQUxUa3d0dXZqNC1DamxKS2pxYjdyb3NHR2pn?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPazJFc2hPTEF4Zy1kRDhmWUNLeWh2dzRING5PWGpJcmlqMlh3XzFwQ2RnclZLaDdwYUZlUUtRNXpwX1JYYnhnMXc3VHFPYkNxc2JSdVQ0R2lJbW1DUGZKZDA0Y1ZfbU9iWWp1YzA0LXpxdHpLQUxUa3d0dXZqNC1DamxKS2pxYjdyb3NHR2pn?oc=5\" target=\"_blank\">ΑΑΔΕ: Πρόστιμο 1,32 εκατ. ευρώ σε επιχείρηση</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-08-17T10:57:57+00:00",
+   "collected": "2026-08-18T04:00:07.889238+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "ΑΑΔΕ: Πρόστιμο 1,32 εκατ. ευρώ σε επιχείρηση Παρατηρητής της Θράκης",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
+   ]
   },
   {
    "id": "a016b6930759169b",
@@ -17284,6 +17388,25 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "The US accuses the EU and member states of aiding China in evading tariffs by rerouting goods through third countries, potentially costing billions and impacting jobs. Source",
+   "angle": null
+  },
+  {
+   "id": "d1038a1e7d756f48",
+   "title": "'Don't view my people as just numbers': South Sudanese basketball player Wenyen Gabriel becomes new UN goodwill ambassador - InfoMigrants",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZEFhR0hNbXVYcmU5cGNvQmplU2p2MjE3cFhHMjNuNmtfX3J5U2xoVUgxRlBUd3M0bUR5bmpkN0xRd29wdWV4anFjc1BTcUFUbm1BQkJfNFNBOVEyRHZhR0RCaXdPYjdrU3F0LVlhZTktdDVpOHJXcE5zYm5td2J0U1BObzJPdHlIY3k1bjdxTVJob09MNFRvbnNzbUc1bElrRXhreTNDaEp2a1JmZDNUTzVlR1lEV0dhakdRenNDaXJNSGZCRjk0VEJqQVoxMFFPN1IxQ2d5WFdjcjZURDhmSklTQlI0eVk0cVh2anQ2b0M1QVk?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZEFhR0hNbXVYcmU5cGNvQmplU2p2MjE3cFhHMjNuNmtfX3J5U2xoVUgxRlBUd3M0bUR5bmpkN0xRd29wdWV4anFjc1BTcUFUbm1BQkJfNFNBOVEyRHZhR0RCaXdPYjdrU3F0LVlhZTktdDVpOHJXcE5zYm5td2J0U1BObzJPdHlIY3k1bjdxTVJob09MNFRvbnNzbUc1bElrRXhreTNDaEp2a1JmZDNUTzVlR1lEV0dhakdRenNDaXJNSGZCRjk0VEJqQVoxMFFPN1IxQ2d5WFdjcjZURDhmSklTQlI0eVk0cVh2anQ2b0M1QVk?oc=5\" target=\"_blank\">'Don't view my people as just numbers': South Sudanese basketball player Wenyen Gabriel becomes new UN goodwill ambassador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoMigrants</font>",
+   "source": "InfoMigrants",
+   "side": "migration",
+   "lang": "en",
+   "published": "2026-08-14T12:48:45+00:00",
+   "collected": "2026-08-18T04:00:17.437853+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "'Don't view my people as just numbers': South Sudanese basketball player Wenyen Gabriel becomes new UN goodwill ambassador InfoMigrants",
    "angle": null
   },
   {
@@ -41968,88 +42091,6 @@
    "angle": null,
    "corroborated_by": [
     "Middle East Eye"
-   ]
-  },
-  {
-   "id": "d6ead31bec0f0e8a",
-   "title": "#USA #Israel #Syria   The US, Israel, and Syria have reached a secret agreement for the IAEA to remove nuclear material from a clandestine Syrian site, with access to \"Site 99\" to …",
-   "link": "https://t.me/OSINTdefender/19768",
-   "summary_raw": "#USA #Israel #Syria   The US, Israel, and Syria have reached a secret agreement for the IAEA to remove nuclear material from a clandestine Syrian site, with access to \"Site 99\" to recover remnants from the Al-Kibar reactor destroyed by Israel in 2007. The deal aims to prevent regional escalation and secure sensitive material, according to Axios citing US and Israeli officials.  Subscribe to @OSINTdefender | Chat room",
-   "source": "Telegram @OSINTdefender",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-11T03:59:01+00:00",
-   "collected": "2026-08-11T04:42:30.148117+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "#USA #Israel #Syria The US, Israel, and Syria have reached a secret agreement for the IAEA to remove nuclear material from a clandestine Syrian site, with access to \"Site 99\" to recover remnants from ",
-   "angle": null
-  },
-  {
-   "id": "0081b5e1aa92b0d3",
-   "title": "Sarah McBride Admits Transgender Activists’ Strategy Failed as Public Support Falls",
-   "link": "https://www.breitbart.com/politics/2026/08/10/sarah-mcbride-admits-transgender-activists-strategy-failed-public-support-falls/",
-   "summary_raw": "<p>Public support for transgenderism is lower than it was five years ago, and a new strategy is required, female-presenting activist Rep. Sarah McBride told a pro-transgender religious broadcaster.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/10/sarah-mcbride-admits-transgender-activists-strategy-failed-public-support-falls/\" rel=\"nofollow\">Sarah McBride Admits Transgender Activists’ Strategy Failed as Public Support Falls</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-11T03:52:09+00:00",
-   "collected": "2026-08-11T07:40:30.647131+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Public support for transgenderism is lower than it was five years ago, and a new strategy is required, female-presenting activist Rep. Sarah McBride told a pro-transgender religious broadcaster. The p",
-   "angle": null
-  },
-  {
-   "id": "2ba1061c1f4296f5",
-   "title": "Dem Rep. Keating: We're Doing 'Capitulation' in Iran Due to 'Reality'",
-   "link": "https://www.breitbart.com/clips/2026/08/10/dem-rep-keating-were-doing-capitulation-in-iran-due-to-reality/",
-   "summary_raw": "<p>On Monday&#8217;s broadcast of &#8220;CNN News Central,&#8221; Rep. Bill Keating (D-MA) argued that with Iran, &#8220;What you&#8217;re seeing is the beginning of a capitulation that is reality here&#8221; from the U.S. Keating said that &#8220;the president is finally shifting and</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/08/10/dem-rep-keating-were-doing-capitulation-in-iran-due-to-reality/\" rel=\"nofollow\">Dem Rep. Keating: We&#8217;re Doing &#8216;Capitulation&#8217; in Iran Due to &#8216;Reality&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-11T03:43:25+00:00",
-   "collected": "2026-08-11T22:08:26.056500+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "On Monday’s broadcast of “CNN News Central,” Rep. Bill Keating (D-MA) argued that with Iran, “What you’re seeing is the beginning of a capitulation that is reality here” from the U.S. Keating said tha",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "e685cdade589cfa2",
-   "title": "Σε «στενωπό» Ορμούζ – Γάζας ο Ντόναλντ Τραμπ",
-   "link": "https://www.kathimerini.gr/world/564394930/se-stenopo-ormoyz-gazas-o-ntonalnt-tramp/",
-   "summary_raw": "Σε διασταυρούμενα πυρά βρέθηκαν τα τελευταία 24ωρα οι βασικές επιλογές Τραμπ στη Μέση Ανατολή - Το Ιράν ζητεί πολεμικές επανορθώσεις και απομάκρυνση των αμερικανικών βάσεων για να ανοίξει τα Στενά του Ορμούζ.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T03:32:00+00:00",
-   "collected": "2026-08-11T04:42:21.167103+00:00",
-   "keywords_hit": [
-    "πομάκ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Σε διασταυρούμενα πυρά βρέθηκαν τα τελευταία 24ωρα οι βασικές επιλογές Τραμπ στη Μέση Ανατολή - Το Ιράν ζητεί πολεμικές επανορθώσεις και απομάκρυνση των αμερικανικών βάσεων για να ανοίξει τα Στενά του",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
    ]
   }
  ]
