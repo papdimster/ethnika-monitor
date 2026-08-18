@@ -1,7 +1,136 @@
 {
- "updated": "2026-08-18T04:01:46.263917+00:00",
- "count": 1901,
+ "updated": "2026-08-18T04:57:16.420135+00:00",
+ "count": 1902,
  "items": [
+  {
+   "id": "493bf481038fd808",
+   "title": "Turkish President Erdogan spoke with Trump by phone, urging maximum use of diplomacy on the Iran-US conflict and saying Türkiye will continue supporting peace efforts.  He briefed …",
+   "link": "https://t.me/ClashReport/92836",
+   "summary_raw": "Turkish President Erdogan spoke with Trump by phone, urging maximum use of diplomacy on the Iran-US conflict and saying Türkiye will continue supporting peace efforts.  He briefed Trump on the Mecca Defence Pact between Türkiye, Saudi Arabia, and Pakistan, calling it a strong stance for regional stability.  On Gaza, Erdogan warned of increasing Israeli actions targeting Palestinians at a time when the peace process should be moving to its second phase.   The White House did not issue a readout.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-18T04:50:40+00:00",
+   "collected": "2026-08-18T04:55:28.661302+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Turkish President Erdogan spoke with Trump by phone, urging maximum use of diplomacy on the Iran-US conflict and saying Türkiye will continue supporting peace efforts. He briefed Trump on the Mecca De",
+   "angle": null
+  },
+  {
+   "id": "4dea647cd4bdd523",
+   "title": "OSINTdefender The United Kingdom Maritime Trade Operations (UKMTO) Center has issued a warning to commercial vessels near the Strait of Hormuz after receiving a report of a vessel …",
+   "link": "https://t.me/OSINTLive/564950",
+   "summary_raw": "OSINTdefender The United Kingdom Maritime Trade Operations (UKMTO) Center has issued a warning to commercial vessels near the Strait of Hormuz after receiving a report of a vessel that was struck in its engine room while transiting outbound. The attack resulted in one casualty. The remaining crew are being assisted by the Omani Coast Guard. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-18T04:46:52+00:00",
+   "collected": "2026-08-18T04:55:31.343460+00:00",
+   "keywords_hit": [
+    "coast guard"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "OSINTdefender The United Kingdom Maritime Trade Operations (UKMTO) Center has issued a warning to commercial vessels near the Strait of Hormuz after receiving a report of a vessel that was struck in i",
+   "angle": null,
+   "corroborated_by": [
+    "Middle East Eye"
+   ],
+   "locations": [
+    {
+     "name": "Ορμούζ",
+     "lat": 26.57,
+     "lon": 56.25
+    }
+   ]
+  },
+  {
+   "id": "20235ab80a60533d",
+   "title": "Ο Ερντογάν αρπάζει Λήμνο και Καστελλόριζο - Απάντηση της Αθήνας",
+   "link": "https://www.pentapostagma.gr/ethnika-themata/ellinotoyrkika/7385621_o-erntogan-arpazei-limno-kai-kastellorizo-apantisi-tis",
+   "summary_raw": "Κόκκινος συναγερμός! Ο Ερντογάν παίζει το απόλυτο παιχνίδι αρπαγής σε Λήμνο και Καστελλόριζο με δήθεν «θαλάσσια πάρκα»....",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-18T04:44:27+00:00",
+   "collected": "2026-08-18T04:54:47.233069+00:00",
+   "keywords_hit": [
+    "ερντογάν"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Κόκκινος συναγερμός! Ο Ερντογάν παίζει το απόλυτο παιχνίδι αρπαγής σε Λήμνο και Καστελλόριζο με δήθεν «θαλάσσια πάρκα»....",
+   "angle": null,
+   "corroborated_by": [
+    "SLpress",
+    "Εφημερίδα των Συντακτών"
+   ],
+   "locations": [
+    {
+     "name": "Καστελλόριζο",
+     "lat": 36.15,
+     "lon": 29.58
+    },
+    {
+     "name": "Λήμνος",
+     "lat": 39.92,
+     "lon": 25.24
+    },
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    }
+   ]
+  },
+  {
+   "id": "93aeb3c959806fed",
+   "title": "Ερντογάν: «Περιμένω να τηρηθεί η υπόσχεση Τραμπ για τα F-35» – Τι είπε για τη «Συμφωνία της Μέκκας»",
+   "link": "https://www.efsyn.gr/politiki/1449524/erntogan-perimeno-na-tirithei-i-yposhesi-tramp-gia-ta-f-35-ti-eipe-gia-ti-symfonia-tis-mekkas/",
+   "summary_raw": "Σε συνέντευξή του στο Al Jazeera ο Τούρκος πρόεδρος αναφέρθηκε επίσης στα της ένταξης στην Ε.Ε. και στη νέα «Συμφωνία της Μέκκας»",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-18T04:12:06+00:00",
+   "collected": "2026-08-18T04:55:22.718837+00:00",
+   "keywords_hit": [
+    "f-35",
+    "ερντογάν"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Σε συνέντευξή του στο Al Jazeera ο Τούρκος πρόεδρος αναφέρθηκε επίσης στα της ένταξης στην Ε.Ε. και στη νέα «Συμφωνία της Μέκκας»",
+   "angle": null,
+   "corroborated_by": [
+    "SLpress",
+    "Πενταπόσταγμα"
+   ]
+  },
+  {
+   "id": "e10195e4436060be",
+   "title": "Russia presses Armenia to choose between the EU and Eurasian Economic Union",
+   "link": "https://brusselssignal.eu/2026/08/russia-presses-armenia-to-choose-between-the-eu-and-eurasian-economic-union/",
+   "summary_raw": "Russia has pressured Armenia to choose between the EU and the Eurasian Economic Union by December, following a joint statement from EAEU leaders urging a nationwide referendum.\n<p><a href=\"https://brusselssignal.eu/2026/08/russia-presses-armenia-to-choose-between-the-eu-and-eurasian-economic-union/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-18T04:00:03+00:00",
+   "collected": "2026-08-18T04:55:23.712622+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Russia has pressured Armenia to choose between the EU and the Eurasian Economic Union by December, following a joint statement from EAEU leaders urging a nationwide referendum. Source",
+   "angle": null
+  },
   {
    "id": "804ad3c2e06ffbc8",
    "title": "Open Source Intel UKMTO:  UKMTO has received a report of an incident in the Strait of Hormuz.   The Company Security Officer has reported that the vessel was struck by an unknown p…",
@@ -22,6 +151,35 @@
    "angle": null,
    "corroborated_by": [
     "OSINT613"
+   ],
+   "locations": [
+    {
+     "name": "Ορμούζ",
+     "lat": 26.57,
+     "lon": 56.25
+    }
+   ]
+  },
+  {
+   "id": "78b2c92189e7b7dd",
+   "title": "Damage, crew casualty reported onboard vessel hit in Hormuz Strait, UKMTO says",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/damage-crew-casualty-reported-onboard-vessel-hit-hormuz-strait-ukmto",
+   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/damage-crew-casualty-reported-onboard-vessel-hit-hormuz-strait-ukmto\" rel=\"bookmark\">\n<span class=\"field field-title\">Damage, crew casualty reported onboard vessel hit in Hormuz Strait, UKMTO says</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>The United Kingdom Maritime Trade Operations (UKMTO) received a report on Tuesday that a vessel was&nbsp;struck by an unknown projectile while it was&nbsp;transiting in the&nbsp;Strait of Hormuz.</p>\n\n<p>The hit resulted in damage to the engine room as well as&nbsp;crew casualty. Remaining crew are being&nbsp;assisted by the Omani Coast Guard, UKMTO added.&nbsp;</p>\n</div>\n      \n  </div>\n\n</article>",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-18T03:26:01+00:00",
+   "collected": "2026-08-18T04:54:40.480634+00:00",
+   "keywords_hit": [
+    "coast guard"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Damage, crew casualty reported onboard vessel hit in Hormuz Strait, UKMTO says The United Kingdom Maritime Trade Operations (UKMTO) received a report on Tuesday that a vessel was struck by an unknown ",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive"
    ],
    "locations": [
     {
@@ -113,6 +271,42 @@
    ]
   },
   {
+   "id": "d07bbf0fb3c7167c",
+   "title": "Spanish police check more than 5,000 arrivals from Italy in Sánchez’s row with Meloni",
+   "link": "https://brusselssignal.eu/2026/08/spanish-police-check-more-than-5000-arrivals-from-italy-in-sanchezs-row-with-meloni/",
+   "summary_raw": "Spanish police have stopped over 5,000 arriving travellers from Italy at airports since enhanced border controls began on August 8, amid rising tensions with Italy over migration.\n<p><a href=\"https://brusselssignal.eu/2026/08/spanish-police-check-more-than-5000-arrivals-from-italy-in-sanchezs-row-with-meloni/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-18T03:00:32+00:00",
+   "collected": "2026-08-18T04:55:23.712843+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Spanish police have stopped over 5,000 arriving travellers from Italy at airports since enhanced border controls began on August 8, amid rising tensions with Italy over migration. Source",
+   "angle": null
+  },
+  {
+   "id": "8b7a8ac3864a45cb",
+   "title": "Iranian official warns shipping companies against backing US",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-warns-shipping-companies-against-backing-us",
+   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-warns-shipping-companies-against-backing-us\" rel=\"bookmark\">\n<span class=\"field field-title\">Iranian official warns shipping companies against backing US </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>An Iranian military official has warned that&nbsp;shipping companies involved in \"meeting US military needs\" against the country will face consequences, Nournews reported.&nbsp;</p>\n\n<p>\"Iran is closely monitoring the commercial and maritime network supporting US operations, and any company, ship owner, or service provider that knowingly plays a role in meeting US military needs against Iran will face legal, economic, and counter-sanctioned consequences,\" the Iranian news outlet cited the official as saying.&nbsp;</p>\n\n<p>The official said the transport of fuel, ammunition, equipment, food, and other items needed by US troops will not be seen by Tehran as \"merely a commercial activity\", but it would be viewed as supporting Washington in its war on Iran.&nbsp;</",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-18T02:38:25+00:00",
+   "collected": "2026-08-18T04:54:40.481632+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Iranian official warns shipping companies against backing US An Iranian military official has warned that shipping companies involved in \"meeting US military needs\" against the country will face conse",
+   "angle": null
+  },
+  {
    "id": "7429906ea4f2aa92",
    "title": "Κίνδυνος πυρκαγιάς: Σε «κίτρινο συναγερμό» σήμερα Αττική, Στερεά Ελλάδα, βόρεια Πελοπόννησος και Έβρος",
    "link": "https://www.ertnews.gr/eidiseis/kindynos-pyrkagias-se-kitrino-synagermo-simera-attiki-sterea-ellada-voreia-peloponnisos-kai-evros/",
@@ -130,6 +324,45 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Σε «κίτρινο συναγερμό» για κίνδυνο πυρκαγιάς τίθενται σήμερα, Τρίτη, 18 Αυγούστου, η Αττική, περιοχές της Στερεάς Ελλάδας, η βόρεια Πελοπόννησος και ο Έβρος, σύμφωνα με τον Χάρτη Πρόβλεψης Κινδύνου Πυ",
+   "angle": null
+  },
+  {
+   "id": "19604e3da80816ce",
+   "title": "CBP Pauses Border Security Projects in Big Bend National Park Amid Public Outcry",
+   "link": "https://www.breitbart.com/border/2026/08/17/cbp-pauses-border-security-projects-in-big-bend-national-park-amid-public-outcry/",
+   "summary_raw": "<p>U.S. Customs and Border Protection Commissioner Rodney Scott announced his agency put a temporary halt to ongoing infrastructure projects underway at Big Bend National Park in West Texas. Scott announced on Monday on the social media platform X that the projects would be paused while he meets with local stakeholders and law enforcement this week.</p>\n<p>The post <a href=\"https://www.breitbart.com/border/2026/08/17/cbp-pauses-border-security-projects-in-big-bend-national-park-amid-public-outcry/\" rel=\"nofollow\">CBP Pauses Border Security Projects in Big Bend National Park Amid Public Outcry</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-18T01:36:00+00:00",
+   "collected": "2026-08-18T04:55:26.526361+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "U.S. Customs and Border Protection Commissioner Rodney Scott announced his agency put a temporary halt to ongoing infrastructure projects underway at Big Bend National Park in West Texas. Scott announ",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "c0b7d509ea72cae2",
+   "title": "‘Demographic change, not climate change, is the real threat for Europe,’ says Geert Wilders",
+   "link": "https://brusselssignal.eu/2026/08/demographic-change-not-climate-change-is-the-real-threat-for-europe-says-geert-wilders/",
+   "summary_raw": "Geert Wilders argues that demographic change poses a greater threat to Europe than climate change, claiming it risks erasing the continent's cultural identity and affects wellbeing.\n<p><a href=\"https://brusselssignal.eu/2026/08/demographic-change-not-climate-change-is-the-real-threat-for-europe-says-geert-wilders/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-18T01:00:46+00:00",
+   "collected": "2026-08-18T04:55:23.713058+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Geert Wilders argues that demographic change poses a greater threat to Europe than climate change, claiming it risks erasing the continent's cultural identity and affects wellbeing. Source",
    "angle": null
   },
   {
@@ -1272,6 +1505,26 @@
    ]
   },
   {
+   "id": "e2a32aa81221f4c6",
+   "title": "Policy Group: Georgia Data Centers Will Require More Electricity Than the State Can Give",
+   "link": "https://www.dailysignal.com/2026/08/17/georgia-data-centers-power/",
+   "summary_raw": "In 2025, Georgia Power got permission from the Public Service Commission to substantially expand the volume of electricity the utility creates and sells. The reasoning behind this increased demand was the expansion of data centers across the state. The question that naturally follows from this increased demand is whether the state can provide the amount...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-17T18:35:00+00:00",
+   "collected": "2026-08-18T04:55:26.741190+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "In 2025, Georgia Power got permission from the Public Service Commission to substantially expand the volume of electricity the utility creates and sells. The reasoning behind this increased demand was",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "2e27915f9d704007",
    "title": "Kushner Reports Gaza Demilitarization Progress",
    "link": "https://www.osint613.com/post/kushner-reports-gaza-demilitarization-progress-20556",
@@ -1567,6 +1820,23 @@
      "lon": 25.5
     }
    ]
+  },
+  {
+   "id": "a7ba4ffc103f418b",
+   "title": "Report: Iranians Facing 400 Percent Food Price Increases as U.S. Blockade Crushes Economy",
+   "link": "https://www.breitbart.com/middle-east/2026/08/17/report-iranians-facing-400-percent-food-price-increases-as-u-s-blockade-crushes-economy/",
+   "summary_raw": "<p>Iranian citizens are telling foreign media outlets that survival is growing difficult as the price of food and other basic commodities soars by 400% under pressure from the U.S. blockade, even as the regime in Tehran insists the food situation is under control.</p>\n<p>The post <a href=\"https://www.breitbart.com/middle-east/2026/08/17/report-iranians-facing-400-percent-food-price-increases-as-u-s-blockade-crushes-economy/\" rel=\"nofollow\">Report: Iranians Facing 400 Percent Food Price Increases as U.S. Blockade Crushes Economy</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-17T17:25:49+00:00",
+   "collected": "2026-08-18T04:55:26.526638+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Iranian citizens are telling foreign media outlets that survival is growing difficult as the price of food and other basic commodities soars by 400% under pressure from the U.S. blockade, even as the ",
+   "angle": null
   },
   {
    "id": "fd1125649c9b5675",
@@ -2658,6 +2928,30 @@
      "lat": 38.91,
      "lon": -77.04
     }
+   ]
+  },
+  {
+   "id": "b554752138cafb0b",
+   "title": "Ερντογάν για F-35: Περιμένω ο Τραμπ να κρατήσει το λόγο του – Η ένταξη στην ΕΕ δεν είναι προτεραιότητα - slpress.gr",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFJVSDlBT3lwVFVENHUtbmZXOVhrSXIxdzRCVW5TS3lLd2xpUC1kdklRZ1Q4OGxLYVdhUjh1blc5ajJhY2JWN013cnl4S3FNZEl5YTZoN2k1QUY4YjMwV3pTdnh3RnJuQVFmZ3psSGMyTEJ6X0tSa0RtUVVLakkwQ1RuZ3VvQWdDSzZ3UkhJZWJGX05CRVRsbU1DbUFVWUFRYUN4MWx1b2p4OWpDTUFQUHQtN0dfQXdqLXRNUUlleDJIWm5VOWZmWNIBzgFBVV95cUxNeFFUZlVqUVYzbldEeFFsMDYya2pFTnhXZkdhcnRDdmlFT1BTWDc5REhFa19vVlFEbHZ3dlBPWDZIdlJlVjlnNXZPcEl0MUNEWUFyeDAyS1o5MmVsdTVGNVJnOVhDZk1JODlVeTB1Q3J2R09hdnZQaXJYZ0ZGVDcxdzJZbGFua29leEd1WmZvNFhuLVBiMjRGOXlaSzJUdFdQYnpQVkdHNmNrVXFEM1JLbmxjcFFBc0JBQVIwaTJPVWVPOU8xdUJxcms4SVZyZw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFJVSDlBT3lwVFVENHUtbmZXOVhrSXIxdzRCVW5TS3lLd2xpUC1kdklRZ1Q4OGxLYVdhUjh1blc5ajJhY2JWN013cnl4S3FNZEl5YTZoN2k1QUY4YjMwV3pTdnh3RnJuQVFmZ3psSGMyTEJ6X0tSa0RtUVVLakkwQ1RuZ3VvQWdDSzZ3UkhJZWJGX05CRVRsbU1DbUFVWUFRYUN4MWx1b2p4OWpDTUFQUHQtN0dfQXdqLXRNUUlleDJIWm5VOWZmWNIBzgFBVV95cUxNeFFUZlVqUVYzbldEeFFsMDYya2pFTnhXZkdhcnRDdmlFT1BTWDc5REhFa19vVlFEbHZ3dlBPWDZIdlJlVjlnNXZPcEl0MUNEWUFyeDAyS1o5MmVsdTVGNVJnOVhDZk1JODlVeTB1Q3J2R09hdnZQaXJYZ0ZGVDcxdzJZbGFua29leEd1WmZvNFhuLVBiMjRGOXlaSzJUdFdQYnpQVkdHNmNrVXFEM1JLbmxjcFFBc0JBQVIwaTJPVWVPOU8xdUJxcms4SVZyZw?oc=5\" target=\"_blank\">Ερντογάν για F-35: Περιμένω ο Τραμπ να κρατήσει το λόγο του – Η ένταξη στην ΕΕ δεν είναι προτεραιότητα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">slpress.gr</font>",
+   "source": "SLpress",
+   "side": "greek_analysis",
+   "lang": "el",
+   "published": "2026-08-17T13:59:38+00:00",
+   "collected": "2026-08-18T04:54:46.756509+00:00",
+   "keywords_hit": [
+    "f-35",
+    "ερντογάν"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ερντογάν για F-35: Περιμένω ο Τραμπ να κρατήσει το λόγο του – Η ένταξη στην ΕΕ δεν είναι προτεραιότητα slpress.gr",
+   "angle": null,
+   "corroborated_by": [
+    "Εφημερίδα των Συντακτών",
+    "Πενταπόσταγμα"
    ]
   },
   {
@@ -41819,279 +42113,6 @@
    "turkish_narrative": false,
    "summary_el": "Libyan intelligence chief for Haftar's eastern-based forces assassinated: Report The head of the military intelligence department for Libya's eastern-based forces led by Khalifa Haftar was killed in a",
    "angle": null
-  },
-  {
-   "id": "e40183bc99a16e04",
-   "title": "Σαμοθράκη: Διακομιδές 8χρονου, 50χρονης και ηλικιωμένου στην Αλεξανδρούπολη με Περιπολικό σκάφος του Λιμενικού",
-   "link": "https://www.evros-news.gr/2026/08/11/samothraki-diakomides-8chronou-50chronis-kai-ilikiomenou-stin-alexandroupoli-me-peripoliko-skafos-tou-limenikou/",
-   "summary_raw": "Τρεις διακομιδές ασθενών που κρίθηκε από το Κέντρο Υγείας Σαμοθράκης ότι χρήσουν άμεσης νοσοκομειακής περίθαλψης, είχαμε τις προηγούμενες ημέρες από το λιμάνι Καμαριώτισσας σε αυτό [&#8230;]",
-   "source": "Evros News",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-08-11T04:53:18+00:00",
-   "collected": "2026-08-11T06:06:17.674220+00:00",
-   "keywords_hit": [
-    "θράκη",
-    "λιμενικ"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Τρεις διακομιδές ασθενών που κρίθηκε από το Κέντρο Υγείας Σαμοθράκης ότι χρήσουν άμεσης νοσοκομειακής περίθαλψης, είχαμε τις προηγούμενες ημέρες από το λιμάνι Καμαριώτισσας σε αυτό […]",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Σαμοθράκη",
-     "lat": 40.47,
-     "lon": 25.53
-    },
-    {
-     "name": "Αλεξανδρούπολη",
-     "lat": 40.85,
-     "lon": 25.87
-    }
-   ]
-  },
-  {
-   "id": "8c5551101e33d436",
-   "title": "Καιρός: Μελτέμι έως 7 μποφόρ και 38άρια – Πολύ υψηλός κίνδυνος πυρκαγιάς σε πολλές περιοχές της χώρας",
-   "link": "https://www.kathimerini.gr/society/564395464/kairos-meltemi-eos-7-mpofor-kai-38aria-poly-ypsilos-kindynos-pyrkagias-se-polles-perioches-tis-choras/",
-   "summary_raw": "Οι ισχυροί βόρειοι άνεμοι επιμένουν στα ανατολικά και το Αιγαίο. Στην κατηγορία κινδύνου 4  για φωτιές η Αττική, τμήματα της Πελοποννήσου και Στερεάς Ελλάδας και πολλά νησιά.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T04:51:37+00:00",
-   "collected": "2026-08-11T07:40:23.127915+00:00",
-   "keywords_hit": [
-    "αιγαίο"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Οι ισχυροί βόρειοι άνεμοι επιμένουν στα ανατολικά και το Αιγαίο. Στην κατηγορία κινδύνου 4 για φωτιές η Αττική, τμήματα της Πελοποννήσου και Στερεάς Ελλάδας και πολλά νησιά.",
-   "angle": null
-  },
-  {
-   "id": "bf1ea13dcea55ffb",
-   "title": "Εντός και Εκτός: Σκληρή γραμμή στο Κυπριακό από τον Φιντάν",
-   "link": "https://www.kathimerini.gr/politics/564394897/entos-kai-ektos-skliri-grammi-sto-kypriako-apo-ton-fintan/",
-   "summary_raw": "Οι δηλώσεις του κ. Φιντάν (φωτογραφία) δεν αποτελούν κεραυνό εν αιθρία, όμως είναι άξιο αναφοράς το γεγονός ότι η αναλυτικότατη τοποθέτησή του έγινε με αφορμή συνέντευξή του στον απόηχο της τριμερούς συμφωνίας Τουρκίας – Σαουδικής Αραβίας – Πακιστάν.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T04:45:00+00:00",
-   "collected": "2026-08-11T07:40:23.128228+00:00",
-   "keywords_hit": [
-    "φιντάν"
-   ],
-   "category": "Κυπριακό",
-   "severity": 4,
-   "turkish_narrative": true,
-   "summary_el": "Οι δηλώσεις του κ. Φιντάν (φωτογραφία) δεν αποτελούν κεραυνό εν αιθρία, όμως είναι άξιο αναφοράς το γεγονός ότι η αναλυτικότατη τοποθέτησή του έγινε με αφορμή συνέντευξή του στον απόηχο της τριμερούς ",
-   "angle": null
-  },
-  {
-   "id": "6c2ea93f860a57da",
-   "title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
-   "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
-   "summary_raw": "National oil company warns it may halt operations at the country&#039;s largest operating refinery if drone attacks continue.",
-   "source": "Al Jazeera English",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-11T04:37:27+00:00",
-   "collected": "2026-08-11T06:06:35.069846+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "National oil company warns it may halt operations at the country's largest operating refinery if drone attacks continue.",
-   "angle": null
-  },
-  {
-   "id": "876180c906d493be",
-   "title": "Εντός 2026 το «πράσινο φως» της Κομισιόν στο νέο σχήμα στήριξης ΑΠΕ – Ταρίφα σε αιολικά έως 3 GW από τη συνολική δημοπρατούμενη ισχύ των 4,5 GW - energypress.gr",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUng2LXU1U3l3TFdvQ0RvTnh5WDAteXhwQUw1QmdfOXdJUW5CWUZPdXQzZTVpOWdjbVRrZEJUYklqYS03eXM3bGR4NEEyVTZNMm1PTk9GbFAtWExBazZQZnJnNDdqVW5Kd2VidTl6QjNBTlNrZXpDNXI5R1NURmZHQVJVRHhydmY1azZJWFdlVjVPN2R6ekxzQ0F4dExPV3hBaHFWNzJGWlhnbjliVE8xTDh4aWNwUHUwN1d0VXZn?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOUng2LXU1U3l3TFdvQ0RvTnh5WDAteXhwQUw1QmdfOXdJUW5CWUZPdXQzZTVpOWdjbVRrZEJUYklqYS03eXM3bGR4NEEyVTZNMm1PTk9GbFAtWExBazZQZnJnNDdqVW5Kd2VidTl6QjNBTlNrZXpDNXI5R1NURmZHQVJVRHhydmY1azZJWFdlVjVPN2R6ekxzQ0F4dExPV3hBaHFWNzJGWlhnbjliVE8xTDh4aWNwUHUwN1d0VXZn?oc=5\" target=\"_blank\">Εντός 2026 το «πράσινο φως» της Κομισιόν στο νέο σχήμα στήριξης ΑΠΕ – Ταρίφα σε αιολικά έως 3 GW από τη συνολική δημοπρατούμενη ισχύ των 4,5 GW</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energypress.gr</font>",
-   "source": "Energypress",
-   "side": "greek_energy",
-   "lang": "el",
-   "published": "2026-08-11T04:36:28+00:00",
-   "collected": "2026-08-11T04:42:00.593938+00:00",
-   "keywords_hit": [
-    "αιολικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Εντός 2026 το «πράσινο φως» της Κομισιόν στο νέο σχήμα στήριξης ΑΠΕ – Ταρίφα σε αιολικά έως 3 GW από τη συνολική δημοπρατούμενη ισχύ των 4,5 GW energypress.gr",
-   "angle": null
-  },
-  {
-   "id": "6a5e001a0f951cac",
-   "title": "Κύμα νέων θεωριών συνωμοσίας κατά των αιολικών αναζωπυρώνει η εισαγγελική έρευνα – Οι ανησυχίες των παραγόντων του κλάδου ενόψει και της απόφασης για το Χωροταξικό - energypress.gr",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalVDMXR2anl2VXFJWnY0b3h4Mmc0aUlZYzRlVlFnMGNiLWJQZFJLYXdEeV81cGlDSWFJeEFUN3h6dVhOb0hfaHllb0dpQmU2RTVpOVVBSGZSb3N1ZmRycUpUQUdienhMOHFkaDMydUlyOWx1d1ZyLVJPUzlQQ243cFNfUzlialZ1RVRWT3VFQ2VxYzduakRhbUhvaldnMmdYOVBodFpNRHotR1NMeTJ0M25hVlpEdE1rY1ozLWI2VQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQalVDMXR2anl2VXFJWnY0b3h4Mmc0aUlZYzRlVlFnMGNiLWJQZFJLYXdEeV81cGlDSWFJeEFUN3h6dVhOb0hfaHllb0dpQmU2RTVpOVVBSGZSb3N1ZmRycUpUQUdienhMOHFkaDMydUlyOWx1d1ZyLVJPUzlQQ243cFNfUzlialZ1RVRWT3VFQ2VxYzduakRhbUhvaldnMmdYOVBodFpNRHotR1NMeTJ0M25hVlpEdE1rY1ozLWI2VQ?oc=5\" target=\"_blank\">Κύμα νέων θεωριών συνωμοσίας κατά των αιολικών αναζωπυρώνει η εισαγγελική έρευνα – Οι ανησυχίες των παραγόντων του κλάδου ενόψει και της απόφασης για το Χωροταξικό</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energypress.gr</font>",
-   "source": "Energypress",
-   "side": "greek_energy",
-   "lang": "el",
-   "published": "2026-08-11T04:33:52+00:00",
-   "collected": "2026-08-11T04:42:00.592257+00:00",
-   "keywords_hit": [
-    "αιολικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Κύμα νέων θεωριών συνωμοσίας κατά των αιολικών αναζωπυρώνει η εισαγγελική έρευνα – Οι ανησυχίες των παραγόντων του κλάδου ενόψει και της απόφασης για το Χωροταξικό energypress.gr",
-   "angle": null
-  },
-  {
-   "id": "84d042385974560d",
-   "title": "🎦 Caspian Sea and the Lowest Water Level in the Past 200 Years Kanani, Director General of Mazandaran Environmental Protection: 🔹In the last two decades, due to climate change, eva…",
-   "link": "https://t.me/me_observer_TG/1065581",
-   "summary_raw": "🎦 Caspian Sea and the Lowest Water Level in the Past 200 Years Kanani, Director General of Mazandaran Environmental Protection: 🔹In the last two decades, due to climate change, evaporation in the Caspian Sea has increased by 15 percent and water temperature by 1.5 degrees.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-11T04:31:55+00:00",
-   "collected": "2026-08-11T04:42:30.783919+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "🎦 Caspian Sea and the Lowest Water Level in the Past 200 Years Kanani, Director General of Mazandaran Environmental Protection: 🔹In the last two decades, due to climate change, evaporation in the Casp",
-   "angle": null
-  },
-  {
-   "id": "58fce3e34e6f1e18",
-   "title": "Βόμβα σκότωσε τον επικεφαλής της υπηρεσίας πληροφοριών της ανατολικής Λιβύης",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/vomva-skotose-ton-epikefalis-tis-ypiresias-pliroforion-tis-anatolikis-livyis/",
-   "summary_raw": "<img alt=\"Libya\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/ap18122605826352-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Ο επικεφαλής της στρατιωτικής υπηρεσίας πληροφοριών του Λιβυκού Εθνικού Στρατού (ΛΕΣ) του στρατάρχη Χαλίφα Χαφτάρ, κυρίαρχου στην ανατολική Λιβύη, σκοτώθηκε χθες Δευτέρα όταν εκρηκτικός μηχανισμός πυροδοτήθηκε μέσα στο αυτοκίνητό του έξω από το σπίτι του, στην περιοχή Χαουάρι της Βεγγάζης, ενημέρωσαν το πρακτορείο ειδήσεων Ρόιτερς δυο πηγές του στις δυνάμεις ασφαλείας. Ο ταξίαρχος Φάουζι Μανσούρι ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/vomva-skotose-ton-epikefalis-tis-ypiresias-pliroforion-tis-anatolikis-livyis/\" title=\"Βόμβα σκότωσε τον επικεφαλής της υπηρεσίας πληροφοριών της ανατολικής Λιβύης\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-11T04:24:00+00:00",
-   "collected": "2026-08-11T04:41:38.468472+00:00",
-   "keywords_hit": [
-    "libya",
-    "λιβύη",
-    "βεγγάζη",
-    "χαφτάρ"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο επικεφαλής της στρατιωτικής υπηρεσίας πληροφοριών του Λιβυκού Εθνικού Στρατού (ΛΕΣ) του στρατάρχη Χαλίφα Χαφτάρ, κυρίαρχου στην ανατολική Λιβύη, σκοτώθηκε χθες Δευτέρα όταν εκρηκτικός μηχανισμός πυρ",
-   "angle": null
-  },
-  {
-   "id": "f020576c43d7313e",
-   "title": "Νεκρός από έκρηξη βόμβας στο αυτοκίνητό του ο επικεφαλής της υπηρεσίας πληροφοριών της κυβέρνησης Χαφτάρ στην ανατολική Λιβύη, δείτε βίντεο",
-   "link": "https://www.protothema.gr/world/article/1863300/nekros-apo-ekrixi-vomvas-sto-autokinito-o-epikefalis-upiresias-pliroforion-tis-kuvernisis-haftar-stin-livui/?utm_source=rss",
-   "summary_raw": "Ο  ταξίαρχος Φάουζι Μανσούρι σκοτώθηκε έξω από το σπίτι του, στην περιοχή Χαουάρι της Βεγγάζης",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T04:16:00+00:00",
-   "collected": "2026-08-11T06:06:59.770084+00:00",
-   "keywords_hit": [
-    "λιβύη",
-    "βεγγάζη",
-    "χαφτάρ"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο ταξίαρχος Φάουζι Μανσούρι σκοτώθηκε έξω από το σπίτι του, στην περιοχή Χαουάρι της Βεγγάζης",
-   "angle": null,
-   "corroborated_by": [
-    "Philenews",
-    "in.gr",
-    "Πενταπόσταγμα",
-    "Τα Νέα"
-   ],
-   "locations": [
-    {
-     "name": "Βεγγάζη",
-     "lat": 32.12,
-     "lon": 20.07
-    }
-   ]
-  },
-  {
-   "id": "e3cf6a7cd88514b0",
-   "title": "#USA #Ukraine   Lockheed Martin and Raytheon have expressed concerns that allowing Ukraine to produce Patriot interceptors under license could lead to Ukraine improving and manufac…",
-   "link": "https://t.me/OSINTdefender/19773",
-   "summary_raw": "#USA #Ukraine   Lockheed Martin and Raytheon have expressed concerns that allowing Ukraine to produce Patriot interceptors under license could lead to Ukraine improving and manufacturing the missiles faster and at lower cost, potentially creating competition for U.S. production.  Subscribe to @OSINTdefender | Chat room",
-   "source": "Telegram @OSINTdefender",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-11T04:15:49+00:00",
-   "collected": "2026-08-11T04:42:30.148848+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "#USA #Ukraine Lockheed Martin and Raytheon have expressed concerns that allowing Ukraine to produce Patriot interceptors under license could lead to Ukraine improving and manufacturing the missiles fa",
-   "angle": null,
-   "corroborated_by": [
-    "Politico Europe"
-   ]
-  },
-  {
-   "id": "3362e0c167028bc9",
-   "title": "Νεκρός ο επικεφαλής της υπηρεσίας πληροφοριών της ανατολικής Λιβύης από έκρηξη βόμβας",
-   "link": "https://www.kathimerini.gr/world/564395359/nekros-o-epikefalis-tis-ypiresias-pliroforion-tis-anatolikis-livyis-apo-ekrixi-vovmas/",
-   "summary_raw": "Εκρηκτικός μηχανισμός πυροδοτήθηκε μέσα στο αυτοκίνητό του έξω από το σπίτι του, στην περιοχή Χαουάρι της Βεγγάζης.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T04:13:11+00:00",
-   "collected": "2026-08-11T07:40:23.129519+00:00",
-   "keywords_hit": [
-    "λιβύη",
-    "βεγγάζη"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Εκρηκτικός μηχανισμός πυροδοτήθηκε μέσα στο αυτοκίνητό του έξω από το σπίτι του, στην περιοχή Χαουάρι της Βεγγάζης.",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Βεγγάζη",
-     "lat": 32.12,
-     "lon": 20.07
-    }
-   ]
-  },
-  {
-   "id": "c35ae7921df6698f",
-   "title": "Fire rages after drone strikes Libya’s largest oil refinery",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
-   "summary_raw": "A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.",
-   "source": "Al Jazeera English",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-11T04:09:10+00:00",
-   "collected": "2026-08-11T04:42:00.213623+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "A drone attack ignited gasoline at Libya's Zawiya oil refinery, the country's largest operational facility.",
-   "angle": null,
-   "corroborated_by": [
-    "Middle East Eye"
-   ]
   }
  ]
 }
