@@ -1,7 +1,116 @@
 {
- "updated": "2026-08-18T14:55:57.688870+00:00",
- "count": 1860,
+ "updated": "2026-08-18T15:50:00.909631+00:00",
+ "count": 1859,
  "items": [
+  {
+   "id": "b3d03943d357b9f6",
+   "title": "UN envoy warns security in Libya 'precarious'",
+   "link": "https://www.aa.com.tr/en/americas/un-envoy-warns-security-in-libya-precarious/4030838",
+   "summary_raw": "Hanna Serwaa Tetteh highlights escalation in drone warfare, fuel smuggling as climate expert warns of collapsing public trust in state institutions",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-18T15:29:31+00:00",
+   "collected": "2026-08-18T15:47:57.980710+00:00",
+   "keywords_hit": [
+    "libya",
+    "smuggl",
+    "climate"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Hanna Serwaa Tetteh highlights escalation in drone warfare, fuel smuggling as climate expert warns of collapsing public trust in state institutions",
+   "angle": null
+  },
+  {
+   "id": "c43b7fb6bb1385cf",
+   "title": "Το Ισραήλ αντιδρά στα ύπουλα σχέδια της Τουρκίας στην Λιβύη",
+   "link": "https://www.pentapostagma.gr/kosmos/afriki/7385667_israil-antidra-sta-ypoyla-shedia-tis-toyrkias-stin-libyi",
+   "summary_raw": "Κινδυνεύουν οι ισραηλινές πλατφόρμες φυσικού αερίου και οι θαλάσσιες οδοί μεταφοράς",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-18T15:15:21+00:00",
+   "collected": "2026-08-18T15:48:21.719494+00:00",
+   "keywords_hit": [
+    "λιβύη"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Κινδυνεύουν οι ισραηλινές πλατφόρμες φυσικού αερίου και οι θαλάσσιες οδοί μεταφοράς",
+   "angle": null
+  },
+  {
+   "id": "d6c6373eafdd51eb",
+   "title": "Switzerland to resume asylum transfers to Italy after nearly 4 years",
+   "link": "https://www.aa.com.tr/en/europe/switzerland-to-resume-asylum-transfers-to-italy-after-nearly-4-years/4030814",
+   "summary_raw": "First transfers are planned for end of August, but initial returns will involve only 'individual cases'",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-18T15:10:46+00:00",
+   "collected": "2026-08-18T15:47:57.981295+00:00",
+   "keywords_hit": [
+    "asylum"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "First transfers are planned for end of August, but initial returns will involve only 'individual cases'",
+   "angle": null
+  },
+  {
+   "id": "31a7015823683485",
+   "title": "“New Imia Crisis?” Turkish media react to Greek military presence on Ro",
+   "link": "https://greekcitytimes.com/2026/08/19/new-imia-crisis-turkish-media-react-to-greek-military-presence-on-ro/",
+   "summary_raw": "<p>Turkish media outlets have revived a familiar narrative of tension, presenting Greece’s presence on the tiny islet of Ro (near Kastellorizo) as a provocative military move. Some reports even raise the question of whether a new Imia-style crisis is approaching. Ro, which Turkish media call Kara Ada, sits roughly 1.8 km off the Turkish town…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/08/19/new-imia-crisis-turkish-media-react-to-greek-military-presence-on-ro/\">“New Imia Crisis?” Turkish media react to Greek military presence on Ro</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-08-18T15:03:44+00:00",
+   "collected": "2026-08-18T15:48:22.064495+00:00",
+   "keywords_hit": [
+    "imia"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Turkish media outlets have revived a familiar narrative of tension, presenting Greece’s presence on the tiny islet of Ro (near Kastellorizo) as a provocative military move. Some reports even raise the",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Καστελλόριζο",
+     "lat": 36.15,
+     "lon": 29.58
+    },
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "8ad4f335c123463c",
+   "title": "Οι ΗΠΑ εξετάζουν διαστημικό όχημα για την απομάκρυνση παλαιών δορυφόρων",
+   "link": "https://flight.com.gr/firefly-elytra-deorbit/?utm_source=rss&utm_medium=rss&utm_campaign=firefly-elytra-deorbit",
+   "summary_raw": "<p>Η αμερικανική Μονάδα Αμυντικής Καινοτομίας και η Υπηρεσία Διαστημικής Ανάπτυξης ανέθεσαν στη Firefly Aerospace τον αρχικό σχεδιασμό μιας αποστολής με το τροχιακό διαστημικό όχημα Elytra. Η αποστολή του θα είναι η προσέγγιση ανενεργών δορυφόρων, η επιθεώρησή τους και η ελεγχόμενη αλλαγή της τροχιάς τους. Η Firefly υποστηρίζει ότι η ίδια λύση μπορεί να προσαρμοστεί για [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/firefly-elytra-deorbit/\">Οι ΗΠΑ εξετάζουν διαστημικό όχημα για την απομάκρυνση παλαιών δορυφόρων</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-18T14:55:00+00:00",
+   "collected": "2026-08-18T15:48:03.039934+00:00",
+   "keywords_hit": [
+    "πομάκ"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Η αμερικανική Μονάδα Αμυντικής Καινοτομίας και η Υπηρεσία Διαστημικής Ανάπτυξης ανέθεσαν στη Firefly Aerospace τον αρχικό σχεδιασμό μιας αποστολής με το τροχιακό διαστημικό όχημα Elytra. Η αποστολή το",
+   "angle": null
+  },
   {
    "id": "d4d82b5a42f58a10",
    "title": "⚡️ Syria: Foreign Minister: Nuclear materials will remain in Syria's custody, subject to IAEA safeguards • 13:58 — Syria: Foreign Minister: We will work to provide the necessary co…",
@@ -45,6 +154,25 @@
    "corroborated_by": [
     "Breitbart"
    ]
+  },
+  {
+   "id": "10b2f2c16d94a305",
+   "title": "Ουκρανία: Ένας νεκρός και τρεις σοβαρά τραυματίες από επίθεση με ντρόουν στη στάση λεωφορείου του πυρηνικού σταθμού της Ζαπορίζια",
+   "link": "https://www.ertnews.gr/eidiseis/oukrania-enas-nekros-kai-treis-sovara-traymaties-apo-epithesi-me-ntrooun-sti-stasi-leoforeiou-tou-pyrinikou-stathmou-tis-zaporizia/",
+   "summary_raw": "<img alt=\"APTOPIX Russia Ukraine War\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1706\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/zaporizhzhya-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Η Διεθνής Υπηρεσία Ατομικής Ενέργειας (International Atomic Energy Agency) ανακοίνωσε την Τρίτη ότι ένα ντρόουν εξερράγη σε στάση λεωφορείου που χρησιμοποιούσαν εργαζόμενοι του πυρηνικού σταθμού της Ζαπορίζια στην Ουκρανία, με αποτέλεσμα να χάσει τη ζωή του ένας άνθρωπος και να τραυματιστούν αρκετοί άλλοι. Σε ανακοίνωσή του στο X, ο ΙΑΕΑ ανέφερε επίσης ότι ο διευθυντής ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/oukrania-enas-nekros-kai-treis-sovara-traymaties-apo-epithesi-me-ntrooun-sti-stasi-leoforeiou-tou-pyrinikou-stathmou-tis-zaporizia/\" title=\"Ουκρανία: Ένας νεκρός και τρεις σοβαρά τραυματίες από επίθεση με ντρόουν στη στάση λεωφορείου του πυρηνικού σταθμού της Ζαπορίζια\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-18T14:47:32+00:00",
+   "collected": "2026-08-18T15:48:01.632346+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η Διεθνής Υπηρεσία Ατομικής Ενέργειας (International Atomic Energy Agency) ανακοίνωσε την Τρίτη ότι ένα ντρόουν εξερράγη σε στάση λεωφορείου που χρησιμοποιούσαν εργαζόμενοι του πυρηνικού σταθμού της Ζ",
+   "angle": null
   },
   {
    "id": "57dbbc9987376fcc",
@@ -203,6 +331,25 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Alliance, called No 50°C summers! believes this year's drought, high temperatures are start to new, worrying reality",
+   "angle": null
+  },
+  {
+   "id": "4a21d7b2e3da9740",
+   "title": "Migrant women tell of sexual harassment in Spain's crisis-hit Ceuta - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUNlbTZzOFpQWlRwVzBOc21qM0lCME5wWnIzOWxhU0hPNC10NEZrcG0tTVFoQkcwN2k0MUFvcC1CWF9iMHMweUJPZ01CUnFNS1ZZWG5oWE1oZGIxeW9RRUQxdkxBNl80OGdlYndkTTFEbTV0WEV2bHE0QVF4ZjMtNHQyV3FlVnZtdFpESDMxUHlOUUpqSnVZQVJIRmNRLUpqTE02Q1hxSlJMVVJobXc?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUNlbTZzOFpQWlRwVzBOc21qM0lCME5wWnIzOWxhU0hPNC10NEZrcG0tTVFoQkcwN2k0MUFvcC1CWF9iMHMweUJPZ01CUnFNS1ZZWG5oWE1oZGIxeW9RRUQxdkxBNl80OGdlYndkTTFEbTV0WEV2bHE0QVF4ZjMtNHQyV3FlVnZtdFpESDMxUHlOUUpqSnVZQVJIRmNRLUpqTE02Q1hxSlJMVVJobXc?oc=5\" target=\"_blank\">Migrant women tell of sexual harassment in Spain's crisis-hit Ceuta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters World",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-18T14:04:46+00:00",
+   "collected": "2026-08-18T15:48:11.861526+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Migrant women tell of sexual harassment in Spain's crisis-hit Ceuta Reuters",
    "angle": null
   },
   {
@@ -1001,6 +1148,23 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "⚡️ Enemy Media - Doron Kadosh - Army Radio: - Israel has not carried out any airstrike in Syria since March 2026, when it conducted a strike to protect the Druze in As-Suwayda, nor has it carried out ",
+   "angle": null
+  },
+  {
+   "id": "d1cb343f0c328906",
+   "title": "Lotus Infrastructure Raises $1.8 Billion to Invest Across Clean Energy Value Chain",
+   "link": "https://www.esgtoday.com/lotus-infrastructure-raises-1-8-billion-to-invest-across-clean-energy-value-chain/?utm_source=rss&utm_medium=rss&utm_campaign=lotus-infrastructure-raises-1-8-billion-to-invest-across-clean-energy-value-chain",
+   "summary_raw": "<p><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"573\" src=\"https://www.esgtoday.com/wp-content/uploads/2026/08/Wind-Enel-texas.jpg\" width=\"1189\" /></p>Lotus Infrastructure Partners announced that it has raised approximately $1.8 billion at the final closings [&#8230;]",
+   "source": "ESG Today",
+   "side": "green_esg",
+   "lang": "en",
+   "published": "2026-08-18T11:15:20+00:00",
+   "collected": "2026-08-18T15:48:33.609633+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Lotus Infrastructure Partners announced that it has raised approximately $1.8 billion at the final closings […]",
    "angle": null
   },
   {
@@ -9873,6 +10037,25 @@
      "lon": 23.73
     }
    ]
+  },
+  {
+   "id": "93b78819e84df8a8",
+   "title": "US missionary pilot thanks Libyan forces after release from Daesh-linked captivity - TRT World",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzMkxObzc3UWpRMDIyaDlOTnQ4Ynl0Qm1lcTBfbVllZmgyVVRvN0ZKZVRZc3lvRFZCLTlnUVNlcnBKRVo4NVVDeEF6ZFcycVRXNWxZZzVsSVg?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzMkxObzc3UWpRMDIyaDlOTnQ4Ynl0Qm1lcTBfbVllZmgyVVRvN0ZKZVRZc3lvRFZCLTlnUVNlcnBKRVo4NVVDeEF6ZFcycVRXNWxZZzVsSVg?oc=5\" target=\"_blank\">US missionary pilot thanks Libyan forces after release from Daesh-linked captivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font>",
+   "source": "TRT World",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-17T05:25:01+00:00",
+   "collected": "2026-08-18T15:47:58.437076+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "US missionary pilot thanks Libyan forces after release from Daesh-linked captivity TRT World",
+   "angle": null
   },
   {
    "id": "e3fe59fc72a90303",
@@ -41081,210 +41264,6 @@
    "turkish_narrative": false,
    "summary_el": "Reporters Jillian Ambrose and Damian Carrington discussed their story on oil firms’ profits amid the war in Iran and the climate crisis and answered your related questions PCMcGarry asks: Given the fa",
    "angle": null
-  },
-  {
-   "id": "218a1086c16e6f32",
-   "title": "Swarming jellyfish overrun French nuclear plant on same date two years in a row",
-   "link": "https://www.politico.eu/article/swarming-jellyfish-overrun-french-nuclear-plant-on-same-date-two-years-in-a-row/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "summary_raw": "The jellyfish invasion is the latest in a series of climate change-driven incidents that have affected a record number of French nuclear reactors over the summer.",
-   "source": "Politico Europe",
-   "side": "europe",
-   "lang": "en",
-   "published": "2026-08-11T15:45:06+00:00",
-   "collected": "2026-08-11T16:13:30.013598+00:00",
-   "keywords_hit": [
-    "nuclear",
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "The jellyfish invasion is the latest in a series of climate change-driven incidents that have affected a record number of French nuclear reactors over the summer.",
-   "angle": null
-  },
-  {
-   "id": "70ec62177139ccad",
-   "title": "Inside the growing rift between Iran’s dealmakers and ultraconservatives",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/inside-growing-rift-between-irans-dealmakers-and-ultraconservatives",
-   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/inside-growing-rift-between-irans-dealmakers-and-ultraconservatives\" rel=\"bookmark\">\n<span class=\"field field-title\">Inside the growing rift between Iran’s dealmakers and ultraconservatives</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p><a href=\"https://www.middleeasteye.net/countries/iran\" target=\"_blank\">Iran</a>’s political landscape appears to have entered a new phase as two competing camps emerge: those advocating a deal with&nbsp;<a href=\"https://www.middleeasteye.net/countries/us\" target=\"_blank\">the United States</a>&nbsp;and those determined to block any agreement.</p>\n\n<p>Principlists have intensified their pressure on reformist President Masoud Pezeshkian and conservative Parliament Speaker Mohammad Baqer Ghalibaf, both of whom are seeking to reach an agreement with Washington and bring an end to almost six months of hostilities.</p>\n\n<p>Principlists fear that any deal could marginalise them politically and weaken their influence over Iran’s future direction.</p>\n\n",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-11T15:38:43+00:00",
-   "collected": "2026-08-11T18:09:00.337712+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Inside the growing rift between Iran’s dealmakers and ultraconservatives Iran ’s political landscape appears to have entered a new phase as two competing camps emerge: those advocating a deal with the",
-   "angle": null
-  },
-  {
-   "id": "ba5bc22338637dfd",
-   "title": "Ράντοσλαβ Σικόρσκι στην «Κ»: Χρειαζόμαστε τη δική μας «λεγεώνα»",
-   "link": "https://www.kathimerini.gr/opinion/interviews/564391654/rantoslav-sikorski-stin-k-chreiazomaste-ti-diki-mas-legeona/",
-   "summary_raw": "Η Ευρώπη δεν μπορεί πλέον να καλεί κάθε φορά τις ΗΠΑ να σβήσουν τη φωτιά. Ο υβριδικός πόλεμος των Ρώσων. Γιατί αναγνωρίσαμε την ελληνική μειονότητα στην Πολωνία.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T15:27:53+00:00",
-   "collected": "2026-08-11T16:14:01.606318+00:00",
-   "keywords_hit": [
-    "μειονότητα"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Ευρώπη δεν μπορεί πλέον να καλεί κάθε φορά τις ΗΠΑ να σβήσουν τη φωτιά. Ο υβριδικός πόλεμος των Ρώσων. Γιατί αναγνωρίσαμε την ελληνική μειονότητα στην Πολωνία.",
-   "angle": null
-  },
-  {
-   "id": "69bf9499399e8baf",
-   "title": "Magura USV πλήττουν ρωσικά S-400 στην Κριμαία – Πιθανή η χρήση ομοιωμάτων",
-   "link": "https://flight.com.gr/magura-usvs-hit-russian-s-400s-in-crimea-the-decoy-question/?utm_source=rss&utm_medium=rss&utm_campaign=magura-usvs-hit-russian-s-400s-in-crimea-the-decoy-question",
-   "summary_raw": "<p>Μια νέα επίθεση με μη επανδρωμένα θαλάσσια σκάφη Magura έπληξε ρωσικές εγκαταστάσεις αεράμυνας στην κατεχόμενη Κριμαία, σύμφωνα με την Στρατιωτική Υπηρεσία Πληροφοριών της Ουκρανίας (Defence Intelligence of Ukraine-DIU). Η DIU ανακοίνωσε ότι η μονάδα Group 13, χρησιμοποιώντας Magura ως φορείς για FPV drones, προσέβαλε δύο εκτοξευτές S-400 Triumf, καθώς και κεραία που χρησιμοποιείται για τον [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/magura-usvs-hit-russian-s-400s-in-crimea-the-decoy-question/\">Magura USV πλήττουν ρωσικά S-400 στην Κριμαία – Πιθανή η χρήση ομοιωμάτων</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
-   "source": "Πτήση & Διάστημα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-11T15:20:00+00:00",
-   "collected": "2026-08-11T16:13:12.988577+00:00",
-   "keywords_hit": [
-    "s-400"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Μια νέα επίθεση με μη επανδρωμένα θαλάσσια σκάφη Magura έπληξε ρωσικές εγκαταστάσεις αεράμυνας στην κατεχόμενη Κριμαία, σύμφωνα με την Στρατιωτική Υπηρεσία Πληροφοριών της Ουκρανίας (Defence Intellige",
-   "angle": null
-  },
-  {
-   "id": "5927e4e887db6727",
-   "title": "Trump Took Secret Backup Plane After Iran Threat, Report Says",
-   "link": "https://www.dailysignal.com/2026/08/11/trump-backup-plane-iran-threat/",
-   "summary_raw": "President Donald Trump secretly boarded an alternate military aircraft for his July 8 flight from Ankara, Turkey, due to an assassination threat from Iran, The Washington Post first reported. At the end of his trip to the 2026 NATO summit in Turkey, Trump boarded Air Force One as usual, then slipped into a catering truck...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-11T15:14:15+00:00",
-   "collected": "2026-08-11T15:18:48.312815+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "President Donald Trump secretly boarded an alternate military aircraft for his July 8 flight from Ankara, Turkey, due to an assassination threat from Iran, The Washington Post first reported. At the e",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "ed9dca0699ccba91",
-   "title": "Former Mossad chief Yossi Cohen says Mossad personnel had “toured” Iran’s underground Fordow nuclear site many times to understand it.  Cohen also called the 2025 U.S. bombing of F…",
-   "link": "https://t.me/ClashReport/92255",
-   "summary_raw": "Former Mossad chief Yossi Cohen says Mossad personnel had “toured” Iran’s underground Fordow nuclear site many times to understand it.  Cohen also called the 2025 U.S. bombing of Fordow “the fulfillment of all my dreams” and said Iran’s 60%-enriched uranium is “still far from a bomb.”",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-11T15:09:40+00:00",
-   "collected": "2026-08-11T17:15:49.723232+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Former Mossad chief Yossi Cohen says Mossad personnel had “toured” Iran’s underground Fordow nuclear site many times to understand it. Cohen also called the 2025 U.S. bombing of Fordow “the fulfillmen",
-   "angle": null,
-   "corroborated_by": [
-    "OSINT613",
-    "Telegram @OSINTdefender"
-   ]
-  },
-  {
-   "id": "963cce4caca473d2",
-   "title": "⚡️ Libya's High Council of State: -Oil installations and vital facilities are a red line and should not be held hostage to conflicts. -We condemn the sabotage targeting the Zawiya …",
-   "link": "https://t.me/me_observer_TG/1065985",
-   "summary_raw": "⚡️ Libya's High Council of State: -Oil installations and vital facilities are a red line and should not be held hostage to conflicts. -We condemn the sabotage targeting the Zawiya refinery and vital installations, which affects the national economy. -We hold the Ministries of Interior and Defense responsible for securing the city of Zawiya and its vital installations.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-11T15:09:32+00:00",
-   "collected": "2026-08-11T15:18:51.879077+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ Libya's High Council of State: -Oil installations and vital facilities are a red line and should not be held hostage to conflicts. -We condemn the sabotage targeting the Zawiya refinery and vital i",
-   "angle": null,
-   "corroborated_by": [
-    "Al-Monitor Turkey",
-    "Anadolu Agency (EN)"
-   ]
-  },
-  {
-   "id": "5d725582faf10a64",
-   "title": "Ο ξάδερφος ξέρει",
-   "link": "https://www.tanea.gr/print/2026/08/11/world/o-ksaderfos-kserei/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/08/FWTIES_ISPANIA_AUGOUSTOS-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>«Στην άρνηση της κλιματικής αλλαγής υπήρχαν πάντα τέσσερα στάδια: στο πρώτο, η κλιματική αλλαγή δεν υπάρχει· στο δεύτερο, υπάρχει, αλλά δεν ευθύνονται οι άνθρωποι· στο τρίτο, υπάρχει και αποτελεί πρόβλημα που προκαλείται από τον άνθρωπο, αλλά οι επιπτώσεις της δεν είναι τόσο σοβαρές όσο υποστηρίζουν οι οικολόγοι· στο τέταρτο, υπάρχει, ευθύνονται οι άνθρωποι, τα προβλήματα [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T15:02:00+00:00",
-   "collected": "2026-08-11T16:14:03.472100+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "«Στην άρνηση της κλιματικής αλλαγής υπήρχαν πάντα τέσσερα στάδια: στο πρώτο, η κλιματική αλλαγή δεν υπάρχει· στο δεύτερο, υπάρχει, αλλά δεν ευθύνονται οι άνθρωποι· στο τρίτο, υπάρχει και αποτελεί πρόβ",
-   "angle": null
-  },
-  {
-   "id": "7bec8eb2340eea5a",
-   "title": "Saudi defence pact with Turkey and Pakistan sparks UAE backlash",
-   "link": "https://www.middleeasteye.net/trending/saudi-arabia-defence-pact-turkey-pakistan-sparks-uae-backlash",
-   "summary_raw": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/trending/saudi-arabia-defence-pact-turkey-pakistan-sparks-uae-backlash\" rel=\"bookmark\">\n<span class=\"field field-title\">Saudi defence pact with Turkey and Pakistan sparks UAE backlash</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/reem-aouir\" lang=\"lang\" title=\"View user profile.\">Reem Aouir</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-11T13:26:54+01:00\" title=\"11 August 2026 13:26 BST\">Tue, 08/11/2026 - 13:26</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">Abdulkhaleq Abdulla's scepticism over Mecca joint defence agreement has drawn days of sharp Saudi pushback on X</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"926\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"Turkey's President Tayyip Erdogan shakes hands with Pakistan's Prime Minister Shehbaz Sharif as Saudi ",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-11T15:01:30+00:00",
-   "collected": "2026-08-11T16:13:25.078434+00:00",
-   "keywords_hit": [
-    "erdogan",
-    "pushback"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Saudi defence pact with Turkey and Pakistan sparks UAE backlash Submitted by Reem Aouir on Tue, 08/11/2026 - 13:26 Abdulkhaleq Abdulla's scepticism over Mecca joint defence agreement has drawn days of",
-   "angle": null
-  },
-  {
-   "id": "39f0a3806221d5f6",
-   "title": "Total solar eclipse 2026: Where, when and how to watch on Wednesday?",
-   "link": "https://www.aljazeera.com/news/2026/8/11/total-solar-eclipse-2026-where-when-and-how-to-watch-on-wednesday?traffic_source=rss",
-   "summary_raw": "Millions will see the sun disappear as the eclipse sweeps from the Arctic to Europe, bringing two minutes of totality.",
-   "source": "Al Jazeera English",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-11T14:56:06+00:00",
-   "collected": "2026-08-11T18:09:13.774419+00:00",
-   "keywords_hit": [
-    "solar"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Millions will see the sun disappear as the eclipse sweeps from the Arctic to Europe, bringing two minutes of totality.",
-   "angle": null,
-   "corroborated_by": [
-    "EU Energy (Κομισιόν)"
-   ]
   }
  ]
 }
