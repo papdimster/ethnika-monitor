@@ -1,27 +1,277 @@
 {
- "updated": "2026-08-18T14:00:15.408273+00:00",
- "count": 1865,
+ "updated": "2026-08-18T14:55:57.688870+00:00",
+ "count": 1860,
  "items": [
   {
-   "id": "ccca3695639d65a8",
+   "id": "d4d82b5a42f58a10",
    "title": "⚡️ Syria: Foreign Minister: Nuclear materials will remain in Syria's custody, subject to IAEA safeguards • 13:58 — Syria: Foreign Minister: We will work to provide the necessary co…",
-   "link": "https://t.me/me_observer_TG/1070326",
-   "summary_raw": "⚡️ Syria: Foreign Minister: Nuclear materials will remain in Syria's custody, subject to IAEA safeguards • 13:58 — Syria: Foreign Minister: We will work to provide the necessary conditions for processing and safely storing these materials. (Al Mayadeen Breaking)",
+   "link": "https://t.me/me_observer_TG/1070350",
+   "summary_raw": "⚡️ Syria: Foreign Minister: Nuclear materials will remain in Syria's custody, subject to IAEA safeguards • 13:58 — Syria: Foreign Minister: We will work to provide the necessary conditions for processing and safely storing these materials. (Al Mayadeen Breaking)…",
    "source": "Telegram @me_observer_TG",
    "side": "telegram_middle_east",
    "lang": "en",
-   "published": "2026-08-18T13:57:32+00:00",
-   "collected": "2026-08-18T13:59:15.703144+00:00",
+   "published": "2026-08-18T14:51:28+00:00",
+   "collected": "2026-08-18T14:55:04.280385+00:00",
    "keywords_hit": [
     "nuclear"
    ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "category": "Διπλωματία",
    "severity": 4,
    "turkish_narrative": false,
    "summary_el": "⚡️ Syria: Foreign Minister: Nuclear materials will remain in Syria's custody, subject to IAEA safeguards • 13:58 — Syria: Foreign Minister: We will work to provide the necessary conditions for process",
    "angle": null,
    "corroborated_by": [
-    "OSINT613"
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "001cff1e5a32671b",
+   "title": "Heatwave Exposes Vulnerability of Europe’s Energy System",
+   "link": "https://europeanconservative.com/articles/news/europe-heatwave-vulnerability-energy-system/",
+   "summary_raw": "Brussels rules out immediate supply risks but acknowledges that stability increasingly depends on cross-border exchanges, batteries, and demand management.",
+   "source": "The European Conservative",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-18T14:48:09+00:00",
+   "collected": "2026-08-18T14:54:59.327800+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Brussels rules out immediate supply risks but acknowledges that stability increasingly depends on cross-border exchanges, batteries, and demand management.",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "57dbbc9987376fcc",
+   "title": "Syria publicly confirmed possessing nuclear material left over from the Assad regime.   IAEA chief Grossi said \"tons of nuclear materials that could be put to bad use\" were found a…",
+   "link": "https://t.me/ClashReport/92882",
+   "summary_raw": "Syria publicly confirmed possessing nuclear material left over from the Assad regime.   IAEA chief Grossi said \"tons of nuclear materials that could be put to bad use\" were found at an undeclared site.  Syria voluntarily informed the IAEA in July and granted inspectors access.   Foreign Minister al-Shaibani said the material will remain in Syrian custody under IAEA safeguards, adding that Syria \"affirms its sovereign and legal right to a peaceful nuclear program.\"  The material is linked to the Al-Kibar reactor that Israel destroyed in 2007, believed to have been built with North Korean assistance.   Grossi said Syria has regained its place as a fully compliant state:   We are now turning the page on the past.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-18T14:42:45+00:00",
+   "collected": "2026-08-18T14:55:02.569408+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Syria publicly confirmed possessing nuclear material left over from the Assad regime. IAEA chief Grossi said \"tons of nuclear materials that could be put to bad use\" were found at an undeclared site. ",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "a48534f93b7303f6",
+   "title": "ONLINE EVENT: The EU Return Regulation: What refugee and migrant communities and advocates need to know",
+   "link": "https://ecre.org/online-event-the-eu-return-regulation-what-refugee-and-migrant-communities-and-advocates-need-to-know/",
+   "summary_raw": "ECRE and the Network of Afghan Diaspora Organisations in Europe (NADOE) are organising a webinar on the recently adopted EU Return Regulation. Title: The EU Return Regulation: What refugee and migrant communities and advocates need to know Date: Thursday 10 September Time: 12.00-13.00 CEST (Brussels time) Background Following the adoption of the Pact on Migration and [&#8230;]",
+   "source": "ECRE (European Council on Refugees)",
+   "side": "migration_ngo",
+   "lang": "en",
+   "published": "2026-08-18T14:32:57+00:00",
+   "collected": "2026-08-18T14:54:24.767388+00:00",
+   "keywords_hit": [
+    "migrant",
+    "refugee"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "ECRE and the Network of Afghan Diaspora Organisations in Europe (NADOE) are organising a webinar on the recently adopted EU Return Regulation. Title: The EU Return Regulation: What refugee and migrant",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βρυξέλλες",
+     "lat": 50.85,
+     "lon": 4.35
+    }
+   ]
+  },
+  {
+   "id": "222bd1b260e7870c",
+   "title": "El Nino, Indian Ocean climate pattern raise risk of record heat: Expert",
+   "link": "https://www.aa.com.tr/en/features/el-nino-indian-ocean-climate-pattern-raise-risk-of-record-heat-expert/4030750",
+   "summary_raw": "Climate scientist says 2 weather patterns could amplify heat, drought, flooding risks in coming months",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-18T14:25:35+00:00",
+   "collected": "2026-08-18T14:54:08.183781+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Climate scientist says 2 weather patterns could amplify heat, drought, flooding risks in coming months",
+   "angle": null,
+   "corroborated_by": [
+    "ESG Today"
+   ]
+  },
+  {
+   "id": "eecdff7e8b393beb",
+   "title": "Open Source Intel Syrian Foreign Minister:  The nuclear materials will remain in the possession of Syria, subject to guarantees from the International Atomic Energy Agency.  We emp…",
+   "link": "https://t.me/OSINTLive/565070",
+   "summary_raw": "Open Source Intel Syrian Foreign Minister:  The nuclear materials will remain in the possession of Syria, subject to guarantees from the International Atomic Energy Agency.  We emphasize that Syria has the right to use nuclear energy for civilian and peaceful purposes.  We will work to ensure the necessary conditions for handling and storing these materials safely. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-18T14:21:48+00:00",
+   "collected": "2026-08-18T14:55:04.907076+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel Syrian Foreign Minister: The nuclear materials will remain in the possession of Syria, subject to guarantees from the International Atomic Energy Agency. We emphasize that Syria has ",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @clashreport",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "a3d4f02f4bcebbce",
+   "title": "Open Source Intel Syrian Foreign Minister al-Shaybani, at a press conference with IAEA Director General Grossi: Syria is sticking to diplomacy in order to dissuade Israel from cont…",
+   "link": "https://t.me/OSINTLive/565058",
+   "summary_raw": "Open Source Intel Syrian Foreign Minister al-Shaybani, at a press conference with IAEA Director General Grossi: Syria is sticking to diplomacy in order to dissuade Israel from continuing its attacks.  He said Syria has the right to use nuclear energy in a civilian manner, is committed to transparency, and is allowing the IAEA to reach the site in Deir ez-Zor on its own initiative. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-18T14:21:33+00:00",
+   "collected": "2026-08-18T14:55:04.904598+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel Syrian Foreign Minister al-Shaybani, at a press conference with IAEA Director General Grossi: Syria is sticking to diplomacy in order to dissuade Israel from continuing its attacks. ",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @clashreport",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "fe1f213263a95c90",
+   "title": "Syria Claims Nuclear Materials Rights",
+   "link": "https://www.osint613.com/post/syria-claims-nuclear-materials-rights-20627",
+   "summary_raw": "Syrian Foreign Minister:\n\nThe nuclear materials will remain in the possession of Syria, subject to guarantees from the International Atomic Energy Agency.\n\nWe emphasize that Syria has the right to use nuclear energy for civilian and peaceful purposes.\n\nWe will work to ensure the necessary conditions for handling and storing these materials safely.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-18T14:17:42+00:00",
+   "collected": "2026-08-18T14:55:01.184462+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Syrian Foreign Minister: The nuclear materials will remain in the possession of Syria, subject to guarantees from the International Atomic Energy Agency. We emphasize that Syria has the right to use n",
+   "angle": null
+  },
+  {
+   "id": "fb8add36ef57d8f5",
+   "title": "Swiss NGOs call for immediate climate action as heat waves, drought hit country",
+   "link": "https://www.aa.com.tr/en/europe/swiss-ngos-call-for-immediate-climate-action-as-heat-waves-drought-hit-country/4030727",
+   "summary_raw": "Alliance, called No 50°C summers! believes this year's drought, high temperatures are start to new, worrying reality",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-18T14:15:03+00:00",
+   "collected": "2026-08-18T14:54:08.184017+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Alliance, called No 50°C summers! believes this year's drought, high temperatures are start to new, worrying reality",
+   "angle": null
+  },
+  {
+   "id": "767d4fb4a8daa8d0",
+   "title": "Syria Seeks Diplomacy to Stop Attacks",
+   "link": "https://www.osint613.com/post/syria-seeks-diplomacy-to-stop-attacks-20625",
+   "summary_raw": "Syrian Foreign Minister al-Shaybani, at a press conference with IAEA Director General Grossi: Syria is sticking to diplomacy in order to dissuade Israel from continuing its attacks.\n\nHe said Syria has the right to use nuclear energy in a civilian manner, is committed to transparency, and is allowing the IAEA to reach the site in Deir ez-Zor on its own initiative.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-18T13:57:17+00:00",
+   "collected": "2026-08-18T14:55:01.184946+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Syrian Foreign Minister al-Shaybani, at a press conference with IAEA Director General Grossi: Syria is sticking to diplomacy in order to dissuade Israel from continuing its attacks. He said Syria has ",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive",
+    "Telegram @clashreport",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "79e1202029866dd3",
+   "title": "TikTok and Meta to Increase Censorship of Supposed Disinfo over Ceuta Migrant Invasion",
+   "link": "https://www.breitbart.com/europe/2026/08/18/tiktok-and-meta-to-increase-censorship-of-supposed-disinfo-over-ceuta-migrant-invasion/",
+   "summary_raw": "<p>Brussels has claimed that Meta and TikTok have voluntarily agreed to ramp up censorship efforts in the wake of the Ceuta migrant invasion last month.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/18/tiktok-and-meta-to-increase-censorship-of-supposed-disinfo-over-ceuta-migrant-invasion/\" rel=\"nofollow\">TikTok and Meta to Increase Censorship of Supposed Disinfo over Ceuta Migrant Invasion</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-18T13:51:53+00:00",
+   "collected": "2026-08-18T14:55:00.859722+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Brussels has claimed that Meta and TikTok have voluntarily agreed to ramp up censorship efforts in the wake of the Ceuta migrant invasion last month. The post TikTok and Meta to Increase Censorship of",
+   "angle": null,
+   "corroborated_by": [
+    "The European Conservative"
+   ]
+  },
+  {
+   "id": "24b65508e6868a1b",
+   "title": "Open Source Intel Nuclear material will remain in Syrian custody, subject to IAEA guarantees, the Syrian Foreign Minister said. tweet",
+   "link": "https://t.me/OSINTLive/565055",
+   "summary_raw": "Open Source Intel Nuclear material will remain in Syrian custody, subject to IAEA guarantees, the Syrian Foreign Minister said. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-18T13:51:24+00:00",
+   "collected": "2026-08-18T14:55:04.903839+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel Nuclear material will remain in Syrian custody, subject to IAEA guarantees, the Syrian Foreign Minister said. tweet",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @me_observer_TG"
    ]
   },
   {
@@ -44,6 +294,26 @@
    "angle": null,
    "corroborated_by": [
     "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "b73bad9e3588ee05",
+   "title": "Canada Backs $50 Billion of New Clean Energy Projects",
+   "link": "https://www.esgtoday.com/canada-backs-50-billion-of-new-clean-energy-projects/?utm_source=rss&utm_medium=rss&utm_campaign=canada-backs-50-billion-of-new-clean-energy-projects",
+   "summary_raw": "<p><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"622\" src=\"https://www.esgtoday.com/wp-content/uploads/2026/08/Canada-Carney3.jpg\" width=\"1085\" /></p>The Government of Canada announced an agreement to support hydroelectric and wind energy projects valued [&#8230;]",
+   "source": "ESG Today",
+   "side": "green_esg",
+   "lang": "en",
+   "published": "2026-08-18T13:36:53+00:00",
+   "collected": "2026-08-18T14:54:40.629198+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The Government of Canada announced an agreement to support hydroelectric and wind energy projects valued […]",
+   "angle": null,
+   "corroborated_by": [
+    "Guardian Environment"
    ]
   },
   {
@@ -259,6 +529,25 @@
    ]
   },
   {
+   "id": "e51643a011910b4a",
+   "title": "Νέα άνοδος για τη χονδρική - Στα 159 ευρώ την Τετάρτη με πρώτο το φυσικό αέριο - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUJLTXNTblZzd2dyVlJLNVY2TGluVTdKWUY3ZHNsWHdqOEw0WEVLaHlNakk0Vy10QjVTbjhoTFczWFcyRWtWc1ZkeXJRWUpSX2JlaEZtTlJ0TmVpMmdZS0RBODVjeDlNaC1sckRnVldGbnB1N2x5MlhwMHBkVW9EbTY1NlFlLUI5ODNoWmpPbFBBdUw1ZDZNQ3A0WGtTYU1PTl80?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUJLTXNTblZzd2dyVlJLNVY2TGluVTdKWUY3ZHNsWHdqOEw0WEVLaHlNakk0Vy10QjVTbjhoTFczWFcyRWtWc1ZkeXJRWUpSX2JlaEZtTlJ0TmVpMmdZS0RBODVjeDlNaC1sckRnVldGbnB1N2x5MlhwMHBkVW9EbTY1NlFlLUI5ODNoWmpPbFBBdUw1ZDZNQ3A0WGtTYU1PTl80?oc=5\" target=\"_blank\">Νέα άνοδος για τη χονδρική - Στα 159 ευρώ την Τετάρτη με πρώτο το φυσικό αέριο</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-08-18T12:37:31+00:00",
+   "collected": "2026-08-18T14:54:33.068303+00:00",
+   "keywords_hit": [
+    "φυσικό αέριο"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Νέα άνοδος για τη χονδρική - Στα 159 ευρώ την Τετάρτη με πρώτο το φυσικό αέριο Energypress",
+   "angle": null
+  },
+  {
    "id": "a9c6e2953e18e30f",
    "title": "Μύθοι",
    "link": "https://www.tanea.gr/print/2026/08/18/opinions/mythoi-9/",
@@ -433,6 +722,23 @@
    ]
   },
   {
+   "id": "0796537ef105a236",
+   "title": "Israel permits Jewish prayer books on Temple Mount for first time",
+   "link": "https://brusselssignal.eu/2026/08/israel-permits-jewish-prayer-books-on-temple-mount-for-first-time/",
+   "summary_raw": "Israel has for the first time allowed Jewish prayer books on the Temple Mount, confirming a gradual easing of restrictions at this contested religious site.\n<p><a href=\"https://brusselssignal.eu/2026/08/israel-permits-jewish-prayer-books-on-temple-mount-for-first-time/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-18T12:14:13+00:00",
+   "collected": "2026-08-18T14:54:57.934507+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Israel has for the first time allowed Jewish prayer books on the Temple Mount, confirming a gradual easing of restrictions at this contested religious site. Source",
+   "angle": null
+  },
+  {
    "id": "387f89a23badc57a",
    "title": "UN Chief Calls for Unified Security Institutions and Economic Reform in Libya",
    "link": "https://libyareview.com/67638/un-chief-calls-for-unified-security-institutions-and-economic-reform-in-libya/",
@@ -479,6 +785,32 @@
      "name": "Θράκη",
      "lat": 41.1,
      "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "da1719385e924277",
+   "title": "Έβρος: Φωτιά τώρα στα Κόμαρα – Ισχυρή κινητοποίηση της Πυροσβεστικής - Newsbomb",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU9icmpjNEI1WHN1aVpZbUgxVGFjX0Foc3lHMU5kV25QcERQWHFNbERSOGloanZhX3JORllFMDVzRmFCWm5YYW51WG9BYWpZV25EeE9SWUFzUTNpWlp6ODNhbEhKN1RHVkI1ODcxMDR6RGRLMFEtOHN1WTByVHJEdGdmb3JtZ1ZWZVN6a083ZWpvQWJXNEJOT1RsYnhmQ0dtR1RjUHNBd1phLXMzX3RfVkVB?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU9icmpjNEI1WHN1aVpZbUgxVGFjX0Foc3lHMU5kV25QcERQWHFNbERSOGloanZhX3JORllFMDVzRmFCWm5YYW51WG9BYWpZV25EeE9SWUFzUTNpWlp6ODNhbEhKN1RHVkI1ODcxMDR6RGRLMFEtOHN1WTByVHJEdGdmb3JtZ1ZWZVN6a083ZWpvQWJXNEJOT1RsYnhmQ0dtR1RjUHNBd1phLXMzX3RfVkVB?oc=5\" target=\"_blank\">Έβρος: Φωτιά τώρα στα Κόμαρα – Ισχυρή κινητοποίηση της Πυροσβεστικής</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsbomb</font>",
+   "source": "Newsbomb",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-18T11:47:46+00:00",
+   "collected": "2026-08-18T14:54:10.474593+00:00",
+   "keywords_hit": [
+    "έβρος"
+   ],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Έβρος: Φωτιά τώρα στα Κόμαρα – Ισχυρή κινητοποίηση της Πυροσβεστικής Newsbomb",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
     }
    ]
   },
@@ -691,6 +1023,25 @@
    "angle": null
   },
   {
+   "id": "0deae3ac0096d985",
+   "title": "Ινδία: Θα ξεπεράσουν τα 50 GW οι νέες εγκαταστάσεις φωτοβολταϊκών φέτος - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmxPT3R6QTNJUVBXdnJwV2ZDV3F3cUh0NzVFaVctU0FPTTZ6Y3lwY0pnSGRieENNeGNMLWtxbDljX0l2UzBsUVdjUEF2Yk5Cd010WDNVQlR1U3JVTG9sWnNoM3pXQ1BUdDdrRnllRGR6MlQ1d2dWM0lSSVV0amIzazJIT3gyZUNnX2llejhXZlp3enltVGhLN0hRUHF1bGNn?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmxPT3R6QTNJUVBXdnJwV2ZDV3F3cUh0NzVFaVctU0FPTTZ6Y3lwY0pnSGRieENNeGNMLWtxbDljX0l2UzBsUVdjUEF2Yk5Cd010WDNVQlR1U3JVTG9sWnNoM3pXQ1BUdDdrRnllRGR6MlQ1d2dWM0lSSVV0amIzazJIT3gyZUNnX2llejhXZlp3enltVGhLN0hRUHF1bGNn?oc=5\" target=\"_blank\">Ινδία: Θα ξεπεράσουν τα 50 GW οι νέες εγκαταστάσεις φωτοβολταϊκών φέτος</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-08-18T11:00:24+00:00",
+   "collected": "2026-08-18T14:54:33.068089+00:00",
+   "keywords_hit": [
+    "φωτοβολταϊκ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Ινδία: Θα ξεπεράσουν τα 50 GW οι νέες εγκαταστάσεις φωτοβολταϊκών φέτος Energypress",
+   "angle": null
+  },
+  {
    "id": "b48612cacaad0a66",
    "title": "Υπαρκτοί κίνδυνοι",
    "link": "https://www.tanea.gr/print/2026/08/18/opinions/yparktoi-kindynoi/",
@@ -894,6 +1245,26 @@
    "angle": null
   },
   {
+   "id": "3e787b677495998b",
+   "title": "France Wildfires: Migrant With Deportation Order Charged with Robbing Evacuated Homes",
+   "link": "https://www.breitbart.com/europe/2026/08/18/france-wildfires-migrant-with-deportation-order-charged-with-robbing-evacuated-homes/",
+   "summary_raw": "<p>An Algerian migrant with a deportation order has been accused of burglarising homes in the Gironde region of France after they were evacuated as a result of the wildfires ravaging the area.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/18/france-wildfires-migrant-with-deportation-order-charged-with-robbing-evacuated-homes/\" rel=\"nofollow\">France Wildfires: Migrant With Deportation Order Charged with Robbing Evacuated Homes</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-18T10:32:56+00:00",
+   "collected": "2026-08-18T14:55:00.861835+00:00",
+   "keywords_hit": [
+    "migrant",
+    "deportation"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "An Algerian migrant with a deportation order has been accused of burglarising homes in the Gironde region of France after they were evacuated as a result of the wildfires ravaging the area. The post F",
+   "angle": null
+  },
+  {
    "id": "a1cc8c838cde57d0",
    "title": "«Ρεζερβέ» στην αμμουδιά με... αλυσίδες: Ξήλωσαν 100 ομπρέλες και ξαπλώστρες από παραλία της Χαλκιδικής",
    "link": "https://www.protothema.gr/greece/article/1866285/rezerve-stin-ammoudia-me-alusides-xilosan-100-obreles-kai-xaplostres-apo-paralia-tis-halkidikis/?utm_source=rss",
@@ -1053,6 +1424,25 @@
    "severity": 4,
    "turkish_narrative": false,
    "summary_el": "Η ένταση στον Περσικό Κόλπο συνεχίζει να προκαλεί αναταράξεις στις διεθνείς αγορές, με τις τιμές τόσο του πετρελαίου όσο και του φυσικού αερίου να καταγράφουν σημαντική άνοδο. Η τιμή του πετρελαίου έχ",
+   "angle": null
+  },
+  {
+   "id": "991150b4bd50712d",
+   "title": "Report: Ceuta Illegal Migrant Entries Surged 191% BEFORE Invasion Began",
+   "link": "https://www.breitbart.com/europe/2026/08/18/report-ceuta-illegal-migrant-entries-surged-191-this-year-before-counting-invasion/",
+   "summary_raw": "<p>A staggering 191 percent surge in illegal migrant arrivals at Ceuta preceded the massive late July invasion of the exclave, Spanish government authorities documented Monday.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/18/report-ceuta-illegal-migrant-entries-surged-191-this-year-before-counting-invasion/\" rel=\"nofollow\">Report: Ceuta Illegal Migrant Entries Surged 191% BEFORE Invasion Began</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-18T09:39:16+00:00",
+   "collected": "2026-08-18T14:55:00.859952+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A staggering 191 percent surge in illegal migrant arrivals at Ceuta preceded the massive late July invasion of the exclave, Spanish government authorities documented Monday. The post Report: Ceuta Ill",
    "angle": null
   },
   {
@@ -1246,6 +1636,25 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Καθώς ο πλανήτης συνεχίζει να θερμαίνεται, τις επόμενες δεκαετίες οι άνθρωποι μεγαλύτερης ηλικίας —άνω των 60 ετών— θα εκτίθενται ολοένα περισσότερο σε αφόρητη ζέστη κι ο κίνδυνος γι’ αυτούς είναι ακό",
+   "angle": null
+  },
+  {
+   "id": "97960196e235e971",
+   "title": "Montel: 140 φορτία LNG χρειάζεται η Ευρώπη για να γεμίσει τις αποθήκες - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGRYWW1zOWtFU0lTRTdod2owRlFTQ1lfNnJnWHJSczlJZE1HWWplS0FLR1lQWFZ0Q1E5bW9CSzRkQUQ0OURIbnVUeDlhUmtEemU5RVc4RFAwa2pJUy1rbGFrWTB4WGp3c1dRWUp5bGdhR3R0eDdjNllUVnNBVm9VeDhXOVIwWlpySGpiSEdHMVVJSTFyWW1Rd1FJRG1ETGM?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGRYWW1zOWtFU0lTRTdod2owRlFTQ1lfNnJnWHJSczlJZE1HWWplS0FLR1lQWFZ0Q1E5bW9CSzRkQUQ0OURIbnVUeDlhUmtEemU5RVc4RFAwa2pJUy1rbGFrWTB4WGp3c1dRWUp5bGdhR3R0eDdjNllUVnNBVm9VeDhXOVIwWlpySGpiSEdHMVVJSTFyWW1Rd1FJRG1ETGM?oc=5\" target=\"_blank\">Montel: 140 φορτία LNG χρειάζεται η Ευρώπη για να γεμίσει τις αποθήκες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-08-18T09:00:44+00:00",
+   "collected": "2026-08-18T14:54:33.067653+00:00",
+   "keywords_hit": [
+    "lng"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Montel: 140 φορτία LNG χρειάζεται η Ευρώπη για να γεμίσει τις αποθήκες Energypress",
    "angle": null
   },
   {
@@ -1462,6 +1871,23 @@
      "lon": 25.5
     }
    ]
+  },
+  {
+   "id": "4826b18f9c042c62",
+   "title": "Aussie Council Mutes Mosque's Plan to Broadcast Islamic Call to Prayer",
+   "link": "https://www.breitbart.com/europe/2026/08/18/aussie-council-mutes-mosques-plan-to-broadcast-islamic-call-to-prayer/",
+   "summary_raw": "<p>An application by Australia's largest mosque to publicly broadcast the Islamic call to prayer via four outdoor loudspeakers was turned down Monday by a local authority.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/18/aussie-council-mutes-mosques-plan-to-broadcast-islamic-call-to-prayer/\" rel=\"nofollow\">Aussie Council Mutes Mosque&#8217;s Plan to Broadcast Islamic Call to Prayer</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-18T08:12:20+00:00",
+   "collected": "2026-08-18T14:55:00.860669+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "An application by Australia's largest mosque to publicly broadcast the Islamic call to prayer via four outdoor loudspeakers was turned down Monday by a local authority. The post Aussie Council Mutes M",
+   "angle": null
   },
   {
    "id": "0be2015bfb06b492",
@@ -40858,517 +41284,6 @@
    "angle": null,
    "corroborated_by": [
     "EU Energy (Κομισιόν)"
-   ]
-  },
-  {
-   "id": "3034e62e10b72662",
-   "title": "Πίεση-σοκ στην Αθήνα! Απαιτούν να στείλουμε τους ελληνικούς Patriot στην Ουκρανία",
-   "link": "https://www.pentapostagma.gr/kosmos/7384688_piesi-sok-stin-athina-apaitoyn-na-steiloyme-toys-ellinikoys-patriot-stin-oykrania",
-   "summary_raw": "Ζητούν 200 ελληνικούς πυραύλους Patriot για την Ουκρανία",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-11T14:52:04+00:00",
-   "collected": "2026-08-11T15:18:11.578700+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ζητούν 200 ελληνικούς πυραύλους Patriot για την Ουκρανία",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    }
-   ]
-  },
-  {
-   "id": "072d559098a316db",
-   "title": "Η διατροφική μας ποικιλία συρρικνώνεται, προειδοποιούν επιστήμονες",
-   "link": "https://www.ertnews.gr/eidiseis/i-diatrofiki-mas-poikilia-syrriknonetai-proeidopoioun-epistimones/",
-   "summary_raw": "<img alt=\"pexels-cherisha-norman-5106003\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"719\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/pexels-cherisha-norman-5106003.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Η γεωργία περιορίζεται σε ολοένα λιγότερες ποικιλίες, ενώ πολλές πιο θρεπτικές και ανθεκτικές στην κλιματική αλλαγή καλλιέργειες απειλούνται με εξαφάνιση.</p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-11T14:41:32+00:00",
-   "collected": "2026-08-11T15:17:48.260511+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Η γεωργία περιορίζεται σε ολοένα λιγότερες ποικιλίες, ενώ πολλές πιο θρεπτικές και ανθεκτικές στην κλιματική αλλαγή καλλιέργειες απειλούνται με εξαφάνιση. www.ertnews.gr",
-   "angle": null
-  },
-  {
-   "id": "65a636d3efdfd3d5",
-   "title": "Western Europe saw hottest June-July on record as extreme weather intensifies: World Meteorological Organization",
-   "link": "https://www.aa.com.tr/en/europe/western-europe-saw-hottest-june-july-on-record-as-extreme-weather-intensifies-world-meteorological-organization/4024387",
-   "summary_raw": "UN weather agency warns 4th heat wave of summer hitting region; drought, wildfires worsen",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-08-11T14:41:19+00:00",
-   "collected": "2026-08-11T15:17:44.085199+00:00",
-   "keywords_hit": [
-    "meteor"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "UN weather agency warns 4th heat wave of summer hitting region; drought, wildfires worsen",
-   "angle": null
-  },
-  {
-   "id": "b9daa2716df137cb",
-   "title": "Ceuta leader demands quick assembly of deportation facilities after July events - InfoMigrants",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnR0dzZsSGp1Q0RHRHV5NFhKREYtWXlPSzdKU01LSGhtdEt4NHp1LWREWUZZNGZfY2hVdHpvalJDYXFuZURzYWtPcXZkTXIxOTZuUDNEbmdxZEpYNjA3ZjlzcjhyenRNWElPcFN4dVV6UGFXcFo4NzNLYWRHN2JuMUltdGNCcWIyVWdQQUFzcGtZbkNnX3Z6QWhDMjJVdnNNSXRpQ0pGOEJVUS00YTNhaV9XejY1YVFLRUZnSDFtaw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnR0dzZsSGp1Q0RHRHV5NFhKREYtWXlPSzdKU01LSGhtdEt4NHp1LWREWUZZNGZfY2hVdHpvalJDYXFuZURzYWtPcXZkTXIxOTZuUDNEbmdxZEpYNjA3ZjlzcjhyenRNWElPcFN4dVV6UGFXcFo4NzNLYWRHN2JuMUltdGNCcWIyVWdQQUFzcGtZbkNnX3Z6QWhDMjJVdnNNSXRpQ0pGOEJVUS00YTNhaV9XejY1YVFLRUZnSDFtaw?oc=5\" target=\"_blank\">Ceuta leader demands quick assembly of deportation facilities after July events</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoMigrants</font>",
-   "source": "InfoMigrants",
-   "side": "migration",
-   "lang": "en",
-   "published": "2026-08-11T14:41:01+00:00",
-   "collected": "2026-08-11T15:18:05.066234+00:00",
-   "keywords_hit": [
-    "migrant",
-    "deportation"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Ceuta leader demands quick assembly of deportation facilities after July events InfoMigrants",
-   "angle": null
-  },
-  {
-   "id": "f3433f79262229af",
-   "title": "France: 'Allahu Akbar' Knifeman Injures Two Police Officers in Toulouse",
-   "link": "https://www.breitbart.com/europe/2026/08/11/france-allahu-akbar-knifeman-injures-two-police-officers-in-toulouse/",
-   "summary_raw": "<p>Two municipal police officers were injured in the Southern French city of Toulouse on Monday afternoon by a knifeman who reportedly shouted \"Allahu Akbar\" during the attack.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/11/france-allahu-akbar-knifeman-injures-two-police-officers-in-toulouse/\" rel=\"nofollow\">France: &#8216;Allahu Akbar&#8217; Knifeman Injures Two Police Officers in Toulouse</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-11T14:39:47+00:00",
-   "collected": "2026-08-11T18:09:48.848197+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Two municipal police officers were injured in the Southern French city of Toulouse on Monday afternoon by a knifeman who reportedly shouted \"Allahu Akbar\" during the attack. The post France: ‘Allahu A",
-   "angle": null
-  },
-  {
-   "id": "2664db99f704ba5d",
-   "title": "#Israel #Iran   Former Mossad Director Yossi Cohen stated on Tuesday that Israeli intelligence operatives had visited Iran's underground Fordow nuclear facility on multiple occasio…",
-   "link": "https://t.me/OSINTdefender/19785",
-   "summary_raw": "#Israel #Iran   Former Mossad Director Yossi Cohen stated on Tuesday that Israeli intelligence operatives had visited Iran's underground Fordow nuclear facility on multiple occasions as part of efforts to assess the site.  Subscribe to @OSINTdefender | Chat room",
-   "source": "Telegram @OSINTdefender",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-11T14:38:20+00:00",
-   "collected": "2026-08-11T17:15:51.021036+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "#Israel #Iran Former Mossad Director Yossi Cohen stated on Tuesday that Israeli intelligence operatives had visited Iran's underground Fordow nuclear facility on multiple occasions as part of efforts ",
-   "angle": null,
-   "corroborated_by": [
-    "OSINT613",
-    "Telegram @clashreport"
-   ]
-  },
-  {
-   "id": "de216406f1c2ae07",
-   "title": "Μέδουσες «έκλεισαν» ξανά πυρηνικό σταθμό στη Γαλλία",
-   "link": "https://www.kathimerini.gr/world/564396274/medoyses-ekleisan-xana-pyriniko-stathmo-sti-gallia/",
-   "summary_raw": "Δώδεκα μήνες μετά την πρώτη «εισβολή», αντιδραστήρες στον πυρηνικό σταθμό του Γκραβελίν τέθηκαν εκτός λειτουργίας για προληπτικούς λόγους.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T14:37:02+00:00",
-   "collected": "2026-08-11T16:14:01.606990+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Δώδεκα μήνες μετά την πρώτη «εισβολή», αντιδραστήρες στον πυρηνικό σταθμό του Γκραβελίν τέθηκαν εκτός λειτουργίας για προληπτικούς λόγους.",
-   "angle": null
-  },
-  {
-   "id": "ce7dc69f6fd0a8f9",
-   "title": "US and Syria Strike Secret Accord to Remove Clandestine Nuclear Stockpile  US has brokered a secret agreement with Syrian government and Israel for the IAEA to remove undeclared nu…",
-   "link": "https://t.me/ClashReport/92253",
-   "summary_raw": "US and Syria Strike Secret Accord to Remove Clandestine Nuclear Stockpile  US has brokered a secret agreement with Syrian government and Israel for the IAEA to remove undeclared nuclear material left over from the Assad regime in a clandestine facility.  READ MORE",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-11T14:36:42+00:00",
-   "collected": "2026-08-11T16:14:13.147719+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "US and Syria Strike Secret Accord to Remove Clandestine Nuclear Stockpile US has brokered a secret agreement with Syrian government and Israel for the IAEA to remove undeclared nuclear material left o",
-   "angle": null
-  },
-  {
-   "id": "75fac896b0227c26",
-   "title": "Noncitizen Voting Cases Contradict Democrats’ Claims It Doesn’t Happen",
-   "link": "https://www.dailysignal.com/2026/08/11/noncitizen-voting-cases/",
-   "summary_raw": "Sen. Bernie Sanders claimed on the Senate floor that noncitizen voting is a myth, just months before New Jersey officials admitted about 400 noncitizens had voted in state elections. “The good news is that noncitizens do not vote in American elections,” the Vermont independent who caucuses with Democrats asserted in a March 19 floor speech....",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-11T14:35:42+00:00",
-   "collected": "2026-08-11T16:14:11.198831+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Sen. Bernie Sanders claimed on the Senate floor that noncitizen voting is a myth, just months before New Jersey officials admitted about 400 noncitizens had voted in state elections. “The good news is",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "da338af4bd47c6b0",
-   "title": "Η Θέουτα δεν απείλησε την Ευρώπη, η αντίδραση της Ευρώπης την απείλησε",
-   "link": "https://www.tanea.gr/print/2026/08/11/opinions/i-theouta-den-apeilise-tin-eyropi-lfi-antidrasi-tis-eyropis-tin-apeilise/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/08/ceuta_maroco_immigrants-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Την περασμένη εβδομάδα, περίπου 60.000 άνθρωποι επιχείρησαν να περάσουν από το Μαρόκο στον ισπανικό θύλακα της Θέουτα – ένα από τα λίγα χερσαία σύνορα της Ευρωπαϊκής Eνωσης στην αφρικανική ήπειρο. Δεκάδες άνθρωποι έχασαν τη ζωή τους. Παρότι το περιστατικό αποκάλυψε σοβαρές αποτυχίες στη διαχείριση των συνόρων, την ανθρωπιστική βοήθεια και τη συνεργασία του Μαρόκου με [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T14:31:00+00:00",
-   "collected": "2026-08-11T15:18:42.001593+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Την περασμένη εβδομάδα, περίπου 60.000 άνθρωποι επιχείρησαν να περάσουν από το Μαρόκο στον ισπανικό θύλακα της Θέουτα – ένα από τα λίγα χερσαία σύνορα της Ευρωπαϊκής Eνωσης στην αφρικανική ήπειρο. Δεκ",
-   "angle": null
-  },
-  {
-   "id": "e8e34d34f819aa86",
-   "title": "Σήραγγα κάτω από τα σύνορα με τη Λευκορωσία για παράνομη είσοδο μεταναστών βρέθηκε στη Λετονία",
-   "link": "https://www.protothema.gr/world/article/1863598/siragga-kato-apo-ta-sunora-me-ti-leukorosia-vrethike-sti-letonia/?utm_source=rss",
-   "summary_raw": "Η Ρίγα ανακοίνωσε σχέδια καταπολέμησης των δικτύων διακινητών ανθρώπων τα οποία βοηθούν στο να περάσουν τα σύνορα μετανάστες",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T14:29:00+00:00",
-   "collected": "2026-08-11T15:18:38.732641+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "διακινητ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Ρίγα ανακοίνωσε σχέδια καταπολέμησης των δικτύων διακινητών ανθρώπων τα οποία βοηθούν στο να περάσουν τα σύνορα μετανάστες",
-   "angle": null,
-   "corroborated_by": [
-    "ΕΡΤ News",
-    "Εφημερίδα των Συντακτών"
-   ]
-  },
-  {
-   "id": "86695d68aa6d7302",
-   "title": "Axios: Μυστική συμφωνία ΗΠΑ με Συρία και Ισραήλ για κρυφή πυρηνική τοποθεσία της εποχής Άσαντ",
-   "link": "https://www.efsyn.gr/kosmos/1446030/axios-mystiki-symfonia-ipa-me-syria-kai-israil-gia-kryfi-pyriniki-topothesia-tis-epohis-asant/",
-   "summary_raw": "Ο Διεθνής Οργανισμός Ατομικής Ενέργειας θα απομακρύνει σύντομα το πυρηνικό υλικό που είναι αποθηκευμένο στην εν λόγω τοποθεσία.",
-   "source": "Εφημερίδα των Συντακτών",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T14:27:44+00:00",
-   "collected": "2026-08-11T15:18:43.579487+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Διεθνής Οργανισμός Ατομικής Ενέργειας θα απομακρύνει σύντομα το πυρηνικό υλικό που είναι αποθηκευμένο στην εν λόγω τοποθεσία.",
-   "angle": null
-  },
-  {
-   "id": "6f36c2b5231ebfc3",
-   "title": "Γαλλία: Κοπάδι από μέδουσες έθεσε εκτός λειτουργίας τρεις αντιδραστήρες πυρηνικού σταθμού - Energypress",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUY3Ukp2ZDA4anJuZ1FobmNROVJLdXBuc2o3VU5iR2lTekZ5WUQyeXNncmlRTWhUR1ZVWWhGZWE1b0IzdkhuOUZ4c0Q0ZWU0RUV6M1lqOGZnbGs5SXZKRXFCWDRpc2wwajRtNTdIdC13NjlHY25aTHJhOEkzeTRiYWhtUC1GMXIway1KbkMtUGI1RGc5LUxYWVU0bXNqVjhKN2ZZLVRiVk1peTd0RDM3aVhrNVZ6alI0T0E?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUY3Ukp2ZDA4anJuZ1FobmNROVJLdXBuc2o3VU5iR2lTekZ5WUQyeXNncmlRTWhUR1ZVWWhGZWE1b0IzdkhuOUZ4c0Q0ZWU0RUV6M1lqOGZnbGs5SXZKRXFCWDRpc2wwajRtNTdIdC13NjlHY25aTHJhOEkzeTRiYWhtUC1GMXIway1KbkMtUGI1RGc5LUxYWVU0bXNqVjhKN2ZZLVRiVk1peTd0RDM3aVhrNVZ6alI0T0E?oc=5\" target=\"_blank\">Γαλλία: Κοπάδι από μέδουσες έθεσε εκτός λειτουργίας τρεις αντιδραστήρες πυρηνικού σταθμού</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
-   "source": "Energypress",
-   "side": "greek_energy",
-   "lang": "el",
-   "published": "2026-08-11T14:23:36+00:00",
-   "collected": "2026-08-12T02:47:24.520761+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Γαλλία: Κοπάδι από μέδουσες έθεσε εκτός λειτουργίας τρεις αντιδραστήρες πυρηνικού σταθμού Energypress",
-   "angle": null
-  },
-  {
-   "id": "a21122aaf5b211ee",
-   "title": "Λετονία: Εντοπίστηκε σήραγγα κάτω από τα σύνορα με τη Λευκορωσία για μετακίνηση μεταναστών",
-   "link": "https://www.efsyn.gr/kosmos/1446037/letonia-entopistike-siragga-kato-apo-ta-synora-me-ti-leykorosia-gia-metakinisi-metanaston/",
-   "summary_raw": "Πριν από λίγες ημέρες και η Λιθουανία είχε προβεί στις ίδιες καταγγελίες.",
-   "source": "Εφημερίδα των Συντακτών",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T14:21:53+00:00",
-   "collected": "2026-08-11T15:18:43.579590+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Πριν από λίγες ημέρες και η Λιθουανία είχε προβεί στις ίδιες καταγγελίες.",
-   "angle": null,
-   "corroborated_by": [
-    "ΕΡΤ News",
-    "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "01067b40b83a4a1a",
-   "title": "Jellyfish influx forces shutdown of 3 nuclear reactors in northern France",
-   "link": "https://www.aa.com.tr/en/europe/jellyfish-influx-forces-shutdown-of-3-nuclear-reactors-in-northern-france/4024360",
-   "summary_raw": "Another reactor's output reduced to 50%, announces French energy company EDF",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-08-11T14:18:18+00:00",
-   "collected": "2026-08-11T15:17:44.085741+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Another reactor's output reduced to 50%, announces French energy company EDF",
-   "angle": null
-  },
-  {
-   "id": "2165f6717bdf0baf",
-   "title": "France: 32-year-old Algerian arrested for forcibly kissing 1-year-old child in city park",
-   "link": "https://rmx.news/article/france-32-year-old-algerian-arrested-for-forcibly-kissing-1-year-old-child-in-city-park/",
-   "summary_raw": "<p>The Algerian has reportedly confessed to sexually assaulting the one-year-old child</p>\n<p>The post <a href=\"https://rmx.news/article/france-32-year-old-algerian-arrested-for-forcibly-kissing-1-year-old-child-in-city-park/\">France: 32-year-old Algerian arrested for forcibly kissing 1-year-old child in city park</a> appeared first on <a href=\"https://rmx.news\">Remix News</a>.</p>",
-   "source": "Remix News",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-11T14:17:38+00:00",
-   "collected": "2026-08-12T10:29:13.944515+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The Algerian has reportedly confessed to sexually assaulting the one-year-old child The post France: 32-year-old Algerian arrested for forcibly kissing 1-year-old child in city park appeared first on ",
-   "angle": null
-  },
-  {
-   "id": "af2b90d72f7da54e",
-   "title": "Trump Defends War to Stop Iran Nukes",
-   "link": "https://www.osint613.com/post/trump-defends-war-stop-iran-nukes-20030",
-   "summary_raw": "Trump: The war was necessary to prevent Iran from possessing a nuclear weapon",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-08-11T14:14:20+00:00",
-   "collected": "2026-08-11T15:18:48.464787+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Trump: The war was necessary to prevent Iran from possessing a nuclear weapon",
-   "angle": null
-  },
-  {
-   "id": "9832de7f2e8cd6d5",
-   "title": "Germany: Weidel slams government after mass brawl between migrants with axes leaves several seriously injured in Düren city center",
-   "link": "https://rmx.news/article/germany-weidel-slams-government-after-mass-brawl-between-migrants-with-axes-leaves-several-seriously-injured-in-duren-city-center/",
-   "summary_raw": "<p>6 people were seriously injured, including another two who refused medical treatment</p>\n<p>The post <a href=\"https://rmx.news/article/germany-weidel-slams-government-after-mass-brawl-between-migrants-with-axes-leaves-several-seriously-injured-in-duren-city-center/\">Germany: Weidel slams government after mass brawl between migrants with axes leaves several seriously injured in Düren city center</a> appeared first on <a href=\"https://rmx.news\">Remix News</a>.</p>",
-   "source": "Remix News",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-11T14:11:24+00:00",
-   "collected": "2026-08-12T10:29:13.944755+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "6 people were seriously injured, including another two who refused medical treatment The post Germany: Weidel slams government after mass brawl between migrants with axes leaves several seriously inju",
-   "angle": null
-  },
-  {
-   "id": "562aa0fa32c5f7aa",
-   "title": "Λετονία: Εντοπίσθηκε σήραγγα κάτω από τα σύνορα με τη Λευκορωσία – Ενισχύονται τα μέτρα κατά της παράτυπης μετανάστευσης",
-   "link": "https://www.ertnews.gr/roi-idiseon/letonia-entopisthike-siragga-kato-apo-ta-synora-me-ti-leykorosia-enisxyontai-ta-metra-kata-tis-paratypis-metanasteysis/",
-   "summary_raw": "<img alt=\"latvia\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"602\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/latvia.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"909\" /><p>Η κυβέρνηση της Λετονίας ανακοίνωσε σήμερα ότι εντοπίσθηκε μια σήραγγα κάτω από τα σύνορα με την Λευκορωσία και ανακοίνωσε σχέδια καταπολέμησης των δικτύων διακινητών ανθρώπων τα οποία βοηθούν στο να περάσουν παράνομα τα σύνορα μετανάστες που o αριθμός τους αυξάνεται συνεχώς. Λετονοί στρατιώτες χρησιμοποίησαν τον περασμένο μήνα δακρυγόνα και προειδοποιητικά πυρά για να σταματήσουν μετανάστες ... <a class=\"read-more\" href=\"https://www.ertnews.gr/roi-idiseon/letonia-entopisthike-siragga-kato-apo-ta-synora-me-ti-leykorosia-enisxyontai-ta-metra-kata-tis-paratypis-metanasteysis/\" title=\"Λετονία: Εντοπίσθηκε σήραγγα κάτω από τα σύνορα με τη Λευκορωσία &#8211; Ενισχύονται τα μέτρα κατά της παράτυπης μετανάστευσης\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-11T14:07:41+00:00",
-   "collected": "2026-08-11T15:17:48.263030+00:00",
-   "keywords_hit": [
-    "διακινητ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η κυβέρνηση της Λετονίας ανακοίνωσε σήμερα ότι εντοπίσθηκε μια σήραγγα κάτω από τα σύνορα με την Λευκορωσία και ανακοίνωσε σχέδια καταπολέμησης των δικτύων διακινητών ανθρώπων τα οποία βοηθούν στο να ",
-   "angle": null,
-   "corroborated_by": [
-    "Εφημερίδα των Συντακτών",
-    "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "8c520d9ce0c51630",
-   "title": "Exclusive — Nigerian Lawyer Details Harrowing Christian Persecution: 'A Daily Occurrence'",
-   "link": "https://www.breitbart.com/africa/2026/08/11/exclusive-nigerian-lawyer-details-harrowing-christian-persecution-a-daily-occurrence/",
-   "summary_raw": "<p>Christians in Nigeria face abductions, torture, rape, and murder on a \"daily\" basis at the hands of hordes of armed Fulani jihadists, a lawyer working in the country's Middle Belt told Breitbart News in an exclusive conversation on Monday.</p>\n<p>The post <a href=\"https://www.breitbart.com/africa/2026/08/11/exclusive-nigerian-lawyer-details-harrowing-christian-persecution-a-daily-occurrence/\" rel=\"nofollow\">Exclusive — Nigerian Lawyer Details Harrowing Christian Persecution: &#8216;A Daily Occurrence&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-11T14:06:54+00:00",
-   "collected": "2026-08-11T18:09:48.846595+00:00",
-   "keywords_hit": [
-    "christian persecution"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Christians in Nigeria face abductions, torture, rape, and murder on a \"daily\" basis at the hands of hordes of armed Fulani jihadists, a lawyer working in the country's Middle Belt told Breitbart News ",
-   "angle": null
-  },
-  {
-   "id": "7e09e82f5a2d3d41",
-   "title": "Great Sea Interconnector: Το διακύβευμα και... τα ζόρια - NeaKriti",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3FINTBpclY5ZS1wSkVoYzRoVWRIajlrRDNBT0w5aDFIdXZncHhNQXY4SXRadjJjMkttOXM1S0NPaEoyYU1MVXpJRTdlNkpVZHhrQTFmYXRYcGhwQldvRUpVNHZTMi1YRGdQbkRSNk8tSjRYQ016U2RWc09mWV80TTQ3TUNPWDRXRTV5OUtjRmZmcW_SAZgBQVVfeXFMTlhLTjhhaTR1ZlpsSU9YMWVEX2hndU82RDFKZHBveHFFMUhFY3djYUpYcnItYTlWM2xXdnRtSGFHc2Voa3NNUTJ6cHY3WlZ4bGdXbDBtVS05d2RGcGlsdXgtNFdzcTk0NmZSZW1fOFAzSkRfRGJJWGQyRzRqM05Bdmk3c3FzOXFoOFhRRkZ0M2VfbVVNTXRrRW8?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3FINTBpclY5ZS1wSkVoYzRoVWRIajlrRDNBT0w5aDFIdXZncHhNQXY4SXRadjJjMkttOXM1S0NPaEoyYU1MVXpJRTdlNkpVZHhrQTFmYXRYcGhwQldvRUpVNHZTMi1YRGdQbkRSNk8tSjRYQ016U2RWc09mWV80TTQ3TUNPWDRXRTV5OUtjRmZmcW_SAZgBQVVfeXFMTlhLTjhhaTR1ZlpsSU9YMWVEX2hndU82RDFKZHBveHFFMUhFY3djYUpYcnItYTlWM2xXdnRtSGFHc2Voa3NNUTJ6cHY3WlZ4bGdXbDBtVS05d2RGcGlsdXgtNFdzcTk0NmZSZW1fOFAzSkRfRGJJWGQyRzRqM05Bdmk3c3FzOXFoOFhRRkZ0M2VfbVVNTXRrRW8?oc=5\" target=\"_blank\">Great Sea Interconnector: Το διακύβευμα και... τα ζόρια</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NeaKriti</font>",
-   "source": "Nea Kriti",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-11T14:05:18+00:00",
-   "collected": "2026-08-11T16:13:56.369438+00:00",
-   "keywords_hit": [
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Great Sea Interconnector: Το διακύβευμα και... τα ζόρια NeaKriti",
-   "angle": null
-  },
-  {
-   "id": "7fb4f342ce4360f6",
-   "title": "Ουκρανικά drones κατέστρεψαν σύστημα S-400 που προστάτευε παλάτι του Πούτιν, αξίας 1 δισ. λιρών, στη δυτική Ρωσία - Δείτε βίντεο",
-   "link": "https://www.protothema.gr/world/article/1863583/oukranika-drones-katestrepsan-sustima-s-400-pou-prostateue-palati-tou-poutin-axias-1-dis-liron-sti-dutiki-rosia/?utm_source=rss",
-   "summary_raw": "Το πλήγμα πραγματοποιήθηκε σε συγκρότημα του Ρώσου προέδρου, στο Γκελεντζίκ, στις ακτές της Μαύρης Θάλασσας - Η αξία του συγκροτήματος εκτιμάται σε 1 δισ. λίρες - Ο Πούτιν δεν τοι επισκέπτεται συχνά το τελευταίο διάστημα για λόγους ασφαλείας",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-11T14:03:00+00:00",
-   "collected": "2026-08-11T15:18:38.733841+00:00",
-   "keywords_hit": [
-    "s-400"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το πλήγμα πραγματοποιήθηκε σε συγκρότημα του Ρώσου προέδρου, στο Γκελεντζίκ, στις ακτές της Μαύρης Θάλασσας - Η αξία του συγκροτήματος εκτιμάται σε 1 δισ. λίρες - Ο Πούτιν δεν τοι επισκέπτεται συχνά τ",
-   "angle": null
-  },
-  {
-   "id": "7328a3921eed7a89",
-   "title": "ΗΠΑ: Αυτοκίνητο υδρογόνου ισχύος 1.600 ίππων στοχεύει να σπάσει πολλαπλά ρεκόρ ταχύτητας στην ξηρά",
-   "link": "https://www.ertnews.gr/eidiseis/ipa-aytokinito-ydrogonou-isxyos-1-600-ippon-stoxeyei-na-spasei-pollapla-rekor-taxytitas-stin-ksira/",
-   "summary_raw": "<img alt=\"screenshot-2026-08-11-164340\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"541\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/screenshot-2026-08-11-164340.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"762\" /><p>Ο Άντι Γκριν θα επιστρέψει στις Αλυκές του Μπόνεβιλ στη Γιούτα σήμερα Τρίτη με ένα νέο είδος αυτοκινήτου: ενός που κινείται με κινητήρες υδρογόνου. Ο Βρετανός οδηγός, ο οποίος κατέχει το ρεκόρ ταχύτητας σε ξηρά για αυτοκίνητο ντίζελ, θα οδηγήσει το Hydromax της JCB σε μια επίσημη προσπάθεια υπό την εποπτεία της Διεθνούς Ομοσπονδίας Αυτοκινήτου ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ipa-aytokinito-ydrogonou-isxyos-1-600-ippon-stoxeyei-na-spasei-pollapla-rekor-taxytitas-stin-ksira/\" title=\"ΗΠΑ: Αυτοκίνητο υδρογόνου ισχύος 1.600 ίππων στοχεύει να σπάσει πολλαπλά ρεκόρ ταχύτητας στην ξηρά\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-11T14:00:54+00:00",
-   "collected": "2026-08-11T15:17:48.263984+00:00",
-   "keywords_hit": [
-    "υδρογόνο"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Ο Άντι Γκριν θα επιστρέψει στις Αλυκές του Μπόνεβιλ στη Γιούτα σήμερα Τρίτη με ένα νέο είδος αυτοκινήτου: ενός που κινείται με κινητήρες υδρογόνου. Ο Βρετανός οδηγός, ο οποίος κατέχει το ρεκόρ ταχύτητ",
-   "angle": null
-  },
-  {
-   "id": "893ea56508bb185e",
-   "title": "GM exits Samsung SDI battery cell joint venture",
-   "link": "https://www.electrive.com/2026/08/11/gm-exits-samsung-sdi-battery-cell-joint-venture/",
-   "summary_raw": "<div><img alt=\"Samsung sdi logo iaa\" class=\"attachment-medium size-medium wp-post-image\" height=\"267\" src=\"https://www.electrive.com/media/2026/02/samsung-sdi-logo-iaa-2019-400x267.jpg\" style=\"margin-bottom: 15px;\" title=\"samsung sdi logo iaa 2019\" width=\"400\" /></div>General Motors is once again withdrawing from a joint venture for the production of battery cells. Samsung SDI is acquiring GM's stake in SynergyCells and the joint plant in New Carlisle, Indiana, making it the company's first fully owned cell factory in North America.",
-   "source": "Electrive (EU ηλεκτροκίνηση)",
-   "side": "green_emobility",
-   "lang": "en",
-   "published": "2026-08-11T14:00:00+00:00",
-   "collected": "2026-08-13T13:51:23.143398+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "General Motors is once again withdrawing from a joint venture for the production of battery cells. Samsung SDI is acquiring GM's stake in SynergyCells and the joint plant in New Carlisle, Indiana, mak",
-   "angle": null,
-   "corroborated_by": [
-    "ESG Today"
-   ]
-  },
-  {
-   "id": "31c8a9154d06b9fc",
-   "title": "Turkish foreign minister meets Libyan premier in Tripoli",
-   "link": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-meets-libyan-premier-in-tripoli/4024333",
-   "summary_raw": "Hakan Fidan received by Abdulhamid Dbeibeh during visit to Libya",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-08-11T13:58:28+00:00",
-   "collected": "2026-08-11T15:17:44.085979+00:00",
-   "keywords_hit": [
-    "fidan",
-    "libya",
-    "tripoli"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Hakan Fidan received by Abdulhamid Dbeibeh during visit to Libya",
-   "angle": null,
-   "corroborated_by": [
-    "Al-Monitor Turkey",
-    "Telegram @me_observer_TG"
-   ],
-   "locations": [
-    {
-     "name": "Τρίπολη",
-     "lat": 32.89,
-     "lon": 13.19
-    }
    ]
   }
  ]
