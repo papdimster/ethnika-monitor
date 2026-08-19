@@ -1,7 +1,84 @@
 {
- "updated": "2026-08-18T23:42:57.131888+00:00",
- "count": 1859,
+ "updated": "2026-08-19T02:01:14.878045+00:00",
+ "count": 1851,
  "items": [
+  {
+   "id": "89749ccb52070be4",
+   "title": "Libya’s Dbeibah, state council chief discuss ways to break political deadlock",
+   "link": "https://www.aa.com.tr/en/middle-east/libya-s-dbeibah-state-council-chief-discuss-ways-to-break-political-deadlock/4031152",
+   "summary_raw": "Prime Minister Abdul Hamid Dbeibah, Mohamed Takala discuss political process, coordination among state institutions, electricity crisis, security situation",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-19T01:02:19+00:00",
+   "collected": "2026-08-19T01:54:25.043237+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Prime Minister Abdul Hamid Dbeibah, Mohamed Takala discuss political process, coordination among state institutions, electricity crisis, security situation",
+   "angle": null
+  },
+  {
+   "id": "7dcaf6608850b589",
+   "title": "Turkish American groups urge Congress to approve sale of F-35 jets to Türkiye",
+   "link": "https://www.aa.com.tr/en/americas/turkish-american-groups-urge-congress-to-approve-sale-of-f-35-jets-to-turkiye/4031150",
+   "summary_raw": "Seven Turkish American organizations urge Congress to support F-35 sale and lift CAATSA sanctions, citing Türkiye’s NATO role and contribution to regional security",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-19T00:58:04+00:00",
+   "collected": "2026-08-19T01:54:25.043461+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Seven Turkish American organizations urge Congress to support F-35 sale and lift CAATSA sanctions, citing Türkiye’s NATO role and contribution to regional security",
+   "angle": null
+  },
+  {
+   "id": "0824d41c70273715",
+   "title": "OSINTdefender The U.S. Army is preparing to stand up a new Patriot air-defense battalion on Guam in October, adding another layer to the island’s growing integrated air and missile…",
+   "link": "https://t.me/OSINTLive/565185",
+   "summary_raw": "OSINTdefender The U.S. Army is preparing to stand up a new Patriot air-defense battalion on Guam in October, adding another layer to the island’s growing integrated air and missile defense network, according to reporting from TWZ.  The new 3rd Battalion, 43rd Air Defense Artillery Regiment (3-43 ADA) will combine Patriot with Indirect Fire Protection Capability (IFPC)/Enduring Shield, giving Guam layered protection against ballistic missiles, cruise missiles and drones. About 120 soldiers are already on the island, with the weapon systems expected to arrive over the following months.  The move is significant given Guam’s role as a major U.S. air and naval hub in the Western Pacific and its vulnerability to Chinese ballistic, cruise and hypersonic missile threats. The broader Guam Defense System is also incorporating new sensors, including the LTAMDS and AN/TPY-6, and ground-based launchers capable of supporting SM-3/SM-6 interceptors.  But the timing also highlights a broader problem: the Army needs more Patriot battalions at the same time its existing force is already heavily strained. The Army currently has 15 operational Patriot battalions and has discussed adding at least three",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-18T23:56:29+00:00",
+   "collected": "2026-08-19T01:59:25.591816+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "OSINTdefender The U.S. Army is preparing to stand up a new Patriot air-defense battalion on Guam in October, adding another layer to the island’s growing integrated air and missile defense network, ac",
+   "angle": null
+  },
+  {
+   "id": "d6e66dc220d61933",
+   "title": "Iran Calls Trump ‘Delusional,’ Declares ‘Post-American Order’ — After He Claims Hormuz as ‘New U.S. Territory’",
+   "link": "https://www.breitbart.com/politics/2026/08/18/iran-calls-trump-delusional-declares-post-american-order-after-he-claims-hormuz-as-new-u-s-territory/",
+   "summary_raw": "<p>Iranian officials fired back at President Donald Trump on Tuesday, calling him “delusional” and declaring a “post-American order” in the Persian Gulf after the president posted a map labeling the Strait of Hormuz “New U.S. Territory” and insisted the strategic waterway is “open and operating.”</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/18/iran-calls-trump-delusional-declares-post-american-order-after-he-claims-hormuz-as-new-u-s-territory/\" rel=\"nofollow\">Iran Calls Trump ‘Delusional,’ Declares ‘Post-American Order’ — After He Claims Hormuz as ‘New U.S. Territory’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-18T23:22:15+00:00",
+   "collected": "2026-08-19T01:59:14.238345+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Iranian officials fired back at President Donald Trump on Tuesday, calling him “delusional” and declaring a “post-American order” in the Persian Gulf after the president posted a map labeling the Stra",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
   {
    "id": "d485d29826ded071",
    "title": "Climate change is driving record heat in Europe's seas, scientists say - Reuters",
@@ -122,6 +199,25 @@
    ]
   },
   {
+   "id": "63b61db3dbb42660",
+   "title": "Open Source Intel A Ukrainian drone strike near the Zaporizhzhia NPP, Europe's largest, killed one Russian nuclear specialist and wounded 17 plant workers at a staff bus stop in En…",
+   "link": "https://t.me/OSINTLive/565174",
+   "summary_raw": "Open Source Intel A Ukrainian drone strike near the Zaporizhzhia NPP, Europe's largest, killed one Russian nuclear specialist and wounded 17 plant workers at a staff bus stop in Enerhodar.  The IAEA confirmed the explosion, found no nuclear safety damage, and urged both sides to stop targeting plant staff. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-18T21:25:45+00:00",
+   "collected": "2026-08-19T01:59:25.589892+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel A Ukrainian drone strike near the Zaporizhzhia NPP, Europe's largest, killed one Russian nuclear specialist and wounded 17 plant workers at a staff bus stop in Enerhodar. The IAEA co",
+   "angle": null
+  },
+  {
    "id": "5ed9026458adee14",
    "title": "Syria opens Assad-era nuclear programme to UN probe",
    "link": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
@@ -139,6 +235,26 @@
    "turkish_narrative": false,
    "summary_el": "UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.",
    "angle": null
+  },
+  {
+   "id": "8cf1a0ae77f3e60e",
+   "title": "China Touts Success of Arctic ‘Ice Silk Road’ to Bypass Strait of Hormuz",
+   "link": "https://www.breitbart.com/asia/2026/08/18/china-touts-success-of-arctic-ice-silk-road-to-bypass-strait-of-hormuz/",
+   "summary_raw": "<p>China’s state-run Global Times on Tuesday boasted of “soaring demand” for the “Ice Silk Road” trade route China has established through the Arctic, and castigated Western media for expressing “sour grapes” concerns about the environment, Chinese territorial aggression, and weaponized supply chains.</p>\n<p>The post <a href=\"https://www.breitbart.com/asia/2026/08/18/china-touts-success-of-arctic-ice-silk-road-to-bypass-strait-of-hormuz/\" rel=\"nofollow\">China Touts Success of Arctic ‘Ice Silk Road’ to Bypass Strait of Hormuz</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-18T21:19:52+00:00",
+   "collected": "2026-08-19T01:59:14.240752+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "China’s state-run Global Times on Tuesday boasted of “soaring demand” for the “Ice Silk Road” trade route China has established through the Arctic, and castigated Western media for expressing “sour gr",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "4a99ef3abb36b6e1",
@@ -314,6 +430,26 @@
    "angle": null,
    "corroborated_by": [
     "Breitbart"
+   ]
+  },
+  {
+   "id": "8f42080d43225943",
+   "title": "FCC Responds to Lawsuit Filed by Disney, ABC over License Renewal",
+   "link": "https://www.breitbart.com/politics/2026/08/18/fcc-responds-lawsuit-filed-disney-abc-license-renewal/",
+   "summary_raw": "<p>The FCC has responded to a lawsuit filed by Disney and ABC over what they claim is a \"retaliatory campaign\" by the Trump administration.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/18/fcc-responds-lawsuit-filed-disney-abc-license-renewal/\" rel=\"nofollow\">FCC Responds to Lawsuit Filed by Disney, ABC over License Renewal</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-18T20:17:48+00:00",
+   "collected": "2026-08-19T01:59:14.239516+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The FCC has responded to a lawsuit filed by Disney and ABC over what they claim is a \"retaliatory campaign\" by the Trump administration. The post FCC Responds to Lawsuit Filed by Disney, ABC over Lice",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
    ]
   },
   {
@@ -41003,309 +41139,6 @@
    "turkish_narrative": false,
    "summary_el": "Under pressure from the rising far right, Germany is letting Taliban officials staff Afghan missions in exchange for more deportations. Afghan activists say the arrangement puts them at risk.",
    "angle": null
-  },
-  {
-   "id": "0819de17dd60ed5a",
-   "title": "🎦 Drone attack on a power plant in Libya 🔹 Al Jazeera reported that the Zawiya power plant was targeted by drone attacks. 🔹 Previously, part of a tank at the Zawiya refinery had be…",
-   "link": "https://t.me/me_observer_TG/1066233",
-   "summary_raw": "🎦 Drone attack on a power plant in Libya 🔹 Al Jazeera reported that the Zawiya power plant was targeted by drone attacks. 🔹 Previously, part of a tank at the Zawiya refinery had been targeted in an attack. 🔹 No group has yet claimed responsibility for these attacks.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-12T01:52:50+00:00",
-   "collected": "2026-08-12T02:48:03.008082+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "🎦 Drone attack on a power plant in Libya 🔹 Al Jazeera reported that the Zawiya power plant was targeted by drone attacks. 🔹 Previously, part of a tank at the Zawiya refinery had been targeted in an at",
-   "angle": null
-  },
-  {
-   "id": "edf033efc6caa742",
-   "title": "Europe made food abundant. Then Brussels decided to produce less",
-   "link": "https://brusselssignal.eu/2026/08/europe-made-food-abundant-then-brussels-decided-to-produce-less/",
-   "summary_raw": "Europe has enjoyed food abundance but now faces risks due to drought and a potential decline in agricultural output, leading to greater reliance on imports and food insecurity.\n<p><a href=\"https://brusselssignal.eu/2026/08/europe-made-food-abundant-then-brussels-decided-to-produce-less/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-12T01:30:39+00:00",
-   "collected": "2026-08-12T08:41:57.287157+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Europe has enjoyed food abundance but now faces risks due to drought and a potential decline in agricultural output, leading to greater reliance on imports and food insecurity. Source",
-   "angle": null
-  },
-  {
-   "id": "03c9f6ae5c1971ff",
-   "title": "⚡️ Fire at Zawia power station in Libya after it was targeted by a drone",
-   "link": "https://t.me/me_observer_TG/1066231",
-   "summary_raw": "⚡️ Fire at Zawia power station in Libya after it was targeted by a drone",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-12T01:25:06+00:00",
-   "collected": "2026-08-12T02:48:03.007574+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ Fire at Zawia power station in Libya after it was targeted by a drone",
-   "angle": null
-  },
-  {
-   "id": "858caa3c95dee00d",
-   "title": "⚡️ 🔴 Drone targets Zawiya power station in Libya",
-   "link": "https://t.me/me_observer_TG/1066230",
-   "summary_raw": "⚡️ 🔴 Drone targets Zawiya power station in Libya",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-12T01:25:05+00:00",
-   "collected": "2026-08-12T02:48:03.007458+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ 🔴 Drone targets Zawiya power station in Libya",
-   "angle": null
-  },
-  {
-   "id": "5154e0b9c9a45d03",
-   "title": "Breitbart Business Digest: The Vibecession Comes for MAGA",
-   "link": "https://www.breitbart.com/economy/2026/08/11/breitbart-business-digest-the-vibecession-comes-for-maga/",
-   "summary_raw": "<p>The American right's views of the U.S. economy deteriorated significantly over the past month.</p>\n<p>The post <a href=\"https://www.breitbart.com/economy/2026/08/11/breitbart-business-digest-the-vibecession-comes-for-maga/\" rel=\"nofollow\">Breitbart Business Digest: The Vibecession Comes for MAGA</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-12T01:09:29+00:00",
-   "collected": "2026-08-12T08:42:01.766222+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The American right's views of the U.S. economy deteriorated significantly over the past month. The post Breitbart Business Digest: The Vibecession Comes for MAGA appeared first on Breitbart .",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "031e51190889f90c",
-   "title": "Trump confirms he left NATO summit in secret as Air Force One flew as decoy",
-   "link": "https://brusselssignal.eu/2026/08/trump-confirms-he-left-nato-summit-in-secret-as-air-force-one-flew-as-decoy/",
-   "summary_raw": "President Trump confirmed he was moved from Air Force One due to an Iranian threat during the NATO summit. A decoy plane carried journalists while he flew on a different aircraft.\n<p><a href=\"https://brusselssignal.eu/2026/08/trump-confirms-he-left-nato-summit-in-secret-as-air-force-one-flew-as-decoy/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-12T01:00:42+00:00",
-   "collected": "2026-08-12T08:41:57.287298+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "President Trump confirmed he was moved from Air Force One due to an Iranian threat during the NATO summit. A decoy plane carried journalists while he flew on a different aircraft. Source",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "47b17b8a2a40bcdc",
-   "title": "Biden-Appointed Judge Orders Kennedy Center to Pay Musician Chuck Redd $250,000 Over Canceled Concert",
-   "link": "https://www.breitbart.com/entertainment/2026/08/11/biden-appointed-judge-orders-kennedy-center-to-pay-musician-chuck-redd-250000-over-canceled-concert/",
-   "summary_raw": "<p>A Joe Biden-appointed judge in D.C. has ordered the Kennedy Center to pay a jazz musician a $250,000 fee after the organization tried to sue him for cancelling his concert because he opposes President Donald Trump.</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/08/11/biden-appointed-judge-orders-kennedy-center-to-pay-musician-chuck-redd-250000-over-canceled-concert/\" rel=\"nofollow\">Biden-Appointed Judge Orders Kennedy Center to Pay Musician Chuck Redd $250,000 Over Canceled Concert</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-12T00:50:14+00:00",
-   "collected": "2026-08-12T05:06:57.478477+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A Joe Biden-appointed judge in D.C. has ordered the Kennedy Center to pay a jazz musician a $250,000 fee after the organization tried to sue him for cancelling his concert because he opposes President",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "ef93a83a3fa0beb2",
-   "title": "‘We are going to court’: California threatens legal action on Trump offshore wind cuts",
-   "link": "https://www.politico.com/news/2026/08/11/california-legal-action-trump-offshore-wind-cuts-01034078?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "summary_raw": "The state sent an investigative subpoena to RWE on Tuesday.",
-   "source": "Politico Europe",
-   "side": "europe",
-   "lang": "en",
-   "published": "2026-08-12T00:24:40+00:00",
-   "collected": "2026-08-12T02:47:17.780213+00:00",
-   "keywords_hit": [
-    "offshore wind"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "The state sent an investigative subpoena to RWE on Tuesday.",
-   "angle": null
-  },
-  {
-   "id": "cfa74552d7e21cd5",
-   "title": "New president of Hungary elected, sharply criticizes Orbán in first speech",
-   "link": "https://rmx.news/hungary/new-president-of-hungary-elected-sharply-criticizes-orban-in-first-speech/",
-   "summary_raw": "<p> Baka strongly criticized the Orbán governments for \"wasting a generation’s time.\"</p>\n<p>The post <a href=\"https://rmx.news/hungary/new-president-of-hungary-elected-sharply-criticizes-orban-in-first-speech/\">New president of Hungary elected, sharply criticizes Orbán in first speech</a> appeared first on <a href=\"https://rmx.news\">Remix News</a>.</p>",
-   "source": "Remix News",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-12T00:11:56+00:00",
-   "collected": "2026-08-12T13:51:32.990499+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Baka strongly criticized the Orbán governments for \"wasting a generation’s time.\" The post New president of Hungary elected, sharply criticizes Orbán in first speech appeared first on Remix News .",
-   "angle": null
-  },
-  {
-   "id": "aa6e1e6e380f1284",
-   "title": "Trump on Potential Emergency Declaration for Midterms: 'Stranger Things Have Happened'",
-   "link": "https://www.breitbart.com/midterm-election/2026/08/11/trump-on-potential-emergency-declaration-for-midterms-stranger-things-have-happened/",
-   "summary_raw": "<p>President Donald Trump said that \"stranger things have happened\" when it was suggested that he could declare a national security emergency for elections on Tuesday. </p>\n<p>The post <a href=\"https://www.breitbart.com/midterm-election/2026/08/11/trump-on-potential-emergency-declaration-for-midterms-stranger-things-have-happened/\" rel=\"nofollow\">Trump on Potential Emergency Declaration for Midterms: &#8216;Stranger Things Have Happened&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-12T00:05:40+00:00",
-   "collected": "2026-08-12T08:42:01.765068+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "President Donald Trump said that \"stranger things have happened\" when it was suggested that he could declare a national security emergency for elections on Tuesday. The post Trump on Potential Emergen",
-   "angle": null,
-   "corroborated_by": [
-    "Brussels Signal"
-   ]
-  },
-  {
-   "id": "e531813544bc9d53",
-   "title": "Avrupa'da Batı Nil virüsü: Yunanistan’da son haftalarda vakalar artış gösterdi",
-   "link": "https://www.milletgazetesi.gr/yunanistan/avrupada-bati-nil-virusu-yunanistanda-son-haftalarda-vakalar-artis-gosterdi",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Yunanistan)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-08-12T00:03:03.814528+00:00",
-   "collected": "2026-08-12T00:03:03.814529+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null,
-   "corroborated_by": [
-    "Millet Gazetesi (Batı Trakya)"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "5463c8f34d16d639",
-   "title": "Doğu Makedonya-Trakya’nın trafik güvenliği çalışmalarına Avrupa’dan ödül",
-   "link": "https://www.milletgazetesi.gr/bati-trakya/dogu-makedonya-trakyanin-trafik-guvenligi-calismalarina-avrupadan-odul",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Batı Trakya)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-08-12T00:03:02.438244+00:00",
-   "collected": "2026-08-12T00:03:02.438258+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null,
-   "corroborated_by": [
-    "Millet Gazetesi (Yunanistan)"
-   ],
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "ea88fadaabbfecf8",
-   "title": "Cambridge college issues content warning for Little Red Riding Hood over ‘themes of violence’",
-   "link": "https://brusselssignal.eu/2026/08/cambridge-college-issues-content-warning-for-little-red-riding-hood-over-themes-of-violence/",
-   "summary_raw": "Clare College, Cambridge has issued a content warning for discussion of Little Red Riding Hood due to its adult themes and violence, addressing the evolving nature of childhood stories.\n<p><a href=\"https://brusselssignal.eu/2026/08/cambridge-college-issues-content-warning-for-little-red-riding-hood-over-themes-of-violence/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-12T00:00:38+00:00",
-   "collected": "2026-08-12T10:29:14.589378+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Clare College, Cambridge has issued a content warning for discussion of Little Red Riding Hood due to its adult themes and violence, addressing the evolving nature of childhood stories. Source",
-   "angle": null
-  },
-  {
-   "id": "1fe766b55ea0183c",
-   "title": "Culture Wars: Women Split on if They Would Rather Pursue Career or Care for Their Family at Home",
-   "link": "https://www.breitbart.com/politics/2026/08/11/culture-wars-women-split-on-if-they-would-rather-pursue-career-or-care-for-their-family-at-home/",
-   "summary_raw": "<p>American women are split on if they would rather pursue a career or care for their family at home, if given the choice, a recent survey from the Economist/YouGov revealed.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/11/culture-wars-women-split-on-if-they-would-rather-pursue-career-or-care-for-their-family-at-home/\" rel=\"nofollow\">Culture Wars: Women Split on if They Would Rather Pursue Career or Care for Their Family at Home</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-11T23:55:13+00:00",
-   "collected": "2026-08-12T05:06:57.480056+00:00",
-   "keywords_hit": [
-    "culture war"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "American women are split on if they would rather pursue a career or care for their family at home, if given the choice, a recent survey from the Economist/YouGov revealed. The post Culture Wars: Women",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "c87841489a117a0b",
-   "title": "China's Xi Jinping Reaches Out to Cuba's Raul Castro as Latin America Turns Right",
-   "link": "https://www.breitbart.com/asia/2026/08/11/chinas-xi-jinping-reaches-out-to-cubas-raul-castro-as-latin-america-turns-right/",
-   "summary_raw": "<p>Xi Jinping marked the 100th anniversary of the birth of mass murderer Fidel Castro with a letter to his brother and dirty-works specialist, Raúl, on Monday – a reminder to Cuba that China is fighting tooth and nail to retain its influence in Latin America after successive conservative presidential wins.</p>\n<p>The post <a href=\"https://www.breitbart.com/asia/2026/08/11/chinas-xi-jinping-reaches-out-to-cubas-raul-castro-as-latin-america-turns-right/\" rel=\"nofollow\">China&#8217;s Xi Jinping Reaches Out to Cuba&#8217;s Raúl Castro as Latin America Turns Right</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-11T23:55:11+00:00",
-   "collected": "2026-08-12T16:12:37.005340+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Xi Jinping marked the 100th anniversary of the birth of mass murderer Fidel Castro with a letter to his brother and dirty-works specialist, Raúl, on Monday – a reminder to Cuba that China is fighting ",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
   }
  ]
 }
