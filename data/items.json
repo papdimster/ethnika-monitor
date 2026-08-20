@@ -1,7 +1,82 @@
 {
- "updated": "2026-08-20T21:48:38.252028+00:00",
- "count": 1921,
+ "updated": "2026-08-20T22:48:59.114279+00:00",
+ "count": 1927,
  "items": [
+  {
+   "id": "d4675f1558fd8109",
+   "title": "Rodop’ta yangınlara karşı ikinci drone devrede",
+   "link": "https://www.milletgazetesi.gr/bati-trakya/rodopta-yanginlara-karsi-ikinci-drone-devrede",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Batı Trakya)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-08-20T22:48:01.622907+00:00",
+   "collected": "2026-08-20T22:48:01.622909+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null
+  },
+  {
+   "id": "cd791b7cbb327d3d",
+   "title": "Trump on Iran:  We had no choice. I would have done it again 100 times. They cannot have a nuclear weapon.",
+   "link": "https://t.me/ClashReport/93129",
+   "summary_raw": "Trump on Iran:  We had no choice. I would have done it again 100 times. They cannot have a nuclear weapon.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-20T22:31:20+00:00",
+   "collected": "2026-08-20T22:47:56.782559+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Trump on Iran: We had no choice. I would have done it again 100 times. They cannot have a nuclear weapon.",
+   "angle": null
+  },
+  {
+   "id": "8d6461ab895c16e1",
+   "title": "⚡️ US Vice President: The goal of our presence in the region is to ensure that Iran does not possess nuclear weapons.",
+   "link": "https://t.me/me_observer_TG/1071996",
+   "summary_raw": "⚡️ US Vice President: The goal of our presence in the region is to ensure that Iran does not possess nuclear weapons.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-08-20T22:19:29+00:00",
+   "collected": "2026-08-20T22:47:58.187662+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ US Vice President: The goal of our presence in the region is to ensure that Iran does not possess nuclear weapons.",
+   "angle": null
+  },
+  {
+   "id": "6d003dd453171854",
+   "title": "In Wake of Arday Scandal, European Elite Institutions Turn on Free Speech Instead of Reforming",
+   "link": "https://www.dailysignal.com/2026/08/20/in-wake-of-arday-scandal-european-elite-institutions-free-speech/",
+   "summary_raw": "The Western value of free speech appears to be hitting a terminal phase outside the United States, especially in the Anglosphere where censorship in the name of political correctness now runs rampant. That’s my takeaway from the ongoing “Arday affair” which, if anything, solidifies just how pathological and ultimately tyrannical the DEI obsession has become...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-20T22:05:57+00:00",
+   "collected": "2026-08-20T22:47:55.286614+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "The Western value of free speech appears to be hitting a terminal phase outside the United States, especially in the Anglosphere where censorship in the name of political correctness now runs rampant.",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
   {
    "id": "a3720fb518573b72",
    "title": "Yunanistan'da korkutan tablo! 1 haftada 47 Batı Nil virüsü görüldü",
@@ -57,6 +132,25 @@
    ]
   },
   {
+   "id": "08ebd70811aaf459",
+   "title": "⚡️ ⚠️💥 How serious is the option of a limited assault on missile bases and nuclear sites? ⏺Tomorrow night from Iranian Militarism Media",
+   "link": "https://t.me/me_observer_TG/1071982",
+   "summary_raw": "⚡️ ⚠️💥 How serious is the option of a limited assault on missile bases and nuclear sites? ⏺Tomorrow night from Iranian Militarism Media",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-08-20T20:56:33+00:00",
+   "collected": "2026-08-20T22:47:58.185968+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ ⚠️💥 How serious is the option of a limited assault on missile bases and nuclear sites? ⏺Tomorrow night from Iranian Militarism Media",
+   "angle": null
+  },
+  {
    "id": "4aac78e69a69794f",
    "title": "WarMonitor If only experts had predicted that Putin’s ambitions toward Europe would become even more aggressive once the U.S. took to the sidelines.  Wait… pretty sure they did.  M…",
    "link": "https://t.me/OSINTLive/565628",
@@ -74,6 +168,26 @@
    "turkish_narrative": false,
    "summary_el": "WarMonitor If only experts had predicted that Putin’s ambitions toward Europe would become even more aggressive once the U.S. took to the sidelines. Wait… pretty sure they did. Moscow is raising the t",
    "angle": null
+  },
+  {
+   "id": "4724e2bd8592f33d",
+   "title": "Controversial California oil pipeline can continue to operate, judge rules",
+   "link": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
+   "summary_raw": "<p>State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening </p><p>A controversial oil pipeline can continue to operate off the California coast after a judge gave it the green light this week, despite the opposition of state regulators and environmental groups.</p><p>The system off the coast of Santa Barbara <a href=\"https://www.theguardian.com/us-news/2026/mar/17/oil-california-pipeline-iran\">resumed operations</a> earlier this year for the first time in more than a decade after Donald Trump ordered Sable Offshore Corporation to reopen it, citing US energy needs during the war in Iran. It had been closed since 2015 when a burst pipe caused one of California’s worst oil spills, and its reopening was supposed to be governed by a federal consent decree.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling\">Continue reading...</a>",
+   "source": "Guardian Environment",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-08-20T20:13:27+00:00",
+   "collected": "2026-08-20T22:47:37.076242+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening A controversial oil pipeline can continue to operate off the California coast after a ",
+   "angle": null,
+   "corroborated_by": [
+    "Grist"
+   ]
   },
   {
    "id": "28514dc1e705f235",
@@ -132,6 +246,25 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Madrid favors EU solidarity mechanisms under bloc’s new migration rules",
+   "angle": null
+  },
+  {
+   "id": "d6f5ca574e8366e9",
+   "title": "USAF KC-135 Refuels Jets Over Middle East",
+   "link": "https://www.osint613.com/post/usaf-kc-135-refuels-jets-over-middle-east-20833",
+   "summary_raw": "CENTCOM: A U.S. Air Force KC-135 Stratotanker refuels F-16 fighter jets and a KC-46 Pegasus while flying over the Middle East.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-08-20T19:50:14+00:00",
+   "collected": "2026-08-20T22:47:55.385582+00:00",
+   "keywords_hit": [
+    "f-16"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "CENTCOM: A U.S. Air Force KC-135 Stratotanker refuels F-16 fighter jets and a KC-46 Pegasus while flying over the Middle East.",
    "angle": null
   },
   {
@@ -1142,6 +1275,40 @@
    ]
   },
   {
+   "id": "417f12e57a0adfce",
+   "title": "ΥΠΕΞ: Αβάσιμοι και απαράδεκτοι οι ισχυρισμοί της Άγκυρας για το Αιγαίο – «Η ελληνική κυριαρχία δεν επιδέχεται αμφισβήτηση» - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHc4Nms3cmhUakxUUUJrVWhNbW1oaklabHJiSWNXcVZOSEFTaFBReG8zdHhOdWd0TlFZTkFqYmhhdC1xTUV2RUIyMzNnMHZ2Mi1OR1VraE9hQnh4LUNEczJNLWRxZG5MdW1wRVVYRGNpRVR3ZVlnMEJPdVR0RloyemhkLTBHX25zcDJIVV93OEFrSkkzRUZUa3dmY09lNkdJelRjMy1FLWl6bUNNZWYtcFl5VFVLRUFfYlpjSDRGUQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHc4Nms3cmhUakxUUUJrVWhNbW1oaklabHJiSWNXcVZOSEFTaFBReG8zdHhOdWd0TlFZTkFqYmhhdC1xTUV2RUIyMzNnMHZ2Mi1OR1VraE9hQnh4LUNEczJNLWRxZG5MdW1wRVVYRGNpRVR3ZVlnMEJPdVR0RloyemhkLTBHX25zcDJIVV93OEFrSkkzRUZUa3dmY09lNkdJelRjMy1FLWl6bUNNZWYtcFl5VFVLRUFfYlpjSDRGUQ?oc=5\" target=\"_blank\">ΥΠΕΞ: Αβάσιμοι και απαράδεκτοι οι ισχυρισμοί της Άγκυρας για το Αιγαίο – «Η ελληνική κυριαρχία δεν επιδέχεται αμφισβήτηση»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-08-20T16:33:16+00:00",
+   "collected": "2026-08-20T22:47:29.157552+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "ΥΠΕΞ: Αβάσιμοι και απαράδεκτοι οι ισχυρισμοί της Άγκυρας για το Αιγαίο – «Η ελληνική κυριαρχία δεν επιδέχεται αμφισβήτηση» Energypress",
+   "angle": null,
+   "corroborated_by": [
+    "iefimerida"
+   ],
+   "locations": [
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    },
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
    "id": "b88659520897d41f",
    "title": "UK asylum seekers warned against rape, harassment, ‘kissing sounds’ at people",
    "link": "https://www.aa.com.tr/en/europe/uk-asylum-seekers-warned-against-rape-harassment-kissing-sounds-at-people/4033163",
@@ -1470,6 +1637,35 @@
    ]
   },
   {
+   "id": "05f971d8e2be6a67",
+   "title": "Σε υψηλούς τόνους η απάντηση του ΥΠΕΞ στην Τουρκία για το χωροταξικό των ΑΠΕ: «Απολύτως ξεκάθαρο το καθεστώς κυριαρχίας στο Αιγαίο» - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5meldNZVBnYk0xbmd1cFItUVd6SjZ3SGZPZjFrejZNRUpDZHdfR3E4d3VRTThBcjNLNmRqZWJhTld1UlZ1TWVkbkxBcnpIeGxXUWFJUFJKTzlXUnB6VUhOQm1yVG1NYmdaMHRrTUs0U1Jtd2Z3TUk1WW43QWZRSkdFcXRZRm8tUjNnODBFcld0WFRGakFwc29zYUZiNkJkckVLSjA1MUxtS3ZIMGpGN25qNkJLbi1KS0hKdmtzSlbSAcYBQVVfeXFMT1g1WkFiSENKWEstblhTRjhXSlVPSDRBY2c4T3ZpZUN4d1hESlRlWnpNUFdRZWQ3VkxIR3pfYmdkUnZEZE5vekNfLXQ2OVBaUXBnUnZEZmZ0QzE4SC1Bc19oSkUtSWxpeFU3d1hOb05xUG5LMVlPQW1uV3A1TXIyN21QenRYT1NZWVUzbGloYTZFdUJWRUVRV1N1bWFuYlNwM3ZqZXRna0pramFWdllLdEZCSVBvUFFOTHd0V1JCOUJFRDVDaGtB?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5meldNZVBnYk0xbmd1cFItUVd6SjZ3SGZPZjFrejZNRUpDZHdfR3E4d3VRTThBcjNLNmRqZWJhTld1UlZ1TWVkbkxBcnpIeGxXUWFJUFJKTzlXUnB6VUhOQm1yVG1NYmdaMHRrTUs0U1Jtd2Z3TUk1WW43QWZRSkdFcXRZRm8tUjNnODBFcld0WFRGakFwc29zYUZiNkJkckVLSjA1MUxtS3ZIMGpGN25qNkJLbi1KS0hKdmtzSlbSAcYBQVVfeXFMT1g1WkFiSENKWEstblhTRjhXSlVPSDRBY2c4T3ZpZUN4d1hESlRlWnpNUFdRZWQ3VkxIR3pfYmdkUnZEZE5vekNfLXQ2OVBaUXBnUnZEZmZ0QzE4SC1Bc19oSkUtSWxpeFU3d1hOb05xUG5LMVlPQW1uV3A1TXIyN21QenRYT1NZWVUzbGloYTZFdUJWRUVRV1N1bWFuYlNwM3ZqZXRna0pramFWdllLdEZCSVBvUFFOTHd0V1JCOUJFRDVDaGtB?oc=5\" target=\"_blank\">Σε υψηλούς τόνους η απάντηση του ΥΠΕΞ στην Τουρκία για το χωροταξικό των ΑΠΕ: «Απολύτως ξεκάθαρο το καθεστώς κυριαρχίας στο Αιγαίο»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-20T16:07:42+00:00",
+   "collected": "2026-08-20T22:47:50.402209+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Σε υψηλούς τόνους η απάντηση του ΥΠΕΞ στην Τουρκία για το χωροταξικό των ΑΠΕ: «Απολύτως ξεκάθαρο το καθεστώς κυριαρχίας στο Αιγαίο» iefimerida.gr",
+   "angle": null,
+   "corroborated_by": [
+    "Energypress"
+   ],
+   "locations": [
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
    "id": "cce0a51ba531c217",
    "title": "Cambridge Scandal: American Academic Who Exposed Alleged Jason Arday Plagiarism Suspended by Own University Over 'Discrimination' Probe",
    "link": "https://www.breitbart.com/europe/2026/08/20/cambridge-scandal-american-academic-who-exposed-alleged-jason-arday-plagiarism-suspended-by-own-university-over-discrimination-probe/",
@@ -1616,6 +1812,26 @@
    "turkish_narrative": false,
    "summary_el": "Ο ιαπωνικός όμιλος Rakuten, ευρέως γνωστός ως ιδιοκτήτης της δημοφιλούς εφαρμογής Viber, βοηθά τη γερμανική εταιρεία Helsing να προωθήσει το drone HX-2 στις Ιαπωνικές Δυνάμεις Αυτοάμυνας, σε μία από τ",
    "angle": null
+  },
+  {
+   "id": "430c941aa26cbc17",
+   "title": "Actor Tim Robbins Warns Democrats to Drop the Fake Outrage and 'Get Their Stuff Together'",
+   "link": "https://www.breitbart.com/entertainment/2026/08/20/actor-tim-robbins-warns-democrats-to-drop-the-fake-outrage-and-get-their-stuff-together/",
+   "summary_raw": "<p>Oscar-winning actor Tim Robbins has a warning for Democrats. He hopes they will stop acting like fools.</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/08/20/actor-tim-robbins-warns-democrats-to-drop-the-fake-outrage-and-get-their-stuff-together/\" rel=\"nofollow\">Actor Tim Robbins Warns Democrats to Drop the Fake Outrage and &#8216;Get Their Stuff Together&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-20T15:57:17+00:00",
+   "collected": "2026-08-20T22:47:55.150829+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Oscar-winning actor Tim Robbins has a warning for Democrats. He hopes they will stop acting like fools. The post Actor Tim Robbins Warns Democrats to Drop the Fake Outrage and ‘Get Their Stuff Togethe",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "b4bb19608bf7e8cb",
@@ -2098,6 +2314,26 @@
      "lat": 43.0,
      "lon": 34.0
     }
+   ]
+  },
+  {
+   "id": "5a85c36742301916",
+   "title": "Report: FBI Agents Confiscate Eric Swalwell's Electronic Devices at Airport for Sexual Misconduct Probe",
+   "link": "https://www.breitbart.com/politics/2026/08/20/report-fbi-agents-confiscate-eric-swalwells-electronic-devices-at-airport-for-sexual-misconduct-probe/",
+   "summary_raw": "<p>Disgraced former Rep. Eric Swalwell (D) was reportedly confronted by FBI agents at San Francisco International Airport on Saturday where his electronic devices were seized as part of a federal criminal probe into sexual misconduct.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/20/report-fbi-agents-confiscate-eric-swalwells-electronic-devices-at-airport-for-sexual-misconduct-probe/\" rel=\"nofollow\">Report: FBI Agents Confiscate Eric Swalwell&#8217;s Electronic Devices at Airport for Sexual Misconduct Probe</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-20T14:37:56+00:00",
+   "collected": "2026-08-20T22:47:55.149430+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Disgraced former Rep. Eric Swalwell (D) was reportedly confronted by FBI agents at San Francisco International Airport on Saturday where his electronic devices were seized as part of a federal crimina",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
    ]
   },
   {
@@ -2766,6 +3002,23 @@
    ]
   },
   {
+   "id": "5e8cf46c9f4f174e",
+   "title": "Νέο πλαίσιο για τους στρατηγικούς κακοπληρωτές στην ηλεκτρική ενέργεια - Προστατεύονται οι συνεπείς καταναλωτές - Υπουργείο Περιβάλλοντος και Ενέργειας",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmlvQUtjaWs5VzRyb194WTlxdllWSU1fczI1U3J0THcyZkJaU25lZ1RkaVJEQ1RFYlZhMndjXzdLSzhFM240NGhUSDFsYVdPTkh6NXlsN24zRjgzSHc4VEF6SGs1QW5TcGNzOWxod0t5Ml9qbXNya2JMRmhiUVNObmdzVURLaUYzVFBsTnI5NDFWQnc4dzNKTGp4azR3UzNlUXdHMVpJV28wYmQ5cFB1cFJTUmtzODRtUHR2VjlKR1VENm9vTng4clRR?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmlvQUtjaWs5VzRyb194WTlxdllWSU1fczI1U3J0THcyZkJaU25lZ1RkaVJEQ1RFYlZhMndjXzdLSzhFM240NGhUSDFsYVdPTkh6NXlsN24zRjgzSHc4VEF6SGs1QW5TcGNzOWxod0t5Ml9qbXNya2JMRmhiUVNObmdzVURLaUYzVFBsTnI5NDFWQnc4dzNKTGp4azR3UzNlUXdHMVpJV28wYmQ5cFB1cFJTUmtzODRtUHR2VjlKR1VENm9vTng4clRR?oc=5\" target=\"_blank\">Νέο πλαίσιο για τους στρατηγικούς κακοπληρωτές στην ηλεκτρική ενέργεια - Προστατεύονται οι συνεπείς καταναλωτές</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Υπουργείο Περιβάλλοντος και Ενέργειας</font>",
+   "source": "ΥΠΕΝ",
+   "side": "green_official",
+   "lang": "el",
+   "published": "2026-08-20T13:01:22+00:00",
+   "collected": "2026-08-20T22:47:34.825686+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Νέο πλαίσιο για τους στρατηγικούς κακοπληρωτές στην ηλεκτρική ενέργεια - Προστατεύονται οι συνεπείς καταναλωτές Υπουργείο Περιβάλλοντος και Ενέργειας",
+   "angle": null
+  },
+  {
    "id": "053a2ed501660225",
    "title": "Έως και 39% περισσότερες καμένες εκτάσεις στην Ευρώπη από πυρκαγιές μέχρι το τέλος του αιώνα - Ο ρόλος της αύξησης θερμοκρασίας",
    "link": "https://www.protothema.gr/world/article/1867327/eos-kai-39-perissoteres-kamenes-ektaseis-stin-europi-apo-purkagies-mehri-to-telos-tou-aiona/?utm_source=rss",
@@ -2943,6 +3196,26 @@
    "turkish_narrative": false,
    "summary_el": "ABD Ordusu, 2034 yılına kadar 133.014 adet ÇNRA roketi (Guided Multiple Launch Rocket System/GMLRS) üretilmesi için bir talep yayınladı. Stoklarla ilgili soru işaretleri giderek artarken, ABD Ordusu k",
    "angle": null
+  },
+  {
+   "id": "23e05db9a59f1502",
+   "title": "Report: Prince Harry and Meghan Moving Back to U.K. Over 'Disillusionment' With Trump, 'Direction of U.S.'",
+   "link": "https://www.breitbart.com/entertainment/2026/08/20/report-harry-and-meghan-moving-back-to-u-k-will-not-live-in-royal-residence/",
+   "summary_raw": "<p>Prince Harry and Meghan Markle's decision to move back to the United Kingdom, after living several years in California, was reportedly spurred by their \"disillusionment with the current White House.\"</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/08/20/report-harry-and-meghan-moving-back-to-u-k-will-not-live-in-royal-residence/\" rel=\"nofollow\">Report: Prince Harry and Meghan Moving Back to U.K. Over &#8216;Disillusionment&#8217; With Trump, &#8216;Direction of U.S.&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-20T12:54:54+00:00",
+   "collected": "2026-08-20T22:47:55.149825+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Prince Harry and Meghan Markle's decision to move back to the United Kingdom, after living several years in California, was reportedly spurred by their \"disillusionment with the current White House.\" ",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "f270e2b8674cd3d7",
@@ -5957,6 +6230,25 @@
    ]
   },
   {
+   "id": "254717907180fc2a",
+   "title": "Last night, Russia launched another large-scale, combined missile and drone attack on Ukraine. Missiles launches:   ~22 Kh-101 cruise missiles launched from 6 Tu-95MS strategic bom…",
+   "link": "https://t.me/AMK_Mapping/36278",
+   "summary_raw": "Last night, Russia launched another large-scale, combined missile and drone attack on Ukraine. Missiles launches:   ~22 Kh-101 cruise missiles launched from 6 Tu-95MS strategic bombers at their launch lines near the city of Cherepovets, Vologda Oblast.  ~16 Kh-101 cruise missiles launched from 2 Tu-160M strategic bombers at their launch lines near the city of Cherepovets, Vologda Oblast.  ~9 Zircon hypersonic cruise missiles launched from near Manturovo, Kursk Oblast.  ~4 Zircon hypersonic cruise missiles launched from near Millerovo, Rostov Oblast.  ~8 Kalibr cruise missiles launched from a Buyan-M corvette at Novorossiysk Naval Base, Krasnodar Krai.  ~3 Kh-59/69 cruise missiles launched from a Su-57 in northern Kursk Oblast.  ~2 Kh-59/69 cruise missiles launched from a Su-34/35 near Siverskodonetsk, Luhansk Oblast.  ~1 Kh-59/69 cruise missile launched from a Su-34/35 in western Belgorod Oblast.  ~8 Iskander-M/S-400 ballistic missiles launched from OTRK installations near the city of Klintsy, Bryansk Oblast.  ~2 Kn-23 ballistic missiles launched from near Liski, Voronezh Oblast.   -----------------------   Total missiles launched:   ~38 Kh-101 cruise missiles. ~13 Zircon hypersoni",
+   "source": "Telegram @AMK_Mapping",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-08-20T06:35:57+00:00",
+   "collected": "2026-08-20T22:47:59.976255+00:00",
+   "keywords_hit": [
+    "s-400"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Last night, Russia launched another large-scale, combined missile and drone attack on Ukraine. Missiles launches: ~22 Kh-101 cruise missiles launched from 6 Tu-95MS strategic bombers at their launch l",
+   "angle": null
+  },
+  {
    "id": "20ed3cd12921e13b",
    "title": "Νέα πρόκληση της Άγκυρας: Αντιδρά στο νέο χωροταξικό για τις ΑΠΕ",
    "link": "https://www.dimokratiki.gr/20-08-2026/nea-proklisi-tis-agkyras-antidra-sto-neo-chorotaxiko-gia-tis-ape/?utm_source=rss&utm_medium=rss&utm_campaign=nea-proklisi-tis-agkyras-antidra-sto-neo-chorotaxiko-gia-tis-ape",
@@ -6850,6 +7142,32 @@
      "name": "Άγκυρα",
      "lat": 39.93,
      "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "2c942b36d70bd992",
+   "title": "Στο ΣτΕ ο Πάνος Λαζαράτος κατά των επτά νέων αδειών για ιδιωτικά πανεπιστήμια - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzZIdkRlYjVQSngwTmZjRExxbHdvb2NPcUt1NXJHVVIwYk9GbS1PUVE0VU5rdUhJOUh3bTRHSkxMamZpY3RoQy1leXlQTDRoZjk4LVFIYkp3dWoyZjdBdXpVZ3BzMUVlSkl5cDg2aVdRZ2t3anFiTWRsc0gtSjBUU2hHSl9iblhIT1BaS002QjFxLTFXVU1lNWRBNG9ON2FrSnd2S2NhN1JUc1BBNGNqSEpIcTIzUDFnS1Nr?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzZIdkRlYjVQSngwTmZjRExxbHdvb2NPcUt1NXJHVVIwYk9GbS1PUVE0VU5rdUhJOUh3bTRHSkxMamZpY3RoQy1leXlQTDRoZjk4LVFIYkp3dWoyZjdBdXpVZ3BzMUVlSkl5cDg2aVdRZ2t3anFiTWRsc0gtSjBUU2hHSl9iblhIT1BaS002QjFxLTFXVU1lNWRBNG9ON2FrSnd2S2NhN1JUc1BBNGNqSEpIcTIzUDFnS1Nr?oc=5\" target=\"_blank\">Στο ΣτΕ ο Πάνος Λαζαράτος κατά των επτά νέων αδειών για ιδιωτικά πανεπιστήμια</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-08-20T04:19:00+00:00",
+   "collected": "2026-08-20T22:47:10.210902+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Στο ΣτΕ ο Πάνος Λαζαράτος κατά των επτά νέων αδειών για ιδιωτικά πανεπιστήμια Παρατηρητής της Θράκης",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
     }
    ]
   },
@@ -43101,199 +43419,6 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "It’s geopolitics all the way down",
-   "angle": null
-  },
-  {
-   "id": "a96dd299a88866a3",
-   "title": "Fidan: Türkiye Will Take Radical Steps If Israel Insists on Gaza Stance  The Turkish foreign minister warned that Türkiye, Qatar, and Egypt will take joint radical measures if Wash…",
-   "link": "https://t.me/ClashReport/92508",
-   "summary_raw": "Fidan: Türkiye Will Take Radical Steps If Israel Insists on Gaza Stance  The Turkish foreign minister warned that Türkiye, Qatar, and Egypt will take joint radical measures if Washington fails to compel Israeli compliance with the Gaza transition.  READ MORE",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-13T22:47:01+00:00",
-   "collected": "2026-08-13T23:05:50.994045+00:00",
-   "keywords_hit": [
-    "fidan"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": true,
-   "summary_el": "Fidan: Türkiye Will Take Radical Steps If Israel Insists on Gaza Stance The Turkish foreign minister warned that Türkiye, Qatar, and Egypt will take joint radical measures if Washington fails to compe",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ουάσιγκτον",
-     "lat": 38.91,
-     "lon": -77.04
-    }
-   ]
-  },
-  {
-   "id": "61bf0f8a317b8a98",
-   "title": "Διάσωση 48 μεταναστών από φορτηγό πλοίο νότια της Γαύδου",
-   "link": "https://www.protothema.gr/greece/article/1864629/diasosi-48-metanaston-apo-fortigo-ploio-notia-tis-gaudou/?utm_source=rss",
-   "summary_raw": "Εντοπίστηκαν σε λέμβο 31 ναυτικά μίλια νότια του νησιού και μεταφέρονται με ασφάλεια στο λιμάνι",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-13T22:42:00+00:00",
-   "collected": "2026-08-13T23:05:42.985225+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "λέμβ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Εντοπίστηκαν σε λέμβο 31 ναυτικά μίλια νότια του νησιού και μεταφέρονται με ασφάλεια στο λιμάνι",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Γαύδος",
-     "lat": 34.83,
-     "lon": 24.1
-    }
-   ]
-  },
-  {
-   "id": "e387bdec381734f1",
-   "title": "«Τα Νέα Σαββατοκύριακο» εκτάκτως από την Παρασκευή 14 Αυγούστου",
-   "link": "https://www.in.gr/2026/08/14/plus/medianews/ta-nea-savvatokyriako-ektaktos-apo-tin-paraskeyi-14-aygoustou/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"950\" src=\"https://www.in.gr/wp-content/uploads/2026/08/tanea-11-768x950.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>«Τα Νέα Σαββατοκύριακο» εκτάκτως από την Παρασκευή 14 Αυγούστου ============= Η Αθήνα «σκανάρει» το μουσουλμανικό μίνι ΝΑΤΟ Πώς απαντάμε στη «Μέκκα» 1. Patriot Εντός Αυγούστου η μηνιαία επαναξιολόγηση για την παραμονή της Ελληνικής Δύναμης Σαουδικής Αραβίας. Κριτήριο η ασφάλεια του στρατιωτικού προσωπικού 2. Αίγυπτος Διαρκές ζητούμενο για την Αθήνα η καλλιέργεια της σχέσης με το [&#8230;]</p>\n<p>The post <a href=\"https://www.in.gr/2026/08/14/plus/medianews/ta-nea-savvatokyriako-ektaktos-apo-tin-paraskeyi-14-aygoustou/\">«Τα Νέα Σαββατοκύριακο» εκτάκτως από την Παρασκευή 14 Αυγούστου</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-13T22:40:22+00:00",
-   "collected": "2026-08-13T23:05:44.411174+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "«Τα Νέα Σαββατοκύριακο» εκτάκτως από την Παρασκευή 14 Αυγούστου ============= Η Αθήνα «σκανάρει» το μουσουλμανικό μίνι ΝΑΤΟ Πώς απαντάμε στη «Μέκκα» 1. Patriot Εντός Αυγούστου η μηνιαία επαναξιολόγηση",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    }
-   ]
-  },
-  {
-   "id": "3f526ccbc44ecdd2",
-   "title": "Publisher Blasts Ossoff’s Stance Toward Israel in Letter",
-   "link": "https://www.dailysignal.com/2026/08/13/ossoff-israel-accusations/",
-   "summary_raw": "In an open letter to Democrat Jon Ossoff published on Wednesday, Michael Morris of the Atlanta Jewish Times accused the U.S. senator of lying about his stance toward Israel, especially when it comes to his voting record. In one example, Morris calls out the senator for voting against U.S. military aid to Israel. &#8220;When a...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-13T22:20:48+00:00",
-   "collected": "2026-08-13T23:05:49.322500+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "In an open letter to Democrat Jon Ossoff published on Wednesday, Michael Morris of the Atlanta Jewish Times accused the U.S. senator of lying about his stance toward Israel, especially when it comes t",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "231fa8b0ad72b931",
-   "title": "Iran Adapts Missile Tactics as US Interceptor Stockpiles Dwindle  Iranian forces are rapidly refining their strike tactics across the Middle East, adopting multi-layered drone and …",
-   "link": "https://t.me/ClashReport/92507",
-   "summary_raw": "Iran Adapts Missile Tactics as US Interceptor Stockpiles Dwindle  Iranian forces are rapidly refining their strike tactics across the Middle East, adopting multi-layered drone and missile salvos that deplete scarce US Patriot interceptor stockpiles.  READ MORE",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-13T22:08:01+00:00",
-   "collected": "2026-08-13T23:05:50.993898+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Iran Adapts Missile Tactics as US Interceptor Stockpiles Dwindle Iranian forces are rapidly refining their strike tactics across the Middle East, adopting multi-layered drone and missile salvos that d",
-   "angle": null
-  },
-  {
-   "id": "77a70cdc3e6eb1b1",
-   "title": "Illegal Alien Accused of Shooting Dallas Policeman Who Gave Him a Ride",
-   "link": "https://www.breitbart.com/politics/2026/08/13/illegal-alien-accused-of-shooting-dallas-policeman-who-gave-him-a-ride/",
-   "summary_raw": "<p>An illegal alien is accused of shooting an officer with the Dallas Independent School District (ISD) Police Department who had given him a ride, police say. </p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/13/illegal-alien-accused-of-shooting-dallas-policeman-who-gave-him-a-ride/\" rel=\"nofollow\">Illegal Alien Accused of Shooting Dallas Policeman Who Gave Him a Ride</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-13T22:04:42+00:00",
-   "collected": "2026-08-14T17:14:35.745597+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "An illegal alien is accused of shooting an officer with the Dallas Independent School District (ISD) Police Department who had given him a ride, police say. The post Illegal Alien Accused of Shooting ",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "8c605bdb39aa13ae",
-   "title": "Afghan Women ‘Erased’ by Taliban Five Years After Biden’s Pullout Disaster",
-   "link": "https://www.breitbart.com/national-security/2026/08/13/afghan-women-erased-by-taliban-five-years-after-bidens-pullout-disaster/",
-   "summary_raw": "<p>The United Nations agency for women’s rights observed the fifth anniversary of the Taliban takeover of Afghanistan by noting that women have been “systematically stripped of their rights” and effectively “erased from public life” by the Islamist regime.</p>\n<p>The post <a href=\"https://www.breitbart.com/national-security/2026/08/13/afghan-women-erased-by-taliban-five-years-after-bidens-pullout-disaster/\" rel=\"nofollow\">Afghan Women ‘Erased’ by Taliban Five Years After Biden’s Pullout Disaster</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-13T22:00:42+00:00",
-   "collected": "2026-08-14T05:07:07.765678+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The United Nations agency for women’s rights observed the fifth anniversary of the Taliban takeover of Afghanistan by noting that women have been “systematically stripped of their rights” and effectiv",
-   "angle": null
-  },
-  {
-   "id": "4e886e7b18f87f25",
-   "title": "'Agility vs depth': How the Mecca pact stacks up against the UAE-Israel alliance",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/agility-vs-depth-how-mecca-pact-stacks-against-uae-israel-alliance",
-   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/agility-vs-depth-how-mecca-pact-stacks-against-uae-israel-alliance\" rel=\"bookmark\">\n<span class=\"field field-title\">'Agility vs depth': How the Mecca pact stacks up against the UAE-Israel alliance</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>This summer, a senior&nbsp;<a href=\"https://www.middleeasteye.net/countries/uae\" target=\"_blank\">UAE</a>&nbsp;diplomat, Lanna Nusseibeh, held consultations with a&nbsp;<a href=\"https://www.middleeasteye.net/countries/us\" target=\"_blank\">US&nbsp;</a>ally in Europe. The meeting was unremarkable but informative because of the impression the European country's officials walked away with.</p>\n\n<p>“The UAE is totally aligned with Israel. It’s crystal clear that the partnership has no limits,” a European official who was in the meeting told Middle East Eye.</p>\n\n<p>That clarity contrasts with the questions swirling in corridors of power - from the US to Asia - about the Mecca Agreement, which unites Saudi Arabia, Turkey, and Pakistan under a m",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-13T21:51:54+00:00",
-   "collected": "2026-08-14T05:06:20.890215+00:00",
-   "keywords_hit": [
-    "erdogan"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "'Agility vs depth': How the Mecca pact stacks up against the UAE-Israel alliance This summer, a senior UAE diplomat, Lanna Nusseibeh, held consultations with a US ally in Europe. The meeting was unrem",
-   "angle": null
-  },
-  {
-   "id": "f7c5390a3881d534",
-   "title": "Visioner 🇹🇼🇨🇳 Taiwan is rapidly transforming its Coast Guard into an additional layer of naval combat power as it prepares for the possibility of a Chinese invasion or maritime blo…",
-   "link": "https://t.me/OSINTLive/564046",
-   "summary_raw": "Visioner 🇹🇼🇨🇳 Taiwan is rapidly transforming its Coast Guard into an additional layer of naval combat power as it prepares for the possibility of a Chinese invasion or maritime blockade. According to The Wall Street Journal, Taipei is significantly expanding the Coast Guard’s wartime role and integrating it more closely with Taiwan’s Navy.  Taiwanese Coast Guard vessels are being equipped with anti-ship missiles, while their crews are increasingly training alongside naval forces. During this year’s 10-day Han Kuang military exercises, the Coast Guard participated in 33 separate drills, including simulations of repelling a Chinese amphibious landing and escorting commercial vessels through a maritime blockade.  The strategy gives Taiwan a larger and more distributed fleet without relying exclusively on traditional warships. In a conflict where China would likely attempt to overwhelm Taiwan’s defenses with numerical superiority, turning Coast Guard vessels into missile-carrying combat platforms could complicate Beijing’s calculations and provide Taipei with additional firepower precisely where an invasion or blockade would be decided, along the island’s coastline and surrounding wate",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-08-13T21:51:42+00:00",
-   "collected": "2026-08-13T23:05:54.143538+00:00",
-   "keywords_hit": [
-    "coast guard"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Visioner 🇹🇼🇨🇳 Taiwan is rapidly transforming its Coast Guard into an additional layer of naval combat power as it prepares for the possibility of a Chinese invasion or maritime blockade. According to ",
    "angle": null
   }
  ]
