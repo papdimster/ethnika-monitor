@@ -1,7 +1,104 @@
 {
- "updated": "2026-08-23T16:47:43.577968+00:00",
- "count": 2043,
+ "updated": "2026-08-23T17:39:04.255129+00:00",
+ "count": 2040,
  "items": [
+  {
+   "id": "f0946bec069ddd6e",
+   "title": "Τέλος τα ήρεμα νερά&quot; χωρίς όρους! Ο Γεραπετρίτης περνά στην αντεπίθεση και στέλνει αυστηρό μήνυμα στην Άγκυρα",
+   "link": "https://www.pentapostagma.gr/politiki/7386468_telos-ta-irema-nera-horis-oroys-o-gerapetritis-perna-stin-antepithesi-kai-stelnei",
+   "summary_raw": "«Οποιαδήποτε απόπειρα προσβολής των κυριαρχικών μας δικαιωμάτων αντιμετωπίζεται με κάθε πρόσφορο μέσο»",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-23T17:35:09+00:00",
+   "collected": "2026-08-23T17:37:44.381162+00:00",
+   "keywords_hit": [
+    "γεραπετρίτης"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "«Οποιαδήποτε απόπειρα προσβολής των κυριαρχικών μας δικαιωμάτων αντιμετωπίζεται με κάθε πρόσφορο μέσο»",
+   "angle": null,
+   "corroborated_by": [
+    "Εφημερίδα των Συντακτών"
+   ],
+   "locations": [
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "fb2a321c73993767",
+   "title": "Egypt's Foreign Minister Badr Abdelatty on Libya:  Under no circumstances can the partition of Libya be accepted.   The unity of Libya is a matter that directly affects Egyptian na…",
+   "link": "https://t.me/ClashReport/93416",
+   "summary_raw": "Egypt's Foreign Minister Badr Abdelatty on Libya:  Under no circumstances can the partition of Libya be accepted.   The unity of Libya is a matter that directly affects Egyptian national security, just as the unity of Sudan does.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-23T17:30:00+00:00",
+   "collected": "2026-08-23T17:38:18.413877+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Egypt's Foreign Minister Badr Abdelatty on Libya: Under no circumstances can the partition of Libya be accepted. The unity of Libya is a matter that directly affects Egyptian national security, just a",
+   "angle": null
+  },
+  {
+   "id": "4aff1d2101c1315a",
+   "title": "Γεραπετρίτης: «Η Ελλάδα της παθητικής διπλωματίας τελείωσε» – Τα ήρεμα νερά δεν είναι αυτοσκοπός",
+   "link": "https://www.efsyn.gr/politiki/1452781/gerapetritis-i-ellada-tis-pathitikis-diplomatias-teleiose-minyma-stin-toyrkia-gia-aigaio-12-milia-kai-thalassia-parka/",
+   "summary_raw": "Χαρακτηρίζει τα τουρκικά θαλάσσια πάρκα «παράνομα» και υπογραμμίζει ότι δεν παράγουν έννομες συνέπειες, καθώς εκτείνονται πέραν των τουρκικών χωρικών υδάτων σε μη οριοθετημένα διεθνή ύδατα ελληνικής υφαλοκρηπίδας.",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-23T17:28:54+00:00",
+   "collected": "2026-08-23T17:38:10.089088+00:00",
+   "keywords_hit": [
+    "υφαλοκρηπίδα",
+    "γεραπετρίτης"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Χαρακτηρίζει τα τουρκικά θαλάσσια πάρκα «παράνομα» και υπογραμμίζει ότι δεν παράγουν έννομες συνέπειες, καθώς εκτείνονται πέραν των τουρκικών χωρικών υδάτων σε μη οριοθετημένα διεθνή ύδατα ελληνικής υ",
+   "angle": null,
+   "corroborated_by": [
+    "Πενταπόσταγμα"
+   ],
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "d82edbda4bf3f56a",
+   "title": "Ahmet Akyol: Su Altı Dron Devrimini Mavi Vatan’a Taşıdık",
+   "link": "https://www.savunmasanayist.com/akyol-su-alti-dron-devrimini-mavi-vatana-tasidik/",
+   "summary_raw": "<p>ASELSAN Genel Müdürü Ahmet Akyol, KILIÇ kamikaze insansız su altı aracından TF-2000 Hava Savunma Harbi Muhribi’ne, REİS sınıfı denizaltılardan MİLDEN’e kadar deniz platformlarına yönelik çalışmaları anlattı. TEKNOFEST Mavi Vatan kapsamında Gölcük Tersanesi Komutanlığı’nda SavunmaSanayiST.com’a özel açıklamalarda bulunan ASELSAN Genel Müdürü Ahmet Akyol, şirketin Mavi Vatan’a yönelik yeni nesil teknolojileri hakkında önemli bilgiler paylaştı. TEKNOFEST’e katılan &#8230;</p>\n<p>The post <a href=\"https://www.savunmasanayist.com/akyol-su-alti-dron-devrimini-mavi-vatana-tasidik/\" rel=\"nofollow\">Ahmet Akyol: Su Altı Dron Devrimini Mavi Vatan’a Taşıdık</a> first appeared on <a href=\"https://www.savunmasanayist.com\" rel=\"nofollow\">SavunmaSanayiST</a>.</p>",
+   "source": "SavunmaSanayiST",
+   "side": "turkish_defense",
+   "lang": "tr",
+   "published": "2026-08-23T16:58:28+00:00",
+   "collected": "2026-08-23T17:37:45.341316+00:00",
+   "keywords_hit": [
+    "mavi vatan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "ASELSAN Genel Müdürü Ahmet Akyol, KILIÇ kamikaze insansız su altı aracından TF-2000 Hava Savunma Harbi Muhribi’ne, REİS sınıfı denizaltılardan MİLDEN’e kadar deniz platformlarına yönelik çalışmaları a",
+   "angle": null
+  },
   {
    "id": "a758d755cfee065c",
    "title": "Patriot στη Σαουδική Αραβία: Τα σενάρια που εξετάζει το Πεντάγωνο",
@@ -46526,157 +46623,6 @@
    "corroborated_by": [
     "Daily Signal"
    ]
-  },
-  {
-   "id": "f6a37bd648a27a28",
-   "title": "Nur Mehmet Güler yazdı: Düşmanlığı bitirebilecek miyiz?",
-   "link": "https://medyascope.tv/2026/08/16/dusmanligi-bitirebilecek-miyiz/",
-   "summary_raw": "<p>Nur Mehmet Güler, “Düşmanlığı bitirebilecek miyiz” yazısında Ortadoğu’daki çatışma kültürünü ve barış arayışını ele alıyor.</p>\n<p><a href=\"https://medyascope.tv/2026/08/16/dusmanligi-bitirebilecek-miyiz/\">Nur Mehmet Güler yazdı: Düşmanlığı bitirebilecek miyiz?</a> <a href=\"https://medyascope.tv\">Medyascope</a></p>",
-   "source": "Medyascope (τουρκική αντιπολίτευση)",
-   "side": "turkish_opposition",
-   "lang": "tr",
-   "published": "2026-08-16T17:32:35+00:00",
-   "collected": "2026-08-16T19:37:11.444619+00:00",
-   "keywords_hit": [
-    "güler"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Nur Mehmet Güler, “Düşmanlığı bitirebilecek miyiz” yazısında Ortadoğu’daki çatışma kültürünü ve barış arayışını ele alıyor. Nur Mehmet Güler yazdı: Düşmanlığı bitirebilecek miyiz? Medyascope",
-   "angle": null
-  },
-  {
-   "id": "61b7d5e91dfc953b",
-   "title": "Dbaiba’s Government Faces Criticism Over Cooperation With Al-Zawiya Militia Leaders",
-   "link": "https://libyareview.com/67593/dbaibas-government-faces-criticism-over-cooperation-with-al-zawiya-militia-leaders/",
-   "summary_raw": "<p>A senior meeting was held in Al-Zawiya on Saturday to review work across the city’s municipalities and assess their needs, following instructions from Prime Minister Abdul Hamid Dbaiba&#8217;s Government of National Unity. The meeting was chaired by Minister of State for Prime Minister and Cabinet Affairs Mohammed bin Ghalboun and brought together Health Minister Mohammed [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67593/dbaibas-government-faces-criticism-over-cooperation-with-al-zawiya-militia-leaders/\">Dbaiba’s Government Faces Criticism Over Cooperation With Al-Zawiya Militia Leaders</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-08-16T17:32:00+00:00",
-   "collected": "2026-08-17T04:05:25.169390+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "A senior meeting was held in Al-Zawiya on Saturday to review work across the city’s municipalities and assess their needs, following instructions from Prime Minister Abdul Hamid Dbaiba’s Government of",
-   "angle": null
-  },
-  {
-   "id": "6606b9f804142daa",
-   "title": "Περνά από τη θεωρία στην πράξη η &quot;Γαλάζια Πατρίδα&quot;! Θαλάσσια πάρκα ανάμεσα σε Λήμνο–Σαμοθράκη και γύρω από το Καστελόριζο",
-   "link": "https://www.pentapostagma.gr/ethnika-themata/ellinotoyrkika/7385430_perna-apo-ti-theoria-stin-praxi-i-galazia-patrida-thalassia",
-   "summary_raw": "Απομονώνει το Καστελόριζο και «τρυπώνει» ανάμεσα σε Λήμνο και Σαμοθράκη",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-16T17:25:14+00:00",
-   "collected": "2026-08-16T17:36:20.141676+00:00",
-   "keywords_hit": [
-    "γαλάζια πατρίδα",
-    "θράκη"
-   ],
-   "category": "Αιγαίο-ΑΟΖ",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Απομονώνει το Καστελόριζο και «τρυπώνει» ανάμεσα σε Λήμνο και Σαμοθράκη",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Λήμνος",
-     "lat": 39.92,
-     "lon": 25.24
-    },
-    {
-     "name": "Σαμοθράκη",
-     "lat": 40.47,
-     "lon": 25.53
-    }
-   ]
-  },
-  {
-   "id": "ece5d039411c459d",
-   "title": "Ουρές χιλιομέτρων ξανά στα Διόδια Ιάσμου - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnJHNGxLMWV1aFRjeDQ2MjlXYmtNcVhLMnZsTEk2elpScUFidzQyX0lNbUZUeVUzd0hsSVdjQ0N3U2F0eUVUcjFEZ2N4SXpFMXVoWGFtRGJlXzhPb2VqRzQtTFhuZ0tuV09XYVU5RkdPd29VS3VmXzhDZGlMQ1NNb2hnTmkzS3c3b3B3?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnJHNGxLMWV1aFRjeDQ2MjlXYmtNcVhLMnZsTEk2elpScUFidzQyX0lNbUZUeVUzd0hsSVdjQ0N3U2F0eUVUcjFEZ2N4SXpFMXVoWGFtRGJlXzhPb2VqRzQtTFhuZ0tuV09XYVU5RkdPd29VS3VmXzhDZGlMQ1NNb2hnTmkzS3c3b3B3?oc=5\" target=\"_blank\">Ουρές χιλιομέτρων ξανά στα Διόδια Ιάσμου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-08-16T17:13:00+00:00",
-   "collected": "2026-08-16T18:48:20.175437+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Ουρές χιλιομέτρων ξανά στα Διόδια Ιάσμου Παρατηρητής της Θράκης",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "d58b8dd754a938a0",
-   "title": "Ζελένσκι σε ΗΠΑ: «Δώστε μας το 10% των Patriot σας και θα αναχαιτήσουμε τους ρωσικούς βαλλιστικούς πυραύλους»",
-   "link": "https://www.pentapostagma.gr/kosmos/7385426_zelenski-se-ipa-doste-mas-10-ton-patriot-sas-kai-tha-anahaitisoyme-toys-rosikoys",
-   "summary_raw": "Ο Ζελένσκι περιέγραψε με ιδιαίτερα δραματικούς τόνους την κατάσταση που αντιμετωπίζουν οι ουκρανικές ένοπλες...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-16T17:11:34+00:00",
-   "collected": "2026-08-16T17:36:20.142190+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο Ζελένσκι περιέγραψε με ιδιαίτερα δραματικούς τόνους την κατάσταση που αντιμετωπίζουν οι ουκρανικές ένοπλες...",
-   "angle": null
-  },
-  {
-   "id": "bebc368950ec373c",
-   "title": "The early release scheme is a sign of chronic state failure",
-   "link": "https://www.spiked-online.com/2026/08/16/the-early-release-scheme-is-a-sign-of-chronic-state-failure/",
-   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/08/16/the-early-release-scheme-is-a-sign-of-chronic-state-failure/\">The early release scheme is a sign of chronic state failure</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
-   "source": "Spiked",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-08-16T16:55:07+00:00",
-   "collected": "2026-08-17T19:00:39.243288+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The post The early release scheme is a sign of chronic state failure appeared first on spiked .",
-   "angle": null
-  },
-  {
-   "id": "11128cf7271b9bce",
-   "title": "Yemen Forces Strike Houthi Tunnel Machine",
-   "link": "https://www.osint613.com/post/yemen-forces-strike-houthi-tunnel-machine-20436",
-   "summary_raw": "A Yemeni Armed Forces drone struck a tunnel-drilling machine used by the Iran-backed Houthis.",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-08-16T16:49:25+00:00",
-   "collected": "2026-08-16T22:40:50.922299+00:00",
-   "keywords_hit": [
-    "drilling"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "A Yemeni Armed Forces drone struck a tunnel-drilling machine used by the Iran-backed Houthis.",
-   "angle": null
   }
  ]
 }
