@@ -1,7 +1,48 @@
 {
- "updated": "2026-08-23T02:06:16.302154+00:00",
- "count": 1963,
+ "updated": "2026-08-23T03:18:33.598019+00:00",
+ "count": 1968,
  "items": [
+  {
+   "id": "8379e8e368080dc5",
+   "title": "WarMonitor RT @kenvogel: NEW: Days after announcing it had received ICE contracts that could pay it $165m/year to detain immigrants, the private prison company the GEO Group donate…",
+   "link": "https://t.me/OSINTLive/566035",
+   "summary_raw": "WarMonitor RT @kenvogel: NEW: Days after announcing it had received ICE contracts that could pay it $165m/year to detain immigrants, the private prison company the GEO Group donated $1.4m to the Trump-backed MAGA Inc. super PAC.  https://www.nytimes.com/2026/08/21/us/politics/geo-group-maga-inc-donations-ice-contracts.html?unlocked_article_code=1.7FA.lHD2.AgsEqIObCSpp&smid=url-share tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-23T02:44:59+00:00",
+   "collected": "2026-08-23T03:17:54.911286+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "WarMonitor RT @kenvogel: NEW: Days after announcing it had received ICE contracts that could pay it $165m/year to detain immigrants, the private prison company the GEO Group donated $1.4m to the Trump",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "08730da10ffea67e",
+   "title": "OSINTdefender The U.S. Navy has publicly disclosed a previously unannounced AIM-424 Long Range Air-to-Air Missile (LRAAM), also known as the \"Malice\", revealing the weapon mounted …",
+   "link": "https://t.me/OSINTLive/566031",
+   "summary_raw": "OSINTdefender The U.S. Navy has publicly disclosed a previously unannounced AIM-424 Long Range Air-to-Air Missile (LRAAM), also known as the \"Malice\", revealing the weapon mounted inside the internal weapons bay of an F-35C Lightning II with an AIM-120 AMRAAM mounted on the bay door. The Navy describes the AIM-424 as its next-generation, long range air to air missile, intended to give Navy and Marine Corps aviators greater capability against advanced threats.  The internal carriage is particularly significant. Rather than simply adding another externally carried long-range missile, the AIM-424 appears to have been designed around the F-35's limited internal weapons-bay dimensions, allowing the aircraft to retain its low-observable configuration while carrying a substantially longer-range air-to-air weapon.  The missile is still associated with testing and development, and the Navy has released few technical details regarding its range, seeker, propulsion or intended employment. The available imagery does, however, show the AIM-424 being evaluated on both the F-35C and F/A-18E/F, indicating that the weapon is being considered across the Navy's carrier aviation force.  Source: https:",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-08-23T02:44:48+00:00",
+   "collected": "2026-08-23T03:17:54.910420+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "OSINTdefender The U.S. Navy has publicly disclosed a previously unannounced AIM-424 Long Range Air-to-Air Missile (LRAAM), also known as the \"Malice\", revealing the weapon mounted inside the internal ",
+   "angle": null
+  },
   {
    "id": "70796e7e5da5fdd3",
    "title": "OSINTtechnical The US Navy has revealed a new long-range missile, already undergoing testing.  The massive AIM-424 Malice is expected to exceed the current range of the AIM-174 (15…",
@@ -151,6 +192,26 @@
    "turkish_narrative": false,
    "summary_el": "Between 1914 and 1923, the Ottoman Turks carried out a coordinated campaign of mass killings, deportation and forced starvation of its Armenian, Assyrian and Greek Christian minorities in what more th",
    "angle": null
+  },
+  {
+   "id": "0aed956c79781b49",
+   "title": "Steve Moore: Iran Has 'Become a Quagmire'",
+   "link": "https://www.breitbart.com/clips/2026/08/22/steve-moore-iran-has-become-a-quagmire/",
+   "summary_raw": "<p>On Friday&#8217;s broadcast of NewsNation&#8217;s &#8220;Katie Pavlich Tonight,&#8221; former Trump Economic Adviser Stephen Moore stated that Iran has &#8220;become a quagmire, there&#8217;s no question about it.&#8221; Host Katie Pavlich asked, &#8220;Quickly, though, Steve, &#8230; in June, you predicted gas would</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/08/22/steve-moore-iran-has-become-a-quagmire/\" rel=\"nofollow\">Steve Moore: Iran Has &#8216;Become a Quagmire&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-22T21:12:49+00:00",
+   "collected": "2026-08-23T03:17:51.406467+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "On Friday’s broadcast of NewsNation’s “Katie Pavlich Tonight,” former Trump Economic Adviser Stephen Moore stated that Iran has “become a quagmire, there’s no question about it.” Host Katie Pavlich as",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive"
+   ]
   },
   {
    "id": "1b06e0cc34359817",
@@ -381,6 +442,25 @@
    "severity": 5,
    "turkish_narrative": true,
    "summary_el": "Turkish President Erdogan on the Turkey-Saudi-Pakistan Mecca Agreement: \"The agreement enables us to take steps together against any aggression. Israel is the main catalyst of the current war. If anyo",
+   "angle": null
+  },
+  {
+   "id": "d8c809d4b84e1bbe",
+   "title": "Λήμνος: Συνελήφθη Αντιδήμαρχος για τη φωτιά στην περιοχή Θάνος",
+   "link": "https://www.ertnews.gr/eidiseis/limnos-synelifthi-antidimarxos-gia-ti-fotia-stin-perioxi-thanos/",
+   "summary_raw": "<img alt=\"limnos-fotia\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"846\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/limnos-fotia-2-e1787427203713.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1350\" /><p>Ραγδαίες είναι εξελίξεις σχετικά με τη φωτιά που ξέσπασε την Παρασκευή (21/08) στην περιοχή&#160;Θάνος, στη&#160;Λήμνο. Αναλυτικότερα, αργά το απόγευμα του Σαββάτου (22/08) ολοκληρώθηκε το ανακριτικό έργο του κλιμακίου της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού Βορείου Αιγαίου, το οποίο είχε μεταβεί για αυτό τον σκοπό στη Λήμνο. Σύμφωνα με πληροφορίες του ΕΡΤnews, συνελήφθη ο αντιδήμαρχος αρμόδιος για ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/limnos-synelifthi-antidimarxos-gia-ti-fotia-stin-perioxi-thanos/\" title=\"Λήμνος: Συνελήφθη Αντιδήμαρχος για τη φωτιά στην περιοχή Θάνος\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-08-22T19:49:00+00:00",
+   "collected": "2026-08-23T03:17:04.972549+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ραγδαίες είναι εξελίξεις σχετικά με τη φωτιά που ξέσπασε την Παρασκευή (21/08) στην περιοχή Θάνος, στη Λήμνο. Αναλυτικότερα, αργά το απόγευμα του Σαββάτου (22/08) ολοκληρώθηκε το ανακριτικό έργο του κ",
    "angle": null
   },
   {
@@ -12011,6 +12091,37 @@
      "name": "Άγκυρα",
      "lat": 39.93,
      "lon": 32.86
+    },
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "baf424985d7aef63",
+   "title": "Δήμαρχοι Αιγαίου - Lesvosnews.net",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mdGhvNGdIUUNjUVk2b0RKOERoaVdmakI3bGlDZHFIYWdET1AtN3hqSTBRSE4yT3NYcEJ0TVk4Rmp5LWx5U0I3ODlHZERIYWhnZTRUTmlBeFdSQQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mdGhvNGdIUUNjUVk2b0RKOERoaVdmakI3bGlDZHFIYWdET1AtN3hqSTBRSE4yT3NYcEJ0TVk4Rmp5LWx5U0I3ODlHZERIYWhnZTRUTmlBeFdSQQ?oc=5\" target=\"_blank\">Δήμαρχοι Αιγαίου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lesvosnews.net</font>",
+   "source": "Lesvos News",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-20T16:47:04+00:00",
+   "collected": "2026-08-23T03:17:36.584998+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Δήμαρχοι Αιγαίου Lesvosnews.net",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Λέσβος",
+     "lat": 39.1,
+     "lon": 26.55
     },
     {
      "name": "Αιγαίο",
