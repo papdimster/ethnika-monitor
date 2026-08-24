@@ -1,7 +1,64 @@
 {
- "updated": "2026-08-24T03:20:16.498802+00:00",
- "count": 2017,
+ "updated": "2026-08-24T04:12:06.384220+00:00",
+ "count": 2025,
  "items": [
+  {
+   "id": "5224c82c98fa8e2a",
+   "title": "#China   China's Type 004 aircraft carrier, currently under construction at Dalian Shipyard, is rapidly taking shape with a hull length of about 320 metres and a beam of roughly 46…",
+   "link": "https://t.me/OSINTdefender/19972",
+   "summary_raw": "#China   China's Type 004 aircraft carrier, currently under construction at Dalian Shipyard, is rapidly taking shape with a hull length of about 320 metres and a beam of roughly 46 metres as of August 2026. Open-source assessments indicate it may be China's first nuclear-powered carrier, featuring electromagnetic catapults and a potential air wing exceeding 90 aircraft.  Subscribe to @OSINTdefender | 💬 Chat room",
+   "source": "Telegram @OSINTdefender",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-24T04:00:06+00:00",
+   "collected": "2026-08-24T04:11:23.003051+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "#China China's Type 004 aircraft carrier, currently under construction at Dalian Shipyard, is rapidly taking shape with a hull length of about 320 metres and a beam of roughly 46 metres as of August 2",
+   "angle": null
+  },
+  {
+   "id": "bb75881511fe0ae4",
+   "title": "Σε αναδιάταξη η ελληνική αεράμυνα: Επιστρέφει η συστοιχία Patriot από τη Σ. Αραβία λόγω των ιρανικών απειλών",
+   "link": "https://www.efsyn.gr/politiki/1452855/se-anadiataxi-i-elliniki-aeramyna-epistrefei-i-systoihia-patriot-apo-ti-s-aravia-logo-ton-iranikon-apeilon/",
+   "summary_raw": "Επιστρέφει η συστοιχία από τη Σ. Αραβία λόγω των ιρανικών απειλών αλλά και των ευρύτερων εξελίξεων στην περιοχή.",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-24T03:58:03+00:00",
+   "collected": "2026-08-24T04:11:15.119950+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Επιστρέφει η συστοιχία από τη Σ. Αραβία λόγω των ιρανικών απειλών αλλά και των ευρύτερων εξελίξεων στην περιοχή.",
+   "angle": null
+  },
+  {
+   "id": "9083f53971f0bf6f",
+   "title": "Τυνησία: Στους 12 οι νεκροί από ναυάγιο σκάφους με μετανάστες – Αγνοούνται δύο άνθρωποι",
+   "link": "https://www.philenews.com/kosmos/article/1762040/tinisia-stous-12-i-nekri-apo-navagio-skafous-me-metanastes-agnoounte-dio-anthropi/",
+   "summary_raw": "<p>Στους 12 ανήλθε ο αριθμός των νεκρών από το ναυάγιο σκάφους που μετέφερε Τυνήσιους μετανάστες, ενώ δύο άνθρωποι εξακολουθούν να αγνοούνται, ανακοίνωσε την Κυριακή η Εθνική Φρουρά της Τυνησίας. Το σκάφος, στο οποίο επέβαιναν 15 Τυνήσιοι μετανάστες, βυθίστηκε τη νύχτα της Παρασκευής προς Σάββατο ανοικτά της Ζαρζίς, στη νοτιοανατολική Τυνησία. Μόλις ένας άνθρωπος διασώθηκε, έπειτα από [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kosmos/article/1762040/tinisia-stous-12-i-nekri-apo-navagio-skafous-me-metanastes-agnoounte-dio-anthropi/\">Τυνησία: Στους 12 οι νεκροί από ναυάγιο σκάφους με μετανάστες – Αγνοούνται δύο άνθρωποι</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-08-24T03:26:08+00:00",
+   "collected": "2026-08-24T04:10:44.828296+00:00",
+   "keywords_hit": [
+    "ναυάγι"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Στους 12 ανήλθε ο αριθμός των νεκρών από το ναυάγιο σκάφους που μετέφερε Τυνήσιους μετανάστες, ενώ δύο άνθρωποι εξακολουθούν να αγνοούνται, ανακοίνωσε την Κυριακή η Εθνική Φρουρά της Τυνησίας. Το σκάφ",
+   "angle": null
+  },
   {
    "id": "105cc31890234b45",
    "title": "Τα Rafnar στη μάχη με τις φωτιές – Το EΡΤnews στα νέα ταχύπλοα «υπερόπλα» της Πυροσβεστικής",
@@ -79,6 +136,23 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Υψηλές θερμοκρασίες, με τον υδράργυρο να αγγίζει κατά τόπους τους 42 βαθμούς Κελσίου, αναμένονται σήμερα, Δευτέρα 24 Αυγούστου, σε αρκετές περιοχές της χώρας. Παράλληλα, ενισχύονται οι βόρειοι άνεμοι ",
+   "angle": null
+  },
+  {
+   "id": "a4503fb6e7faa1ef",
+   "title": "Man Reportedly Fires Gunshots at Maine Jewish Summer Camp",
+   "link": "https://www.breitbart.com/politics/2026/08/23/maine-man-fires-gunshots-jewish-summer-camp/",
+   "summary_raw": "<p>A man in Maine allegedly fired several gunshots at a Jewish summer camp earlier this month, forcing the campus into lockdown.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/23/maine-man-fires-gunshots-jewish-summer-camp/\" rel=\"nofollow\">Man Reportedly Fires Gunshots at Maine Jewish Summer Camp</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-24T02:03:19+00:00",
+   "collected": "2026-08-24T04:11:20.055969+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A man in Maine allegedly fired several gunshots at a Jewish summer camp earlier this month, forcing the campus into lockdown. The post Man Reportedly Fires Gunshots at Maine Jewish Summer Camp appeare",
    "angle": null
   },
   {
@@ -12109,6 +12183,32 @@
    "angle": null
   },
   {
+   "id": "16286904f5d71b62",
+   "title": "KTEΛ Έβρου: Η εγκύκλιος για τη μεταφορά ζώων. - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVZCYkVabWU4V0VCWGgzZGxXZnZ5Yy0zMXBVVjdDSzY4RDVQTFdzVm84MHF0XzF1bHk2eFBMbWlYN2NHclNDOUt4ZVVCRldMdUxzWGF3VWVjeWNuSVc1alZNcTNmNkRZTjNYQlFSNnNEUTFUSlJnUmFMSHZlWENxOWx3ZmFyTjJiajJ1b1lIWQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVZCYkVabWU4V0VCWGgzZGxXZnZ5Yy0zMXBVVjdDSzY4RDVQTFdzVm84MHF0XzF1bHk2eFBMbWlYN2NHclNDOUt4ZVVCRldMdUxzWGF3VWVjeWNuSVc1alZNcTNmNkRZTjNYQlFSNnNEUTFUSlJnUmFMSHZlWENxOWx3ZmFyTjJiajJ1b1lIWQ?oc=5\" target=\"_blank\">KTEΛ Έβρου: Η εγκύκλιος για τη μεταφορά ζώων.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-21T14:53:12+00:00",
+   "collected": "2026-08-24T04:11:09.821744+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Αταξινόμητο",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "KTEΛ Έβρου: Η εγκύκλιος για τη μεταφορά ζώων. E-evros",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
+    }
+   ]
+  },
+  {
    "id": "1001538ad3a1ae20",
    "title": "Open Source Intel Israel Prime Minister's Office:   Israel has long been unimpressed by Turkey's hypocrisy. Erdogan is an anti-Semitic dictator who has slaughtered Kurds, supports …",
    "link": "https://t.me/OSINTLive/565760",
@@ -12477,6 +12577,32 @@
    "turkish_narrative": false,
    "summary_el": "Syria weighs joining Turkey-Saudi-Pakistan defense pact Turkish Minute",
    "angle": null
+  },
+  {
+   "id": "46db9ebfce156f82",
+   "title": "Πωλούνται περσικά χαλιά από ιδιώτη στην Αλεξανδρούπολη - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHhGT051Ukl1a19pZW1JS0d0MEJQQjVzSUJSdG1vMnlzSUFWSDZ3WU00NFhjaXlHRXVqQU5STUJwQklpOHlaT2Rja0xXVWxyb19XakRSUl9OdWlsYUlmZldaRXlUeXQyMGNWeHhETWJJcmVDN0hpb0NHSzFPdENxSDZjTlUwRTItSHplMEw3MDlOMkMxZ1FfZUxNYXVBWW1GdDZKUm41SQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHhGT051Ukl1a19pZW1JS0d0MEJQQjVzSUJSdG1vMnlzSUFWSDZ3WU00NFhjaXlHRXVqQU5STUJwQklpOHlaT2Rja0xXVWxyb19XakRSUl9OdWlsYUlmZldaRXlUeXQyMGNWeHhETWJJcmVDN0hpb0NHSzFPdENxSDZjTlUwRTItSHplMEw3MDlOMkMxZ1FfZUxNYXVBWW1GdDZKUm41SQ?oc=5\" target=\"_blank\">Πωλούνται περσικά χαλιά από ιδιώτη στην Αλεξανδρούπολη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-21T13:31:41+00:00",
+   "collected": "2026-08-24T04:11:09.821210+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Αταξινόμητο",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Πωλούνται περσικά χαλιά από ιδιώτη στην Αλεξανδρούπολη E-evros",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αλεξανδρούπολη",
+     "lat": 40.85,
+     "lon": 25.87
+    }
+   ]
   },
   {
    "id": "6cb6bc5998f070ec",
@@ -14567,6 +14693,51 @@
     "Breitbart",
     "Daily Signal"
    ]
+  },
+  {
+   "id": "906c530bd26ec698",
+   "title": "All day cafe bar στην Αλεξανδρούπολη αναζητά barista και σερβιτόρους - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajZfWGROX00ycEcyYXZydzJWSG1JQjhSX3VWZkFnOEdaREJyVmU2eDlxUXNSY1U1UjdabzRfQnZTc3ZiNmh3SXMwOTNSbUprWXBXd0VPZnZaUDNycHFfOURxa3BMY2QzdWpyQTBac05TU2dMSmctel9ESjZQeXh4S044ZnE2RXJaNWpaNW4xN1ZLUkk5NVI4UWhHRnB0RzgzWXhNSk84Z2ZNcVV5bkh5TmFuQk02SjFtS2c?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQajZfWGROX00ycEcyYXZydzJWSG1JQjhSX3VWZkFnOEdaREJyVmU2eDlxUXNSY1U1UjdabzRfQnZTc3ZiNmh3SXMwOTNSbUprWXBXd0VPZnZaUDNycHFfOURxa3BMY2QzdWpyQTBac05TU2dMSmctel9ESjZQeXh4S044ZnE2RXJaNWpaNW4xN1ZLUkk5NVI4UWhHRnB0RzgzWXhNSk84Z2ZNcVV5bkh5TmFuQk02SjFtS2c?oc=5\" target=\"_blank\">All day cafe bar στην Αλεξανδρούπολη αναζητά barista και σερβιτόρους</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-21T07:43:44+00:00",
+   "collected": "2026-08-24T04:11:09.821949+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Αταξινόμητο",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "All day cafe bar στην Αλεξανδρούπολη αναζητά barista και σερβιτόρους E-evros",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αλεξανδρούπολη",
+     "lat": 40.85,
+     "lon": 25.87
+    }
+   ]
+  },
+  {
+   "id": "42de271b921064f6",
+   "title": "«Ρεζερβέ» πάρκινγκ με κώνους και καρέκλες; Τι πρόστιμο προβλέπεται - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUlyRGtFc2hfRzkyZXh2ZkNfNW9aWE5mSWZrcE5udmNzV1A3Rkw4YklfRE9UZjFrTEhNSVppbUREeUpIcmx5NUNBUVljUUdvTVlxWERMV2xKTHhvZmFyWVk3R1NBZ3NVVXVJLVJqNmtiM1BIRTFOMng3OVA1ekdTUlZLSEtybUQyLURlcGc2bGdQcWhZSk9kV3J6Nmx4VUQ4TEY4TC1JeW5IUQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUlyRGtFc2hfRzkyZXh2ZkNfNW9aWE5mSWZrcE5udmNzV1A3Rkw4YklfRE9UZjFrTEhNSVppbUREeUpIcmx5NUNBUVljUUdvTVlxWERMV2xKTHhvZmFyWVk3R1NBZ3NVVXVJLVJqNmtiM1BIRTFOMng3OVA1ekdTUlZLSEtybUQyLURlcGc2bGdQcWhZSk9kV3J6Nmx4VUQ4TEY4TC1JeW5IUQ?oc=5\" target=\"_blank\">«Ρεζερβέ» πάρκινγκ με κώνους και καρέκλες; Τι πρόστιμο προβλέπεται</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-21T07:43:44+00:00",
+   "collected": "2026-08-24T04:11:09.822146+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Αταξινόμητο",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "«Ρεζερβέ» πάρκινγκ με κώνους και καρέκλες; Τι πρόστιμο προβλέπεται E-evros",
+   "angle": null
   },
   {
    "id": "9116e59ecfcb92b1",
@@ -21220,6 +21391,33 @@
    "angle": null
   },
   {
+   "id": "9c160e7d04c626c1",
+   "title": "Έβρος: Δύο χρόνια μετά το πρώτο κρούσμα ευλογιάς - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmI3V0hrWndZbEFkOXFTRzVncFRxM1JhT2R5NHBPU3A3bHhuT2NCTGdnTkhOdHUyRS1vYVNOTl9oZUk2V0U3Z1NVQXR0ZGFBN25UczNjR3dHX19fQnVVdXR1RjZSVXA1VUR4cmxjUkN3bGpvYlhMNHNPYmc1TXNSZmxoMl9zLWEwR0p2ZTE5a3BiRXlnU1RxVU5B?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmI3V0hrWndZbEFkOXFTRzVncFRxM1JhT2R5NHBPU3A3bHhuT2NCTGdnTkhOdHUyRS1vYVNOTl9oZUk2V0U3Z1NVQXR0ZGFBN25UczNjR3dHX19fQnVVdXR1RjZSVXA1VUR4cmxjUkN3bGpvYlhMNHNPYmc1TXNSZmxoMl9zLWEwR0p2ZTE5a3BiRXlnU1RxVU5B?oc=5\" target=\"_blank\">Έβρος: Δύο χρόνια μετά το πρώτο κρούσμα ευλογιάς</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-20T10:02:18+00:00",
+   "collected": "2026-08-24T04:11:09.821566+00:00",
+   "keywords_hit": [
+    "evros",
+    "έβρος"
+   ],
+   "category": "Αταξινόμητο",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Έβρος: Δύο χρόνια μετά το πρώτο κρούσμα ευλογιάς E-evros",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
+    }
+   ]
+  },
+  {
    "id": "7a00edcfd91e5578",
    "title": "Ταϊβάν: Έρχονται, σημαντικά καθυστερημένα τα πρώτα F-16 Block 70",
    "link": "https://flight.com.gr/taiwanthe-first-f-16-block-70s-are-arrivingsignificantly-delayed/?utm_source=rss&utm_medium=rss&utm_campaign=taiwanthe-first-f-16-block-70s-are-arrivingsignificantly-delayed",
@@ -22511,6 +22709,32 @@
    "angle": null,
    "corroborated_by": [
     "Electrive (EU ηλεκτροκίνηση)"
+   ]
+  },
+  {
+   "id": "1bf0ac69dc58e107",
+   "title": "Νέες κυκλοφοριακές ρυθμίσεις στο βόρειο τμήμα της Αλεξανδρούπολης - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXhtWFF3c3ZKbkpHX2F2bTNWUXhuZXZKY3I4ZE00THFUaDU4elJ2UHdRNnNVZWxJeDMtMUdiM3lMbzdHOHJWdV80S21yNmFmRGVxS1FTYjlVSkY5RElWREROdmsxdkM2NHl1emJkN2FHd09HV1VWOG82VUZiNDZacFo2TVFXSE1paGpJb2NyNzBLamxYU2kta1BFWjN3dGZxQkN3bnVYeE5kZzQ4Z005RDhB?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXhtWFF3c3ZKbkpHX2F2bTNWUXhuZXZKY3I4ZE00THFUaDU4elJ2UHdRNnNVZWxJeDMtMUdiM3lMbzdHOHJWdV80S21yNmFmRGVxS1FTYjlVSkY5RElWREROdmsxdkM2NHl1emJkN2FHd09HV1VWOG82VUZiNDZacFo2TVFXSE1paGpJb2NyNzBLamxYU2kta1BFWjN3dGZxQkN3bnVYeE5kZzQ4Z005RDhB?oc=5\" target=\"_blank\">Νέες κυκλοφοριακές ρυθμίσεις στο βόρειο τμήμα της Αλεξανδρούπολης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-20T07:29:41+00:00",
+   "collected": "2026-08-24T04:11:09.821013+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Αταξινόμητο",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Νέες κυκλοφοριακές ρυθμίσεις στο βόρειο τμήμα της Αλεξανδρούπολης E-evros",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αλεξανδρούπολη",
+     "lat": 40.85,
+     "lon": 25.87
+    }
    ]
   },
   {
@@ -36879,6 +37103,25 @@
    ]
   },
   {
+   "id": "8c14651f24249b5e",
+   "title": "Δήμητρα Δασκαλοπούλου - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVBOT0M5VHBHSWJ1R0FrWEpyQl9DSTZoTG9zMkRxLUpvS21VcTdwc25qVktzc2Znb2kzM0hIZ3E2bnhTRkVRdFdyWFE2ODM1TnZvTHUyeVRwNDdpM3BSZUlIOFpKbzRfVkZEaGNyMmcwSkpTbk5mNjNDTHJhYWNpS096d1d5eTh0?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVBOT0M5VHBHSWJ1R0FrWEpyQl9DSTZoTG9zMkRxLUpvS21VcTdwc25qVktzc2Znb2kzM0hIZ3E2bnhTRkVRdFdyWFE2ODM1TnZvTHUyeVRwNDdpM3BSZUlIOFpKbzRfVkZEaGNyMmcwSkpTbk5mNjNDTHJhYWNpS096d1d5eTh0?oc=5\" target=\"_blank\">Δήμητρα Δασκαλοπούλου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-18T09:13:15+00:00",
+   "collected": "2026-08-24T04:11:09.821381+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Αταξινόμητο",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Δήμητρα Δασκαλοπούλου E-evros",
+   "angle": null
+  },
+  {
    "id": "129777d7e94be3af",
    "title": "Copper tests new record amid AI and energy demand",
    "link": "https://www.aa.com.tr/en/economy/copper-tests-new-record-amid-ai-and-energy-demand/4030293",
@@ -37062,6 +37305,25 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Migrants stranded in Ceuta say ‘I’d rather die here than go back to Morocco’ InfoMigrants",
+   "angle": null
+  },
+  {
+   "id": "1396706d6a432ddb",
+   "title": "Laboratorium - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lNGFJSnVJUk5wX2ZSUGg0UkNzU21oS01lb0xKQ0ZwaWluTC01TzhyRG1la0hqRTFhVERmbFB5dmUtaU5jUFJuZWxWX3dRNmlnbU5wZDQ3R0g5R0g3dThoaXdmV2RWd1drZklBVzA1bEdZa0pDbFNCbEl6UUQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1lNGFJSnVJUk5wX2ZSUGg0UkNzU21oS01lb0xKQ0ZwaWluTC01TzhyRG1la0hqRTFhVERmbFB5dmUtaU5jUFJuZWxWX3dRNmlnbU5wZDQ3R0g5R0g3dThoaXdmV2RWd1drZklBVzA1bEdZa0pDbFNCbEl6UUQ?oc=5\" target=\"_blank\">Laboratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-18T08:52:26+00:00",
+   "collected": "2026-08-24T04:11:09.820812+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Αταξινόμητο",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Laboratorium E-evros",
    "angle": null
   },
   {
@@ -45875,107 +46137,6 @@
      "lon": 22.0
     }
    ]
-  },
-  {
-   "id": "fa9c1620b00969f5",
-   "title": "Αθήνα προς Άγκυρα: Παράνομα τα τουρκικά θαλάσσια πάρκα – Δεν δημιουργούν τετελεσμένα σε Αιγαίο και Ανατολική Μεσόγειο",
-   "link": "https://www.philenews.com/ellada/article/1759847/athina-pros-agkira-paranoma-ta-tourkika-thalassia-parka-den-dimiourgoun-tetelesmena-se-egeo-ke-anatoliki-mesogio/",
-   "summary_raw": "<p>Σαφές μήνυμα προς την Άγκυρα στέλνει το ελληνικό υπουργείο Εξωτερικών, τονίζοντας ότι η ανακήρυξη τουρκικών «εθνικών θαλάσσιων πάρκων» σε περιοχές πέραν των τουρκικών χωρικών υδάτων δεν παράγει κανένα έννομο αποτέλεσμα και δεν μπορεί να δημιουργήσει τετελεσμένα. Η τοποθέτηση του ελληνικού υπουργείου Εξωτερικών έρχεται μετά τη δημοσίευση των σχετικών Προεδρικών Αποφάσεων στην τουρκική Εφημερίδα της Κυβερνήσεως. [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/ellada/article/1759847/athina-pros-agkira-paranoma-ta-tourkika-thalassia-parka-den-dimiourgoun-tetelesmena-se-egeo-ke-anatoliki-mesogio/\">Αθήνα προς Άγκυρα: Παράνομα τα τουρκικά θαλάσσια πάρκα &#8211; Δεν δημιουργούν τετελεσμένα σε Αιγαίο και Ανατολική Μεσόγειο</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-08-17T03:58:24+00:00",
-   "collected": "2026-08-17T04:05:30.120456+00:00",
-   "keywords_hit": [
-    "αιγαίο"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Σαφές μήνυμα προς την Άγκυρα στέλνει το ελληνικό υπουργείο Εξωτερικών, τονίζοντας ότι η ανακήρυξη τουρκικών «εθνικών θαλάσσιων πάρκων» σε περιοχές πέραν των τουρκικών χωρικών υδάτων δεν παράγει κανένα",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    },
-    {
-     "name": "Άγκυρα",
-     "lat": 39.93,
-     "lon": 32.86
-    },
-    {
-     "name": "Αιγαίο",
-     "lat": 39.0,
-     "lon": 25.5
-    },
-    {
-     "name": "Ανατολική Μεσόγειος",
-     "lat": 34.0,
-     "lon": 30.0
-    }
-   ]
-  },
-  {
-   "id": "b6db8266fd5c4b09",
-   "title": "Jim Jordan on Combatting Deep State Weaponization: 'We Have Done Everything We Can'",
-   "link": "https://www.breitbart.com/clips/2026/08/16/jim-jordan-on-combatting-deep-state-weaponization-we-have-done-everything-we-can/",
-   "summary_raw": "<p>On this week's broadcast of Fox News Channel's \"Sunday Morning Futures,\" House Judiciary Committee chairman Rep. Jim Jordan (R-OH) argued that despite having some critics, his committee has done \"everything\" it could to investigate the so-called weaponization of the federal government.</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/08/16/jim-jordan-on-combatting-deep-state-weaponization-we-have-done-everything-we-can/\" rel=\"nofollow\">Jim Jordan on Combatting Deep State Weaponization: &#8216;We Have Done Everything We Can&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-17T03:44:25+00:00",
-   "collected": "2026-08-17T10:00:12.565800+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "On this week's broadcast of Fox News Channel's \"Sunday Morning Futures,\" House Judiciary Committee chairman Rep. Jim Jordan (R-OH) argued that despite having some critics, his committee has done \"ever",
-   "angle": null,
-   "corroborated_by": [
-    "Brussels Signal"
-   ]
-  },
-  {
-   "id": "dff76da987950f26",
-   "title": "AG Blanche on DOJ 'Independence' from the White House: 'No Attorney General Should Ever Pledge That'",
-   "link": "https://www.breitbart.com/clips/2026/08/16/ag-blanche-on-doj-independence-from-the-white-house-no-attorney-general-should-ever-pledge-that/",
-   "summary_raw": "<p>During Sunday's broadcast of NBC's \"Meet the Press,\" Attorney General Todd Blanche rejected calls from the left-wing media to say that the Department of Justice operated independently of the White House's executive functions.</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/08/16/ag-blanche-on-doj-independence-from-the-white-house-no-attorney-general-should-ever-pledge-that/\" rel=\"nofollow\">AG Blanche on DOJ &#8216;Independence&#8217; from the White House: &#8216;No Attorney General Should Ever Pledge That&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-17T03:28:18+00:00",
-   "collected": "2026-08-17T14:47:39.795051+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "During Sunday's broadcast of NBC's \"Meet the Press,\" Attorney General Todd Blanche rejected calls from the left-wing media to say that the Department of Justice operated independently of the White Hou",
-   "angle": null,
-   "corroborated_by": [
-    "Brussels Signal"
-   ]
-  },
-  {
-   "id": "195f6591872c1c11",
-   "title": "Τεράστια πυρκαγιά στο Βέλγιο απειλεί τη Γερμανία – Απομακρύνονται κάτοικοι στη Μόνσαου, σχεδόν 30.000 στρέμματα στις φλόγες",
-   "link": "https://www.philenews.com/kosmos/article/1759832/terastia-pirkagia-sto-velgio-apili-ti-germania-apomakrinonte-katiki-sti-monsaou-schedon-30-000-stremmata-stis-floges/",
-   "summary_raw": "<p>Σε άμεση απομάκρυνση κατοίκων συνοικίας της προχώρησε χθες το βράδυ η γερμανική πόλη Μόνσαου, στα σύνορα με το Βέλγιο, καθώς η μεγάλη δασική πυρκαγιά που μαίνεται στη βελγική πλευρά πλησιάζει τα γερμανικά σύνορα. Με ανακοίνωση που δημοσιοποίησε περί τις 23:30 (ώρα Κύπρου), η δημοτική αρχή στην πόλη αυτή κάπου 12.000 κατοίκων έκανε γνωστό ότι αποφάσισε [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kosmos/article/1759832/terastia-pirkagia-sto-velgio-apili-ti-germania-apomakrinonte-katiki-sti-monsaou-schedon-30-000-stremmata-stis-floges/\">Τεράστια πυρκαγιά στο Βέλγιο απειλεί τη Γερμανία – Απομακρύνονται κάτοικοι στη Μόνσαου, σχεδόν 30.000 στρέμματα στις φλόγες</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-08-17T03:22:04+00:00",
-   "collected": "2026-08-17T04:05:30.122531+00:00",
-   "keywords_hit": [
-    "pomak",
-    "πομάκ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Σε άμεση απομάκρυνση κατοίκων συνοικίας της προχώρησε χθες το βράδυ η γερμανική πόλη Μόνσαου, στα σύνορα με το Βέλγιο, καθώς η μεγάλη δασική πυρκαγιά που μαίνεται στη βελγική πλευρά πλησιάζει τα γερμα",
-   "angle": null
   }
  ]
 }
