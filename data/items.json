@@ -1,7 +1,345 @@
 {
- "updated": "2026-08-26T11:53:32.801885+00:00",
- "count": 1974,
+ "updated": "2026-08-26T13:19:58.095558+00:00",
+ "count": 1965,
  "items": [
+  {
+   "id": "4d3238ead19b4e55",
+   "title": "Ceuta Crisis Forces Spain To Accelerate Asylum Law Reform",
+   "link": "https://europeanconservative.com/articles/news/ceuta-crisis-forces-spain-to-accelerate-asylum-law-reform/",
+   "summary_raw": "The government is belatedly bringing Spanish legislation into line with the new EU Migration Pact as the crisis in the autonomous city turns border management into a national security issue.",
+   "source": "The European Conservative",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-26T13:16:06+00:00",
+   "collected": "2026-08-26T13:18:56.933022+00:00",
+   "keywords_hit": [
+    "asylum"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "The government is belatedly bringing Spanish legislation into line with the new EU Migration Pact as the crisis in the autonomous city turns border management into a national security issue.",
+   "angle": null
+  },
+  {
+   "id": "244e529f7fba6b90",
+   "title": "Turkey seeks advance notice on Cyprus-Greece cable surveys, Athens says no permission needed",
+   "link": "https://en.philenews.com/insider/greece-cyprus-cable-turkey-notice-athens-no-permission/",
+   "summary_raw": "Turkey wants advance notice of the maritime surveys needed for the Greece-Cyprus electricity interconnector, reigniting Greek-Turkish tensions, according to unnamed reports in the Greek press. Ankara is citing sovereign rights and jurisdiction in parts of the Eastern Mediterranean. Athens rejects the idea that Turkish permission is required to carry out the surveys. Government spokesman Pavlos [&#8230;]",
+   "source": "in-cyprus (Philenews)",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-08-26T13:06:03+00:00",
+   "collected": "2026-08-26T13:18:19.293931+00:00",
+   "keywords_hit": [
+    "interconnector"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Turkey wants advance notice of the maritime surveys needed for the Greece-Cyprus electricity interconnector, reigniting Greek-Turkish tensions, according to unnamed reports in the Greek press. Ankara ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    },
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    },
+    {
+     "name": "Ανατολική Μεσόγειος",
+     "lat": 34.0,
+     "lon": 30.0
+    }
+   ]
+  },
+  {
+   "id": "31e0aa612dc2dfd6",
+   "title": "Καλώδιο Ελλάδας–Κύπρου: Η Άγκυρα ζητά ενημέρωση για τις έρευνες – Αθήνα: «Δεν απαιτείται άδεια»",
+   "link": "https://www.philenews.com/oikonomia/kypros/article/1762988/kalodio-elladas-kiprou-i-agkira-zita-enimerosi-gia-tis-erevnes-athina-den-apetite-adia/",
+   "summary_raw": "<p>Στο επίκεντρο των ελληνοτουρκικών βρίσκεται εκ νέου η ηλεκτρική διασύνδεση Ελλάδας–Κύπρου, καθώς, σύμφωνα με δημοσιεύματα στον ελληνικό Τύπο, η Άγκυρα ζητά να ενημερώνεται για τις θαλάσσιες έρευνες που απαιτούνται για την πρόοδο του έργου, επικαλούμενη κυριαρχικά δικαιώματα και δικαιοδοσία σε περιοχές της Ανατολικής Μεσογείου. Η Αθήνα απορρίπτει, πάντως, την αντίληψη ότι απαιτείται τουρκική άδεια για [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/oikonomia/kypros/article/1762988/kalodio-elladas-kiprou-i-agkira-zita-enimerosi-gia-tis-erevnes-athina-den-apetite-adia/\">Καλώδιο Ελλάδας–Κύπρου: Η Άγκυρα ζητά ενημέρωση για τις έρευνες – Αθήνα: «Δεν απαιτείται άδεια»</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-08-26T12:56:28+00:00",
+   "collected": "2026-08-26T13:18:30.263729+00:00",
+   "keywords_hit": [
+    "διασύνδεση"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": true,
+   "summary_el": "Στο επίκεντρο των ελληνοτουρκικών βρίσκεται εκ νέου η ηλεκτρική διασύνδεση Ελλάδας–Κύπρου, καθώς, σύμφωνα με δημοσιεύματα στον ελληνικό Τύπο, η Άγκυρα ζητά να ενημερώνεται για τις θαλάσσιες έρευνες πο",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    },
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "110e0fcd931f17a7",
+   "title": "Χνάρης για μεταναστευτικό: Αναγκαία η ενίσχυση των Σωμάτων Ασφαλείας - Cretalive",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUdMZVo0YUFVdTd6NTgxdXJpSU10RW02SjZDODdjS1BYSV9qbTM0Nlo0UXVFclJ6d0JldDRNZV8yLVBaN1VCU1RpbTZMYnFFU2dUeG1FM0NWRW9JU3BYc2lqejVQc2ZuczNkblVXZno0TURNSnhpWnV4SWpadTNlZnFmVi1OUnZXbWhVNElJV190bWlteHR5QVZUZGFYS00?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUdMZVo0YUFVdTd6NTgxdXJpSU10RW02SjZDODdjS1BYSV9qbTM0Nlo0UXVFclJ6d0JldDRNZV8yLVBaN1VCU1RpbTZMYnFFU2dUeG1FM0NWRW9JU3BYc2lqejVQc2ZuczNkblVXZno0TURNSnhpWnV4SWpadTNlZnFmVi1OUnZXbWhVNElJV190bWlteHR5QVZUZGFYS00?oc=5\" target=\"_blank\">Χνάρης για μεταναστευτικό: Αναγκαία η ενίσχυση των Σωμάτων Ασφαλείας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cretalive</font>",
+   "source": "Cretalive",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-08-26T12:45:33+00:00",
+   "collected": "2026-08-26T13:18:49.483667+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Χνάρης για μεταναστευτικό: Αναγκαία η ενίσχυση των Σωμάτων Ασφαλείας Cretalive",
+   "angle": null
+  },
+  {
+   "id": "ee9adc80aee3d653",
+   "title": "Migrant shopkeepers in Germany close stores to protest AfD’s mass deportation plans",
+   "link": "https://www.aa.com.tr/en/europe/migrant-shopkeepers-in-germany-close-stores-to-protest-afd-s-mass-deportation-plans/4038108",
+   "summary_raw": "Business owners in Magdeburg shut stores ahead of Saxony-Anhalt’s Sept. 6 election, saying racism, deportation rhetoric threaten democratic society",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-08-26T12:44:52+00:00",
+   "collected": "2026-08-26T13:18:08.671527+00:00",
+   "keywords_hit": [
+    "migrant",
+    "deportation"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Business owners in Magdeburg shut stores ahead of Saxony-Anhalt’s Sept. 6 election, saying racism, deportation rhetoric threaten democratic society",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "InfoMigrants"
+   ]
+  },
+  {
+   "id": "ff32ebc74d096b9f",
+   "title": "Δένδιας για την απονομή του βαθμού Πλωτάρχη επί τιμή στον Βασίλειο Πατέρα: «Η τιμητική διάκριση αφορά μια στάση ευθύνης απέναντι στην Πατρίδα»",
+   "link": "https://www.onalert.gr/enoples-dynameis/yetha/dendias-gia-tin-aponomi-tou-vathmou-plotarxi-epi-timi-ston-vasileio-patera-i-timitiki-diakrisi-afora-mia-stasi-eythynis-apenanti-stin-patrida/815636/",
+   "summary_raw": "Τα τελευταία χρόνια, ο εφοπλιστής Βασίλειος Πατέρας έχει κάνει σειρά σημαντικών δωρεών στις Ένοπλες Δυνάμεις",
+   "source": "OnAlert",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-26T12:38:37+00:00",
+   "collected": "2026-08-26T13:18:14.162141+00:00",
+   "keywords_hit": [
+    "δένδιας"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Τα τελευταία χρόνια, ο εφοπλιστής Βασίλειος Πατέρας έχει κάνει σειρά σημαντικών δωρεών στις Ένοπλες Δυνάμεις",
+   "angle": null
+  },
+  {
+   "id": "80bd0eecb663735e",
+   "title": "Germany’s Chancellor Merz:  We have to get out of this climate of gloom and frustration.  We have to shake off the widespread resentment that has been paralyzing our country for a …",
+   "link": "https://t.me/ClashReport/93739",
+   "summary_raw": "Germany’s Chancellor Merz:  We have to get out of this climate of gloom and frustration.  We have to shake off the widespread resentment that has been paralyzing our country for a long time.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-08-26T12:34:35+00:00",
+   "collected": "2026-08-26T13:19:00.912768+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Germany’s Chancellor Merz: We have to get out of this climate of gloom and frustration. We have to shake off the widespread resentment that has been paralyzing our country for a long time.",
+   "angle": null
+  },
+  {
+   "id": "33208f299467768a",
+   "title": "Τουλάχιστον 42 μετανάστες στα νότια της Κρήτης, επιχείρηση του Λιμενικού",
+   "link": "https://www.protothema.gr/greece/article/1869795/toulahiston-42-metanastes-sta-notia-tis-kritis-epiheirisi-tou-limenikou/?utm_source=rss",
+   "summary_raw": "Οι μετανάστες εντοπίστηκαν στα ανοιχτά των Καλών Λιμένων",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-26T12:24:17+00:00",
+   "collected": "2026-08-26T13:18:51.147704+00:00",
+   "keywords_hit": [
+    "λιμενικ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Οι μετανάστες εντοπίστηκαν στα ανοιχτά των Καλών Λιμένων",
+   "angle": null,
+   "corroborated_by": [
+    "Εφημερίδα των Συντακτών"
+   ],
+   "locations": [
+    {
+     "name": "Κρήτη",
+     "lat": 35.24,
+     "lon": 24.81
+    }
+   ]
+  },
+  {
+   "id": "2a286b939f3e16e9",
+   "title": "Βάρκα με 42 μετανάστες εντοπίστηκε στους Καλούς Λιμένες Χανίων – Περισυνελέγησαν από το Λιμενικό",
+   "link": "https://www.efsyn.gr/ellada/1454754/varka-me-42-metanastes-entopistike-stoys-kaloys-limenes-hanion-perisynelegisan-apo-to-limeniko/",
+   "summary_raw": "Οι μετανάστες περισυνελέγησαν από Περιπολικό σκάφος του Λιμενικού Σώματος (ΠΛΣ) και μεταφέρονται στο λιμάνι της περιοχής.",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-26T12:22:35+00:00",
+   "collected": "2026-08-26T13:18:54.592920+00:00",
+   "keywords_hit": [
+    "λιμενικ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Οι μετανάστες περισυνελέγησαν από Περιπολικό σκάφος του Λιμενικού Σώματος (ΠΛΣ) και μεταφέρονται στο λιμάνι της περιοχής.",
+   "angle": null,
+   "corroborated_by": [
+    "Πρώτο Θέμα"
+   ]
+  },
+  {
+   "id": "42ee5d9d1e7f3dad",
+   "title": "Solar farm installed to power Mia Milia wastewater treatment plant",
+   "link": "https://cyprus-mail.com/2026/08/26/solar-farm-installed-to-power-mia-milia-wastewater-treatment-plant",
+   "summary_raw": "A solar farm has been installed to power the bicommunal Mia Milia wastewater treatment plant, the Nicosia district government said on Wednesday. It said the solar farm will have a maximum capacity of 1,081 kilowatt-peak, and will “utilise solar energy to cover part of the plant’s electricity needs”. “In this way, the environmental footprint of [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-08-26T12:17:52+00:00",
+   "collected": "2026-08-26T13:18:18.847740+00:00",
+   "keywords_hit": [
+    "solar"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "A solar farm has been installed to power the bicommunal Mia Milia wastewater treatment plant, the Nicosia district government said on Wednesday. It said the solar farm will have a maximum capacity of ",
+   "angle": null
+  },
+  {
+   "id": "be57f4dd5808d09e",
+   "title": "Was die AfD mit „Remigration“ meint",
+   "link": "https://www.politico.eu/podcast/inside-afd/was-die-afd-mit-remigration-meint/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "summary_raw": "Die Forderung nach millionenfacher „Remigration“ prägt die Politik der AfD. Migrationsforscher Gerald Knaus erklärt im Gespräch mit Pauline von Pezold und Frederik Schindler, warum diese Pläne eklatant gegen die Menschenwürde verstoßen. Die Partei nutze dabei nach außen gezielt eine verharmlosende Doppelmoral. Knaus warnt eindringlich vor den internationalen Vorbildern der Partei, etwa den massenhaften Deportationsplänen aus [&#8230;]",
+   "source": "Politico Europe",
+   "side": "europe",
+   "lang": "en",
+   "published": "2026-08-26T12:12:36+00:00",
+   "collected": "2026-08-26T13:18:27.034095+00:00",
+   "keywords_hit": [
+    "deportation"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Die Forderung nach millionenfacher „Remigration“ prägt die Politik der AfD. Migrationsforscher Gerald Knaus erklärt im Gespräch mit Pauline von Pezold und Frederik Schindler, warum diese Pläne eklatan",
+   "angle": null
+  },
+  {
+   "id": "63d3075fd928c79d",
+   "title": "Η Αθήνα αποφάσισε: Τα ελληνικά F-16 και φρεγάτα στην Κύπρο μέχρι νεωτέρας",
+   "link": "https://www.tanea.gr/print/2026/08/26/politics/xoris-xronodiagramma-stin-kypro-ta-ellinika-f-16-kai-i-fregata/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"614\" src=\"https://www.tanea.gr/wp-content/uploads/2025/06/fregates-1024x614.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Αμεση απάντηση της Αθήνας στις απειλές του Ιράν και την επιθετική ρητορική της Άγκυρας",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-26T12:00:00+00:00",
+   "collected": "2026-08-26T13:18:52.851330+00:00",
+   "keywords_hit": [
+    "f-16"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Αμεση απάντηση της Αθήνας στις απειλές του Ιράν και την επιθετική ρητορική της Άγκυρας",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    },
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "598a1ecdd097052d",
+   "title": "Το Anadolu δημοσίευσε χάρτη των δύο τουρκικών θαλάσσιων πάρκων σε Β. Αιγαίο και Καστελόριζο",
+   "link": "https://www.efsyn.gr/politiki/1454728/to-anadolu-dimosieyse-harti-ton-toyrkikon-thalassion-parkon-se-aigaio-kai-anatoliki-mesogeio/",
+   "summary_raw": "Επιμένει η Τουρκία για τα δύο εθνικά θαλάσσια πάρκα στο Βόρειο Αιγαίο και το Καστελόριζο.",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-08-26T11:52:57+00:00",
+   "collected": "2026-08-26T13:18:54.593811+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Αιγαίο-ΑΟΖ",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Επιμένει η Τουρκία για τα δύο εθνικά θαλάσσια πάρκα στο Βόρειο Αιγαίο και το Καστελόριζο.",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
   {
    "id": "9af290a24434eb8f",
    "title": "Data Center Power Solutions Startup Emerald AI Raises $150 Million at Unicorn Valuation",
@@ -21,6 +359,45 @@
    "corroborated_by": [
     "Inside Climate News"
    ]
+  },
+  {
+   "id": "7b34bc01b0a1bd2e",
+   "title": "Germany deports 23 men to Kabul amid broadening Afghan returns - InfoMigrants",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUnh2SlVhWUFER2h4Z2NhemZSRjBibW1ZZTgtazBQVF9lanhZckpTZUdXVDE5aHZDREhjRm5VZENhMTVGV3BuMHdENnpFX09lQUtTb05KVDRQU3NydUVIWmk2cFllQlRXaDNFMW9LQTNqR2luRjVHTVRETFAwWHZHR1FtOE9fYXkzTVFkd0swUjJ1d3F4YzNOaHE5b044TG9COWpPYnFLQno?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUnh2SlVhWUFER2h4Z2NhemZSRjBibW1ZZTgtazBQVF9lanhZckpTZUdXVDE5aHZDREhjRm5VZENhMTVGV3BuMHdENnpFX09lQUtTb05KVDRQU3NydUVIWmk2cFllQlRXaDNFMW9LQTNqR2luRjVHTVRETFAwWHZHR1FtOE9fYXkzTVFkd0swUjJ1d3F4YzNOaHE5b044TG9COWpPYnFLQno?oc=5\" target=\"_blank\">Germany deports 23 men to Kabul amid broadening Afghan returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoMigrants</font>",
+   "source": "InfoMigrants",
+   "side": "migration",
+   "lang": "en",
+   "published": "2026-08-26T11:42:45+00:00",
+   "collected": "2026-08-26T13:18:24.100222+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Germany deports 23 men to Kabul amid broadening Afghan returns InfoMigrants",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)"
+   ]
+  },
+  {
+   "id": "ebafdf6739f670ef",
+   "title": "Ireland moves to tighten citizenship after five years above 100,000 arrivals",
+   "link": "https://brusselssignal.eu/2026/08/ireland-moves-to-tighten-citizenship-after-five-years-above-100000-arrivals/",
+   "summary_raw": "Ireland plans to tighten naturalisation requirements after over 100,000 arrivals for five years, proposing an eight-year residence period and an English language test for applicants.\n<p><a href=\"https://brusselssignal.eu/2026/08/ireland-moves-to-tighten-citizenship-after-five-years-above-100000-arrivals/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-08-26T11:41:45+00:00",
+   "collected": "2026-08-26T13:18:55.644528+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ireland plans to tighten naturalisation requirements after over 100,000 arrivals for five years, proposing an eight-year residence period and an English language test for applicants. Source",
+   "angle": null
   },
   {
    "id": "355709a00138fdbf",
@@ -65,6 +442,23 @@
    "severity": 4,
    "turkish_narrative": false,
    "summary_el": "Υπό τη σκιά μιας πρόσθετης αντιπαράθεσης και εν μέσω τουρκικών κατηγοριών για «προκλήσεις» οι ηγέτες των δύο πλευρών Νίκος Χριστοδουλίδης και Τουφάν Ερχιουρμάν συναντώνται σήμερα με εξαιρετικά συγκρατ",
+   "angle": null
+  },
+  {
+   "id": "b410b1a2c84c2b51",
+   "title": "CIA Chief John Ratcliffe Met With Russian Intelligence, Not Putin, on Moscow Trip Says Kremlin",
+   "link": "https://www.breitbart.com/europe/2026/08/26/cia-chief-john-ratcliffe-met-with-russian-intelligence-not-putin-on-moscow-trip-says-kremlin/",
+   "summary_raw": "<p>CIA boss John Ratcliffe did not meet with President Putin during his surprise visit to Moscow on Tuesday, a Kremlin spokesman said. </p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/26/cia-chief-john-ratcliffe-met-with-russian-intelligence-not-putin-on-moscow-trip-says-kremlin/\" rel=\"nofollow\">CIA Chief John Ratcliffe Met With Russian Intelligence, Not Putin, on Moscow Trip Says Kremlin</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-26T11:25:05+00:00",
+   "collected": "2026-08-26T13:18:59.150990+00:00",
+   "keywords_hit": [],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "CIA boss John Ratcliffe did not meet with President Putin during his surprise visit to Moscow on Tuesday, a Kremlin spokesman said. The post CIA Chief John Ratcliffe Met With Russian Intelligence, Not",
    "angle": null
   },
   {
@@ -555,6 +949,28 @@
    ]
   },
   {
+   "id": "695660b256129988",
+   "title": "‘Pedro Sanchez, Son of a …’ Ceuta Residents Protest Against Govt's Invading Migrant Shelter Plans",
+   "link": "https://www.breitbart.com/europe/2026/08/26/pedro-sanchez-son-of-a-ceuta-residents-protest-against-govts-invading-migrant-shelter-plans/",
+   "summary_raw": "<p>Hundreds of Ceuta residents on Tuesday staged a peaceful protest against the Spanish government over its plans to shelter invading migrants in several local facilities and public sports centers. The protest was organized by local communities who are fed up</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/26/pedro-sanchez-son-of-a-ceuta-residents-protest-against-govts-invading-migrant-shelter-plans/\" rel=\"nofollow\">‘Pedro Sánchez, Son of a …’ Ceuta Residents Protest Against Govt&#8217;s Invading Migrant Shelter Plans</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-26T09:45:56+00:00",
+   "collected": "2026-08-26T13:18:59.151945+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Hundreds of Ceuta residents on Tuesday staged a peaceful protest against the Spanish government over its plans to shelter invading migrants in several local facilities and public sports centers. The p",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)"
+   ]
+  },
+  {
    "id": "f6b947b0f2cf9f8a",
    "title": "Sweden’s Muslim Voters Remain Overwhelmingly on the Left",
    "link": "https://europeanconservative.com/articles/news/sweden-muslim-voters-remain-overwhelmingly-on-the-left/",
@@ -625,6 +1041,23 @@
      "lon": 22.0
     }
    ]
+  },
+  {
+   "id": "0e9cad6bbf7ecd5b",
+   "title": "Kremlin Insider Warns of 'Semi-Military' Strikes Against Britain For Supporting Ukraine War Effort",
+   "link": "https://www.breitbart.com/europe/2026/08/26/kremlin-insider-warns-of-semi-military-strikes-against-britain-for-supporting-ukraine-war-effort/",
+   "summary_raw": "<p>Kremlin advisor appeared on British state television to warn \"a new stage of escalation in the Ukrainian conflict\" looms.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/08/26/kremlin-insider-warns-of-semi-military-strikes-against-britain-for-supporting-ukraine-war-effort/\" rel=\"nofollow\">Kremlin Insider Warns of &#8216;Semi-Military&#8217; Strikes Against Britain For Supporting Ukraine War Effort</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-26T09:25:59+00:00",
+   "collected": "2026-08-26T13:18:59.151640+00:00",
+   "keywords_hit": [],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Kremlin advisor appeared on British state television to warn \"a new stage of escalation in the Ukrainian conflict\" looms. The post Kremlin Insider Warns of ‘Semi-Military’ Strikes Against Britain For ",
+   "angle": null
   },
   {
    "id": "baa98d6796122a5a",
@@ -998,6 +1431,23 @@
    "angle": null
   },
   {
+   "id": "d40e777c03d44599",
+   "title": "Αγροτικά ακίνητα: ρύθμιση-κλειδί για Κτηματολόγιο, διεκδικήσεις δημοσίου και επιδοτήσεις - ecopress",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3cFh0ZkJpV20xNFAwaHVvUWRPbjU5ODRzVzI5Wk5pTmhsV0hJMzhfLUUzSFU3ci1SZTlqU2FzSjhTQ0Z5SFhaNkJJUVYxbmhmbk45Y1Rzd3JKb1ktWGM5MU9Dc1ZGY3FYTlVr?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA3cFh0ZkJpV20xNFAwaHVvUWRPbjU5ODRzVzI5Wk5pTmhsV0hJMzhfLUUzSFU3ci1SZTlqU2FzSjhTQ0Z5SFhaNkJJUVYxbmhmbk45Y1Rzd3JKb1ktWGM5MU9Dc1ZGY3FYTlVr?oc=5\" target=\"_blank\">Αγροτικά ακίνητα: ρύθμιση-κλειδί για Κτηματολόγιο, διεκδικήσεις δημοσίου και επιδοτήσεις</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
+   "source": "Ecopress",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-08-26T08:35:54+00:00",
+   "collected": "2026-08-26T13:18:38.224261+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Αγροτικά ακίνητα: ρύθμιση-κλειδί για Κτηματολόγιο, διεκδικήσεις δημοσίου και επιδοτήσεις ecopress",
+   "angle": null
+  },
+  {
    "id": "9f83612be0f5be27",
    "title": "Turkish President Erdogan:  History is being rewritten in our region. Türkiye is shaping the course of history through its conscientious, principled, and peaceful policies.  No one…",
    "link": "https://t.me/ClashReport/93706",
@@ -1340,6 +1790,30 @@
    "turkish_narrative": false,
    "summary_el": "Italian Prime Minister Giorgia Meloni and UK Conservative leader Kemi Badenoch held an informal meeting in Rome to discuss pressing political issues amidst rising right-wing pressures. Source",
    "angle": null
+  },
+  {
+   "id": "d99300ea0daade2e",
+   "title": "‘Watershed Moment’: Trump Clears Hormuz Mines, Breaks Iran’s Grip -- ‘Now the U.S. Controls It’",
+   "link": "https://www.breitbart.com/politics/2026/08/26/watershed-moment-trump-clears-hormuz-mines-breaks-irans-grip-now-the-u-s-controls-it/",
+   "summary_raw": "<p>President Donald Trump has broken Iran’s grip on the Strait of Hormuz after the U.S. Navy cleared mines from the strategic waterway and opened additional shipping routes in what American officials are calling a “watershed moment” that has sharply diminished Tehran’s leverage over global energy markets while Washington simultaneously chokes off the regime’s own oil revenue.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/26/watershed-moment-trump-clears-hormuz-mines-breaks-irans-grip-now-the-u-s-controls-it/\" rel=\"nofollow\">‘Watershed Moment’: Trump Clears Hormuz Mines, Breaks Iran’s Grip &#8212; ‘Now the U.S. Controls It’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-26T07:42:47+00:00",
+   "collected": "2026-08-26T13:18:59.149838+00:00",
+   "keywords_hit": [],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "President Donald Trump has broken Iran’s grip on the Strait of Hormuz after the U.S. Navy cleared mines from the strategic waterway and opened additional shipping routes in what American officials are",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ορμούζ",
+     "lat": 26.57,
+     "lon": 56.25
+    }
+   ]
   },
   {
    "id": "a670ed6b6de35170",
@@ -16051,6 +16525,23 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Συνελήφθη ο 24χρονος μετά την καταδίωξη – Αντιστάθηκαν και δύο επιβάτες",
+   "angle": null
+  },
+  {
+   "id": "f31d941ec8493c6a",
+   "title": "ΜΦΗ: οι αλλαγές στο σύστημα αδειοδότησης και πρόστιμα έως 100.000 ευρώ - ecopress",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yQUdYSzU3UnJodkhpTE50djV5V01Ba2FOYm02N0VtWEJJcWdQeVhhd3A1LTlHWDV2aVhDVU5HWWVoMXhqYWo3Um5qQVBmakE0YXFjZ0x0QkRyR1UtQXc1YktDSjYzdFJJRXpJ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE4yQUdYSzU3UnJodkhpTE50djV5V01Ba2FOYm02N0VtWEJJcWdQeVhhd3A1LTlHWDV2aVhDVU5HWWVoMXhqYWo3Um5qQVBmakE0YXFjZ0x0QkRyR1UtQXc1YktDSjYzdFJJRXpJ?oc=5\" target=\"_blank\">ΜΦΗ: οι αλλαγές στο σύστημα αδειοδότησης και πρόστιμα έως 100.000 ευρώ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
+   "source": "Ecopress",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-08-23T20:34:33+00:00",
+   "collected": "2026-08-26T13:18:38.223484+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "ΜΦΗ: οι αλλαγές στο σύστημα αδειοδότησης και πρόστιμα έως 100.000 ευρώ ecopress",
    "angle": null
   },
   {
@@ -44215,642 +44706,6 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Η παράτυπη είσοδος στη Θέουτα έως και 80.000 επίδοξων μεταναστών από το Μαρόκο, στα τέλη Ιουλίου, προκάλεσε έντονες αντιπαραθέσεις στην Ευρώπη και εξακολουθεί να φέρνει αντιμέτωπες τη Μαδρίτη και τη Ρ",
-   "angle": null
-  },
-  {
-   "id": "a54a6a62b4cc3173",
-   "title": "Alaska Senate Primary Results Move Democrats Closer to the Majority",
-   "link": "https://www.dailysignal.com/2026/08/19/alaska-senate-primary-results-move-democrats-closer-to-the-majority/",
-   "summary_raw": "Incumbent Republican Sen. Dan Sullivan and former Democratic Rep. Mary Peltola advanced to Alaska&#8217;s November general election for the U.S. Senate, moving the Democrats closer to flipping the seat. In Tuesday&#8217;s primary, Peltola captured 48% of the vote, with Sullivan receiving 42.8% of the vote, with 80% of votes counted, according to the Associated Press....",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-19T13:16:49+00:00",
-   "collected": "2026-08-19T16:49:58.719538+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Incumbent Republican Sen. Dan Sullivan and former Democratic Rep. Mary Peltola advanced to Alaska’s November general election for the U.S. Senate, moving the Democrats closer to flipping the seat. In ",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "64ceccb8e8bbf0b5",
-   "title": "Έρευνες για πετρέλαιο και φυσικό αέριο θα διεξάγει στη Συρία η Τουρκία",
-   "link": "https://www.ertnews.gr/roi-idiseon/ereynes-gia-petrelaio-kai-fysiko-aerio-tha-dieksagei-sti-syria-i-tourkia/",
-   "summary_raw": "<img alt=\"Mideast Bahrain Oil Prices\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1661\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/ap481254588229-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Η Τουρκία είναι έτοιμη να συνεργαστεί με τη Δαμασκό για την αναζήτηση πετρελαίου και φυσικού αερίου στη Συρία, όπως δήλωσε την Τετάρτη, 19 Αυγούστου, ο Τούρκος υπουργός Ενέργειας Αλπαρσλάν Μπαϊρακτάρ, κατά τη διάρκεια κοινής συνέντευξης Τύπου στη Δαμασκό με τον Σύρο υπουργό Ενέργειας Μοχάμεντ αλ-Μπασίρ. Στο πλαίσιο αυτό, η τουρκική κρατική πετρελαϊκή εταιρεία TPAO, καθώς ... <a class=\"read-more\" href=\"https://www.ertnews.gr/roi-idiseon/ereynes-gia-petrelaio-kai-fysiko-aerio-tha-dieksagei-sti-syria-i-tourkia/\" title=\"Έρευνες για πετρέλαιο και φυσικό αέριο θα διεξάγει στη Συρία η Τουρκία\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-19T13:14:59+00:00",
-   "collected": "2026-08-19T13:59:14.700949+00:00",
-   "keywords_hit": [
-    "φυσικό αέριο"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Τουρκία είναι έτοιμη να συνεργαστεί με τη Δαμασκό για την αναζήτηση πετρελαίου και φυσικού αερίου στη Συρία, όπως δήλωσε την Τετάρτη, 19 Αυγούστου, ο Τούρκος υπουργός Ενέργειας Αλπαρσλάν Μπαϊρακτάρ,",
-   "angle": null
-  },
-  {
-   "id": "3da45ce6e58334b2",
-   "title": "⚡️ Qalibaf: America is the cause of insecurity in the region and disruption of normal trade routes  The Speaker of Parliament in a meeting with his Iraqi counterpart: The Iranian n…",
-   "link": "https://t.me/me_observer_TG/1070929",
-   "summary_raw": "⚡️ Qalibaf: America is the cause of insecurity in the region and disruption of normal trade routes  The Speaker of Parliament in a meeting with his Iraqi counterpart: The Iranian nation, with its resistance and loyalty, with its military forces and the wisdom of the Commander-in-Chief, has broken America's hegemony and made them regret it, to the point where today America, which is in despair, will both be discredited by withdrawing from the war and create dozens of problems for itself by continuing it. Strengthening relations between the two countries, especially in the parliamentary sphere, by sending parliamentary friendship groups, plays an important role in strengthening relations and facilitating ties. The connection of the Shalamcheh-Basra railway, the dredging of the Arvand Rud, and the development of economic relations are important priorities for the two countries, and parliaments can help governments in this regard. Hibet al-Halbousi, Speaker of the Iraqi Parliament: The withdrawal of American forces from Iraq is imminent. The historical and legendary steadfastness of the Iranian nation against the aggression of the Zionist regime against your country must be appreciated",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-19T13:05:42+00:00",
-   "collected": "2026-08-19T13:12:33.895662+00:00",
-   "keywords_hit": [
-    "steadfast"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ Qalibaf: America is the cause of insecurity in the region and disruption of normal trade routes The Speaker of Parliament in a meeting with his Iraqi counterpart: The Iranian nation, with its resis",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @clashreport"
-   ]
-  },
-  {
-   "id": "54bdb07e535e2a95",
-   "title": "Former Fauci adviser pleads guilty to concealing documents on Covid origins",
-   "link": "https://brusselssignal.eu/2026/08/former-fauci-adviser-pleads-guilty-to-concealing-documents-on-covid-origins/",
-   "summary_raw": "David Morens, a former adviser to Fauci, pleaded guilty to hiding emails related to Covid-19 origins, facing up to five years in prison and a fine. Sentencing is set for November 12.\n<p><a href=\"https://brusselssignal.eu/2026/08/former-fauci-adviser-pleads-guilty-to-concealing-documents-on-covid-origins/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-19T13:02:12+00:00",
-   "collected": "2026-08-19T14:00:04.409345+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "David Morens, a former adviser to Fauci, pleaded guilty to hiding emails related to Covid-19 origins, facing up to five years in prison and a fine. Sentencing is set for November 12. Source",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "0b2e68b2162f12cb",
-   "title": "Συνελήφθη οδηγός για μεταφορά 6 μεταναστών – Οι δύο ήταν κρυμμένοι στο πορτ μπαγκάζ",
-   "link": "https://www.zarpanews.gr/synelifthi-odigos-gia-metafora-6-metanaston-oi-dyo-itan-krymmenoi-sto-port-mpagkaz/",
-   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"360\" src=\"https://www.zarpanews.gr/wp-content/uploads/2017/03/astymnomia-768x432.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"640\" /><p>Στη σύλληψη ενός 30χρονου για παράνομη μεταφορά μεταναστών προχώρησαν οι αρχές στη Θεσσαλονίκη την Τρίτη. Συγκεκριμένα, χθες το απόγευμα κοντά στα διόδια Ανάληψης στην Εγνατία Οδό αστυνομικοί έκαναν σήμα σε οδηγό αυτοκινήτου να σταματήσει ωστόσο ο ίδιος προσπάθησε να διαφύγει πραγματοποιώντας ελιγμούς. Τελικά οι αστυνομικοί κατάφεραν να ακινητοποιήσουν το όχημα και να συλλάβουν τον 30χρονο [&#8230;]</p>\n<p>The post <a href=\"https://www.zarpanews.gr/synelifthi-odigos-gia-metafora-6-metanaston-oi-dyo-itan-krymmenoi-sto-port-mpagkaz/\">Συνελήφθη οδηγός για μεταφορά 6 μεταναστών &#8211; Οι δύο ήταν κρυμμένοι στο πορτ μπαγκάζ</a> appeared first on <a href=\"https://www.zarpanews.gr\">zarpanews.gr</a>.</p>",
-   "source": "Zarpanews (Χανιά)",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-19T13:00:10+00:00",
-   "collected": "2026-08-19T13:12:19.938231+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Στη σύλληψη ενός 30χρονου για παράνομη μεταφορά μεταναστών προχώρησαν οι αρχές στη Θεσσαλονίκη την Τρίτη. Συγκεκριμένα, χθες το απόγευμα κοντά στα διόδια Ανάληψης στην Εγνατία Οδό αστυνομικοί έκαναν σ",
-   "angle": null,
-   "corroborated_by": [
-    "iefimerida"
-   ],
-   "locations": [
-    {
-     "name": "Θεσσαλονίκη",
-     "lat": 40.64,
-     "lon": 22.94
-    }
-   ]
-  },
-  {
-   "id": "e263c70db5fa662d",
-   "title": "The Fauci Revelations Prove That Congress Must Take Back Its Power",
-   "link": "https://www.dailysignal.com/2026/08/19/the-fauci-revalations-prove-that-congress-must-take-back-its-power/",
-   "summary_raw": "For too long, Congress has allowed unelected bureaucrats to wield far too much power over the lives and liberties of the American people. It is time for Congress to take that power back. The COVID-19 pandemic showed us the consequences of failing to do so. “Two weeks to slow the spread” became years of sweeping...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-19T13:00:00+00:00",
-   "collected": "2026-08-19T14:59:24.558169+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "For too long, Congress has allowed unelected bureaucrats to wield far too much power over the lives and liberties of the American people. It is time for Congress to take that power back. The COVID-19 ",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "4db02c8b6fbe1cad",
-   "title": "Democrat Texas Reps Urge Cities to Separate Ties with ICE",
-   "link": "https://www.breitbart.com/border/2026/08/19/democrat-texas-reps-urge-cities-to-break-state-law-separate-ties-with-ice/",
-   "summary_raw": "<p>Two prominent Texas Democrats, Congressmen Joaquin Castro (D-TX) and Greg Casar (D-TX), urged six Bexar County cities to end their 287(g) agreements with U.S. Immigration and Customs Enforcement (ICE). The agreements, required for all county jails under Texas law, allow state and local police officers to carry out certain immigration enforcement activities delegated to them under the Immigration and Nationality Act.</p>\n<p>The post <a href=\"https://www.breitbart.com/border/2026/08/19/democrat-texas-reps-urge-cities-to-break-state-law-separate-ties-with-ice/\" rel=\"nofollow\">Democrat Texas Reps Urge Cities to Separate Ties with ICE</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-19T12:58:31+00:00",
-   "collected": "2026-08-19T14:00:07.967877+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Two prominent Texas Democrats, Congressmen Joaquin Castro (D-TX) and Greg Casar (D-TX), urged six Bexar County cities to end their 287(g) agreements with U.S. Immigration and Customs Enforcement (ICE)",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "1a1cfe8fda45f29f",
-   "title": "France: Indian accused of raping two coworkers wins supervised release due to legal technicality",
-   "link": "https://rmx.news/article/france-indian-accused-of-raping-two-coworkers-wins-supervised-release-due-to-legal-technicality/",
-   "summary_raw": "<p>The accused Indian rape suspect is free on the streets simply because the prosecution did not file an appeal on time</p>\n<p>The post <a href=\"https://rmx.news/article/france-indian-accused-of-raping-two-coworkers-wins-supervised-release-due-to-legal-technicality/\">France: Indian accused of raping two coworkers wins supervised release due to legal technicality</a> appeared first on <a href=\"https://rmx.news\">Remix News</a>.</p>",
-   "source": "Remix News",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-19T12:54:37+00:00",
-   "collected": "2026-08-20T11:46:09.980252+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The accused Indian rape suspect is free on the streets simply because the prosecution did not file an appeal on time The post France: Indian accused of raping two coworkers wins supervised release due",
-   "angle": null
-  },
-  {
-   "id": "4ad21394703316c6",
-   "title": "Iran issues warning against Arab states aiding US, as UAE cuts economic ties",
-   "link": "https://www.middleeasteye.net/news/iran-issues-warning-against-arab-states-aiding-us-uae-cuts-economic-ties",
-   "summary_raw": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/iran-issues-warning-against-arab-states-aiding-us-uae-cuts-economic-ties\" rel=\"bookmark\">\n<span class=\"field field-title\">Iran issues warning against Arab states aiding US, as UAE cuts economic ties </span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/mee-staff\" lang=\"lang\" title=\"View user profile.\">MEE staff</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-19T12:18:32+01:00\" title=\"19 August 2026 12:18 BST\">Wed, 08/19/2026 - 12:18</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">Tehran's armed forces chief says 'any assistance or facilitation provided to the aggressor US military amounts to participation' in war </div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"788\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"A member of the Iraqi special forces secures the Baghdad I",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-19T12:51:07+00:00",
-   "collected": "2026-08-19T13:11:51.767452+00:00",
-   "keywords_hit": [
-    "territorial waters",
-    "natural gas"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Iran issues warning against Arab states aiding US, as UAE cuts economic ties Submitted by MEE staff on Wed, 08/19/2026 - 12:18 Tehran's armed forces chief says 'any assistance or facilitation provided",
-   "angle": null
-  },
-  {
-   "id": "c7222aee113c10d4",
-   "title": "Το τουρκικό λόμπι στις ΗΠΑ πιέζει για τα F-35 – Επιστολή σε πάνω από 50 μέλη του Κογκρέσου - slpress.gr",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0hhU1kxZ3ZGYm1HTFVDQUdBUVBILWpacFY3LXdsaExIdmVfTEZVT2dENGFuV19xcEpTRmFaczdHMnVuNVlLTE8zenFqMlJtZUt5R3pFVFZ4bm5Sb1BEdnNsVmVaeF8yUXhabTZfa1VtY0Z5THU5a1dqTHo2ZEk0ODU5NUpDV0x2Y1dHaDNweGtiYWhDZGwzVldXdkkzSE5xU0laVEl2d2JpQzRZUzE4bTJmSVTSAboBQVVfeXFMUG1ieEU2a0JZcHlUWTFud3V0RzZ4amdmNS1UblA1eGdFSjkwWUdUVFFRdXV2WmM5emRqVk5tM2pVT0Z3SVZJbTJHTC1aWTZBaE5WQUNEeFA2a0F6U0oweXhfVDExZmVsdkFiTnlzVWVsMjV0bWV6c1p5S2lFZjQyVGc5V3NmbUtxZGJpNWxvQTkzMXgyVERoLVNyWnQ5MlVsSFZrSWtQSjNLSmpQMVV4cnVmaFdVbHF4TERn?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0hhU1kxZ3ZGYm1HTFVDQUdBUVBILWpacFY3LXdsaExIdmVfTEZVT2dENGFuV19xcEpTRmFaczdHMnVuNVlLTE8zenFqMlJtZUt5R3pFVFZ4bm5Sb1BEdnNsVmVaeF8yUXhabTZfa1VtY0Z5THU5a1dqTHo2ZEk0ODU5NUpDV0x2Y1dHaDNweGtiYWhDZGwzVldXdkkzSE5xU0laVEl2d2JpQzRZUzE4bTJmSVTSAboBQVVfeXFMUG1ieEU2a0JZcHlUWTFud3V0RzZ4amdmNS1UblA1eGdFSjkwWUdUVFFRdXV2WmM5emRqVk5tM2pVT0Z3SVZJbTJHTC1aWTZBaE5WQUNEeFA2a0F6U0oweXhfVDExZmVsdkFiTnlzVWVsMjV0bWV6c1p5S2lFZjQyVGc5V3NmbUtxZGJpNWxvQTkzMXgyVERoLVNyWnQ5MlVsSFZrSWtQSjNLSmpQMVV4cnVmaFdVbHF4TERn?oc=5\" target=\"_blank\">Το τουρκικό λόμπι στις ΗΠΑ πιέζει για τα F-35 – Επιστολή σε πάνω από 50 μέλη του Κογκρέσου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">slpress.gr</font>",
-   "source": "SLpress",
-   "side": "greek_analysis",
-   "lang": "el",
-   "published": "2026-08-19T12:48:17+00:00",
-   "collected": "2026-08-20T04:55:24.570386+00:00",
-   "keywords_hit": [
-    "f-35"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Το τουρκικό λόμπι στις ΗΠΑ πιέζει για τα F-35 – Επιστολή σε πάνω από 50 μέλη του Κογκρέσου slpress.gr",
-   "angle": null
-  },
-  {
-   "id": "9702436ea7311631",
-   "title": "Η Ελβετία θα ζητήσει από την Ιταλία να δεχθεί επιστροφές αιτούντων άσυλο",
-   "link": "https://www.pentapostagma.gr/kosmos/7385848_i-elbetia-tha-zitisei-apo-tin-italia-na-dehthei-epistrofes-aitoynton-asylo",
-   "summary_raw": "H Ελβετία δεν είναι μέλος της Ευρωπαϊκής Ένωσης, αλλά έχει υπογράψει συμφωνία σύνδεσης με το κεκτημένο του Σένγκεν, με...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-19T12:47:17+00:00",
-   "collected": "2026-08-19T13:11:57.602958+00:00",
-   "keywords_hit": [
-    "άσυλο"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "H Ελβετία δεν είναι μέλος της Ευρωπαϊκής Ένωσης, αλλά έχει υπογράψει συμφωνία σύνδεσης με το κεκτημένο του Σένγκεν, με...",
-   "angle": null,
-   "corroborated_by": [
-    "Τα Νέα"
-   ]
-  },
-  {
-   "id": "3dd4eba8fc13ca7e",
-   "title": "Στο τραπέζι η μεταφορά Patriot στη Σούδα μετά τις απειλές του Ιράν για πλήγματα στην ΕΕ",
-   "link": "https://www.tanea.gr/2026/08/19/politics/sto-trapezi-i-metafora-metafora-patriot-sti-souda-meta-tis-apeiles-tou-iran-gia-pligmata-stin-ee/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/03/patriot-3-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Το Πεντάγωνο βρίσκεται σε διαρκή επαγρύπνηση",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-19T12:46:55+00:00",
-   "collected": "2026-08-19T13:12:23.107435+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Το Πεντάγωνο βρίσκεται σε διαρκή επαγρύπνηση",
-   "angle": null
-  },
-  {
-   "id": "15f413e06956cef2",
-   "title": "Greece's alliance with Israel is becoming a domestic liability",
-   "link": "https://www.middleeasteye.net/big-story/greece-alliance-israel-becoming-domestic-liability",
-   "summary_raw": "<article class=\"the-big-story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/big-story/greece-alliance-israel-becoming-domestic-liability\" rel=\"bookmark\">\n<span class=\"field field-title\">Greece's alliance with Israel is becoming a domestic liability</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/iason-athanasiadis\" lang=\"lang\" title=\"View user profile.\">Iason Athanasiadis</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-19T13:45:32+01:00\" title=\"19 August 2026 13:45 BST\">Wed, 08/19/2026 - 13:45</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-main-image\">    \n                  <source height=\"788\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"Pro-Palestine protesters stage a demonstration as Israeli tourists depart on a bus after their arrival aboard Israeli-owned cruise ship MS Crown Iris at the port of Piraeus in Athens on 3 June 2026 (Aggelos Nakkas/AFP)\" height=\"788\" src=\"https://www.middleeasteye.",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-19T12:46:03+00:00",
-   "collected": "2026-08-19T13:11:51.777551+00:00",
-   "keywords_hit": [
-    "patriot",
-    "erdogan",
-    "migrant",
-    "nuclear",
-    "natural gas",
-    "greece",
-    "greek",
-    "cyprus"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Greece's alliance with Israel is becoming a domestic liability Submitted by Iason Athanasiadis on Wed, 08/19/2026 - 13:45 <img alt=\"Pro-Palestine protesters stage a demonstration as Israeli tourists d",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @clashreport"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "f3ad995fa36b45e2",
-   "title": "Sweden grants only 98 citizenships in July, most of them Nordic, as tougher rules take effect",
-   "link": "https://brusselssignal.eu/2026/08/sweden-grants-only-98-citizenships-in-july-most-of-them-nordic-as-tougher-rules-take-effect/",
-   "summary_raw": "In July, Sweden granted citizenship to 98 individuals, primarily from Nordic countries, amid new stricter eligibility rules that began in June. The agency processed 2,825 applications.\n<p><a href=\"https://brusselssignal.eu/2026/08/sweden-grants-only-98-citizenships-in-july-most-of-them-nordic-as-tougher-rules-take-effect/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-19T12:44:18+00:00",
-   "collected": "2026-08-19T13:12:26.522361+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "In July, Sweden granted citizenship to 98 individuals, primarily from Nordic countries, amid new stricter eligibility rules that began in June. The agency processed 2,825 applications. Source",
-   "angle": null
-  },
-  {
-   "id": "a8a3ae5a8d2d1182",
-   "title": "Θεσσαλονίκη: Συνελήφθη οδηγός μετά από καταδίωξη για μεταφορά 6 μεταναστών - Οι δύο ήταν κρυμμένοι στο πορτ μπαγκάζ - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYVJaOUhDbmhHZ0FORzJNYjZRTi1sbWt6cjIzZDRZalBrMTE2WkNFRWY2VXVZeEUwUHIzU0k1UDhJUVBselhSdWxlSmxVTDlNT2dOd1lJV2VkcTVuZ2tLWTZ3TlFCUTBkR19XOHUwTTlDOGszYl9aOHktQ2lWOGtmNTA5UXJoYUxGaVHSAY8BQVVfeXFMT01NQ2Q0N2tFaC13akwxNDgxVWFxYXFNejM4VGNoNXJLNmp5Y256c1F6bWhEQXE3aEZfTmhsQ2RGTlplcEZ4S0dOWDRUU0VfU29pUzVpX1paNXlYeG8yemhwOU9jbkZOdEZrcG43STVrWnNNRGh6VmVIN3BVZTVpOU5YcEVqclVjZVBNVThCUnc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPYVJaOUhDbmhHZ0FORzJNYjZRTi1sbWt6cjIzZDRZalBrMTE2WkNFRWY2VXVZeEUwUHIzU0k1UDhJUVBselhSdWxlSmxVTDlNT2dOd1lJV2VkcTVuZ2tLWTZ3TlFCUTBkR19XOHUwTTlDOGszYl9aOHktQ2lWOGtmNTA5UXJoYUxGaVHSAY8BQVVfeXFMT01NQ2Q0N2tFaC13akwxNDgxVWFxYXFNejM4VGNoNXJLNmp5Y256c1F6bWhEQXE3aEZfTmhsQ2RGTlplcEZ4S0dOWDRUU0VfU29pUzVpX1paNXlYeG8yemhwOU9jbkZOdEZrcG43STVrWnNNRGh6VmVIN3BVZTVpOU5YcEVqclVjZVBNVThCUnc?oc=5\" target=\"_blank\">Θεσσαλονίκη: Συνελήφθη οδηγός μετά από καταδίωξη για μεταφορά 6 μεταναστών - Οι δύο ήταν κρυμμένοι στο πορτ μπαγκάζ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-19T12:41:20+00:00",
-   "collected": "2026-08-19T13:12:23.796667+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Θεσσαλονίκη: Συνελήφθη οδηγός μετά από καταδίωξη για μεταφορά 6 μεταναστών - Οι δύο ήταν κρυμμένοι στο πορτ μπαγκάζ iefimerida.gr",
-   "angle": null,
-   "corroborated_by": [
-    "Zarpanews (Χανιά)"
-   ],
-   "locations": [
-    {
-     "name": "Θεσσαλονίκη",
-     "lat": 40.64,
-     "lon": 22.94
-    }
-   ]
-  },
-  {
-   "id": "9fd36dfb7e633ed4",
-   "title": "Σίφνος: Νέες αυτοψίες στα συντρίμια – Δυσλειτουργία στο ουραίο στροφείο του ελικοπτέρου δείχνει η προκαταρκτική εξέταση",
-   "link": "https://www.ertnews.gr/eidiseis/sifnos-nees-aytopsies-sta-syntrimia-dysleitourgia-sto-ouraio-strofeio-tou-elikopterou-deixnei-i-prokatarktiki-eksetasi/",
-   "summary_raw": "<img alt=\"sifnos-elikodromio-itime\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"643\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/sifnos-elikodromio-itime.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"968\" /><p>Στελέχη των αρμόδιων ελεγκτικών αρχών, της Ελληνικής Αστυνομίας και των Εγκληματολογικών Υπηρεσιών συνεχίζουν για δεύτερη ημέρα τις αυτοψίες στη Σίφνο, συλλέγοντας κρίσιμα στοιχεία από τα συντρίμμια του ελικοπτέρου που συνετρίβη το απόγευμα της Κυριακής, προκαλώντας τον θάνατο τριών ανθρώπων. Το σημείο της τραγωδίας παραμένει αποκλεισμένο. Σε νέο βίντεο που ήρθε στο φως, το ελικόπτερο φαίνεται ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/sifnos-nees-aytopsies-sta-syntrimia-dysleitourgia-sto-ouraio-strofeio-tou-elikopterou-deixnei-i-prokatarktiki-eksetasi/\" title=\"Σίφνος: Νέες αυτοψίες στα συντρίμια &#8211; Δυσλειτουργία στο ουραίο στροφείο του ελικοπτέρου δείχνει η προκαταρκτική εξέταση\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-19T12:37:23+00:00",
-   "collected": "2026-08-19T13:11:39.879247+00:00",
-   "keywords_hit": [
-    "ίμια"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Στελέχη των αρμόδιων ελεγκτικών αρχών, της Ελληνικής Αστυνομίας και των Εγκληματολογικών Υπηρεσιών συνεχίζουν για δεύτερη ημέρα τις αυτοψίες στη Σίφνο, συλλέγοντας κρίσιμα στοιχεία από τα συντρίμμια τ",
-   "angle": null
-  },
-  {
-   "id": "8b1ad147d4993a0c",
-   "title": "Παπασταύρου: Ενιαίοι και αυστηροί κανόνες χωροθέτησης φωτοβολταϊκών και αιολικών πάρκων",
-   "link": "https://www.protothema.gr/politics/article/1866858/papastaurou-eniaioi-kai-austiroi-kanones-horothetisis-fotovoltaikon-kai-aiolikon-parkon/?utm_source=rss",
-   "summary_raw": "Τέθηκα σε εφαρμογή, από σήμερα, το νέο Ειδικό Χωροταξικό Πλαίσιο για τις Ανανεώσιμες Πηγές Ενέργειας - Αναλυτικά οι αλλαγές που φέρνει σε φωτοβολταϊκά, αιολικά, μπαταρίες και αποθήκευση ενέργειας - Διαθέτει «ένα πολύ μεγάλο πλεονέκτημα» καθώς «έχουμε ήλιο και άνεμο» σημείωσε ο υπουργός",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-19T12:37:00+00:00",
-   "collected": "2026-08-19T13:12:20.890125+00:00",
-   "keywords_hit": [
-    "ανανεώσιμ",
-    "φωτοβολταϊκ",
-    "αιολικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Τέθηκα σε εφαρμογή, από σήμερα, το νέο Ειδικό Χωροταξικό Πλαίσιο για τις Ανανεώσιμες Πηγές Ενέργειας - Αναλυτικά οι αλλαγές που φέρνει σε φωτοβολταϊκά, αιολικά, μπαταρίες και αποθήκευση ενέργειας - Δι",
-   "angle": null
-  },
-  {
-   "id": "2bf2ec8be31d26e5",
-   "title": "İşte MİLDEN’in İlk Bloku ve Özellikleri",
-   "link": "https://www.savunmasanayist.com/iste-mildenin-ilk-bloku-ve-ozellikleri/",
-   "summary_raw": "<p>Türkiye’nin milli imkanlarla geliştirdiği Milli Denizaltı MİLDEN’in ilk bloku, TEKNOFEST Mavi Vatan’da sergilendi. MİLDEN’in 80 metrenin üzerinde boya, yaklaşık 2 bin 700 ton deplasmana ve 50 günden fazla görev süresine sahip olması planlanıyor. Türk Deniz Kuvvetleri Komutanlığı’nın harekat ihtiyaçları doğrultusunda geliştirilen Millî Denizaltı’nın (MİLDEN) ilk blokuna ilişkin teknik özellikler, TEKNOFEST Mavi Vatan’da kamuoyuyla paylaşıldı. Gölcük &#8230;</p>\n<p>The post <a href=\"https://www.savunmasanayist.com/iste-mildenin-ilk-bloku-ve-ozellikleri/\" rel=\"nofollow\">İşte MİLDEN’in İlk Bloku ve Özellikleri</a> first appeared on <a href=\"https://www.savunmasanayist.com\" rel=\"nofollow\">SavunmaSanayiST</a>.</p>",
-   "source": "SavunmaSanayiST",
-   "side": "turkish_defense",
-   "lang": "tr",
-   "published": "2026-08-19T12:36:25+00:00",
-   "collected": "2026-08-19T13:11:58.314294+00:00",
-   "keywords_hit": [
-    "mavi vatan"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "Türkiye’nin milli imkanlarla geliştirdiği Milli Denizaltı MİLDEN’in ilk bloku, TEKNOFEST Mavi Vatan’da sergilendi. MİLDEN’in 80 metrenin üzerinde boya, yaklaşık 2 bin 700 ton deplasmana ve 50 günden f",
-   "angle": null
-  },
-  {
-   "id": "b55c67fbeedb7b0b",
-   "title": "Bayraktar TB3 ASELBUOY POD ile İlk Kez Sergilendi",
-   "link": "https://www.savunmasanayist.com/bayraktar-tb3-aselbuoy-pod-ile-ilk-kez-sergilendi/",
-   "summary_raw": "<p>Bayraktar TB3 SİHA, ASELSAN tarafından geliştirilen ASELBUOY Sonobuoy Podu ile ilk kez TEKNOFEST Mavi Vatan’da sergileniyor. Modüler bir atıcı sistem olan ASELBUOY POD, sonoboyların görev gereksinimlerine uygun şekilde belirlenen bölgelere bırakılmasına imkan sağlıyor. Bu pod sayesinde Bayraktar TB3, şüpheli sahalarda akustik sensörlerle denizaltı tespiti gerçekleştirebilecek. ASELBUOY POD, sonoboyların insansız hava araçlarına entegrasyonu için ASELSAN tarafından &#8230;</p>\n<p>The post <a href=\"https://www.savunmasanayist.com/bayraktar-tb3-aselbuoy-pod-ile-ilk-kez-sergilendi/\" rel=\"nofollow\">Bayraktar TB3 ASELBUOY POD ile İlk Kez Sergilendi</a> first appeared on <a href=\"https://www.savunmasanayist.com\" rel=\"nofollow\">SavunmaSanayiST</a>.</p>",
-   "source": "SavunmaSanayiST",
-   "side": "turkish_defense",
-   "lang": "tr",
-   "published": "2026-08-19T12:34:13+00:00",
-   "collected": "2026-08-19T13:11:58.314633+00:00",
-   "keywords_hit": [
-    "mavi vatan",
-    "bayraktar"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "Bayraktar TB3 SİHA, ASELSAN tarafından geliştirilen ASELBUOY Sonobuoy Podu ile ilk kez TEKNOFEST Mavi Vatan’da sergileniyor. Modüler bir atıcı sistem olan ASELBUOY POD, sonoboyların görev gereksinimle",
-   "angle": null
-  },
-  {
-   "id": "2de2fa17488b6c62",
-   "title": "Ionity opens first London fast-charging hub",
-   "link": "https://www.electrive.com/2026/08/19/ionity-opens-first-london-fast-charging-hub/",
-   "summary_raw": "<div><img alt=\"Ionity greenwich london\" class=\"attachment-medium size-medium wp-post-image\" height=\"267\" src=\"https://www.electrive.com/media/2026/08/ionity-greenwich-london-400x267.jpeg\" style=\"margin-bottom: 15px;\" title=\"ionity greenwich london\" width=\"400\" /></div>This week, IONITY has cut the ribbon on a new charging hub at Greenwich Shopping Park in London - the first of several fast-charging hubs planned for the English capital. To promote the launch, the site will offer free charging for 24 hours starting on Friday.",
-   "source": "Electrive (EU ηλεκτροκίνηση)",
-   "side": "green_emobility",
-   "lang": "en",
-   "published": "2026-08-19T12:31:36+00:00",
-   "collected": "2026-08-21T09:01:03.890532+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "This week, IONITY has cut the ribbon on a new charging hub at Greenwich Shopping Park in London - the first of several fast-charging hubs planned for the English capital. To promote the launch, the si",
-   "angle": null,
-   "corroborated_by": [
-    "Guardian Environment"
-   ]
-  },
-  {
-   "id": "9053eb7d4fa98109",
-   "title": "Portugal bans face coverings in public as President signs Chega bill",
-   "link": "https://brusselssignal.eu/2026/08/portugal-bans-face-coverings-in-public-as-president-signs-chega-bill/",
-   "summary_raw": "Portugal has enacted a law banning face coverings in public spaces after President António José Seguro signed a bill initiated by the Chega party, aiming for social integration and security.\n<p><a href=\"https://brusselssignal.eu/2026/08/portugal-bans-face-coverings-in-public-as-president-signs-chega-bill/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-19T12:27:45+00:00",
-   "collected": "2026-08-19T13:12:26.522568+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Portugal has enacted a law banning face coverings in public spaces after President António José Seguro signed a bill initiated by the Chega party, aiming for social integration and security. Source",
-   "angle": null
-  },
-  {
-   "id": "870065a6ce5e5f8c",
-   "title": "καμένο δάσος - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVltSmhMTW5ueS1ZWjhHUzVTSTZMaHZfMWRRTHRpSUxyM2tDc052dTktSVM4am9uUWVGRWFoZVpfNmhIOUVOT2xvNVZXSml0cXJIMm9Id1docDF4X2VsWWhQY05SbS1IZ2xRSFRUcXFlUGZMVmZmR1phREZPSXgxY04wMUgyREVjX0pXY21LTFdRdWFQVnM0?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVltSmhMTW5ueS1ZWjhHUzVTSTZMaHZfMWRRTHRpSUxyM2tDc052dTktSVM4am9uUWVGRWFoZVpfNmhIOUVOT2xvNVZXSml0cXJIMm9Id1docDF4X2VsWWhQY05SbS1IZ2xRSFRUcXFlUGZMVmZmR1phREZPSXgxY04wMUgyREVjX0pXY21LTFdRdWFQVnM0?oc=5\" target=\"_blank\">καμένο δάσος</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-08-19T12:15:31+00:00",
-   "collected": "2026-08-20T14:02:26.636475+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "καμένο δάσος ecopress",
-   "angle": null
-  },
-  {
-   "id": "ca0b965f5a70b610",
-   "title": "U.S. Ambassador to Israel Mike Huckabee:  There are only 16 million Jews in the whole world. Put that in perspective. That’s 0.05% of the world’s population.  So if the Jewish peop…",
-   "link": "https://t.me/ClashReport/92965",
-   "summary_raw": "U.S. Ambassador to Israel Mike Huckabee:  There are only 16 million Jews in the whole world. Put that in perspective. That’s 0.05% of the world’s population.  So if the Jewish people representing a tiny, tiny minority are so good that they are taking over the whole world, the banking system, the entertainment world, the military, science, if they’re doing all of that with that few people, maybe we ought to hand over the keys.  I say that tongue in cheek.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-19T12:14:32+00:00",
-   "collected": "2026-08-19T13:12:32.302666+00:00",
-   "keywords_hit": [
-    "minority"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "U.S. Ambassador to Israel Mike Huckabee: There are only 16 million Jews in the whole world. Put that in perspective. That’s 0.05% of the world’s population. So if the Jewish people representing a tiny",
-   "angle": null,
-   "corroborated_by": [
-    "Middle East Eye"
-   ]
-  },
-  {
-   "id": "e260708ca5602f30",
-   "title": "Υπερθέρμανση: Η «σκοτεινή» πλευρά του καύσωνα – Όταν ούτε η νύχτα αφήνει το σώμα να ανακάμψει",
-   "link": "https://www.in.gr/2026/08/19/in-science/perivallon-b-science/yperthermansi-i-skoteini-pleyra-tou-kaysona-otan-oute-i-nyxta-afinei-to-soma-na-anakampsei/",
-   "summary_raw": "<div><img alt=\"Εικόνα που δείχνει γειτονιά της Θεσσαλονίκης το σούρουπο, κατά τη διάρκεια καύσωνα\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"576\" src=\"https://www.in.gr/wp-content/uploads/2026/08/h0657630-768x576.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Οι έρευνες για την υπερθέρμανση του πλανήτη λόγω κλιματικής αλλαγής δείχνουν ότι οι νύχτες δεν εξασφαλίζουν τις αναγκαίες ανάσες δροσιάς προκειμένου να ανακάμψει ο ανθρώπινος οργανισμός</p>\n<p>The post <a href=\"https://www.in.gr/2026/08/19/in-science/perivallon-b-science/yperthermansi-i-skoteini-pleyra-tou-kaysona-otan-oute-i-nyxta-afinei-to-soma-na-anakampsei/\">Υπερθέρμανση: Η «σκοτεινή» πλευρά του καύσωνα &#8211; Όταν ούτε η νύχτα αφήνει το σώμα να ανακάμψει</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-19T12:10:15+00:00",
-   "collected": "2026-08-19T13:12:22.162735+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Οι έρευνες για την υπερθέρμανση του πλανήτη λόγω κλιματικής αλλαγής δείχνουν ότι οι νύχτες δεν εξασφαλίζουν τις αναγκαίες ανάσες δροσιάς προκειμένου να ανακάμψει ο ανθρώπινος οργανισμός The post Υπερθ",
-   "angle": null
-  },
-  {
-   "id": "b3a28cc7b79251a7",
-   "title": "Η Ελβετία θα ζητήσει από την Ιταλία να δεχθεί επιστροφές αιτούντων άσυλο στα τέλη Αυγούστου",
-   "link": "https://www.tanea.gr/2026/08/19/world/i-elvetia-tha-zitisei-apo-tin-italia-na-dexthei-epistrofes-aitounton-asylo-sta-teli-aygoustou/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/08/CEUTA_WOMEN-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>H Ελβετία ετοιμάζεται να ζητήσει από την Ιταλία να δεχθεί επιστροφές αιτούντων άσυλο oι οποίοι, σύμφωνα με τις σχετικές ευρωπαϊκές συμφωνίες, αποτελούν μέρος των λεγόμενων «δευτερογενών ροών». Η είδηση αναφέρεται σε σημερινό δημοσίευμα της ιταλικής εφημερίδας Corriere della Sera. H Ελβετία δεν είναι μέλος της ΕΕ, αλλά έχει υπογράψει συμφωνία σύνδεσης με το κεκτημένο του [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-19T12:01:51+00:00",
-   "collected": "2026-08-19T13:12:23.112245+00:00",
-   "keywords_hit": [
-    "άσυλο"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "H Ελβετία ετοιμάζεται να ζητήσει από την Ιταλία να δεχθεί επιστροφές αιτούντων άσυλο oι οποίοι, σύμφωνα με τις σχετικές ευρωπαϊκές συμφωνίες, αποτελούν μέρος των λεγόμενων «δευτερογενών ροών». Η είδησ",
-   "angle": null,
-   "corroborated_by": [
-    "Πενταπόσταγμα"
-   ]
-  },
-  {
-   "id": "68a09e786b540b4c",
-   "title": "Ο ΕΦΙΑΛΤΗΣ ΤΩΝ ΤΟΥΡΚΩΝ ΖΩΝΤΑΝΕΥΕΙ! Γαλλικά πολεμικά πλοία θα προστατεύουν το καλώδιο Ελλάδας-Κύπρου",
-   "link": "https://www.pentapostagma.gr/videos/7385849_o-efialtis-ton-toyrkon-zontaneyei-gallika-polemika-ploia-tha-prostateyoyn-kalodio",
-   "summary_raw": "Γαλλικά πολεμικά πλοία θα συνοδεύουν το ερευνητικό σκάφος για την ηλεκτρική διασύνδεση Ελλάδας με Κύπρο Το...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-19T12:00:12+00:00",
-   "collected": "2026-08-19T13:11:57.603333+00:00",
-   "keywords_hit": [
-    "διασύνδεση"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Γαλλικά πολεμικά πλοία θα συνοδεύουν το ερευνητικό σκάφος για την ηλεκτρική διασύνδεση Ελλάδας με Κύπρο Το...",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "3f90de597bf5f244",
-   "title": "Electricity Coordination Group discusses extreme weather impacts on electricity security of supply in Central Europe and South-East Europe - energy.ec.europa.eu",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaVY3SVp0dnY3MnBwekJjRjVZNG9FeWVvcnhhNEZONE5QYXNOQWpCLVlRMk9Od0VXbk1SaEhrMmFFclhuWi1uZHJjcEE2blh6SndaWWJGX2tiem9DMU0yTWc5N3l3Y0wza1ZpalBaOFJ1M1VjRHVyc1Jha1UxVzRUWnlJLXl1V3htY2lLc0I2YmNNaGdSbmFpcU9LdHpyODVvdGEzS0Rub19SOGpFUFhTZXRQUkVrSlNaSkd4YkljSXlnYWNXeE5nVUliYkRYS0tUNkdCYXdXc0E3cUt3c2tjdw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaVY3SVp0dnY3MnBwekJjRjVZNG9FeWVvcnhhNEZONE5QYXNOQWpCLVlRMk9Od0VXbk1SaEhrMmFFclhuWi1uZHJjcEE2blh6SndaWWJGX2tiem9DMU0yTWc5N3l3Y0wza1ZpalBaOFJ1M1VjRHVyc1Jha1UxVzRUWnlJLXl1V3htY2lLc0I2YmNNaGdSbmFpcU9LdHpyODVvdGEzS0Rub19SOGpFUFhTZXRQUkVrSlNaSkd4YkljSXlnYWNXeE5nVUliYkRYS0tUNkdCYXdXc0E3cUt3c2tjdw?oc=5\" target=\"_blank\">Electricity Coordination Group discusses extreme weather impacts on electricity security of supply in Central Europe and South-East Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.ec.europa.eu</font>",
-   "source": "EU Energy (Κομισιόν)",
-   "side": "green_org",
-   "lang": "en",
-   "published": "2026-08-19T12:00:00+00:00",
-   "collected": "2026-08-22T21:39:28.813560+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Electricity Coordination Group discusses extreme weather impacts on electricity security of supply in Central Europe and South-East Europe energy.ec.europa.eu",
-   "angle": null
-  },
-  {
-   "id": "415f7197780702f9",
-   "title": "Former Israeli PM Naftali Bennett on Iran:  We need to make sure that the Iranian regime falls before it obtains nuclear weapons.  Therefore, with one hand, we will prevent Iran fr…",
-   "link": "https://t.me/ClashReport/92960",
-   "summary_raw": "Former Israeli PM Naftali Bennett on Iran:  We need to make sure that the Iranian regime falls before it obtains nuclear weapons.  Therefore, with one hand, we will prevent Iran from breaking out to a nuclear weapon.  With the other hand, we will act to accelerate the collapse of the ayatollah regime using all the tools at our disposal.  Not only bombs—mainly not bombs.  The Soviets fell without a bomb being dropped on Moscow. America never bombed Moscow.  But it put pressure on the system. And understand this: the Iranian regime is rotten and hollow from within. It will collapse. Our job is to accelerate it.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-19T11:54:43+00:00",
-   "collected": "2026-08-19T13:12:32.301673+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Former Israeli PM Naftali Bennett on Iran: We need to make sure that the Iranian regime falls before it obtains nuclear weapons. Therefore, with one hand, we will prevent Iran from breaking out to a n",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @me_observer_TG"
-   ]
-  },
-  {
-   "id": "91d513074deacf8e",
-   "title": "After Jason Arday, we must defend press freedom from the woke ‘lynch mob’",
-   "link": "https://www.spiked-online.com/2026/08/19/after-jason-arday-we-must-defend-press-freedom-from-the-woke-lynch-mob/",
-   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/08/19/after-jason-arday-we-must-defend-press-freedom-from-the-woke-lynch-mob/\">After Jason Arday, we must defend press freedom from the woke ‘lynch mob’</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
-   "source": "Spiked",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-08-19T11:52:01+00:00",
-   "collected": "2026-08-19T15:49:02.777911+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "The post After Jason Arday, we must defend press freedom from the woke ‘lynch mob’ appeared first on spiked .",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "18fd24716e0a63d5",
-   "title": "Παπασταύρου: Ενιαίοι και αυστηροί κανόνες χωροθέτησης φωτοβολταϊκών και αιολικών πάρκων - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGNaTjU0NDM1VkNrY2NYTzRMVzJ6M3RGa1d3djZ1TmxMZDZ1Yy1JYlJYVG9obGVxV2VhVmg5WnF5UU8wZW5wTFdnS3E0TnlVYlVVbmZaQlBkRzFsTkFmTmljYVBmVXppTmhOVmZqTmUxZkF1QVhpUFVxc19kT3dwVGdGUjYxTHFUN2pZN09zY2MxbHFm0gGaAUFVX3lxTE9PM25SMVRsX0pTXzAtZDE5U2pOTklnRUVWX0xjMVJQR2xSN3IweDdCZHFwSWlZTUlJVFB6Zkg2cjdHVUZucVdieEpteGM4dVAxOEJ1Y2Rwa1M3RGxyQlRzLVNNYklTNE1nN1BBOWluT3gySVl2aThzRWlQWml0YWlmajVzRkw5ZGxhelBULThZaXg4cFlXTldfZnc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGNaTjU0NDM1VkNrY2NYTzRMVzJ6M3RGa1d3djZ1TmxMZDZ1Yy1JYlJYVG9obGVxV2VhVmg5WnF5UU8wZW5wTFdnS3E0TnlVYlVVbmZaQlBkRzFsTkFmTmljYVBmVXppTmhOVmZqTmUxZkF1QVhpUFVxc19kT3dwVGdGUjYxTHFUN2pZN09zY2MxbHFm0gGaAUFVX3lxTE9PM25SMVRsX0pTXzAtZDE5U2pOTklnRUVWX0xjMVJQR2xSN3IweDdCZHFwSWlZTUlJVFB6Zkg2cjdHVUZucVdieEpteGM4dVAxOEJ1Y2Rwa1M3RGxyQlRzLVNNYklTNE1nN1BBOWluT3gySVl2aThzRWlQWml0YWlmajVzRkw5ZGxhelBULThZaXg4cFlXTldfZnc?oc=5\" target=\"_blank\">Παπασταύρου: Ενιαίοι και αυστηροί κανόνες χωροθέτησης φωτοβολταϊκών και αιολικών πάρκων</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-19T11:50:33+00:00",
-   "collected": "2026-08-19T21:43:57.136232+00:00",
-   "keywords_hit": [
-    "φωτοβολταϊκ",
-    "αιολικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Παπασταύρου: Ενιαίοι και αυστηροί κανόνες χωροθέτησης φωτοβολταϊκών και αιολικών πάρκων iefimerida.gr",
    "angle": null
   }
  ]
