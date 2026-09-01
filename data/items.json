@@ -1,7 +1,902 @@
 {
- "updated": "2026-09-01T05:17:16.079696+00:00",
- "count": 1455,
+ "updated": "2026-09-01T10:12:28.915650+00:00",
+ "count": 1440,
  "items": [
+  {
+   "id": "7103e5abe52fbc6c",
+   "title": "Yunanistan’da aşırı sağın dönüş tartışması: Kasidiaris siyasete geri dönmeye hazırlanıyor",
+   "link": "https://www.milletgazetesi.gr/yunanistan/yunanistanda-asiri-sagin-donus-tartismasi-kasidiaris-siyasete-geri-donmeye-hazirlaniyor",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Yunanistan)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-09-01T10:11:30.149769+00:00",
+   "collected": "2026-09-01T10:11:30.149771+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null
+  },
+  {
+   "id": "1de65e958129a0cd",
+   "title": "Turkish President Erdogan:  The Mecca Defense Alliance that we have established with Saudi Arabia and Pakistan will make significant contributions to regional and global peace and …",
+   "link": "https://t.me/ClashReport/94443",
+   "summary_raw": "Turkish President Erdogan:  The Mecca Defense Alliance that we have established with Saudi Arabia and Pakistan will make significant contributions to regional and global peace and stability based on regional ownership and collective deterrence.  When talking about peace, we must not forget Gaza, where 74 thousand people, including children and women, have lost their lives due to Israel's attacks, and Lebanon.  The entire region is paying the price for this aggressive policy.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-09-01T10:09:37+00:00",
+   "collected": "2026-09-01T10:11:23.640025+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 5,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Erdogan: The Mecca Defense Alliance that we have established with Saudi Arabia and Pakistan will make significant contributions to regional and global peace and stability based on re",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613"
+   ]
+  },
+  {
+   "id": "489d0b8e39319302",
+   "title": "Death toll in Kyrenia shipwreck disputed as survivor says two bodies not on official list",
+   "link": "https://en.philenews.com/local/kyrenia-shipwreck-death-toll-disputed-survivor-claims/",
+   "summary_raw": "Turkish Cypriot media reported on Tuesday that the official death toll from the shipwreck in the occupied areas may be in question, with suggestions that some victims may not have been registered on the passenger list. Ozgur Gazete published statements from a man who had been aboard the doomed vessel, who said he pulled two [&#8230;]",
+   "source": "in-cyprus (Philenews)",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-09-01T09:58:59+00:00",
+   "collected": "2026-09-01T10:10:35.200380+00:00",
+   "keywords_hit": [
+    "shipwreck"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Turkish Cypriot media reported on Tuesday that the official death toll from the shipwreck in the occupied areas may be in question, with suggestions that some victims may not have been registered on t",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κερύνεια",
+     "lat": 35.34,
+     "lon": 33.32
+    }
+   ]
+  },
+  {
+   "id": "cf7302bff055eb21",
+   "title": "Υπουργείο Μετανάστευσης και Ασύλου: «Απολύτως παραπλανητικό» το βίντεο για δήθεν ασυνόδευτους ανηλίκους",
+   "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/ypourgeio-metanasteysis-kai-asylou-apolytos-paraplanitiko-to-vinteo-gia-dithen-asynodeytous-anilikous/",
+   "summary_raw": "<img alt=\"ΚΕΝΤΡΟ ΕΛΕΓΧΟΥ ΣΥΜΒΑΝΤΩΝ ΤΟΥ ΥΠ. ΜΕΤΑΝΑΣΤΕΥΣΗΣ ΚΑΙ ΑΣΥΛΟΥ  (ΓΙΑΝΝΗΣ ΠΑΝΑΓΟΠΟΥΛΟΣ/EUROKINISSI)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"472\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/09/5687807-scaled-e1748491804929-768x472-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>Ως «απολύτως παραπλανητικό» χαρακτηρίζει το υπουργείο Μετανάστευσης και Ασύλου το βίντεο που κυκλοφορεί και εμφανίζει, σύμφωνα με το ίδιο, δήθεν ασυνόδευτους αλλοδαπούς ανηλίκους. Όπως διευκρινίζει το υπουργείο, το βίντεο σε καμία περίπτωση δεν αφορά δομή του υπουργείου Μετανάστευσης και Ασύλου ούτε δομή φιλοξενίας ασυνόδευτων ανηλίκων, καθώς οι συγκεκριμένες δομές ελέγχονται αποκλειστικά από το υπουργείο. Σύμφωνα ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ellada/politiki/ypourgeio-metanasteysis-kai-asylou-apolytos-paraplanitiko-to-vinteo-gia-dithen-asynodeytous-anilikous/\" title=\"Υπουργείο Μετανάστευσης και Ασύλου: «Απολύτως παραπλανητικό» το βίντεο για δήθεν ασυνόδευτους ανηλίκους\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-09-01T09:56:26+00:00",
+   "collected": "2026-09-01T10:10:26.950358+00:00",
+   "keywords_hit": [
+    "μεταναστ",
+    "ασυνόδευτ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ως «απολύτως παραπλανητικό» χαρακτηρίζει το υπουργείο Μετανάστευσης και Ασύλου το βίντεο που κυκλοφορεί και εμφανίζει, σύμφωνα με το ίδιο, δήθεν ασυνόδευτους αλλοδαπούς ανηλίκους. Όπως διευκρινίζει το",
+   "angle": null
+  },
+  {
+   "id": "41ba0b4ba9dfc1b9",
+   "title": "Angry relatives clash with police at Kyrenia port as Erhurman visits shipwreck site",
+   "link": "https://en.philenews.com/local/kyrenia-port-clashes-erhurman-shipwreck-relatives/",
+   "summary_raw": "Angry relatives of victims from the shipwreck off Kyrenia clashed with &#8220;police&#8221; at the occupied city&#8217;s port on Tuesday morning, as Turkish Cypriot leader Tufan Erhurman and Turkey&#8217;s &#8220;ambassador&#8221; arrived at the scene. Video footage published by Kibris Postasi shows the reaction of outraged relatives as Erhurman and the Turkish &#8220;ambassador&#8221; arrived to be briefed [&#8230;]",
+   "source": "in-cyprus (Philenews)",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-09-01T09:54:36+00:00",
+   "collected": "2026-09-01T10:10:35.200569+00:00",
+   "keywords_hit": [
+    "shipwreck"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Angry relatives of victims from the shipwreck off Kyrenia clashed with “police” at the occupied city’s port on Tuesday morning, as Turkish Cypriot leader Tufan Erhurman and Turkey’s “ambassador” arriv",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κερύνεια",
+     "lat": 35.34,
+     "lon": 33.32
+    }
+   ]
+  },
+  {
+   "id": "66f3ae30efa9fa2c",
+   "title": "KILIÇ ve TUFAN’da seri üretim",
+   "link": "https://www.defenceturk.net/kilic-ve-tufanda-seri-uretim",
+   "summary_raw": "<p>İlk defa SAHA 2026 Fuarı&#8217;nda tanıtılan KILIÇ ve TUFAN insansız deniz araçlarının seri üretiminin başladığı belirtildi. ASELSAN, 20-23 Ağustos tarihleri arasında Gölcük Tersanesi Komutanlığında düzenlenen TEKNOFEST Mavi Vatan&#8217;da insansız deniz araçlarının yeteneklerini geniş bir yelpazede sergiledi. Dört günlük etkinlik boyunca birçok deniz sistemini suya indiren şirket; ziyaretçilere su üstünde, su altında ve havada çalışan teknolojileri [&#8230;]</p>\n<p>The post <a href=\"https://www.defenceturk.net/kilic-ve-tufanda-seri-uretim\">KILIÇ ve TUFAN&#8217;da seri üretim</a> appeared first on <a href=\"https://www.defenceturk.net\">DefenceTurk</a>.</p>",
+   "source": "DefenceTurk",
+   "side": "turkish_defense",
+   "lang": "tr",
+   "published": "2026-09-01T09:45:28+00:00",
+   "collected": "2026-09-01T10:10:47.340470+00:00",
+   "keywords_hit": [
+    "mavi vatan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "İlk defa SAHA 2026 Fuarı’nda tanıtılan KILIÇ ve TUFAN insansız deniz araçlarının seri üretiminin başladığı belirtildi. ASELSAN, 20-23 Ağustos tarihleri arasında Gölcük Tersanesi Komutanlığında düzenle",
+   "angle": null
+  },
+  {
+   "id": "4a532248e9b498b2",
+   "title": "Putin Erdogan Lukashenko at SCO Summit",
+   "link": "https://www.osint613.com/post/putin-erdogan-lukashenko-sco-summit-kyrgyzstan-21725",
+   "summary_raw": "Putin, Erdogan and Lukashenko at the SCO Summit in Kyrgyzstan.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-09-01T09:45:02+00:00",
+   "collected": "2026-09-01T10:11:22.156332+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Putin, Erdogan and Lukashenko at the SCO Summit in Kyrgyzstan.",
+   "angle": null,
+   "corroborated_by": [
+    "Brussels Signal",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "f7aefdf8a94b485b",
+   "title": "Ένταση και συμπλοκές στο λιμάνι της Κερύνειας – Οργισμένοι συγγενείς των θυμάτων αποδοκίμασαν Έρχιουρμαν και Τούρκο «πρέσβη» (βίντεο)",
+   "link": "https://www.philenews.com/kipros/koinonia/article/1765145/entasi-ke-simplokes-sto-limani-tis-kerinias-orgismeni-i-singenis-ton-thimaton-apodokimasan-erchiourman-ke-tourko-presvi-vinteo/",
+   "summary_raw": "<p>Ξεχείλισε το ποτήρι της οργής για τους συγγενείς και τους οικείους των θυμάτων από το ναυάγιο στα ανοικτά της Κερύνειας. Στο λιμάνι της κατεχόμενης πόλης καταγράφηκαν σήμερα το πρωί στιγμές έντασης, όταν το σημείο προσέγγισαν ο Τουρκοκύπριος ηγέτης και ο λεγόμενος «πρέσβης» της Τουρκίας στα κατεχόμενα. Βίντεο που δημοσιεύθηκαν από την Kibris Postasi, δείχνουν την [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kipros/koinonia/article/1765145/entasi-ke-simplokes-sto-limani-tis-kerinias-orgismeni-i-singenis-ton-thimaton-apodokimasan-erchiourman-ke-tourko-presvi-vinteo/\">Ένταση και συμπλοκές στο λιμάνι της Κερύνειας &#8211; Οργισμένοι συγγενείς των θυμάτων αποδοκίμασαν Έρχιουρμαν και Τούρκο «πρέσβη» (βίντεο)</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-09-01T09:44:15+00:00",
+   "collected": "2026-09-01T10:10:47.641196+00:00",
+   "keywords_hit": [
+    "ναυάγι"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ξεχείλισε το ποτήρι της οργής για τους συγγενείς και τους οικείους των θυμάτων από το ναυάγιο στα ανοικτά της Κερύνειας. Στο λιμάνι της κατεχόμενης πόλης καταγράφηκαν σήμερα το πρωί στιγμές έντασης, ό",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κερύνεια",
+     "lat": 35.34,
+     "lon": 33.32
+    }
+   ]
+  },
+  {
+   "id": "fb6a60a3102a9db7",
+   "title": "The tragedy of the shipwreck, and the shipwreck of politics",
+   "link": "https://en.philenews.com/opinion/the-tragedy-of-the-shipwreck-and-the-shipwreck-of-politics/",
+   "summary_raw": "When tragedy strikes, politics needs to get out of the way. Managing the crisis comes first. What unfolded in the waters off occupied Kyrenia has shocked the country. Dead and missing from the shipwreck. What matters, in moments like this, is finding the missing. The human element. The humanity. From the moment the shipwreck became [&#8230;]",
+   "source": "in-cyprus (Philenews)",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-09-01T09:42:58+00:00",
+   "collected": "2026-09-01T10:10:35.200890+00:00",
+   "keywords_hit": [
+    "shipwreck"
+   ],
+   "category": "Κυπριακό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "When tragedy strikes, politics needs to get out of the way. Managing the crisis comes first. What unfolded in the waters off occupied Kyrenia has shocked the country. Dead and missing from the shipwre",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κερύνεια",
+     "lat": 35.34,
+     "lon": 33.32
+    }
+   ]
+  },
+  {
+   "id": "6cb4d52dfe97c5f6",
+   "title": "Ισπανία: Ρεκόρ θανάτων από τη ζέστη το καλοκαίρι – Πάνω από 5.000 νεκροί σε τρεις μήνες",
+   "link": "https://www.tanea.gr/2026/09/01/world/ispania-rekor-thanaton-apo-ti-zesti-to-kalokairi-pano-apo-5-000-nekroi-se-treis-mines/",
+   "summary_raw": "<div><img alt=\"spain-heatwave\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/09/2023-07-27T133348Z_527715690_RC2D62AL4ZG3_RTRMADP_5_CLIMATE-CHANGE-JULY-RECORD-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Οι θάνατοι από ζέστη στην Ισπανία ξεπέρασαν κάθε προηγούμενο, με περισσότερους από 5.000 καταγεγραμμένους το διάστημα από 1η Ιουνίου έως 31η Αυγούστου, σύμφωνα με στοιχεία του Ινστιτούτου Υγείας Κάρολος Γ&#8217;. Το ρεκόρ αυτό καταγράφεται από το 2015, όταν ξεκίνησε η συστηματική συλλογή των σχετικών δεδομένων. Συγκεκριμένα, το δημόσιο ινστιτούτο με έδρα τη Μαδρίτη απέδωσε στη [&#8230;]",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-01T09:39:20+00:00",
+   "collected": "2026-09-01T10:11:15.213672+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Οι θάνατοι από ζέστη στην Ισπανία ξεπέρασαν κάθε προηγούμενο, με περισσότερους από 5.000 καταγεγραμμένους το διάστημα από 1η Ιουνίου έως 31η Αυγούστου, σύμφωνα με στοιχεία του Ινστιτούτου Υγείας Κάρολ",
+   "angle": null
+  },
+  {
+   "id": "f46bac95fe832a7d",
+   "title": "📸 Turkish President Erdogan met with Putin and Lukashenko at the SCO Summit in Kyrgyzstan.",
+   "link": "https://t.me/ClashReport/94442",
+   "summary_raw": "📸 Turkish President Erdogan met with Putin and Lukashenko at the SCO Summit in Kyrgyzstan.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-09-01T09:38:20+00:00",
+   "collected": "2026-09-01T10:11:23.639826+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "📸 Turkish President Erdogan met with Putin and Lukashenko at the SCO Summit in Kyrgyzstan.",
+   "angle": null,
+   "corroborated_by": [
+    "Brussels Signal",
+    "OSINT613"
+   ]
+  },
+  {
+   "id": "d0dcd09ac8fc9cd2",
+   "title": "BYD to bring its kei car technology to Europe",
+   "link": "https://www.electrive.com/2026/09/01/byd-to-bring-its-kei-car-technology-to-europe/",
+   "summary_raw": "<div><img alt=\"Byd racco kei car mit x pack\" class=\"attachment-medium size-medium wp-post-image\" height=\"267\" src=\"https://www.electrive.com/media/2026/09/byd-racco-kei-car-mit-x-pack-2026-400x267.jpeg\" style=\"margin-bottom: 15px;\" title=\"byd racco kei car mit x pack 2026\" width=\"400\" /></div>Chinese manufacturer BYD is reportedly planning to develop an electric micro car for Europe and other markets based on its Racco kei car, which has so far only been available in Japan. This will include the use of the X-Pack, a novel battery pack with an inverter.",
+   "source": "Electrive (EU ηλεκτροκίνηση)",
+   "side": "green_emobility",
+   "lang": "en",
+   "published": "2026-09-01T09:30:00+00:00",
+   "collected": "2026-09-01T10:10:59.917143+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Chinese manufacturer BYD is reportedly planning to develop an electric micro car for Europe and other markets based on its Racco kei car, which has so far only been available in Japan. This will inclu",
+   "angle": null
+  },
+  {
+   "id": "62a048e68dc56978",
+   "title": "Cyprus-US relations at “highest level” ever, Presidency says",
+   "link": "https://en.philenews.com/politics/cyprus-us-relations-highest-level-presidency-investment/",
+   "summary_raw": "&#8220;Cyprus-US relations are today at their highest level ever,&#8221; the Presidency of the Republic said in a post on X, adding that cooperation between the two countries continues to broaden. The Presidency pointed to the launch of the Cyprus-US Strategic Dialogue and President Nikos Christodoulides&#8217;s visit to the White House, the first by a Cypriot [&#8230;]",
+   "source": "in-cyprus (Philenews)",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-09-01T09:29:21+00:00",
+   "collected": "2026-09-01T10:10:35.201253+00:00",
+   "keywords_hit": [
+    "christodoulides"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "“Cyprus-US relations are today at their highest level ever,” the Presidency of the Republic said in a post on X, adding that cooperation between the two countries continues to broaden. The Presidency ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "b77ec8fbbe8f5f6e",
+   "title": "Γαύδος: Οι λιμενικοί «τρέχουν και δεν φτάνουν» – Στο «κόκκινο» μετά τη νέα άφιξη 113 μεταναστών - Βίντεο και εικόνες - NeaKriti",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVQ3bGxTWk9oOF9FSm5RMlk3d2RONkYxVi1acVlCeW1MVFRkMzAyN183bmlYNHFfcTVRcnFEaGR6Mk1VZFh0bFlLblNqdVEwaUFJN1ZIRjZtN05JNnlBaWdvbXk2enRQOEc5MDhITHNaMzc4aFhWU1BhNEdUaWg1azRKNFludk0zbHpkLWwzYllsQWUtZ3NtcUFCVEZWRlpEcWswV09YM2dqVko4NlpvMXRGUnNzV1FOVEJNdUZ30gHDAUFVX3lxTFBvakxLeGp0Z3ZrVkJFNnJLUmNIUWxhdDhLRWZqVVE1Q1hyUGlZNjFLSUxfdnJUdlRscnBIam53bWFpUXVpMm13bGo1d2oxX2ZNNjJHNEZ5Q1Q4VTRVd0dBLUFPR2pRMDhlXzFuQTlsSk4xWWR3d3R5eG9TZWNiUmR1VmIwRnpnTzZxYzdfRXd6Q2ZndEM0ald6cEtmbkJydVRjU1NyOXdGVnhjMzVqMzZlVF8xSktBakh2QmcyQXVfYXJpaw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVQ3bGxTWk9oOF9FSm5RMlk3d2RONkYxVi1acVlCeW1MVFRkMzAyN183bmlYNHFfcTVRcnFEaGR6Mk1VZFh0bFlLblNqdVEwaUFJN1ZIRjZtN05JNnlBaWdvbXk2enRQOEc5MDhITHNaMzc4aFhWU1BhNEdUaWg1azRKNFludk0zbHpkLWwzYllsQWUtZ3NtcUFCVEZWRlpEcWswV09YM2dqVko4NlpvMXRGUnNzV1FOVEJNdUZ30gHDAUFVX3lxTFBvakxLeGp0Z3ZrVkJFNnJLUmNIUWxhdDhLRWZqVVE1Q1hyUGlZNjFLSUxfdnJUdlRscnBIam53bWFpUXVpMm13bGo1d2oxX2ZNNjJHNEZ5Q1Q4VTRVd0dBLUFPR2pRMDhlXzFuQTlsSk4xWWR3d3R5eG9TZWNiUmR1VmIwRnpnTzZxYzdfRXd6Q2ZndEM0ald6cEtmbkJydVRjU1NyOXdGVnhjMzVqMzZlVF8xSktBakh2QmcyQXVfYXJpaw?oc=5\" target=\"_blank\">Γαύδος: Οι λιμενικοί «τρέχουν και δεν φτάνουν» – Στο «κόκκινο» μετά τη νέα άφιξη 113 μεταναστών - Βίντεο και εικόνες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NeaKriti</font>",
+   "source": "Nea Kriti",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-09-01T09:16:10+00:00",
+   "collected": "2026-09-01T10:11:09.034195+00:00",
+   "keywords_hit": [
+    "μεταναστ",
+    "γαύδος",
+    "λιμενικ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Γαύδος: Οι λιμενικοί «τρέχουν και δεν φτάνουν» – Στο «κόκκινο» μετά τη νέα άφιξη 113 μεταναστών - Βίντεο και εικόνες NeaKriti",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Γαύδος",
+     "lat": 34.83,
+     "lon": 24.1
+    }
+   ]
+  },
+  {
+   "id": "fc83853206b91e5b",
+   "title": "Austrian Chancellor Stocker calls for constitutional ban on ‘political Islam’",
+   "link": "https://brusselssignal.eu/2026/09/austrian-chancellor-stocker-calls-for-constitutional-ban-on-political-islam/",
+   "summary_raw": "Austrian Chancellor Christian Stocker is advocating for a constitutional ban on 'political Islam', citing its incompatibility with democracy and Western values.\n<p><a href=\"https://brusselssignal.eu/2026/09/austrian-chancellor-stocker-calls-for-constitutional-ban-on-political-islam/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-01T09:11:03+00:00",
+   "collected": "2026-09-01T10:11:18.722364+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Austrian Chancellor Christian Stocker is advocating for a constitutional ban on 'political Islam', citing its incompatibility with democracy and Western values. Source",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "35e4b16d18cb1605",
+   "title": "«Γλίστρησε από τα χέρια μου»: Συγκλονίζει η μαρτυρία μητέρας που έχασε τα δύο παιδιά της στο ναυάγιο της Κερύνειας",
+   "link": "https://www.zarpanews.gr/glistrise-apo-ta-cheria-moy-sygklonizei-i-martyria-miteras-poy-echase-ta-dyo-paidia-tis-sto-nayagio-tis-keryneias/",
+   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"359\" src=\"https://www.zarpanews.gr/wp-content/uploads/2026/09/kyrenia_maketa-768x431.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"640\" /><p>Δύο από τα τρία παιδιά μου χάθηκαν, προσθέτει ο πατέρας της οικογένειας που ξεκληρίστηκε στο ναυάγιο Συγκλονιστικές είναι οι μαρτυρίες που έρχονται στο φως της δημοσιότητας μετά το πολύνεκρο ναυάγιο επιβατηγού φέρι στα ανοικτά της Κερύνειας, όπου οκτώ άνθρωποι έχασαν τη ζωή τους και δεκάδες εξακολουθούν να αγνοούνται. Ανάμεσα στους αγνοούμενους βρίσκονται δύο παιδιά μιας [&#8230;]</p>\n<p>The post <a href=\"https://www.zarpanews.gr/glistrise-apo-ta-cheria-moy-sygklonizei-i-martyria-miteras-poy-echase-ta-dyo-paidia-tis-sto-nayagio-tis-keryneias/\">«Γλίστρησε από τα χέρια μου»: Συγκλονίζει η μαρτυρία μητέρας που έχασε τα δύο παιδιά της στο ναυάγιο της Κερύνειας</a> appeared first on <a href=\"https://www.zarpanews.gr\">zarpanews.gr</a>.</p>",
+   "source": "Zarpanews (Χανιά)",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-09-01T09:01:13+00:00",
+   "collected": "2026-09-01T10:11:10.593316+00:00",
+   "keywords_hit": [
+    "ναυάγι"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Δύο από τα τρία παιδιά μου χάθηκαν, προσθέτει ο πατέρας της οικογένειας που ξεκληρίστηκε στο ναυάγιο Συγκλονιστικές είναι οι μαρτυρίες που έρχονται στο φως της δημοσιότητας μετά το πολύνεκρο ναυάγιο ε",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κερύνεια",
+     "lat": 35.34,
+     "lon": 33.32
+    }
+   ]
+  },
+  {
+   "id": "e2325ade202613a4",
+   "title": "Δένδιας για «Ασπίδα του Αχιλλέα»: Η πρώτη ευρωπαϊκή ολιστική προσπάθεια αντιμετώπισης απειλών και προκλήσεων",
+   "link": "https://www.efsyn.gr/politiki/1457931/dendias-gia-aspida-toy-ahillea-i-proti-eyropaiki-olistiki-prospatheia-antimetopisis-apeilon-kai-prokliseon/",
+   "summary_raw": "«Η Ελλάδα δημιουργεί σε ευρωπαϊκό έδαφος παραγωγική βάση και δυνατότητα ακριβώς για να αντιμετωπιστούν αυτές οι νέες απειλές».",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-01T09:01:03+00:00",
+   "collected": "2026-09-01T10:11:17.323371+00:00",
+   "keywords_hit": [
+    "δένδιας"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "«Η Ελλάδα δημιουργεί σε ευρωπαϊκό έδαφος παραγωγική βάση και δυνατότητα ακριβώς για να αντιμετωπιστούν αυτές οι νέες απειλές».",
+   "angle": null,
+   "corroborated_by": [
+    "in.gr",
+    "Τα Νέα"
+   ],
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "a7e8500a468b1f97",
+   "title": "Πεζεσκιάν: Στη Σύνοδο της Σανγκάης με Πούτιν, Σι και Ερντογάν – «Θα ανταποκριθούμε εάν οι ΗΠΑ τηρήσουν τις δεσμεύσεις τους»",
+   "link": "https://www.in.gr/2026/09/01/world/pezeskian-sti-synodo-tis-sangkais-me-poutin-si-kai-erntogan-tha-antapokrithoume-ean-oi-ipa-tirisoun-tis-desmeyseis-tous/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"510\" src=\"https://www.in.gr/wp-content/uploads/2026/09/2026-09-01T070635Z_1201748230_RC27ANA3NFQL_RTRMADP_5_SCO-SUMMIT-KYRGYZSTAN-768x510.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Την ετοιμότητα του Ιράν να ανταποκριθεί στις διαπραγματεύσεις, εάν οι ΗΠΑ τηρήσουν τις δεσμεύσεις τους όπως περιγράφονται στο Μνημόνιο Κατανόησης, εξέφρασε ο Πεζεσκιάν στη Σύνοδο της Σανγκάη</p>\n<p>The post <a href=\"https://www.in.gr/2026/09/01/world/pezeskian-sti-synodo-tis-sangkais-me-poutin-si-kai-erntogan-tha-antapokrithoume-ean-oi-ipa-tirisoun-tis-desmeyseis-tous/\">Πεζεσκιάν: Στη Σύνοδο της Σανγκάης με Πούτιν, Σι και Ερντογάν &#8211; «Θα ανταποκριθούμε εάν οι ΗΠΑ τηρήσουν τις δεσμεύσεις τους»</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-01T08:51:46+00:00",
+   "collected": "2026-09-01T10:11:13.991031+00:00",
+   "keywords_hit": [
+    "ερντογάν"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Την ετοιμότητα του Ιράν να ανταποκριθεί στις διαπραγματεύσεις, εάν οι ΗΠΑ τηρήσουν τις δεσμεύσεις τους όπως περιγράφονται στο Μνημόνιο Κατανόησης, εξέφρασε ο Πεζεσκιάν στη Σύνοδο της Σανγκάη The post ",
+   "angle": null,
+   "corroborated_by": [
+    "Καθημερινή"
+   ]
+  },
+  {
+   "id": "1c00fd82a3fb7840",
+   "title": "Ναυάγιο Κερύνειας: Σενάρια για νεκρούς που δεν βρίσκονται στη λίστα – Τι υποστηρίζει επιβαίνοντας στο μοιραίο πλοίο",
+   "link": "https://www.philenews.com/kipros/koinonia/article/1765116/navagio-kerinias-senaria-gia-nekrous-pou-den-vriskonte-sti-lista-ti-ipostirizi-epivenontas-sto-mireo-plio/",
+   "summary_raw": "<p>Σενάρια για περισσότερα θύματα από το ναυάγιο στα κατεχόμενα, με ανθρώπους που ενδεχομένως να μην ήταν κατεγραμμένοι στη λίστα των επιβατών, ανέδειξαν σήμερα τουρκοκυπριακά μέσα ενημέρωσης. Η Özgür Gazete δημοσιεύει δηλώσεις ενός από τους επιβαίνοντες στο μοιραίο πλοίο, ο οποίος υποστηρίζει ότι την Κυριακή είχε ανασύρει δύο σορούς προσώπων που τα ονόματα τους δεν περιλαμβάνονται [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kipros/koinonia/article/1765116/navagio-kerinias-senaria-gia-nekrous-pou-den-vriskonte-sti-lista-ti-ipostirizi-epivenontas-sto-mireo-plio/\">Ναυάγιο Κερύνειας: Σενάρια για νεκρούς που δεν βρίσκονται στη λίστα &#8211; Τι υποστηρίζει επιβαίνοντας στο μοιραίο πλοίο</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-09-01T08:50:41+00:00",
+   "collected": "2026-09-01T10:10:47.643469+00:00",
+   "keywords_hit": [
+    "ναυάγι"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Σενάρια για περισσότερα θύματα από το ναυάγιο στα κατεχόμενα, με ανθρώπους που ενδεχομένως να μην ήταν κατεγραμμένοι στη λίστα των επιβατών, ανέδειξαν σήμερα τουρκοκυπριακά μέσα ενημέρωσης. Η Özgür Ga",
+   "angle": null,
+   "corroborated_by": [
+    "Καθημερινή"
+   ],
+   "locations": [
+    {
+     "name": "Κερύνεια",
+     "lat": 35.34,
+     "lon": 33.32
+    }
+   ]
+  },
+  {
+   "id": "8d54ac1e83fd2886",
+   "title": "«Ασπίδα του Αχιλλέα»: Τα συστήματα που συνθέτουν το νέο πολυεπίπεδο δίκτυο αεράμυνας της Ελλάδας",
+   "link": "https://www.tanea.gr/2026/09/01/politics/aspida-tou-axillea-ta-systimata-pou-synthetoun-to-neo-polyepipedo-diktyo-aeramynas-tis-elladas/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"737\" src=\"https://www.tanea.gr/wp-content/uploads/2026/08/aspida-axillea-1024x737.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>«Η θωράκιση των ελληνικών συνόρων με την \"Ασπίδα του Αχιλλέα\" αποτελεί ταυτόχρονα και θωράκιση των εξωτερικών συνόρων της ΕΕ» λέει ο Δένδιας",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-01T08:47:58+00:00",
+   "collected": "2026-09-01T10:11:15.216614+00:00",
+   "keywords_hit": [
+    "δένδιας"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "«Η θωράκιση των ελληνικών συνόρων με την \"Ασπίδα του Αχιλλέα\" αποτελεί ταυτόχρονα και θωράκιση των εξωτερικών συνόρων της ΕΕ» λέει ο Δένδιας",
+   "angle": null,
+   "corroborated_by": [
+    "in.gr",
+    "Εφημερίδα των Συντακτών"
+   ],
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "94c0c6cfaca970e9",
+   "title": "Δένδιας: Η «Ατζέντα 2030» και η «Ασπίδα του Αχιλλέα» είναι η πρώτη ευρωπαϊκή ολιστική προσπάθεια αντιμετώπισης απειλών",
+   "link": "https://www.in.gr/2026/09/01/politics/diplomatia/dendias-i-atzenta-2030-kai-i-aspida-tou-axillea-einai-i-proti-eyropaiki-olistiki-prospatheia-antimetopisis-apeilon/",
+   "summary_raw": "<div><img alt=\"Δένδιας\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"425\" src=\"https://www.in.gr/wp-content/uploads/2026/09/NMTR8803_med.jpg\" style=\"margin-bottom: 15px;\" width=\"640\" /></div>\n<p>Προσερχόμενος στο άτυπο συμβούλιο των υπουργών Άμυνας της ΕΕ, ο Νίκος Δένδιας, μίλησε για τις νέες προκλήσεις για την ευρωπαϊκή ασφάλεια ενώ εξήρε τον ρόλο της «Ασπίδας του Αχιλλέα» στις προσπάθειες αμυντικής οχύρωσης</p>\n<p>The post <a href=\"https://www.in.gr/2026/09/01/politics/diplomatia/dendias-i-atzenta-2030-kai-i-aspida-tou-axillea-einai-i-proti-eyropaiki-olistiki-prospatheia-antimetopisis-apeilon/\">Δένδιας: Η «Ατζέντα 2030» και η «Ασπίδα του Αχιλλέα» είναι η πρώτη ευρωπαϊκή ολιστική προσπάθεια αντιμετώπισης απειλών</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-01T08:27:50+00:00",
+   "collected": "2026-09-01T10:11:13.992342+00:00",
+   "keywords_hit": [
+    "dendias",
+    "δένδιας"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Προσερχόμενος στο άτυπο συμβούλιο των υπουργών Άμυνας της ΕΕ, ο Νίκος Δένδιας, μίλησε για τις νέες προκλήσεις για την ευρωπαϊκή ασφάλεια ενώ εξήρε τον ρόλο της «Ασπίδας του Αχιλλέα» στις προσπάθειες α",
+   "angle": null,
+   "corroborated_by": [
+    "Εφημερίδα των Συντακτών",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "d2adb91166d87907",
+   "title": "Could 4+4 make 1 in Libya? UN-backed agreement looks to unite rival camps",
+   "link": "https://www.aljazeera.com/news/2026/9/1/could-44-make-1-in-libya-un-backed-agreement-looks-to-unite-rival-camps?traffic_source=rss",
+   "summary_raw": "After 15 years of civil war, a new UN-backed &#039;4+4&#039; agreement looks to unite Libya&#039;s rival factions.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-01T08:16:10+00:00",
+   "collected": "2026-09-01T10:10:49.991907+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "After 15 years of civil war, a new UN-backed '4+4' agreement looks to unite Libya's rival factions.",
+   "angle": null
+  },
+  {
+   "id": "a69ed226a1b7f7b0",
+   "title": "Ναυάγιο στην Κερύνεια: Νέες καταγγελίες για ρωγμές στο «Filo Jet» – Στο μικροσκόπιο παλιά επισκευή",
+   "link": "https://www.kathimerini.gr/world/564431044/nayagio-stin-keryneia-nees-kataggelies-gia-rogmes-sto-filo-jet-sto-mikroskopio-palia-episkeyi/",
+   "summary_raw": "«Οι ρωγμές ενδέχεται να είχαν προκληθεί πριν από το δυστύχημα», σημειώνει η Hürriyet, ενώ η Sabah αναφέρει ότι είχε προσαράξει και είχε επισκευαστεί με «μπάλωμα».",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-01T08:02:44+00:00",
+   "collected": "2026-09-01T10:11:13.149796+00:00",
+   "keywords_hit": [
+    "ναυάγι"
+   ],
+   "category": "Κυπριακό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "«Οι ρωγμές ενδέχεται να είχαν προκληθεί πριν από το δυστύχημα», σημειώνει η Hürriyet, ενώ η Sabah αναφέρει ότι είχε προσαράξει και είχε επισκευαστεί με «μπάλωμα».",
+   "angle": null,
+   "corroborated_by": [
+    "Philenews"
+   ],
+   "locations": [
+    {
+     "name": "Κερύνεια",
+     "lat": 35.34,
+     "lon": 33.32
+    }
+   ]
+  },
+  {
+   "id": "8b002c5ff30ada34",
+   "title": "Greek Minister: Israel Alliance Guards Greece Against Türkiye  Greek Health Minister Adonis Georgiadis said in Greek parliament that Greece's alliance with Israel guards against th…",
+   "link": "https://t.me/ClashReport/94439",
+   "summary_raw": "Greek Minister: Israel Alliance Guards Greece Against Türkiye  Greek Health Minister Adonis Georgiadis said in Greek parliament that Greece's alliance with Israel guards against the \"Turkish threat,\" defending a new €3-3.5 billion Israeli-built air defense system signed the same day in Tel Aviv.  READ MORE",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-09-01T07:57:39+00:00",
+   "collected": "2026-09-01T10:11:23.639453+00:00",
+   "keywords_hit": [
+    "greece",
+    "greek"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Greek Minister: Israel Alliance Guards Greece Against Türkiye Greek Health Minister Adonis Georgiadis said in Greek parliament that Greece's alliance with Israel guards against the \"Turkish threat,\" d",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Τελ Αβίβ",
+     "lat": 32.08,
+     "lon": 34.78
+    }
+   ]
+  },
+  {
+   "id": "dee0b621ba7b5ee8",
+   "title": "Politico: Νέες πιέσεις της Ε.Ε. σε Ελλάδα και Ισπανία για να δώσουν Patriot στην Ουκρανία",
+   "link": "https://www.efsyn.gr/kosmos/1457884/politico-sto-epikentro-neon-pieseon-tis-e-e-ellada-kai-ispania-gia-patriot-stin-oykrania/",
+   "summary_raw": "Ο Ουκρανός ΥΠΕΞ πρόκειται να πιέσει τους συμμάχους στην Ιρλανδία αυτή την εβδομάδα να παραδώσουν επειγόντως τα απαραίτητα μέσα αεράμυνας και να καλύψουν ένα χρηματοδοτικό κενό.",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-01T07:51:00+00:00",
+   "collected": "2026-09-01T10:11:17.325121+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ο Ουκρανός ΥΠΕΞ πρόκειται να πιέσει τους συμμάχους στην Ιρλανδία αυτή την εβδομάδα να παραδώσουν επειγόντως τα απαραίτητα μέσα αεράμυνας και να καλύψουν ένα χρηματοδοτικό κενό.",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "3ce30c48d5348f82",
+   "title": "Νέα επιχείρηση διάσωσης μεταναστών ανοιχτά της Γαύδου - NeaKriti",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnV0cWtObUNRck1HZGxXdWJGdmhwVVJrVm1FVHhjcHpyWUx0UFI0Y1NxM3dCcGtIcEw3SG5IZ2ZJN3E4NlVtdU9FSmJXT0RyT2N4QmtDaWJNNGJHTjBPM0hjVEpkVUtTOFRRdXpMQzFSSlE5Z0J2WVNvSF9DLWNIXzFiaW9fZTdObG5OajBMOUV4TEtPZTVTR0lNdnU1d9IBowFBVV95cUxPUE4tNENINWtQWXd1M3RiZFAySktvbGZ0YUo2SDZZeVI2S0NOTGpTRzNCNFF3T3ozdVAyODRBRnd6ZDJQMXZiWkwxS0pJTHQyRWY2b04tUkxlWmpkYVVZLUNDcGJWRzhsQkFZVXhHbDkyOGM4czgxTUdYcHhZSDJ3TzVZUjZPV3lDM3FoUHVoeUVicEpFbTBnSUNzNUR3RlY3OTZ3?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTnV0cWtObUNRck1HZGxXdWJGdmhwVVJrVm1FVHhjcHpyWUx0UFI0Y1NxM3dCcGtIcEw3SG5IZ2ZJN3E4NlVtdU9FSmJXT0RyT2N4QmtDaWJNNGJHTjBPM0hjVEpkVUtTOFRRdXpMQzFSSlE5Z0J2WVNvSF9DLWNIXzFiaW9fZTdObG5OajBMOUV4TEtPZTVTR0lNdnU1d9IBowFBVV95cUxPUE4tNENINWtQWXd1M3RiZFAySktvbGZ0YUo2SDZZeVI2S0NOTGpTRzNCNFF3T3ozdVAyODRBRnd6ZDJQMXZiWkwxS0pJTHQyRWY2b04tUkxlWmpkYVVZLUNDcGJWRzhsQkFZVXhHbDkyOGM4czgxTUdYcHhZSDJ3TzVZUjZPV3lDM3FoUHVoeUVicEpFbTBnSUNzNUR3RlY3OTZ3?oc=5\" target=\"_blank\">Νέα επιχείρηση διάσωσης μεταναστών ανοιχτά της Γαύδου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NeaKriti</font>",
+   "source": "Nea Kriti",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-09-01T07:43:24+00:00",
+   "collected": "2026-09-01T10:11:09.033602+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Νέα επιχείρηση διάσωσης μεταναστών ανοιχτά της Γαύδου NeaKriti",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Γαύδος",
+     "lat": 34.83,
+     "lon": 24.1
+    }
+   ]
+  },
+  {
+   "id": "adecc71544afe5c7",
+   "title": "Ρωσία: Διπλασιάζει τον \"σκιώδη\" στόλο LNG για να αυξήσει τις εξαγωγές - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTlZcjlMY2N0M0g1UUtxQW42TmtBbjI1ZHlxV1JHOGVQckVLWTItdXQ0bVdsX3QybkUxdUIyZGxRT3NnbHNlb0lsa1Bpb3VfSklmWmtENzczUWFFR0tiXzR5UmpfS0VHZ1hvSTVweEhWQnM4VVFyVTZJVTVYc3I4UW4tMkxlY3U5SlRqTEVaMHZqcmhWbkJ4czZB?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTlZcjlMY2N0M0g1UUtxQW42TmtBbjI1ZHlxV1JHOGVQckVLWTItdXQ0bVdsX3QybkUxdUIyZGxRT3NnbHNlb0lsa1Bpb3VfSklmWmtENzczUWFFR0tiXzR5UmpfS0VHZ1hvSTVweEhWQnM4VVFyVTZJVTVYc3I4UW4tMkxlY3U5SlRqTEVaMHZqcmhWbkJ4czZB?oc=5\" target=\"_blank\">Ρωσία: Διπλασιάζει τον \"σκιώδη\" στόλο LNG για να αυξήσει τις εξαγωγές</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-09-01T07:39:23+00:00",
+   "collected": "2026-09-01T10:10:50.488743+00:00",
+   "keywords_hit": [
+    "lng"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ρωσία: Διπλασιάζει τον \"σκιώδη\" στόλο LNG για να αυξήσει τις εξαγωγές Energypress",
+   "angle": null
+  },
+  {
+   "id": "e35c2e4a72dee7bc",
+   "title": "Why China-Egypt cooperation has nothing to do with great-power rivalry",
+   "link": "https://www.middleeasteye.net/opinion/why-china-egypt-cooperation-has-nothing-do-great-power-rivalry",
+   "summary_raw": "<article class=\"opinion default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/opinion/why-china-egypt-cooperation-has-nothing-do-great-power-rivalry\" rel=\"bookmark\">\n<span class=\"field field-title\">Why China-Egypt cooperation has nothing to do with great-power rivalry&nbsp;</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/nelson-wong\" lang=\"lang\" title=\"View user profile.\">Nelson Wong</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-31T16:06:13+01:00\" title=\"31 August 2026 16:06 BST\">Mon, 08/31/2026 - 16:06</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">The zero-sum geopolitical reading, framing Xi's visit as a calculated bid to undermine Washington, overlooks the core economic reality</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"788\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"alt\" height=\"788\" src=\"https://www.middleeasteye.net/sites/def",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-01T07:29:13+00:00",
+   "collected": "2026-09-01T10:10:39.566480+00:00",
+   "keywords_hit": [
+    "climate",
+    "renewable",
+    "solar"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Why China-Egypt cooperation has nothing to do with great-power rivalry Submitted by Nelson Wong on Mon, 08/31/2026 - 16:06 The zero-sum geopolitical reading, framing Xi's visit as a calculated bid to ",
+   "angle": null
+  },
+  {
+   "id": "2d035529001c81bc",
+   "title": "Frontex Rescues 33 Migrants South of Crete",
+   "link": "https://greekcitytimes.com/2026/09/01/frontex-rescues-33-migrants-south-of-crete/",
+   "summary_raw": "<p>A rescue operation brought around 33 migrants to safety after authorities located their boat approximately 10 nautical miles south of Gavdos, off southern Crete. The Joint Rescue Coordination Centre (JRCC) coordinated the operation. According to the Hellenic Coast Guard, a Frontex unmanned aerial vehicle spotted the boat carrying the migrants. A Frontex vessel then reached…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/09/01/frontex-rescues-33-migrants-south-of-crete/\">Frontex Rescues 33 Migrants South of Crete</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-09-01T07:22:10+00:00",
+   "collected": "2026-09-01T10:10:46.417535+00:00",
+   "keywords_hit": [
+    "migrant",
+    "frontex",
+    "gavdos",
+    "coast guard"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A rescue operation brought around 33 migrants to safety after authorities located their boat approximately 10 nautical miles south of Gavdos, off southern Crete. The Joint Rescue Coordination Centre (",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κρήτη",
+     "lat": 35.24,
+     "lon": 24.81
+    },
+    {
+     "name": "Γαύδος",
+     "lat": 34.83,
+     "lon": 24.1
+    }
+   ]
+  },
+  {
+   "id": "bdc60d78b31da73d",
+   "title": "Naval Group και Σουηδία υπογράφουν σύμβαση για τέσσερις φρεγάτες FDI",
+   "link": "https://flight.com.gr/naval-group-and-sweden-sign-contract-for-four-fdi-frigates/?utm_source=rss&utm_medium=rss&utm_campaign=naval-group-and-sweden-sign-contract-for-four-fdi-frigates",
+   "summary_raw": "<p>Στις 31 Αυγούστου 2026, παρουσία του Emmanuel Macron, Προέδρου της Γαλλικής Δημοκρατίας, και του Ulf Kristersson, Πρωθυπουργού της Σουηδίας, ο Mikael Granholm, Γενικός Διευθυντής της FMV (Σουηδική Υπηρεσία Αμυντικού Υλικού), και ο Pierre Éric Pommellet, Πρόεδρος και Διευθύνων Σύμβουλος της Naval Group, υπέγραψαν τη σύμβαση για την προμήθεια τεσσάρων φρεγατών άμυνας και επέμβασης (FDI) για [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/naval-group-and-sweden-sign-contract-for-four-fdi-frigates/\">Naval Group και Σουηδία υπογράφουν σύμβαση για τέσσερις φρεγάτες FDI</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-09-01T07:20:46+00:00",
+   "collected": "2026-09-01T10:10:28.489781+00:00",
+   "keywords_hit": [
+    "fdi"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Στις 31 Αυγούστου 2026, παρουσία του Emmanuel Macron, Προέδρου της Γαλλικής Δημοκρατίας, και του Ulf Kristersson, Πρωθυπουργού της Σουηδίας, ο Mikael Granholm, Γενικός Διευθυντής της FMV (Σουηδική Υπη",
+   "angle": null,
+   "corroborated_by": [
+    "OnAlert"
+   ]
+  },
+  {
+   "id": "73200273e0da775f",
+   "title": "Μόνο χάρη στους μετανάστες αυξήθηκε ο πληθυσμός της Ευρωπαϊκής Ενωσης",
+   "link": "https://www.efsyn.gr/stiles/1457853/mono-hari-stoys-metanastes-ayxithike-o-plithysmos-tis-eyropaikis-enosis/",
+   "summary_raw": "Εξαιτίας της απόπειρας μερικών χιλιάδων μεταναστών να περάσουν στην Ισπανία από τον θύλακα της Θέουτα, ξέσπασε μια υστερία των κυβερνήσεων των κρατών-μελών της Ε.Ε. εναντίον των μεταναστών",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-01T07:17:05+00:00",
+   "collected": "2026-09-01T10:11:17.325666+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Εξαιτίας της απόπειρας μερικών χιλιάδων μεταναστών να περάσουν στην Ισπανία από τον θύλακα της Θέουτα, ξέσπασε μια υστερία των κυβερνήσεων των κρατών-μελών της Ε.Ε. εναντίον των μεταναστών",
+   "angle": null
+  },
+  {
+   "id": "21020c22a0de2f05",
+   "title": "📸 First-ever mid-air refueling of an Egyptian Rafale jet by a Chinese YY-20 tanker at \"Eagles of Civilization 2026\" exercise in Egypt.   First time a Chinese tanker has refueled a …",
+   "link": "https://t.me/ClashReport/94435",
+   "summary_raw": "📸 First-ever mid-air refueling of an Egyptian Rafale jet by a Chinese YY-20 tanker at \"Eagles of Civilization 2026\" exercise in Egypt.   First time a Chinese tanker has refueled a Western-designed fighter.   China deployed J-16s, KJ-500 AEW&C, and electronic warfare aircraft ~6,000 km to Egypt.   Only the second foreign fighter type known to have refueled from a Chinese tanker.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-09-01T06:59:44+00:00",
+   "collected": "2026-09-01T10:11:23.638728+00:00",
+   "keywords_hit": [
+    "rafale"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "📸 First-ever mid-air refueling of an Egyptian Rafale jet by a Chinese YY-20 tanker at \"Eagles of Civilization 2026\" exercise in Egypt. First time a Chinese tanker has refueled a Western-designed fight",
+   "angle": null
+  },
+  {
+   "id": "208df399e4a8b62a",
+   "title": "Portugal’s president enacts faster expulsion of illegal immigrants after Chega abstention",
+   "link": "https://brusselssignal.eu/2026/09/portugals-president-enacts-faster-expulsion-of-illegal-immigrants-after-chega-abstention/",
+   "summary_raw": "Portugal's president has enacted a law to expedite the expulsion of illegal immigrants, increasing detention times and limiting voluntary departure options. This follows a court ruling affirming the law's constitutionality.\n<p><a href=\"https://brusselssignal.eu/2026/09/portugals-president-enacts-faster-expulsion-of-illegal-immigrants-after-chega-abstention/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-01T06:59:39+00:00",
+   "collected": "2026-09-01T10:11:18.722803+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Portugal's president has enacted a law to expedite the expulsion of illegal immigrants, increasing detention times and limiting voluntary departure options. This follows a court ruling affirming the l",
+   "angle": null
+  },
+  {
+   "id": "b526362ec9827a97",
+   "title": "Πεζεσκιάν: Το Ιράν θα ανταποκριθεί, αν οι ΗΠΑ τιμήσουν τις δεσμεύσεις τους",
+   "link": "https://www.kathimerini.gr/world/564430927/pezeskian-to-iran-tha-antapokrithei-an-oi-ipa-timisoyn-tis-desmeyseis-toys/",
+   "summary_raw": "Ο Ιρανός πρόεδρος έκανε τη δήλωση στη σύνοδο  του Οργανισμού Συνεργασίας της Σαγκάης, στο περιθώριο της οποίας πρόκειται να συναντήσει τον Βλαντιμίρ Πούτιν, ο οποίος αναμένεται επίσης να συναντήσει τον Ερντογάν.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-01T06:42:03+00:00",
+   "collected": "2026-09-01T10:11:13.151741+00:00",
+   "keywords_hit": [
+    "ερντογάν"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ο Ιρανός πρόεδρος έκανε τη δήλωση στη σύνοδο του Οργανισμού Συνεργασίας της Σαγκάης, στο περιθώριο της οποίας πρόκειται να συναντήσει τον Βλαντιμίρ Πούτιν, ο οποίος αναμένεται επίσης να συναντήσει τον",
+   "angle": null,
+   "corroborated_by": [
+    "in.gr"
+   ]
+  },
+  {
+   "id": "dad807bddb0d1ddb",
+   "title": "‘The mountains are changing’: What the floods tell us about the future of India’s Himalayas",
+   "link": "https://www.theguardian.com/world/2026/aug/31/this-is-india-what-the-nepal-tibet-floods-tell-us-about-the-future-of-indias-himalayas",
+   "summary_raw": "<p>As families await news of missing loved ones, the disaster is a stark reminder of how the climate crisis is creating a fast-growing threat. Plus, the town considered India’s ‘Jurassic Park’</p><p><strong>• </strong><a href=\"https://www.theguardian.com/world/2026/jul/30/sign-up-for-this-is-india-our-free-weekly-newsletter-on-life-in-the-subcontinent\"><strong>Don’t get This is India delivered to your inbox? Sign up here</strong></a></p><p>It has been hard not to despair while watching the ruinous floods <a href=\"https://www.theguardian.com/world/2026/aug/29/nepal-flood-missing-kathmandu-hospital\">swallow parts of Nepal</a>, and harder, still knowing that the agony compounds each passing day for dozens of Indian families whose members remain unaccounted for.</p><p>Social media is awash with desperate pleas, photos and details of the young and old, men and women, from Mumbai to Kolkata, posted by families searching for traces of life. The <a href=\"https://www.theguardian.com/world/ng-interactive/2026/aug/28/the-flood-took-everything-i-have-survivors-grieve-for-relatives-and-homes-swept-away-in-nepal\">disaster unfolded</a> when a melting glacier slammed into the valley below, unleash",
+   "source": "Guardian Environment",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-09-01T06:30:46+00:00",
+   "collected": "2026-09-01T10:10:58.082572+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "As families await news of missing loved ones, the disaster is a stark reminder of how the climate crisis is creating a fast-growing threat. Plus, the town considered India’s ‘Jurassic Park’ • Don’t ge",
+   "angle": null,
+   "corroborated_by": [
+    "Electrive (EU ηλεκτροκίνηση)"
+   ]
+  },
+  {
+   "id": "da039642966320ef",
+   "title": "Erdoğan: “Turkey Is No Longer the Old Turkey” — Says Zionism is “Genocidal Ideology” and Calls for Muslim Unity",
+   "link": "https://greekcitytimes.com/2026/09/01/erdogan-turkey-zionism/",
+   "summary_raw": "<p>Turkish President Recep Tayyip Erdoğan has declared that Turkey has reached a new level of military deterrence and defense-industry capability, insisting the country “is no longer the old Turkey” and that actors once viewed as threats two or three decades ago no longer match its current stature. In closely related remarks he described Israel’s government…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/09/01/erdogan-turkey-zionism/\">Erdoğan: “Turkey Is No Longer the Old Turkey” — Says Zionism is “Genocidal Ideology” and Calls for Muslim Unity</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-09-01T06:24:21+00:00",
+   "collected": "2026-09-01T10:10:46.418221+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Recep Tayyip Erdoğan has declared that Turkey has reached a new level of military deterrence and defense-industry capability, insisting the country “is no longer the old Turkey” and ",
+   "angle": null
+  },
+  {
+   "id": "c9d16efaa2622119",
+   "title": "Deep-sea team aids search for missing in Cyprus ferry disaster - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVF2Z05jQm14M0lzZnZWUHVCYlRUQnY0aHNia3k3SEhqdTRadXhQTWNfX1JpS1loYkJ2Q1M2S2hkU205NE9jWHBOMGswWWZwSnhrbkV5VVdYcVozWkVUOEF3VW96SGlYMXB5Q2lXN3ljaW4zT01QQXJiV1BsX202U0NHbWZOZi1lMUg0dkg0a2xia0RDX1hSSF9hR2FvUQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRVF2Z05jQm14M0lzZnZWUHVCYlRUQnY0aHNia3k3SEhqdTRadXhQTWNfX1JpS1loYkJ2Q1M2S2hkU205NE9jWHBOMGswWWZwSnhrbkV5VVdYcVozWkVUOEF3VW96SGlYMXB5Q2lXN3ljaW4zT01QQXJiV1BsX202U0NHbWZOZi1lMUg0dkg0a2xia0RDX1hSSF9hR2FvUQ?oc=5\" target=\"_blank\">Deep-sea team aids search for missing in Cyprus ferry disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters World",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-01T06:18:00+00:00",
+   "collected": "2026-09-01T10:10:35.697953+00:00",
+   "keywords_hit": [
+    "cyprus"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Deep-sea team aids search for missing in Cyprus ferry disaster Reuters",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "85306df6be5b6601",
+   "title": "Montenegro Greenlighting Solar Plants Despite Warnings of Biodiversity Damage",
+   "link": "https://balkaninsight.com/2026/09/01/montenegro-greenlighting-solar-plants-despite-warnings-of-biodiversity-damage/bi/",
+   "summary_raw": "A BIRN analysis shows Montenegro’s government and Environmental Protection Agency are waving through solar power projects despite warnings of damage to potential conservation areas and endangered species.",
+   "source": "Balkan Insight",
+   "side": "balkans",
+   "lang": "en",
+   "published": "2026-09-01T05:47:36+00:00",
+   "collected": "2026-09-01T10:10:43.499518+00:00",
+   "keywords_hit": [
+    "solar"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "A BIRN analysis shows Montenegro’s government and Environmental Protection Agency are waving through solar power projects despite warnings of damage to potential conservation areas and endangered spec",
+   "angle": null,
+   "corroborated_by": [
+    "Inside Climate News"
+   ]
+  },
   {
    "id": "64baf43c821031a0",
    "title": "Η Αθήνα ορθώνει νομικό τείχος απέναντι στα τουρκικά «θαλάσσια πάρκα» και βάζει το Καστελλόριζο εκτός διαπραγμάτευσης",
@@ -93,6 +988,23 @@
    ]
   },
   {
+   "id": "a2f3972a95219038",
+   "title": "Europe refuses G20 photo with Russia after US invites Moscow back",
+   "link": "https://brusselssignal.eu/2026/09/europe-refuses-g20-photo-with-russia-after-us-invites-moscow-back/",
+   "summary_raw": "European finance ministers declined to appear in a G20 photo with Russia's finance minister Anton Siluanov, reflecting ongoing tensions regarding the Ukraine conflict.\n<p><a href=\"https://brusselssignal.eu/2026/09/europe-refuses-g20-photo-with-russia-after-us-invites-moscow-back/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-01T05:00:58+00:00",
+   "collected": "2026-09-01T10:11:18.722964+00:00",
+   "keywords_hit": [],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "European finance ministers declined to appear in a G20 photo with Russia's finance minister Anton Siluanov, reflecting ongoing tensions regarding the Ukraine conflict. Source",
+   "angle": null
+  },
+  {
    "id": "69a00ca09a06dcb5",
    "title": "Η πόρτα που άνοιξε στην έρημο",
    "link": "https://www.philenews.com/apopsis/arthra-apo-f/article/1764810/i-porta-pou-anixe-stin-erimo/",
@@ -109,6 +1021,44 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Όπως μου είπε η εκτελεστική διευθύντρια του «Hope for Children», Άντρια Νεοκλέους, στο πλαίσιο του ρεπορτάζ που δημοσιεύτηκε στην προχθεσινή κυριακάτικη έκδοση του «Φ», κάθε δομή φιλοξενίας του οργανι",
+   "angle": null
+  },
+  {
+   "id": "a87c921cc0a1ffc6",
+   "title": "Αυξήσεις στα πράσινα τιμολόγια φέρνει ο Σεπτέμβριος - Οι αντοχές των παρόχων και η στρατηγική της ΔΕΗ - Νέα παρέμβαση ΥΠΕΝ την Παρασκευή στην Task Force για το φυσικό αέριο - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTlZS1NRMmVwRG41bFU0dWIwTTZwUVJKTnVEYlRKSUIxbzl2UWdDYkVqckQxUFJBNUE2Q3EwUGx5S0tvbVRCS3cyeldGWlR1b0JfTDZGRU9HNWNNS1ZrQWpmTzBlN0Y1cXhrcnpUNWVOWFl1TlhhUS02ZnB4aFl0dy1iZmNDdWRRUmRZVUtMWld2SGxEcmM5Umlvc0ZkRVhQMzJJUmdtaE1MR0l0alliQ0dhN0lzb1AzZGJz?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTlZS1NRMmVwRG41bFU0dWIwTTZwUVJKTnVEYlRKSUIxbzl2UWdDYkVqckQxUFJBNUE2Q3EwUGx5S0tvbVRCS3cyeldGWlR1b0JfTDZGRU9HNWNNS1ZrQWpmTzBlN0Y1cXhrcnpUNWVOWFl1TlhhUS02ZnB4aFl0dy1iZmNDdWRRUmRZVUtMWld2SGxEcmM5Umlvc0ZkRVhQMzJJUmdtaE1MR0l0alliQ0dhN0lzb1AzZGJz?oc=5\" target=\"_blank\">Αυξήσεις στα πράσινα τιμολόγια φέρνει ο Σεπτέμβριος - Οι αντοχές των παρόχων και η στρατηγική της ΔΕΗ - Νέα παρέμβαση ΥΠΕΝ την Παρασκευή στην Task Force για το φυσικό αέριο</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-09-01T04:37:15+00:00",
+   "collected": "2026-09-01T10:10:50.490378+00:00",
+   "keywords_hit": [
+    "φυσικό αέριο"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Αυξήσεις στα πράσινα τιμολόγια φέρνει ο Σεπτέμβριος - Οι αντοχές των παρόχων και η στρατηγική της ΔΕΗ - Νέα παρέμβαση ΥΠΕΝ την Παρασκευή στην Task Force για το φυσικό αέριο Energypress",
+   "angle": null
+  },
+  {
+   "id": "638eb2e2a6c4e8c8",
+   "title": "Wind Europe: Κάτω από τον πήχη του ΕΣΕΚ αναμένεται η συνολική ισχύς αιολικών στη χώρα το 2030 – «Σε πάγο» τα offshore έργα μέχρι το τέλος της δεκαετίας - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTEFlWmpVU2FGbE9QNGFINVZlLVA2TTVYSnFMa2NObVRzMGxkRFVuS2tVMlV0eUgyRml0V3hMUlFRNkdYVXpxeUxlRWhTZmFCRGNVLUVJR3BGck4wTUt3dzNDR1lpSHJjZmNsTmxQeFpreG11RVozS1dBQlJFYjVJdjFCN2d4NmdQX3czOG5fODBmbjZDZEhWbTFqcDg0LWZDYjJfejdtVWlJVHdpWHNxLTN5LV9yc1QydmUtWEM0RG1CcXk0YkF5THRR?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNTEFlWmpVU2FGbE9QNGFINVZlLVA2TTVYSnFMa2NObVRzMGxkRFVuS2tVMlV0eUgyRml0V3hMUlFRNkdYVXpxeUxlRWhTZmFCRGNVLUVJR3BGck4wTUt3dzNDR1lpSHJjZmNsTmxQeFpreG11RVozS1dBQlJFYjVJdjFCN2d4NmdQX3czOG5fODBmbjZDZEhWbTFqcDg0LWZDYjJfejdtVWlJVHdpWHNxLTN5LV9yc1QydmUtWEM0RG1CcXk0YkF5THRR?oc=5\" target=\"_blank\">Wind Europe: Κάτω από τον πήχη του ΕΣΕΚ αναμένεται η συνολική ισχύς αιολικών στη χώρα το 2030 – «Σε πάγο» τα offshore έργα μέχρι το τέλος της δεκαετίας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-09-01T04:30:00+00:00",
+   "collected": "2026-09-01T10:10:50.488095+00:00",
+   "keywords_hit": [
+    "αιολικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Wind Europe: Κάτω από τον πήχη του ΕΣΕΚ αναμένεται η συνολική ισχύς αιολικών στη χώρα το 2030 – «Σε πάγο» τα offshore έργα μέχρι το τέλος της δεκαετίας Energypress",
    "angle": null
   },
   {
@@ -261,6 +1211,23 @@
    ]
   },
   {
+   "id": "d8645616e86a2e4c",
+   "title": "Lithuania’s president says CIA chief’s Moscow visit was aimed at easing tensions",
+   "link": "https://brusselssignal.eu/2026/09/lithuanias-president-says-cia-chiefs-moscow-visit-was-aimed-at-easing-tensions/",
+   "summary_raw": "Lithuania's President Nausėda stated that CIA chief John Ratcliffe's Moscow visit aimed to ease regional tensions and reassured that Lithuania's security situation remains unchanged.\n<p><a href=\"https://brusselssignal.eu/2026/09/lithuanias-president-says-cia-chiefs-moscow-visit-was-aimed-at-easing-tensions/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-01T03:00:04+00:00",
+   "collected": "2026-09-01T10:11:18.723161+00:00",
+   "keywords_hit": [],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Lithuania's President Nausėda stated that CIA chief John Ratcliffe's Moscow visit aimed to ease regional tensions and reassured that Lithuania's security situation remains unchanged. Source",
+   "angle": null
+  },
+  {
    "id": "18e4a3eb496fbb18",
    "title": "Exclusive – Sen. Ron Johnson Says Covid Revealed Scope of Government Corruption: ‘My Eyes Have Been Thrown Wide Open’",
    "link": "https://www.breitbart.com/politics/2026/08/31/sen-ron-johnson-covid-revealed-scope-government-corruption/",
@@ -300,6 +1267,44 @@
    "angle": null
   },
   {
+   "id": "b52e838df5be60e5",
+   "title": "Putin meets Xi and Modi in Kyrgyzstan, first country hit by EU anti-circumvention sanctions",
+   "link": "https://brusselssignal.eu/2026/09/putin-meets-xi-and-modi-in-kyrgyzstan-first-country-hit-by-eu-anti-circumvention-sanctions/",
+   "summary_raw": "Russian President Putin met with Xi Jinping and Modi at the SCO summit in Kyrgyzstan, the first country facing EU anti-circumvention sanctions for aiding Russia's military efforts.\n<p><a href=\"https://brusselssignal.eu/2026/09/putin-meets-xi-and-modi-in-kyrgyzstan-first-country-hit-by-eu-anti-circumvention-sanctions/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-01T02:00:51+00:00",
+   "collected": "2026-09-01T10:11:18.723349+00:00",
+   "keywords_hit": [],
+   "category": "Διπλωματία",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Russian President Putin met with Xi Jinping and Modi at the SCO summit in Kyrgyzstan, the first country facing EU anti-circumvention sanctions for aiding Russia's military efforts. Source",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "7533db50f6da4ac5",
+   "title": "The Arctic rejection: Iceland delivers a humiliating reality check to Brussels",
+   "link": "https://brusselssignal.eu/2026/09/the-arctic-rejection-iceland-delivers-a-humiliating-reality-check-to-brussels/",
+   "summary_raw": "Iceland's recent referendum showed a clear rejection of EU accession, with 52.8% voting against it. The decision highlights the nation's prioritization of sovereignty over EU affiliation.\n<p><a href=\"https://brusselssignal.eu/2026/09/the-arctic-rejection-iceland-delivers-a-humiliating-reality-check-to-brussels/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-01T01:30:25+00:00",
+   "collected": "2026-09-01T10:11:18.723520+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Iceland's recent referendum showed a clear rejection of EU accession, with 52.8% voting against it. The decision highlights the nation's prioritization of sovereignty over EU affiliation. Source",
+   "angle": null
+  },
+  {
    "id": "60901e341a9e70a0",
    "title": "India's Modi Presses Putin to Wrap Up Ukraine Invasion: 'Move Away from Endless War'",
    "link": "https://www.breitbart.com/asia/2026/08/31/india-modi-presses-putin-wrapup-ukraine-invasion-moveaway-endless-war/",
@@ -314,6 +1319,23 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Indian Prime Minister Narendra Modi urged Russian strongman Vladimir Putin to \"move away from endless war\" and find a resolution to his ongoing invasion of Ukraine during a meeting on Monday. The post",
+   "angle": null
+  },
+  {
+   "id": "472582b276b15bd9",
+   "title": "Sánchez turns on the Spanish King over Ceuta hours before meeting him",
+   "link": "https://brusselssignal.eu/2026/09/sanchez-turns-on-the-spanish-king-over-ceuta-hours-before-meeting-him/",
+   "summary_raw": "Prime Minister Pedro Sánchez criticized King Felipe VI for never visiting Ceuta, using the absence to defend his immigration strategy as he prepares for a meeting with the monarch.\n<p><a href=\"https://brusselssignal.eu/2026/09/sanchez-turns-on-the-spanish-king-over-ceuta-hours-before-meeting-him/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-01T01:00:41+00:00",
+   "collected": "2026-09-01T10:11:18.723688+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Prime Minister Pedro Sánchez criticized King Felipe VI for never visiting Ceuta, using the absence to defend his immigration strategy as he prepares for a meeting with the monarch. Source",
    "angle": null
   },
   {
@@ -490,6 +1512,45 @@
    ]
   },
   {
+   "id": "56c0e75d9a6e3e27",
+   "title": "Even After Affirmative Action’s Fall, DEI Thrives at Elite Law Schools",
+   "link": "https://www.dailysignal.com/2026/08/31/even-after-affirmative-actions-fall-dei-thrives-at-elite-law-schools/",
+   "summary_raw": "DEI may be crumbling in the federal government and waning in the public esteem, but it is still going strong in elite educational institutions despite popular and legal headwinds against it. Aaron Sibarium at The Washington Free Beacon dropped a report on Monday about how one prestigious law school journal often made race a deciding...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-31T22:13:00+00:00",
+   "collected": "2026-09-01T10:11:21.960568+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "DEI may be crumbling in the federal government and waning in the public esteem, but it is still going strong in elite educational institutions despite popular and legal headwinds against it. Aaron Sib",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "448922208aed64fd",
+   "title": "Erdogan keeps funding Islamist foundation abroad even as Turkey’s economy under strain - Nordic Monitor",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGt3dFF2OGs2Yk5kaWdCdVZORndoQTNIV0pPRlh1WTVuT3h4cW9oRUNreElQS1pVNmhIcWJkVWZxLXdHNFFfTVRjZ2o1SnJLSGYzSzRwTS0xNTVjb0ZlbU9KZHo0c3JNcTJpYjZGa1dyc3hNQnQwUXF3djlzc2ZXOEEwTDNEUE5IMVJvSTRlc2NpOV9SZVB3QWx4ODRiYTRXZER3ZVFQZTZteEVj?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGt3dFF2OGs2Yk5kaWdCdVZORndoQTNIV0pPRlh1WTVuT3h4cW9oRUNreElQS1pVNmhIcWJkVWZxLXdHNFFfTVRjZ2o1SnJLSGYzSzRwTS0xNTVjb0ZlbU9KZHo0c3JNcTJpYjZGa1dyc3hNQnQwUXF3djlzc2ZXOEEwTDNEUE5IMVJvSTRlc2NpOV9SZVB3QWx4ODRiYTRXZER3ZVFQZTZteEVj?oc=5\" target=\"_blank\">Erdogan keeps funding Islamist foundation abroad even as Turkey’s economy under strain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nordic Monitor</font>",
+   "source": "Nordic Monitor",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-08-31T22:01:07+00:00",
+   "collected": "2026-09-01T10:10:36.344931+00:00",
+   "keywords_hit": [
+    "erdogan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Erdogan keeps funding Islamist foundation abroad even as Turkey’s economy under strain Nordic Monitor",
+   "angle": null
+  },
+  {
    "id": "8f1214e5e066d9c9",
    "title": "Markwayne Mullin: Biden's Illegal-Migrant Truckers Killed Hundreds of Americans",
    "link": "https://www.breitbart.com/immigration/2026/08/31/markwayne-mullin-bidens-illegal-truckers-have-killed-hundreds-of-americans/",
@@ -510,6 +1571,25 @@
    "corroborated_by": [
     "Daily Signal"
    ]
+  },
+  {
+   "id": "8c6cf6dd63ccde23",
+   "title": "JD Vance Excoriates Democrats for Giving CDLs to Illegal Aliens",
+   "link": "https://www.breitbart.com/politics/2026/08/31/jd-vance-excoriates-democrats-giving-cdls-illegal-aliens/",
+   "summary_raw": "<p>Vice President JD Vance criticized Democrats for giving CDLs to migrants not proficient in the English language.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/31/jd-vance-excoriates-democrats-giving-cdls-illegal-aliens/\" rel=\"nofollow\">JD Vance Excoriates Democrats for Giving CDLs to Illegal Aliens</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-31T21:52:40+00:00",
+   "collected": "2026-09-01T10:11:21.667938+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Vice President JD Vance criticized Democrats for giving CDLs to migrants not proficient in the English language. The post JD Vance Excoriates Democrats for Giving CDLs to Illegal Aliens appeared first",
+   "angle": null
   },
   {
    "id": "114dff410021709b",
@@ -707,6 +1787,27 @@
    "summary_el": "Editor’s note: This is a lightly edited transcript of today’s video from Daily Signal senior contributor Victor Davis Hanson. Subscribe to our YouTube channel to see more of his videos. Hello, this is",
    "angle": null,
    "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "72f162c5deacb08a",
+   "title": "White House Says SAVE Act Passage Most Likely After Election but Keeps Pressure on Senate",
+   "link": "https://www.dailysignal.com/2026/08/31/white-house-official-outlines-presidents-priorities-congress-return/",
+   "summary_raw": "FIRST ON THE DAILY SIGNAL—The White House now believes that the SAVE America Act may not pass until after the midterm elections, though it is keeping the pressure on Leader John Thune to act as soon as possible. It is now eyeing a lame-duck session to secure victory on the election integrity bill, a White...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-31T20:36:00+00:00",
+   "collected": "2026-09-01T10:11:21.961533+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "FIRST ON THE DAILY SIGNAL—The White House now believes that the SAVE America Act may not pass until after the midterm elections, though it is keeping the pressure on Leader John Thune to act as soon a",
+   "angle": null,
+   "corroborated_by": [
+    "Balkan Insight",
     "Breitbart"
    ]
   },
@@ -1120,6 +2221,26 @@
      "lat": 26.57,
      "lon": 56.25
     }
+   ]
+  },
+  {
+   "id": "6f8c4e83064e97ff",
+   "title": "James Gunn's HBO Series 'Lanterns' Blasted as a Woke Lecture on 'White Privilege'",
+   "link": "https://www.breitbart.com/entertainment/2026/08/31/james-gunns-hbo-series-lanterns-blasted-as-a-woke-lecture-on-white-privilege/",
+   "summary_raw": "<p>Director James Gunn's DC comics streaming series 'Lanterns' has become one long lecture on \"white privilege\" and fans are lashing out.</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/08/31/james-gunns-hbo-series-lanterns-blasted-as-a-woke-lecture-on-white-privilege/\" rel=\"nofollow\">James Gunn&#8217;s HBO Series &#8216;Lanterns&#8217; Blasted as a Woke Lecture on &#8216;White Privilege&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-31T18:38:06+00:00",
+   "collected": "2026-09-01T10:11:21.670544+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Director James Gunn's DC comics streaming series 'Lanterns' has become one long lecture on \"white privilege\" and fans are lashing out. The post James Gunn’s HBO Series ‘Lanterns’ Blasted as a Woke Lec",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
    ]
   },
   {
@@ -1763,6 +2884,32 @@
    ]
   },
   {
+   "id": "553ed35066465bea",
+   "title": "Συνεχίζουν τις παραβιάσεις στο Αιγαίο τα τουρκικά drones – Μία παράβαση από CN-235",
+   "link": "https://www.onalert.gr/ellinotourkika/synexizoun-tis-paraviaseis-sto-aigaio-ta-tourkika-drones-mia-paravasi-apo-cn-235/816429/",
+   "summary_raw": "Συνολικά 4 τουρκικά αεροσκάφη πέταξαν στο FIR Αθηνών χωρίς να καταθέσουν σχέδιο πτήσης",
+   "source": "OnAlert",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-31T16:32:33+00:00",
+   "collected": "2026-09-01T10:10:29.762584+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Συνολικά 4 τουρκικά αεροσκάφη πέταξαν στο FIR Αθηνών χωρίς να καταθέσουν σχέδιο πτήσης",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
    "id": "0d339e909a55bbcb",
    "title": "Mecca Defense Alliance formally takes first institutional decisions, says Turkish foreign minister",
    "link": "https://www.aa.com.tr/en/turkiye/mecca-defense-alliance-formally-takes-first-institutional-decisions-says-turkish-foreign-minister/4042969",
@@ -1901,6 +3048,28 @@
     "Brussels Signal",
     "Daily Signal",
     "The European Conservative"
+   ]
+  },
+  {
+   "id": "56a2871876bfa1c6",
+   "title": "FDI: Η Σουηδία υπέγραψε τη σύμβαση για τις τέσσερις γαλλικές φρεγάτες – Στα 4,3 δισεκ. ευρώ το κόστος",
+   "link": "https://www.onalert.gr/eksoplismoi/fdi-i-souidia-ypegrapse-ti-symvasi-gia-tis-tesseris-gallikes-fregates-sta-4-3-disek-eyro-to-kostos/816425/",
+   "summary_raw": "Η σύμβαση υπεγράφη πάνω στην πρώτη γαλλική φρεγάτα Amiral Ronarc'h, παρουσία του Εμανουέλ Μακρόν",
+   "source": "OnAlert",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-08-31T16:07:35+00:00",
+   "collected": "2026-09-01T10:10:29.762707+00:00",
+   "keywords_hit": [
+    "fdi"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η σύμβαση υπεγράφη πάνω στην πρώτη γαλλική φρεγάτα Amiral Ronarc'h, παρουσία του Εμανουέλ Μακρόν",
+   "angle": null,
+   "corroborated_by": [
+    "Πτήση & Διάστημα"
    ]
   },
   {
@@ -2214,6 +3383,37 @@
    "angle": null,
    "corroborated_by": [
     "Naval News"
+   ]
+  },
+  {
+   "id": "1b09a06eaa133bcb",
+   "title": "Πέντε συλλήψεις για πλαστά χαρτονομίσματα 9.100 ευρώ στην Αλεξανδρούπολη - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGZjV3AxY2NCSE0yU21KVXRudXVhYlpXcTNFWWJqWFdsV3Nxck5TUTBZXzFDRnl5NzBWZDlsbzlTZXdIVW1ZNG5oNnN0ZVdhX0JPemdpbVlBQWhOLVppeU5oTlc2NHdEUEFiTWp3LVhuTndzM0dKS1p5bkxYTkQwd2dwTEZyYlJyUU9ZZTl2R0Z4a3pYLVJUYjF4V0Nfbk9ieTNHYl9LQnZpcHQ2bTFWZGtIRW5HWXM?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGZjV3AxY2NCSE0yU21KVXRudXVhYlpXcTNFWWJqWFdsV3Nxck5TUTBZXzFDRnl5NzBWZDlsbzlTZXdIVW1ZNG5oNnN0ZVdhX0JPemdpbVlBQWhOLVppeU5oTlc2NHdEUEFiTWp3LVhuTndzM0dKS1p5bkxYTkQwd2dwTEZyYlJyUU9ZZTl2R0Z4a3pYLVJUYjF4V0Nfbk9ieTNHYl9LQnZpcHQ2bTFWZGtIRW5HWXM?oc=5\" target=\"_blank\">Πέντε συλλήψεις για πλαστά χαρτονομίσματα 9.100 ευρώ στην Αλεξανδρούπολη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-08-31T14:41:27+00:00",
+   "collected": "2026-09-01T10:10:30.725908+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Πέντε συλλήψεις για πλαστά χαρτονομίσματα 9.100 ευρώ στην Αλεξανδρούπολη Παρατηρητής της Θράκης",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αλεξανδρούπολη",
+     "lat": 40.85,
+     "lon": 25.87
+    },
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
    ]
   },
   {
@@ -3677,6 +4877,32 @@
    ]
   },
   {
+   "id": "cea793d5170830ff",
+   "title": "[UPDATE] Captain among 9 held as 20 remain missing after northern Cyprus ferry tragedy - turkishminute.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDhrUWF3YWRXdU54QzJYbmk2ZW1ubWNLR2hRVTJJWkpBVUFyYWY0WEQ2LUVlSVpXbTV3N2FZTmNPUi1UbXBXc3haMkttNmdlT2lYWjJhOFdDVXplUHRrX3Z5U1JTemtJUmZGR0lyTkpmRm1wOFIwNXJ5TjhibVlsWmdFVEF5M0NCV0Q5NVNqOXQ1SC1sMW1aVS1wbWV2aXBfc3R2X1NGRE9NSGhJcG5RbzNsWWs0NkxONWxXYVJ1a1N4QWdu0gHKAUFVX3lxTE5QRGJjbXExSTNWMm9PMHhoQTNNeDd3MDI5eUY4ZEo5MFZINkdCejQ1OVZnN3FTbzdUdk9kUzlLZTlBTng5WDNQcktSVkxFS0lJVHdkTWtMM0RwOHdLTTFEQkVfcFhZbGFFUjNTdDBQcHB3elRKYlgybzZjWmxYLWhKaU5DT3o1cWJTOUs5ak5ldXVTNjFwT2lPNzZudWZWVk43WUdnQWRVZTdTcDJyanVxQ3o3QnpJdzlCb2VfMUoyNUdnNVJlYXgwY0E?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDhrUWF3YWRXdU54QzJYbmk2ZW1ubWNLR2hRVTJJWkpBVUFyYWY0WEQ2LUVlSVpXbTV3N2FZTmNPUi1UbXBXc3haMkttNmdlT2lYWjJhOFdDVXplUHRrX3Z5U1JTemtJUmZGR0lyTkpmRm1wOFIwNXJ5TjhibVlsWmdFVEF5M0NCV0Q5NVNqOXQ1SC1sMW1aVS1wbWV2aXBfc3R2X1NGRE9NSGhJcG5RbzNsWWs0NkxONWxXYVJ1a1N4QWdu0gHKAUFVX3lxTE5QRGJjbXExSTNWMm9PMHhoQTNNeDd3MDI5eUY4ZEo5MFZINkdCejQ1OVZnN3FTbzdUdk9kUzlLZTlBTng5WDNQcktSVkxFS0lJVHdkTWtMM0RwOHdLTTFEQkVfcFhZbGFFUjNTdDBQcHB3elRKYlgybzZjWmxYLWhKaU5DT3o1cWJTOUs5ak5ldXVTNjFwT2lPNzZudWZWVk43WUdnQWRVZTdTcDJyanVxQ3o3QnpJdzlCb2VfMUoyNUdnNVJlYXgwY0E?oc=5\" target=\"_blank\">[UPDATE] Captain among 9 held as 20 remain missing after northern Cyprus ferry tragedy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">turkishminute.com</font>",
+   "source": "Turkish Minute",
+   "side": "turkish_opposition",
+   "lang": "en",
+   "published": "2026-08-31T11:24:43+00:00",
+   "collected": "2026-09-01T10:10:24.467761+00:00",
+   "keywords_hit": [
+    "cyprus"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "[UPDATE] Captain among 9 held as 20 remain missing after northern Cyprus ferry tragedy turkishminute.com",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
    "id": "63661b5042f0f350",
    "title": "Leaders postpone meeting after ferry disaster",
    "link": "https://cyprus-mail.com/2026/08/31/leaders-postpone-meeting-after-ferry-disaster",
@@ -5074,6 +6300,26 @@
    "turkish_narrative": false,
    "summary_el": "Νέοι κανόνες στην Κίνα και οι συνέπειες για το κόστος φωτοβολταϊκών και μπαταριών Energypress",
    "angle": null
+  },
+  {
+   "id": "af67aeef787c41d6",
+   "title": "New Study Proposes Creation of Data Rights Associations to Counteract AI Abuses",
+   "link": "https://www.dailysignal.com/2026/08/31/study-proposes-data-rights-associations-ai-abuses/",
+   "summary_raw": "In order to protect Americans from threats posed by artificial intelligence, people should be able to join associations to protect their digital rights, according to the Institute for Family Studies&#8217; new report. &#8220;AI threatens to disempower American families and communities, in large part, because those bedrock institutions lack a voice in shaping AI’s course of...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-08-31T04:15:00+00:00",
+   "collected": "2026-09-01T10:11:21.962653+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "In order to protect Americans from threats posed by artificial intelligence, people should be able to join associations to protect their digital rights, according to the Institute for Family Studies’ ",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
   },
   {
    "id": "f48aa1a83205902a",
@@ -16393,6 +17639,28 @@
    "turkish_narrative": false,
    "summary_el": "Πώς τα 5,3 δισ. του Κοινωνικού Ταμείου για το Κλίμα Αλλάζουν τον Χάρτη σε Κατασκευές και Ενέργεια B2Green",
    "angle": null
+  },
+  {
+   "id": "0f1c67b11f56f989",
+   "title": "Democracy Digest: Crypto Scandal Returns to Haunt Poland’s Right Ahead of Election Year",
+   "link": "https://balkaninsight.com/2026/08/28/democracy-digest-crypto-scandal-returns-to-haunt-polands-right-ahead-of-election-year/rd/",
+   "summary_raw": "Elsewhere, Slovakia foils arson plot against Ukrainian drone factory; Czech intelligence agency warns over Russia sabotage, China spying; and nominated head of Hungarian agency to recover stolen money plays down hopes of immediate results.",
+   "source": "Balkan Insight",
+   "side": "balkans",
+   "lang": "en",
+   "published": "2026-08-28T06:16:23+00:00",
+   "collected": "2026-09-01T10:10:43.501606+00:00",
+   "keywords_hit": [
+    "intelligence agency"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Elsewhere, Slovakia foils arson plot against Ukrainian drone factory; Czech intelligence agency warns over Russia sabotage, China spying; and nominated head of Hungarian agency to recover stolen money",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "c72a5b782eea3bf1",
@@ -31915,1633 +33183,6 @@
    "turkish_narrative": false,
    "summary_el": "US promises 'asphyxiation' of Islamic Republic as it imposes new sanctions Submitted by Alex MacDonald on Tue, 08/25/2026 - 09:59 'Economic D-Day' promised against Iran alongside threats towards those",
    "angle": null
-  },
-  {
-   "id": "53d75cfdcb50ba92",
-   "title": "Ευρώπη: Τουλάχιστον 35.000 επιπλέον θάνατοι από τα διαδοχικά κύματα καύσωνα",
-   "link": "https://www.ertnews.gr/eidiseis/eyropi-toulaxiston-35-000-epipleon-thanatoi-apo-ta-diadoxika-kymata-kaysona/",
-   "summary_raw": "<img alt=\"FILES-FRANCE-EUROPE-ENVIRONMENT-CLIMATE-WEATHER-HEATWAVE\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/000-c6923we-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Τουλάχιστον 35.000 περισσότεροι άνθρωποι έχασαν τη ζωή τους κατά τη διάρκεια των τεσσάρων διαδοχικών κυμάτων καύσωνα που έπληξαν την Ευρώπη αυτό το καλοκαίρι, σύμφωνα με τα μέχρι στιγμής διαθέσιμα στοιχεία. Ο πραγματικός απολογισμός εκτιμάται ότι είναι ακόμη υψηλότερος, καθώς τα δεδομένα αφορούν περίπου τη μισή ήπειρο και δεν περιλαμβάνουν το σύνολο των θανάτων του Αυγούστου. ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/eyropi-toulaxiston-35-000-epipleon-thanatoi-apo-ta-diadoxika-kymata-kaysona/\" title=\"Ευρώπη: Τουλάχιστον 35.000 επιπλέον θάνατοι από τα διαδοχικά κύματα καύσωνα\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-25T10:07:38+00:00",
-   "collected": "2026-08-25T10:51:39.087380+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Τουλάχιστον 35.000 περισσότεροι άνθρωποι έχασαν τη ζωή τους κατά τη διάρκεια των τεσσάρων διαδοχικών κυμάτων καύσωνα που έπληξαν την Ευρώπη αυτό το καλοκαίρι, σύμφωνα με τα μέχρι στιγμής διαθέσιμα στο",
-   "angle": null
-  },
-  {
-   "id": "eff017b3d5e51419",
-   "title": "Khabarovsk: Ο Πούτιν εξαπέλυσε το πυρηνικό «υποβρύχιο της Αποκάλυψης» – Γιατί θορυβήθηκε το Λονδίνο",
-   "link": "https://www.philenews.com/kosmos/article/1762502/khabarovsk-o-poutin-exapelise-to-piriniko-ipovrichio-tis-apokalipsis-giati-thorivithike-to-londino/",
-   "summary_raw": "<p>Στη σκιά του πολέμου στην Ουκρανία, το υποβρύχιο «Khabarovsk» (Χαμπάροφσκ), που χαρακτηρίζεται ως το υποβρύχιο της «Αποκάλυψης» του Βλαντίμιρ Πούτιν, αναπτύχθηκε για πρώτη φορά, στέλνοντας ένα μήνυμα προς τη Δύση. Το συγκεκριμένο υποβρύχιο έχει τη δυνατότητα να μεταφέρει έως και έξι τορπίλες Poseidon, οι οποίες είναι σχεδιασμένες για τη μεταφορά πυρηνικών κεφαλών και μπορούν να [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kosmos/article/1762502/khabarovsk-o-poutin-exapelise-to-piriniko-ipovrichio-tis-apokalipsis-giati-thorivithike-to-londino/\">Khabarovsk: Ο Πούτιν εξαπέλυσε το πυρηνικό «υποβρύχιο της Αποκάλυψης» – Γιατί θορυβήθηκε το Λονδίνο</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-08-25T10:02:21+00:00",
-   "collected": "2026-08-25T10:51:59.514285+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Στη σκιά του πολέμου στην Ουκρανία, το υποβρύχιο «Khabarovsk» (Χαμπάροφσκ), που χαρακτηρίζεται ως το υποβρύχιο της «Αποκάλυψης» του Βλαντίμιρ Πούτιν, αναπτύχθηκε για πρώτη φορά, στέλνοντας ένα μήνυμα ",
-   "angle": null
-  },
-  {
-   "id": "67ca7f8e160d113e",
-   "title": "US building twice as much gas-fired capacity as China in AI boom, analysis finds",
-   "link": "https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter",
-   "summary_raw": "<p>There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacenters</p><p>The US has surged ahead of China in the building of new gas-fired power generation, largely to feed a boom in artificial intelligence (AI) that is adding vast amounts of planet-heating emissions, a new analysis has found.</p><p>For decades, China’s rapid economic growth has seen it outpace the US in the addition of new gas power generation but a recent “frenzy” in datacenter construction for AI has reversed this, said <a href=\"https://globalenergymonitor.org/\">Global Energy Monitor</a> (Gem) in its new report.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter\">Continue reading...</a>",
-   "source": "Guardian Environment",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-08-25T10:00:34+00:00",
-   "collected": "2026-08-25T11:46:42.129948+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacenters The US has surged ahead of China in the building of new gas-fired power generation, large",
-   "angle": null
-  },
-  {
-   "id": "a12a5acad89a3e07",
-   "title": "Μελέτη για την αντιπλημμυρική προστασία Σκάλας, Έλους, Βλαχιώτη και Λεήμονα Λακωνίας",
-   "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/tripoli/meleti-gia-tin-antiplimmyriki-prostasia-skalas-elous-vlaxioti-kai-leimona-lakonias/",
-   "summary_raw": "<img alt=\"plimiriko\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"900\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/plimiriko.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>Αποφάσεις για έργα αντιπλημμυρικής θωράκισης, αποκατάστασης ζημιών και ενίσχυσης των υποδομών, πήρε πρόσφατα, η Περιφερειακή Επιτροπή της Περιφέρειας Πελοποννήσου. Όπως έγινε γνωστό, αρχίζει η διαδικασία για την ένταξη δύο έργων, ύψους 1,6 εκατ. ευρώ, τα οποία αφορούν την αποκατάσταση ζημιών από πλημμυρικά φαινόμενα στους δήμους Ανατολικής Μάνης και Ευρώτα, στη Λακωνία. Η Επιτροπή ενέκρινε τη ... <a class=\"read-more\" href=\"https://www.ertnews.gr/perifereiakoi-stathmoi/tripoli/meleti-gia-tin-antiplimmyriki-prostasia-skalas-elous-vlaxioti-kai-leimona-lakonias/\" title=\"Μελέτη για την αντιπλημμυρική προστασία Σκάλας, Έλους, Βλαχιώτη και Λεήμονα Λακωνίας\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-25T09:55:58+00:00",
-   "collected": "2026-08-25T10:51:39.088579+00:00",
-   "keywords_hit": [
-    "tripoli"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Αποφάσεις για έργα αντιπλημμυρικής θωράκισης, αποκατάστασης ζημιών και ενίσχυσης των υποδομών, πήρε πρόσφατα, η Περιφερειακή Επιτροπή της Περιφέρειας Πελοποννήσου. Όπως έγινε γνωστό, αρχίζει η διαδικα",
-   "angle": null
-  },
-  {
-   "id": "282138cf75be6c68",
-   "title": "Pushing back on Turkey’s plans",
-   "link": "https://en.philenews.com/opinion/pushing-back-on-turkeys-plans/",
-   "summary_raw": "Turkey&#8217;s announcement that it plans to build an undersea pipeline carrying natural gas from Turkey to the occupied north is yet another move aimed at forcing new facts on the ground in Cyprus. This is another extreme act, and it fits a clear strategic pattern: folding the occupied areas into Turkey itself. This project is [&#8230;]",
-   "source": "in-cyprus (Philenews)",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-08-25T09:55:30+00:00",
-   "collected": "2026-08-25T10:51:47.899519+00:00",
-   "keywords_hit": [
-    "natural gas"
-   ],
-   "category": "Κυπριακό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Turkey’s announcement that it plans to build an undersea pipeline carrying natural gas from Turkey to the occupied north is yet another move aimed at forcing new facts on the ground in Cyprus. This is",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "3de2253a8081ab88",
-   "title": "Σέρρες: Επιστολή 300 μεταναστών από τη δομή – φυλακή της Σιντικής μετά την εξέγερση – «Είμαστε εξαντλημένοι, σώστε μας»",
-   "link": "https://www.in.gr/2026/08/25/greece/serres-epistoli-300-metanaston-apo-ti-domi-fylaki-tis-sintikis-meta-tin-eksegersi-eimaste-eksantlimenoi-soste-mas/",
-   "summary_raw": "<div><img alt=\"Επιστολή 300 μεταναστών από τη δομή - φυλακή της Σιντικής μετά την εξέγερση - «Είμαστε εξαντλημένοι, σώστε μας»\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"389\" src=\"https://www.in.gr/wp-content/uploads/2026/08/SINTIKI-SERWN.jpg\" style=\"margin-bottom: 15px;\" width=\"678\" /></div>\n<p>Για τις συνθήκες διαβίωσής τους στην κλειστή δομή -φυλακή της Σιντικής στις Σέρρες ενημερώνουν οι 300 έγκλειστοι μετανάστες, με επιστολή τους, λίγες ημέρες μετά την εξέγερση - «Είμαστε χωρίς φαγητό και ρούχα, θέλουμε να μάθουμε ποιο αμάρτημα διαπράξαμε»</p>\n<p>The post <a href=\"https://www.in.gr/2026/08/25/greece/serres-epistoli-300-metanaston-apo-ti-domi-fylaki-tis-sintikis-meta-tin-eksegersi-eimaste-eksantlimenoi-soste-mas/\">Σέρρες: Επιστολή 300 μεταναστών από τη δομή &#8211; φυλακή της Σιντικής μετά την εξέγερση &#8211; «Είμαστε εξαντλημένοι, σώστε μας»</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T09:53:07+00:00",
-   "collected": "2026-08-25T09:54:21.880756+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Για τις συνθήκες διαβίωσής τους στην κλειστή δομή -φυλακή της Σιντικής στις Σέρρες ενημερώνουν οι 300 έγκλειστοι μετανάστες, με επιστολή τους, λίγες ημέρες μετά την εξέγερση - «Είμαστε χωρίς φαγητό κα",
-   "angle": null
-  },
-  {
-   "id": "fe5015d8663b3d65",
-   "title": "Roadblocks and burning tyres in Libya protests over power cuts",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss",
-   "summary_raw": "Roadblocks and burning tyres in Libya protests over power cuts",
-   "source": "Al Jazeera English",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-25T09:45:19+00:00",
-   "collected": "2026-08-25T13:13:47.415529+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Roadblocks and burning tyres in Libya protests over power cuts",
-   "angle": null
-  },
-  {
-   "id": "554983e093d02ed0",
-   "title": "Draghi’s new group on European sovereignty opens with Swiss HQ, US tech and failed AI hedge fund",
-   "link": "https://brusselssignal.eu/2026/08/draghis-new-group-on-european-sovereignty-opens-with-swiss-hq-us-tech-and-failed-ai-hedge-fund/",
-   "summary_raw": "Mario Draghi's Rhine Group, focusing on Europe's tech sovereignty, faces scrutiny for its Swiss HQ, reliance on US tech, and including a controversial AI investor.\n<p><a href=\"https://brusselssignal.eu/2026/08/draghis-new-group-on-european-sovereignty-opens-with-swiss-hq-us-tech-and-failed-ai-hedge-fund/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-25T09:43:51+00:00",
-   "collected": "2026-08-25T10:52:27.428049+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Mario Draghi's Rhine Group, focusing on Europe's tech sovereignty, faces scrutiny for its Swiss HQ, reliance on US tech, and including a controversial AI investor. Source",
-   "angle": null
-  },
-  {
-   "id": "0a64df4b5ee5739d",
-   "title": "No, Bridget Phillipson, Britain is neither racist nor sexist",
-   "link": "https://www.spiked-online.com/2026/08/25/no-bridget-phillipson-britain-is-neither-racist-nor-sexist/",
-   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/08/25/no-bridget-phillipson-britain-is-neither-racist-nor-sexist/\">No, Bridget Phillipson, Britain is neither racist nor sexist</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
-   "source": "Spiked",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-08-25T09:39:40+00:00",
-   "collected": "2026-08-25T17:48:02.026314+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The post No, Bridget Phillipson, Britain is neither racist nor sexist appeared first on spiked .",
-   "angle": null,
-   "corroborated_by": [
-    "UnHerd"
-   ]
-  },
-  {
-   "id": "0c93ed1ec9d4905c",
-   "title": "Λιβάδια Ποσειδωνίας: Τα «δάση» των ελληνικών θαλασσών που χρειάστηκαν αιώνες για να αναπτυχθούν και καταστρέφονται σε λίγα λεπτά",
-   "link": "https://www.protothema.gr/environment/article/1869233/livadia-poseidonias-ta-dasi-ton-thalasson-pou-hreiastikan-aiones-gia-na-anaptuhthoun-kai-katastrefodai-se-liga-lepta/?utm_source=rss",
-   "summary_raw": "Ανεξέλεγκτη αγκυροβολία, παράνομη αλιεία, ρύπανση και κλιματική αλλαγή απειλούν ένα από τα πολυτιμότερα οικοσυστήματα της Μεσογείου",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T09:37:00+00:00",
-   "collected": "2026-08-25T09:54:19.361062+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Ανεξέλεγκτη αγκυροβολία, παράνομη αλιεία, ρύπανση και κλιματική αλλαγή απειλούν ένα από τα πολυτιμότερα οικοσυστήματα της Μεσογείου",
-   "angle": null
-  },
-  {
-   "id": "64c6f2b819dca963",
-   "title": "Ο Πούτιν έβγαλε για πρώτη φορά στη θάλασσα το «υποβρύχιο της Αποκάλυψης» με τις πυρηνικές τορπίλες Poseidon",
-   "link": "https://www.protothema.gr/world/article/1869232/o-poutin-evgale-gia-proti-fora-sti-thalassa-to-upovruhio-tis-apokalupsis-me-tis-purinikes-torpiles-poseidon/?utm_source=rss",
-   "summary_raw": "Το Khabarovsk φέρεται να μπορεί να μεταφέρει έως έξι Poseidon - Οι ρωσικές απειλές κατά της Βρετανίας και τι λένε οι ειδικοί για τις πραγματικές δυνατότητες του όπλου",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T09:37:00+00:00",
-   "collected": "2026-08-25T09:54:19.361231+00:00",
-   "keywords_hit": [
-    "πυρηνικ"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το Khabarovsk φέρεται να μπορεί να μεταφέρει έως έξι Poseidon - Οι ρωσικές απειλές κατά της Βρετανίας και τι λένε οι ειδικοί για τις πραγματικές δυνατότητες του όπλου",
-   "angle": null
-  },
-  {
-   "id": "8a73e038e09327f0",
-   "title": "Greece records 35% drop in illegal arrivals over 12 months as returns rise",
-   "link": "https://greekcitytimes.com/2026/08/25/greece-records-drop-in-illegal/",
-   "summary_raw": "<p>Greece recorded a sharp fall in irregular arrivals over the past year and a simultaneous rise in returns, according to figures circulated by the Ministry of Migration and Asylum. In the 12 months from 1 August 2024 to 31 July 2025 — before the latest tightening of the legal framework — irregular arrivals stood at…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/08/25/greece-records-drop-in-illegal/\">Greece records 35% drop in illegal arrivals over 12 months as returns rise</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-08-25T09:34:50+00:00",
-   "collected": "2026-08-25T09:53:43.961660+00:00",
-   "keywords_hit": [
-    "asylum"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Greece recorded a sharp fall in irregular arrivals over the past year and a simultaneous rise in returns, according to figures circulated by the Ministry of Migration and Asylum. In the 12 months from",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "db4f7935759a8451",
-   "title": "Παπασταύρου: «Βάζουμε κανόνες στην ανάπτυξη με το νέο ειδικό χωροταξικό για τις ΑΠΕ»",
-   "link": "https://www.dimokratiki.gr/25-08-2026/papastavrou-vazoume-kanones-stin-anaptyxi-me-to-neo-idiko-chorotaxiko-gia-tis-ape/?utm_source=rss&utm_medium=rss&utm_campaign=papastavrou-vazoume-kanones-stin-anaptyxi-me-to-neo-idiko-chorotaxiko-gia-tis-ape",
-   "summary_raw": "<p>Τα Ειδικά Χωροταξικά Πλαίσια για τον τουρισμό και τις ανανεώσιμες πηγές ενέργειας (ΑΠΕ), που έχουν ήδη τεθεί σε ισχύ, τη στάση της χώρας μας στις προκλήσεις της Τουρκίας και τις πρωτοβουλίες που προωθεί το ΥΠΕΝ για το επόμενο διάστημα, ανέπτυξε, μεταξύ άλλων, ο υπουργός Περιβάλλοντος και Ενέργειας, Σταύρος Παπασταύρου, σε συνέντευξη που παραχώρησε σήμερα στο Mega. «Η...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/25-08-2026/papastavrou-vazoume-kanones-stin-anaptyxi-me-to-neo-idiko-chorotaxiko-gia-tis-ape/\" style=\"font-size: 12px;\" title=\"Παπασταύρου: «Βάζουμε κανόνες στην ανάπτυξη με το νέο ειδικό χωροταξικό για τις ΑΠΕ»\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/25-08-2026/papastavrou-vazoume-kanones-stin-anaptyxi-me-to-neo-idiko-chorotaxiko-gia-tis-ape/\">Παπασταύρου: «Βάζουμε κανόνες στην ανάπτυξη με το νέο ειδικό χωροταξικό για τις ΑΠΕ»</a></p>",
-   "source": "Δημοκρατική Ρόδου",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-25T09:30:14+00:00",
-   "collected": "2026-08-25T09:54:14.740666+00:00",
-   "keywords_hit": [
-    "ανανεώσιμ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Τα Ειδικά Χωροταξικά Πλαίσια για τον τουρισμό και τις ανανεώσιμες πηγές ενέργειας (ΑΠΕ), που έχουν ήδη τεθεί σε ισχύ, τη στάση της χώρας μας στις προκλήσεις της Τουρκίας και τις πρωτοβουλίες που προωθ",
-   "angle": null,
-   "corroborated_by": [
-    "ΕΡΤ News"
-   ]
-  },
-  {
-   "id": "425db65f738f0f4d",
-   "title": "Τα «ήρεμα νερά» διχάζουν τη Νέα Δημοκρατία",
-   "link": "https://www.in.gr/2026/08/25/politics/politiki-grammateia/ta-irema-nera-dixazoun-ti-nd/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"377\" src=\"https://www.in.gr/wp-content/uploads/2026/08/Vouli-Mitsotakis-Dendias2.jpg\" style=\"margin-bottom: 15px;\" width=\"499\" /></div>\n<p>Τα τουρκικά θαλάσσια πάρκα αναζωπύρωσαν στο «γαλάζιο» παρασκήνιο την εσωκομματική αμφισβήτηση για την πολιτική των «ήρεμων νερών». Η διατυπωμένη ήδη από τον Μάιο διαφωνία του Νίκου Δένδια. Η κριτική Καραμανλή και Σαμαρά. Η αντίδραση του Μαξίμου.</p>\n<p>The post <a href=\"https://www.in.gr/2026/08/25/politics/politiki-grammateia/ta-irema-nera-dixazoun-ti-nd/\">Τα «ήρεμα νερά» διχάζουν τη Νέα Δημοκρατία</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T09:25:06+00:00",
-   "collected": "2026-08-25T09:54:21.882330+00:00",
-   "keywords_hit": [
-    "dendias"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Τα τουρκικά θαλάσσια πάρκα αναζωπύρωσαν στο «γαλάζιο» παρασκήνιο την εσωκομματική αμφισβήτηση για την πολιτική των «ήρεμων νερών». Η διατυπωμένη ήδη από τον Μάιο διαφωνία του Νίκου Δένδια. Η κριτική Κ",
-   "angle": null
-  },
-  {
-   "id": "a48165e6d2daff5b",
-   "title": "French financial prosecutors investigate LFI mayor of Saint-Denis over RATP job",
-   "link": "https://brusselssignal.eu/2026/08/french-financial-prosecutors-investigate-lfi-mayor-of-saint-denis-over-ratp-job/",
-   "summary_raw": "French financial prosecutors have launched an investigation into Bally Bagayoko, the LFI mayor of Saint-Denis, concerning his employment conditions with RATP for potential embezzlement.\n<p><a href=\"https://brusselssignal.eu/2026/08/french-financial-prosecutors-investigate-lfi-mayor-of-saint-denis-over-ratp-job/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-25T09:23:18+00:00",
-   "collected": "2026-08-25T16:03:32.028537+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "French financial prosecutors have launched an investigation into Bally Bagayoko, the LFI mayor of Saint-Denis, concerning his employment conditions with RATP for potential embezzlement. Source",
-   "angle": null,
-   "corroborated_by": [
-    "Middle East Eye"
-   ]
-  },
-  {
-   "id": "822ab1d952e5a157",
-   "title": "Πρωταγωνιστής της νέας ενεργειακής εποχής",
-   "link": "https://www.kathimerini.gr/ceos-2026/564365089/protagonistis-tis-neas-energeiakis-epochis/",
-   "summary_raw": "Η παγκόσμια ενεργειακή αγορά εξακολουθεί να βρίσκεται σε μια περίοδο αναδιάρθρωσης. Η ενεργειακή μετάβαση παραμένει ο βασικός μοχλός επενδύσεων διεθνώς, ωστόσο πλέον συνδυάζεται με δύο ακόμη κρίσιμες προτεραιότητες: την ενεργειακή ασφάλεια και την ανθεκτικότητα των υποδομών. Οι τάσεις αυτές οδηγούν σε αυξημένες επενδύσεις στα δίκτυα ηλεκτρικής ενέργειας, τόσο στις διασυνδέσεις μεταξύ χωρών όσο και σε […]",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T09:22:53+00:00",
-   "collected": "2026-08-25T10:52:23.918776+00:00",
-   "keywords_hit": [
-    "ενεργειακή ασφάλεια"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Η παγκόσμια ενεργειακή αγορά εξακολουθεί να βρίσκεται σε μια περίοδο αναδιάρθρωσης. Η ενεργειακή μετάβαση παραμένει ο βασικός μοχλός επενδύσεων διεθνώς, ωστόσο πλέον συνδυάζεται με δύο ακόμη κρίσιμες ",
-   "angle": null
-  },
-  {
-   "id": "58d7934905eb537c",
-   "title": "Στον σωστό δρόμο για τον φυσικό μας πλούτο, αλλά ο δρόμος είναι μακρύς",
-   "link": "https://www.kathimerini.gr/ceos-2026/564365173/ston-sosto-dromo-gia-ton-fysiko-mas-ployto-alla-o-dromos-einai-makrys/",
-   "summary_raw": "Η Ελλάδα βρίσκεται σήμερα μπροστά σε μια ιστορική ευκαιρία: να αποκτήσει σαφή εικόνα για το πραγματικό δυναμικό των εγχώριων υδρογονανθράκων και να ενισχύσει την ενεργειακή της ασφάλεια σε μια περίοδο που η Ευρώπη αναζητά σταθερές και διαφοροποιημένες πηγές εφοδιασμού. Σε αυτό το πλαίσιο, η ερευνητική γεώτρηση Ασωπός1 στο Block 2 στο Βορειοδυτικό Ιόνιο αποτελεί το […]",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T09:09:33+00:00",
-   "collected": "2026-08-25T10:52:23.920835+00:00",
-   "keywords_hit": [
-    "γεώτρηση"
-   ],
-   "category": "Ενέργεια",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Ελλάδα βρίσκεται σήμερα μπροστά σε μια ιστορική ευκαιρία: να αποκτήσει σαφή εικόνα για το πραγματικό δυναμικό των εγχώριων υδρογονανθράκων και να ενισχύσει την ενεργειακή της ασφάλεια σε μια περίοδο",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "c2fa22c9f268ba0c",
-   "title": "Mexico unveils Olinia Carga electric light truck",
-   "link": "https://www.electrive.com/2026/08/25/mexico-unveils-olinia-carga-electric-light-truck/",
-   "summary_raw": "<div><img alt=\"Olinia vargo mexico electrive\" class=\"attachment-medium size-medium wp-post-image\" height=\"225\" src=\"https://www.electrive.com/media/2026/08/olinia-2-vargo-mexico-electrive-202608-400x225.webp\" style=\"margin-bottom: 15px;\" title=\"olinia 2 vargo mexico electrive 202608\" width=\"400\" /></div>Mexico is expanding its fledgling electric vehicle brand Olinia with a compact electric transporter. The Olinia Carga will offer a range of more than 120 kilometres and a payload of up to 650 kilogrammes, with a market launch planned for late 2027 at around 150,000 pesos.",
-   "source": "Electrive (EU ηλεκτροκίνηση)",
-   "side": "green_emobility",
-   "lang": "en",
-   "published": "2026-08-25T09:08:42+00:00",
-   "collected": "2026-08-25T10:52:10.268956+00:00",
-   "keywords_hit": [
-    "electric vehicle"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Mexico is expanding its fledgling electric vehicle brand Olinia with a compact electric transporter. The Olinia Carga will offer a range of more than 120 kilometres and a payload of up to 650 kilogram",
-   "angle": null,
-   "corroborated_by": [
-    "Guardian Environment"
-   ]
-  },
-  {
-   "id": "2614c9d871b56e8d",
-   "title": "Στ. Παπασταύρου για το Ειδικό Χωροταξικό Πλαίσιο: Ανάπτυξη με κανόνες",
-   "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/st-papastayrou-gia-to-eidiko-xorotaksiko-plaisio-anaptyksi-me-kanones/",
-   "summary_raw": "<img alt=\"Naxos,Island,Aerial,Panoramic,View.,Naxos,Is,The,Largest,Of\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"452\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/naxos-2048x1207-1-768x452-1-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>Τα Ειδικά Χωροταξικά Πλαίσια για τον τουρισμό και τις ανανεώσιμες πηγές ενέργειας, που έχουν ήδη τεθεί σε ισχύ, τη στάση της χώρας μας στις προκλήσεις της Τουρκίας και τις πρωτοβουλίες που προωθεί το ΥΠΕΝ για το επόμενο διάστημα, ανέπτυξε, μεταξύ άλλων, ο υπουργός Περιβάλλοντος και Ενέργειας, Σταύρος Παπασταύρου, σε συνέντευξη που παραχώρησε στο Mega. «Η ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ellada/politiki/st-papastayrou-gia-to-eidiko-xorotaksiko-plaisio-anaptyksi-me-kanones/\" title=\"Στ. Παπασταύρου για το Ειδικό Χωροταξικό Πλαίσιο: Ανάπτυξη με κανόνες\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-25T09:05:42+00:00",
-   "collected": "2026-08-25T09:53:21.448853+00:00",
-   "keywords_hit": [
-    "ανανεώσιμ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Τα Ειδικά Χωροταξικά Πλαίσια για τον τουρισμό και τις ανανεώσιμες πηγές ενέργειας, που έχουν ήδη τεθεί σε ισχύ, τη στάση της χώρας μας στις προκλήσεις της Τουρκίας και τις πρωτοβουλίες που προωθεί το ",
-   "angle": null,
-   "corroborated_by": [
-    "Δημοκρατική Ρόδου"
-   ]
-  },
-  {
-   "id": "bfc4ec33d2d6770e",
-   "title": "Israel is planning to expand its military capabilities in space, including eventually striking targets on Earth from orbit.  Defense Minister Israel Katz says Israel wants to be fi…",
-   "link": "https://t.me/ClashReport/93594",
-   "summary_raw": "Israel is planning to expand its military capabilities in space, including eventually striking targets on Earth from orbit.  Defense Minister Israel Katz says Israel wants to be first to develop a true space-to-ground attack capability. The broader plan also includes better satellites, encrypted communications, cyberwarfare and missile defense.  One concept discussed is the U.S. “Rods from God” idea: satellites dropping massive tungsten rods at extreme speed, producing bunker-busting impacts without nuclear explosives. The physics are possible, but cost, weight and effectiveness remain major obstacles.  Israel is considering roughly 16 billion shekels ($5.4 billion) in space investment over a decade, though funding is not yet assured.  Source: Haaretz",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-08-25T09:04:09+00:00",
-   "collected": "2026-08-25T09:54:32.471224+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Israel is planning to expand its military capabilities in space, including eventually striking targets on Earth from orbit. Defense Minister Israel Katz says Israel wants to be first to develop a true",
-   "angle": null
-  },
-  {
-   "id": "116d5b8b773f52a2",
-   "title": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dumping ground",
-   "link": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview",
-   "summary_raw": "<p>New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sites</p><p><a href=\"https://www.theguardian.com/environment/nuclearpower+energy\">Nuclear energy</a> was supposed to be our salvation, humanity’s chance to retool technology first conceived as a weapon of mass destruction into an engine of limitless prosperity. But even as the industry touted nuclear fission as an economic game-changer (never mind the <a href=\"https://ifp.org/nuclear-power-plant-construction-costs/\">astronomical startup costs</a>), a safety paragon (never mind the spills at <a href=\"https://www.theguardian.com/environment/chernobyl-nuclear-disaster\">Chornobyl</a>, <a href=\"https://www.theguardian.com/tv-and-radio/2022/may/05/meltdown-three-mile-island-netflix-us-nuclear-accident\">Three Mile Island</a> and <a href=\"https://www.theguardian.com/environment/2026/jan/27/japan-fukushima-environment-nuclear-disaster-nature-history-hope-loss-aoe\">Fukushima</a>) and harmless fodder for an <a href=\"https://www.theguardian.com/tv-and-radio/the-simpsons\">American comedy institution</a> (never mind that glowing rod on Homer’s back or the t",
-   "source": "Guardian Environment",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-08-25T09:00:53+00:00",
-   "collected": "2026-08-25T16:58:31.484215+00:00",
-   "keywords_hit": [
-    "nuclear",
-    "solar"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sites Nuclear energy was supposed to be our salvation, humanit",
-   "angle": null,
-   "corroborated_by": [
-    "Inside Climate News"
-   ]
-  },
-  {
-   "id": "88980b72019a3392",
-   "title": "The Biggest Carbon Polluters Are to Blame for Half of U.S. Western Water Lost to Climate Change, ‘Groundbreaking’ Paper Says",
-   "link": "https://insideclimatenews.org/news/25082026/attribution-study-links-carbon-majors-to-colorado-river-crisis/",
-   "summary_raw": "Some of the largest fossil fuel companies on Earth are disproportionately responsible for the water crisis in the American West, according to a first-of-its-kind study published Tuesday. From 2014 to 2024, climate change sapped over a third of the region’s typical annual snowpack and decreased streamflows by about 13 percent, the authors found in the [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-08-25T09:00:00+00:00",
-   "collected": "2026-08-25T09:53:58.278711+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Some of the largest fossil fuel companies on Earth are disproportionately responsible for the water crisis in the American West, according to a first-of-its-kind study published Tuesday. From 2014 to ",
-   "angle": null,
-   "corroborated_by": [
-    "ESG Today"
-   ]
-  },
-  {
-   "id": "68f9ed0b92c17acf",
-   "title": "Data Center Developers in Texas Plan Massive New Gas Power Projects",
-   "link": "https://insideclimatenews.org/news/25082026/texas-data-center-gas-projects/",
-   "summary_raw": "The 12 largest gas power projects planned in Texas are all specifically intended to run data centers, according to data released Tuesday by Global Energy Monitor, a global nonprofit that maps and tracks energy infrastructure.  The volume of gas power generation planned in Texas has continued to surge, growing by 50 percent in the last [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-08-25T08:55:00+00:00",
-   "collected": "2026-08-25T10:52:08.754855+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The 12 largest gas power projects planned in Texas are all specifically intended to run data centers, according to data released Tuesday by Global Energy Monitor, a global nonprofit that maps and trac",
-   "angle": null,
-   "corroborated_by": [
-    "ESG Today"
-   ]
-  },
-  {
-   "id": "33a5ce12e97d4852",
-   "title": "Brussels rattled by a series of shootings over three consecutive days",
-   "link": "https://brusselssignal.eu/2026/08/brussels-rattled-by-a-series-of-shootings-over-three-consecutive-days/",
-   "summary_raw": "Brussels faces heightened gun violence, with a series of shootings linked to drug gang territorial struggles over three days. Police report a sharp escalation in incidents and concern among residents.\n<p><a href=\"https://brusselssignal.eu/2026/08/brussels-rattled-by-a-series-of-shootings-over-three-consecutive-days/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-25T08:54:00+00:00",
-   "collected": "2026-08-25T09:02:53.485737+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Brussels faces heightened gun violence, with a series of shootings linked to drug gang territorial struggles over three days. Police report a sharp escalation in incidents and concern among residents.",
-   "angle": null
-  },
-  {
-   "id": "9ab251ebf7db2374",
-   "title": "ΗΠΑ: Δημοσιογραφικές πληροφορίες για πιθανή απομάκρυνση του πρέσβη στην Άγκυρα, Τομ Μπάρακ",
-   "link": "https://www.onalert.gr/kosmos/ipa-dimosiografikes-plirofories-gia-pithani-apomakrynsi-tou-presvi-stin-agkyra-tom-mparak/815434/",
-   "summary_raw": "«Ορισμένα μέλη της κυβέρνησης πιστεύουν ότι ευθύνεται για την πρόσφατη κλιμάκωση των εντάσεων μεταξύ Τουρκίας και Ισραήλ»",
-   "source": "OnAlert",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-25T08:52:23+00:00",
-   "collected": "2026-08-26T07:10:39.165841+00:00",
-   "keywords_hit": [
-    "πομάκ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "«Ορισμένα μέλη της κυβέρνησης πιστεύουν ότι ευθύνεται για την πρόσφατη κλιμάκωση των εντάσεων μεταξύ Τουρκίας και Ισραήλ»",
-   "angle": null,
-   "corroborated_by": [
-    "SLpress"
-   ],
-   "locations": [
-    {
-     "name": "Άγκυρα",
-     "lat": 39.93,
-     "lon": 32.86
-    }
-   ]
-  },
-  {
-   "id": "d7a011ca150337b3",
-   "title": "Μείωση στις μεταναστευτικές ροές και αύξηση στις επιστροφές το τελευταίο 12μηνο",
-   "link": "https://www.ertnews.gr/eidiseis/meiosi-stis-metanasteytikes-roes-kai-ayksisi-stis-epistrofes-to-teleytaio-12mino/",
-   "summary_raw": "<img alt=\"ΜΕΤΑΦΟΡΑ ΠΡΟΣΦΥΓΩΝ ΚΑΙ ΜΕΤΑΝΑΣΤΩΝ ΑΠΟ ΤΗΝ ΚΡΗΤΗ ΣΤΗΝ ΔΟΜΗ ΤΗΣ ΛΕΣΒΟΥ( ΠΑΝΑΓΙΩΤΗΣ ΜΠΑΛΑΣΚΑΣ /EUROKINISSI)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/7063173-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Σημαντική μείωση στις αφίξεις μεταναστών καταγράφεται το τελευταίο δωδεκάμηνο, σύμφωνα με στοιχεία του υπουργείου Μετανάστευσης και Ασύλου. Την ίδια περίοδο αυξήθηκαν οι επιστροφές, ενώ μειώθηκε το ποσοστό αναγνώρισης αιτήσεων ασύλου, διαμορφώνοντας μια διαφορετική εικόνα στις μεταναστευτικές ροές και τη διαχείρισή τους. Ειδικότερα, από την 1η Αυγούστου 2024 έως την 1η Αυγούστου 2025 οι αφίξεις ανήλθαν ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/meiosi-stis-metanasteytikes-roes-kai-ayksisi-stis-epistrofes-to-teleytaio-12mino/\" title=\"Μείωση στις μεταναστευτικές ροές και αύξηση στις επιστροφές το τελευταίο 12μηνο\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-25T08:47:24+00:00",
-   "collected": "2026-08-25T09:02:01.778986+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "αφίξεις"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Σημαντική μείωση στις αφίξεις μεταναστών καταγράφεται το τελευταίο δωδεκάμηνο, σύμφωνα με στοιχεία του υπουργείου Μετανάστευσης και Ασύλου. Την ίδια περίοδο αυξήθηκαν οι επιστροφές, ενώ μειώθηκε το πο",
-   "angle": null
-  },
-  {
-   "id": "37b1b0a5ab624507",
-   "title": "Talat: Greek Cypriot side has always avoided cooperation",
-   "link": "https://cyprus-mail.com/2026/08/25/talat-greek-cypriot-side-has-always-avoided-cooperation",
-   "summary_raw": "The Greek Cypriot side has “always avoided” cooperating with the Turkish Cypriots, former Turkish Cypriot leader Mehmet Ali Talat said on Tuesday, with his successor Tufan Erhurman and President Nikos Christodoulides set to meet in the buffer zone on Wednesday. “Cooperating with the Greek Cypriot side is not an easy task. They avoid it because [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-08-25T08:46:42+00:00",
-   "collected": "2026-08-25T09:02:10.534015+00:00",
-   "keywords_hit": [
-    "christodoulides"
-   ],
-   "category": "Κυπριακό",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "The Greek Cypriot side has “always avoided” cooperating with the Turkish Cypriots, former Turkish Cypriot leader Mehmet Ali Talat said on Tuesday, with his successor Tufan Erhurman and President Nikos",
-   "angle": null
-  },
-  {
-   "id": "dd311052f1ae020d",
-   "title": "Παπασταύρου: «Βάζουμε κανόνες στην ανάπτυξη με το νέο ειδικό χωροταξικό για τις Ανανεώσιμες Πηγές Ενέργειας»",
-   "link": "https://www.pentapostagma.gr/politiki/kybernisi/7386705_papastayroy-bazoyme-kanones-stin-anaptyxi-me-neo-eidiko-horotaxiko-gia",
-   "summary_raw": "Ο υπουργός διέψευσε κατηγορηματικά τις θεωρίες ότι καίγονται δάση για να τοποθετηθούν ανεμογεννήτριες, ενώ υπεραμύνθηκε...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-25T08:45:18+00:00",
-   "collected": "2026-08-25T09:02:22.118898+00:00",
-   "keywords_hit": [
-    "ανανεώσιμ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο υπουργός διέψευσε κατηγορηματικά τις θεωρίες ότι καίγονται δάση για να τοποθετηθούν ανεμογεννήτριες, ενώ υπεραμύνθηκε...",
-   "angle": null
-  },
-  {
-   "id": "f26b30bc9774e02b",
-   "title": "Κρήτη: 85 μετανάστες διασώθηκαν από τη Frontex – Μεταφέρονται στους Καλούς Λιμένες",
-   "link": "https://www.tanea.gr/2026/08/25/greece/kriti-85-metanastes-diasothikan-apo-ti-frontex-metaferontai-stous-kalous-limenes/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/06/limeniko-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Επιχείρηση διάσωσης μεταναστών πραγματοποιήθηκε στη θαλάσσια περιοχή ανατολικά-νοτιοανατολικά των Καλών Λιμένων, με τη συμμετοχή του Ενιαίου Κέντρου Συντονισμού Έρευνας και Διάσωσης. Σύμφωνα με το λιμενικό σώμα &#8211; ελληνική ακτοφυλακή, περίπου 85 μετανάστες επέβαιναν σε δύο λέμβους, οι οποίες εντοπίστηκαν από μη επανδρωμένο εναέριο μέσο της δύναμης Frontex. Άμεσα στην περιοχή έσπευσε περιπολικό πλοίο του λιμενικού, [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T08:43:09+00:00",
-   "collected": "2026-08-25T09:02:50.655882+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "frontex",
-    "λέμβ",
-    "λιμενικ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Επιχείρηση διάσωσης μεταναστών πραγματοποιήθηκε στη θαλάσσια περιοχή ανατολικά-νοτιοανατολικά των Καλών Λιμένων, με τη συμμετοχή του Ενιαίου Κέντρου Συντονισμού Έρευνας και Διάσωσης. Σύμφωνα με το λιμ",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κρήτη",
-     "lat": 35.24,
-     "lon": 24.81
-    }
-   ]
-  },
-  {
-   "id": "bb15da84cf175b4e",
-   "title": "Μαρινάκης: Νέες φορολογικές μειώσεις με έμφαση στη μεσαία τάξη και τις οικογένειες – Δεν υπάρχουν 3 δισ. για 13ο και 14ο μισθό",
-   "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/marinakis-nees-forologikes-meioseis-me-emfasi-sti-mesaia-taksi-kai-tis-oikogeneies-den-yparxoun-3-dis-gia-13o-kai-14o-mistho/",
-   "summary_raw": "<img alt=\"6994958-768x512\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/6994958-768x512-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>Μήνυμα ισχύος και αποφασιστικότητας απέναντι στις τουρκικές κινήσεις, αλλά και σαφές στίγμα για την οικονομία, τη φορολογία, το μεταναστευτικό και το Ταμείο Ανάκαμψης έστειλε ο Υφυπουργός παρά τω Πρωθυπουργώ και Κυβερνητικός Εκπρόσωπος Παύλος Μαρινάκης, σε συνέντευξή του στον ΣΚΑΪ. Ο κ. Μαρινάκης υπογράμμισε ότι η Ελλάδα βρίσκεται σήμερα στην ισχυρότερη αποτρεπτική και διπλωματική θέση των ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ellada/politiki/marinakis-nees-forologikes-meioseis-me-emfasi-sti-mesaia-taksi-kai-tis-oikogeneies-den-yparxoun-3-dis-gia-13o-kai-14o-mistho/\" title=\"Μαρινάκης: Νέες φορολογικές μειώσεις με έμφαση στη μεσαία τάξη και τις οικογένειες &#8211; Δεν υπάρχουν 3 δισ. για 13ο και 14ο μισθό\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-25T08:40:32+00:00",
-   "collected": "2026-08-25T09:02:01.779808+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Μήνυμα ισχύος και αποφασιστικότητας απέναντι στις τουρκικές κινήσεις, αλλά και σαφές στίγμα για την οικονομία, τη φορολογία, το μεταναστευτικό και το Ταμείο Ανάκαμψης έστειλε ο Υφυπουργός παρά τω Πρωθ",
-   "angle": null
-  },
-  {
-   "id": "e13653f77ff9ef1d",
-   "title": "More than four in five North African asylum seekers in Switzerland face crime accusations",
-   "link": "https://brusselssignal.eu/2026/08/more-than-four-in-five-north-african-asylum-seekers-in-switzerland-face-crime-accusations/",
-   "summary_raw": "An internal evaluation revealed that over 80% of North African asylum seekers in Switzerland face crime accusations, significantly higher than other nationalities, raising security concerns.\n<p><a href=\"https://brusselssignal.eu/2026/08/more-than-four-in-five-north-african-asylum-seekers-in-switzerland-face-crime-accusations/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-25T08:36:59+00:00",
-   "collected": "2026-08-25T09:02:53.485950+00:00",
-   "keywords_hit": [
-    "asylum"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "An internal evaluation revealed that over 80% of North African asylum seekers in Switzerland face crime accusations, significantly higher than other nationalities, raising security concerns. Source",
-   "angle": null
-  },
-  {
-   "id": "295fa9226cc0da78",
-   "title": "Παραιτήθηκε από σύμβουλος του Πρωθυπουργού ο Σωτήρης Σέρμπος - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTS1RZE05SzRVXzd5N3RROXh1ZktPUDRSc29XNEt5NE5rV0hhem9sQlRzWmlxN1lVS3V2WHk3b2xEMVF6VGhWMl9QZTVPVWhaMVR6WGRlQWl3bUZrRkNXVkYwVHZsdTBfcWxHdm1DVHRUdGZ2S2dMd0ktMHZnOXBlNjB3Q2NSLXJTdlhKLURIQ3phcGt0WmVINWJfMlZ0YkNzWjI5WDR3?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTS1RZE05SzRVXzd5N3RROXh1ZktPUDRSc29XNEt5NE5rV0hhem9sQlRzWmlxN1lVS3V2WHk3b2xEMVF6VGhWMl9QZTVPVWhaMVR6WGRlQWl3bUZrRkNXVkYwVHZsdTBfcWxHdm1DVHRUdGZ2S2dMd0ktMHZnOXBlNjB3Q2NSLXJTdlhKLURIQ3phcGt0WmVINWJfMlZ0YkNzWjI5WDR3?oc=5\" target=\"_blank\">Παραιτήθηκε από σύμβουλος του Πρωθυπουργού ο Σωτήρης Σέρμπος</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-08-25T08:35:48+00:00",
-   "collected": "2026-08-25T10:51:42.628026+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Παραιτήθηκε από σύμβουλος του Πρωθυπουργού ο Σωτήρης Σέρμπος Παρατηρητής της Θράκης",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "0bf6b7d550a19805",
-   "title": "“Passive Greece Is Gone”: Gerapetritis defends detente, warns Turkey on sovereign rights",
-   "link": "https://greekcitytimes.com/2026/08/25/passive-greece-gone-gerapetritis/",
-   "summary_raw": "<p>Greek Foreign Minister George Gerapetritis has pushed back against claims that Athens has taken a timid line toward Turkey, insisting that engagement with Ankara is a means to national ends, not a sign of weakness. In an interview with To Vima, Gerapetritis said “the Greece of passive diplomatic inertia is gone for good.” The so-called…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/08/25/passive-greece-gone-gerapetritis/\">“Passive Greece Is Gone”: Gerapetritis defends detente, warns Turkey on sovereign rights</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-08-25T08:35:16+00:00",
-   "collected": "2026-08-25T09:02:22.376743+00:00",
-   "keywords_hit": [
-    "gerapetritis"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Greek Foreign Minister George Gerapetritis has pushed back against claims that Athens has taken a timid line toward Turkey, insisting that engagement with Ankara is a means to national ends, not a sig",
-   "angle": null,
-   "corroborated_by": [
-    "Kathimerini (EN)"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    },
-    {
-     "name": "Άγκυρα",
-     "lat": 39.93,
-     "lon": 32.86
-    }
-   ]
-  },
-  {
-   "id": "4a7d5ffc65ecf5fc",
-   "title": "Hackers Say Rabat Deployed Moroccan Agents to Ceuta Before and During Mass Incursion",
-   "link": "https://europeanconservative.com/articles/news/ceuta-jabaroot-hackers-rabat-deployed-moroccan-agents-before-during-mass-incursion/",
-   "summary_raw": "The Jabaroot group presents their leak as a “gift to Spain” in response to the mass entry of July 30.",
-   "source": "The European Conservative",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-25T08:32:40+00:00",
-   "collected": "2026-08-25T09:02:54.908686+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The Jabaroot group presents their leak as a “gift to Spain” in response to the mass entry of July 30.",
-   "angle": null
-  },
-  {
-   "id": "e298ab44917ecaf6",
-   "title": "Offshore wind power projects are flailing, just when the East Coast needs them most",
-   "link": "https://grist.org/energy/offshore-wind-projects-east-coast-electric-grids/",
-   "summary_raw": "",
-   "source": "Grist",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-08-25T08:30:00+00:00",
-   "collected": "2026-08-25T11:46:42.679728+00:00",
-   "keywords_hit": [
-    "offshore wind"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null
-  },
-  {
-   "id": "f048d874b7a28a9e",
-   "title": "“Document of shame”: Turkish columnists attack photo of Greek and Israeli military chiefs",
-   "link": "https://greekcitytimes.com/2026/08/25/document-of-shame-turkish/",
-   "summary_raw": "<p>Turkish newspapers and analysts have spent the last days dissecting Greek-Israeli defense ties: joint exercises, drones, air defense, cyber cooperation, and a shared flight-training footprint in Greece. The common thread is anxiety that this axis, together with Cyprus, is meant to constrain Ankara in the Aegean and Eastern Mediterranean. How Turkish outlets are framing it…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/08/25/document-of-shame-turkish/\">“Document of shame”: Turkish columnists attack photo of Greek and Israeli military chiefs</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-08-25T08:20:51+00:00",
-   "collected": "2026-08-25T09:02:22.377056+00:00",
-   "keywords_hit": [
-    "aegean"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 4,
-   "turkish_narrative": true,
-   "summary_el": "Turkish newspapers and analysts have spent the last days dissecting Greek-Israeli defense ties: joint exercises, drones, air defense, cyber cooperation, and a shared flight-training footprint in Greec",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "99357a45bbc9bc6b",
-   "title": "Global ocean temperatures hit record high as El Nino intensifies",
-   "link": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
-   "summary_raw": "Copernicus warns of &#039;unprecedented strain&#039; on world&#039;s oceans as El Nino and climate change drive up sea temperatures.",
-   "source": "Al Jazeera English",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-25T08:10:10+00:00",
-   "collected": "2026-08-25T09:02:25.291313+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Copernicus warns of 'unprecedented strain' on world's oceans as El Nino and climate change drive up sea temperatures.",
-   "angle": null,
-   "corroborated_by": [
-    "Inside Climate News"
-   ]
-  },
-  {
-   "id": "d9c17f1f576984a5",
-   "title": "Γυναίκα υποψήφια δήμαρχος Σαμοθράκης το 2028; Ποια ακούγεται έντονα στο νησί",
-   "link": "https://www.evros-news.gr/2026/08/25/gynaika-ypopsifia-dimarchos-samothrakis-to-2028-poia-akougetai-entona-sto-nisi/",
-   "summary_raw": "Αν και απέχουμε δυο και πλέον χρόνια από τις αυτοδιοικητικές εκλογές του 2028 κα το ενδιαφέρον συγκεντρώνουν οι εθνικές εκλογές που θα προηγηθούν, τα σενάρια [&#8230;]",
-   "source": "Evros News",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-08-25T08:00:15+00:00",
-   "collected": "2026-08-25T13:13:29.266962+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Αν και απέχουμε δυο και πλέον χρόνια από τις αυτοδιοικητικές εκλογές του 2028 κα το ενδιαφέρον συγκεντρώνουν οι εθνικές εκλογές που θα προηγηθούν, τα σενάρια […]",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Σαμοθράκη",
-     "lat": 40.47,
-     "lon": 25.53
-    }
-   ]
-  },
-  {
-   "id": "b745dfe7a3abf05a",
-   "title": "“Nothing Without Turkey’s Permission”: Turkish commentators discuss energy cables, IMEC, and sinking a Greek patrol boat",
-   "link": "https://greekcitytimes.com/2026/08/25/turkish-commentators-discus/",
-   "summary_raw": "<p>Turkish television and the commentariat have sharpened their language toward Greece after a Bloomberg report that Ankara is considering legislation to assert its maritime claims in parts of the Aegean and the Eastern Mediterranean. Several Turkish outlets have gone beyond the usual sovereignty talking points. Some commentators are openly discussing a possible “hot incident” with…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/08/25/turkish-commentators-discus/\">“Nothing Without Turkey’s Permission”: Turkish commentators discuss energy cables, IMEC, and sinking a Greek patrol boat</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-08-25T07:57:19+00:00",
-   "collected": "2026-08-25T08:01:01.677549+00:00",
-   "keywords_hit": [
-    "aegean"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 4,
-   "turkish_narrative": true,
-   "summary_el": "Turkish television and the commentariat have sharpened their language toward Greece after a Bloomberg report that Ankara is considering legislation to assert its maritime claims in parts of the Aegean",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Άγκυρα",
-     "lat": 39.93,
-     "lon": 32.86
-    },
-    {
-     "name": "Αιγαίο",
-     "lat": 39.0,
-     "lon": 25.5
-    },
-    {
-     "name": "Ανατολική Μεσόγειος",
-     "lat": 34.0,
-     "lon": 30.0
-    }
-   ]
-  },
-  {
-   "id": "cbab298da6b13af3",
-   "title": "«Δεν αποκομίζουμε εκατομμύρια από τα φωτοβολταϊκά πάρκα» – Η απάντηση Παπαέλληνα στον Φειδία Παναγιώτου",
-   "link": "https://www.philenews.com/oikonomia/kypros/article/1762451/den-apokomizoume-ekatommiria-apo-ta-fotovoltaika-parka-i-apantisi-papaellina-ston-fidia-panagiotou/",
-   "summary_raw": "<p>Στην αντεπίθεση περνά ο επιχειρηματίας Ανδρέας Παπαέλληνας, απαντώντας στις πρόσφατες δημόσιες αναφορές του ευρωβουλευτή Φειδία Παναγιώτου για τη σχέση του με φωτοβολταϊκά πάρκα, απορρίπτοντας ως «αναληθείς» τους ισχυρισμούς ότι αποκομίζει εκατομμύρια από τις συγκεκριμένες εγκαταστάσεις και τονίζοντας ότι ο δημόσιος διάλογος για το ενεργειακό κόστος πρέπει να διεξάγεται στη βάση τεκμηριωμένων στοιχείων και διασταυρωμένων πληροφοριών. [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/oikonomia/kypros/article/1762451/den-apokomizoume-ekatommiria-apo-ta-fotovoltaika-parka-i-apantisi-papaellina-ston-fidia-panagiotou/\">«Δεν αποκομίζουμε εκατομμύρια από τα φωτοβολταϊκά πάρκα» – Η απάντηση Παπαέλληνα στον Φειδία Παναγιώτου</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-08-25T07:55:25+00:00",
-   "collected": "2026-08-25T08:01:02.863809+00:00",
-   "keywords_hit": [
-    "φωτοβολταϊκ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Στην αντεπίθεση περνά ο επιχειρηματίας Ανδρέας Παπαέλληνας, απαντώντας στις πρόσφατες δημόσιες αναφορές του ευρωβουλευτή Φειδία Παναγιώτου για τη σχέση του με φωτοβολταϊκά πάρκα, απορρίπτοντας ως «ανα",
-   "angle": null
-  },
-  {
-   "id": "244b6c1877e8525b",
-   "title": "Σταύρος Παπασταύρου: «Ειδικό Χωροταξικό Πλαίσιο για Τουρισμό και ΑΠΕ: Ανάπτυξη με κανόνες, με σεβασμό στο περιβάλλον και τις τοπικές κοινωνίες - Υπουργείο Περιβάλλοντος και Ενέργειας",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPanVMR3ZQTHlKeGV5eDBHclNRLUpFQWd4SlhhM05PZjhBbU52LTBIYk14LWZvYTRyd2ZXT1lGaUlMTGpMcXpJTndBZVFnemF4N0tvRVRRY0pVbjZsRnhIZFhtOVJVa2ctTldVMDVUdGdVS29uZUhFYVRWc0NlN2JVNTJrak1sYUctbGkyMWJqNHlJaWpiY1FKM2M4LW9hdFJ6dUVtWTNnVEhkWGV2Zi00TlY1bHBocTJJek12TWNITV9PWFQwcGVkLUpaZnBBMEtYTXdyNGYxc1hhR241ZGgySHF1TkhWY2t2TW9ObXIzakp1QQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPanVMR3ZQTHlKeGV5eDBHclNRLUpFQWd4SlhhM05PZjhBbU52LTBIYk14LWZvYTRyd2ZXT1lGaUlMTGpMcXpJTndBZVFnemF4N0tvRVRRY0pVbjZsRnhIZFhtOVJVa2ctTldVMDVUdGdVS29uZUhFYVRWc0NlN2JVNTJrak1sYUctbGkyMWJqNHlJaWpiY1FKM2M4LW9hdFJ6dUVtWTNnVEhkWGV2Zi00TlY1bHBocTJJek12TWNITV9PWFQwcGVkLUpaZnBBMEtYTXdyNGYxc1hhR241ZGgySHF1TkhWY2t2TW9ObXIzakp1QQ?oc=5\" target=\"_blank\">Σταύρος Παπασταύρου: «Ειδικό Χωροταξικό Πλαίσιο για Τουρισμό και ΑΠΕ: Ανάπτυξη με κανόνες, με σεβασμό στο περιβάλλον και τις τοπικές κοινωνίες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Υπουργείο Περιβάλλοντος και Ενέργειας</font>",
-   "source": "ΥΠΕΝ",
-   "side": "green_official",
-   "lang": "el",
-   "published": "2026-08-25T07:55:06+00:00",
-   "collected": "2026-08-25T14:06:40.956699+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Σταύρος Παπασταύρου: «Ειδικό Χωροταξικό Πλαίσιο για Τουρισμό και ΑΠΕ: Ανάπτυξη με κανόνες, με σεβασμό στο περιβάλλον και τις τοπικές κοινωνίες Υπουργείο Περιβάλλοντος και Ενέργειας",
-   "angle": null
-  },
-  {
-   "id": "b449e2a544238dab",
-   "title": "Muslims are not creating an 'Islamic Republic' in Britain. This is their home",
-   "link": "https://www.middleeasteye.net/opinion/muslims-are-not-creating-islamic-republic-britain-their-home",
-   "summary_raw": "<article class=\"opinion default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/opinion/muslims-are-not-creating-islamic-republic-britain-their-home\" rel=\"bookmark\">\n<span class=\"field field-title\">Muslims are not creating an 'Islamic Republic' in Britain. This is their home</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/soumaya-ghannoushi\" lang=\"lang\" title=\"View user profile.\">Soumaya Ghannoushi</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-08-24T15:37:33+01:00\" title=\"24 August 2026 15:37 BST\">Mon, 08/24/2026 - 15:37</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">Netanyahu's absurd comments reveal a deeply exclusionary idea of citizenship - one where visibility becomes demographic menace</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"787\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"alt\" height=\"787\" src=\"https://www.middleeasteye.net/site",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-25T07:53:59+00:00",
-   "collected": "2026-08-25T09:02:15.946283+00:00",
-   "keywords_hit": [
-    "minority",
-    "migrant",
-    "nuclear"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Muslims are not creating an 'Islamic Republic' in Britain. This is their home Submitted by Soumaya Ghannoushi on Mon, 08/24/2026 - 15:37 Netanyahu's absurd comments reveal a deeply exclusionary idea o",
-   "angle": null,
-   "corroborated_by": [
-    "UnHerd"
-   ]
-  },
-  {
-   "id": "757b5011a807ae27",
-   "title": "WSJ: Η ΕΕ επέκρινε το πισογύρισμα Τραμπ για την κλιματική αλλαγή, τώρα όμως καθυστερεί τα δικά της μέτρα",
-   "link": "https://www.in.gr/2026/08/25/in-science/perivallon-b-science/wsj-i-ee-epekrine-to-pisogyrisma-tramp-gia-tin-klimatiki-allagi-tora-omos-kathysterei-ta-dika-tis-metra/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/08/photo_1-08-26_15_03_40_11785593032-1-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Οι ανεπτυγμένες χώρες διστάζουν όλο και περισσότερο να αναλάβουν το κόστος των μέτρων για την κλιματική αλλαγή.</p>\n<p>The post <a href=\"https://www.in.gr/2026/08/25/in-science/perivallon-b-science/wsj-i-ee-epekrine-to-pisogyrisma-tramp-gia-tin-klimatiki-allagi-tora-omos-kathysterei-ta-dika-tis-metra/\">WSJ: Η ΕΕ επέκρινε το πισογύρισμα Τραμπ για την κλιματική αλλαγή, τώρα όμως καθυστερεί τα δικά της μέτρα</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T07:42:00+00:00",
-   "collected": "2026-08-25T08:01:30.071713+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Οι ανεπτυγμένες χώρες διστάζουν όλο και περισσότερο να αναλάβουν το κόστος των μέτρων για την κλιματική αλλαγή. The post WSJ: Η ΕΕ επέκρινε το πισογύρισμα Τραμπ για την κλιματική αλλαγή, τώρα όμως καθ",
-   "angle": null
-  },
-  {
-   "id": "c80a902e8377a9c0",
-   "title": "Polish Government attempts to implicate President Nawrocki in cryptocurrency scandal",
-   "link": "https://brusselssignal.eu/2026/08/polish-government-attempts-to-implicate-president-nawrocki-in-cryptocurrency-scandal/",
-   "summary_raw": "The Polish government is investigating a collapsed cryptocurrency exchange, Zondacrypto, amid allegations of fraud and linking President Nawrocki to legislative vetoes related to the firm.\n<p><a href=\"https://brusselssignal.eu/2026/08/polish-government-attempts-to-implicate-president-nawrocki-in-cryptocurrency-scandal/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-25T07:41:46+00:00",
-   "collected": "2026-08-25T13:14:19.992172+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The Polish government is investigating a collapsed cryptocurrency exchange, Zondacrypto, amid allegations of fraud and linking President Nawrocki to legislative vetoes related to the firm. Source",
-   "angle": null,
-   "corroborated_by": [
-    "Remix News"
-   ]
-  },
-  {
-   "id": "c1f13ab611ac1177",
-   "title": "Επιχείρηση του Λιμενικού για διάσωση 85 παράνομων μεταναστών ανοιχτά των Καλών Λιμένων",
-   "link": "https://flight.com.gr/coast-guard-operation-to-rescue-85-illegal-migrants-off-kali-limenes/?utm_source=rss&utm_medium=rss&utm_campaign=coast-guard-operation-to-rescue-85-illegal-migrants-off-kali-limenes",
-   "summary_raw": "<p>Μεγάλη επιχείρηση εντοπισμού και περισυλλογής περίπου 85 παράνομων μεταναστών πραγματοποιήθηκε στη θαλάσσια περιοχή ανατολικά-νοτιοανατολικά των Καλών Λιμένων, υπό τον συντονισμό του Ενιαίου Κέντρου Συντονισμού Έρευνας και Διάσωσης. Σύμφωνα με το λιμενικό σώμα &#8211; ελληνική ακτοφυλακή, οι παράνομοι μετανάστες επέβαιναν σε δύο λέμβους, οι οποίες εντοπίστηκαν από μη επανδρωμένο εναέριο μέσο της δύναμης Frontex. Στην περιοχή [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/coast-guard-operation-to-rescue-85-illegal-migrants-off-kali-limenes/\">Επιχείρηση του Λιμενικού για διάσωση 85 παράνομων μεταναστών ανοιχτά των Καλών Λιμένων</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
-   "source": "Πτήση & Διάστημα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-25T07:37:00+00:00",
-   "collected": "2026-08-25T08:00:23.008816+00:00",
-   "keywords_hit": [
-    "migrant",
-    "μεταναστ",
-    "frontex",
-    "λέμβ",
-    "λιμενικ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Μεγάλη επιχείρηση εντοπισμού και περισυλλογής περίπου 85 παράνομων μεταναστών πραγματοποιήθηκε στη θαλάσσια περιοχή ανατολικά-νοτιοανατολικά των Καλών Λιμένων, υπό τον συντονισμό του Ενιαίου Κέντρου Σ",
-   "angle": null,
-   "corroborated_by": [
-    "Καθημερινή"
-   ]
-  },
-  {
-   "id": "d7ebafb40cd14e21",
-   "title": "Λιβύη και Chevron υπογράφουν πετρελαϊκή συμφωνία για τη λεκάνη της Σύρτης",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/livyi-kai-chevron-ypografoun-petrelaiki-symfonia-gia-ti-lekani-tis-syrtis/",
-   "summary_raw": "<img alt=\"chevron-768x434-1\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"434\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/08/chevron-768x434-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>Η Κυβέρνηση Εθνικής Ενότητας της Λιβύης ανακοίνωσε την υπογραφή συμφωνίας κατανομής παραγωγής με την αμερικανική πετρελαϊκή εταιρεία Chevron, στο πλαίσιο των αποτελεσμάτων του διαγωνισμού παραχώρησης πετρελαϊκών οικοπέδων του 2025 για ξένες εταιρείες. Σύμφωνα με ανακοίνωση της λιβυκής κυβέρνησης, η συμφωνία αποσκοπεί στην ενίσχυση της έρευνας και ανάπτυξης των ενεργειακών πόρων της χώρας, αξιοποιώντας σύγχρονες τεχνολογίες ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/livyi-kai-chevron-ypografoun-petrelaiki-symfonia-gia-ti-lekani-tis-syrtis/\" title=\"Λιβύη και Chevron υπογράφουν πετρελαϊκή συμφωνία για τη λεκάνη της Σύρτης\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-25T07:29:53+00:00",
-   "collected": "2026-08-25T08:00:21.110890+00:00",
-   "keywords_hit": [
-    "chevron",
-    "λιβύη"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Κυβέρνηση Εθνικής Ενότητας της Λιβύης ανακοίνωσε την υπογραφή συμφωνίας κατανομής παραγωγής με την αμερικανική πετρελαϊκή εταιρεία Chevron, στο πλαίσιο των αποτελεσμάτων του διαγωνισμού παραχώρησης ",
-   "angle": null
-  },
-  {
-   "id": "808841d659fef25a",
-   "title": "Ηράκλειο: Περισσότεροι από 80 μετανάστες εντοπίστηκαν στους Καλούς Λιμένες",
-   "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/iraklio/irakleio-perissoteroi-apo-80-metanastes-entopistikan-stous-kalous-limenes/",
-   "summary_raw": "<img alt=\"limeniko\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"584\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/07/limeniko.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>Νέα περιστατικά άφιξης μεταναστών καταγράφονται σήμερα (25/8) στα νότια του Ηρακλείου. Συγκεκριμένα, το Λιμενικό Σώμα τέθηκε σε συναγερμό έπειτα από τον εντοπισμό δύο λέμβων ανοικτά των Καλών Λιμένων, στα νότια του νομού, από εναέριο μέσο της Frontex. Στις λέμβους εντοπίστηκαν συνολικά 84 άτομα και συγκεκριμένα 30 στο πρώτο περιστατικό και 54 στο δεύτερο. Οι μετανάστες ... <a class=\"read-more\" href=\"https://www.ertnews.gr/perifereiakoi-stathmoi/iraklio/irakleio-perissoteroi-apo-80-metanastes-entopistikan-stous-kalous-limenes/\" title=\"Ηράκλειο: Περισσότεροι από 80 μετανάστες εντοπίστηκαν στους Καλούς Λιμένες\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-25T07:25:49+00:00",
-   "collected": "2026-08-25T08:00:21.111251+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "frontex",
-    "λέμβ",
-    "λιμενικ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Νέα περιστατικά άφιξης μεταναστών καταγράφονται σήμερα (25/8) στα νότια του Ηρακλείου. Συγκεκριμένα, το Λιμενικό Σώμα τέθηκε σε συναγερμό έπειτα από τον εντοπισμό δύο λέμβων ανοικτά των Καλών Λιμένων,",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κρήτη",
-     "lat": 35.24,
-     "lon": 24.81
-    }
-   ]
-  },
-  {
-   "id": "43a3e52dc6c3517d",
-   "title": "Χρήστος Κηπουρός: 55 μίλια “πρόσω ολοταχώς” το πάρκο – 155 “όπισθεν ολοταχώς” οι patriot-ΕΣ!",
-   "link": "https://www.evros-news.gr/2026/08/25/christos-kipouros-55-milia-proso-olotachos-to-parko-155-opisthen-olotachos-oi-patriot-es/",
-   "summary_raw": "-Προς τους Πολίτες: “Κυβερνήστε τους κυβερνώντες”! “Μπορείτε να κυβερνήσετε χωρίς να είστε στην κυβέρνηση” -Απλή αριθμητική σημειωτική: Δυτικά των Δαρδανελίων έως την απόληξη του τουρκικού [&#8230;]",
-   "source": "Evros News",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-08-25T07:22:28+00:00",
-   "collected": "2026-08-25T08:00:31.139994+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "-Προς τους Πολίτες: “Κυβερνήστε τους κυβερνώντες”! “Μπορείτε να κυβερνήσετε χωρίς να είστε στην κυβέρνηση” -Απλή αριθμητική σημειωτική: Δυτικά των Δαρδανελίων έως την απόληξη του τουρκικού […]",
-   "angle": null
-  },
-  {
-   "id": "da9ad36bb576d51d",
-   "title": "Το Κογκρέσο φρενάρει την πώληση F-35 στην Τουρκία - slpress.gr",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeG5qQTU1UmpRV3RiYmxJQllhTXBkYXpseDdRbHdWU2lsdlJkVVV4V2I4ZF9SdkFhekc5REY2YTVGdmdITl9aQWpuTWNzdC1zSk9DN2t2YWFyenZ3X3NVZ0IyZUhqNEliRUF4M3Y4Y1dBLXBORC00MlVtS1oyUDgyVdIBhgFBVV95cUxNNzZOeDFkUW4zemtJYTlpQVJRaUZ3REJ5cHY1clhGX1JwY3YzUHc3RHFXWDVNMXU0eFRQT0dOYUw4X09ncDY4OEtDTjVleVlHQk13X0llNEQ3MkYxcUFBbzhYVEI3cjl3bUtWMWVRd200cHNlQUdER2pxSXBDMVdDRVRScGhmdw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOeG5qQTU1UmpRV3RiYmxJQllhTXBkYXpseDdRbHdWU2lsdlJkVVV4V2I4ZF9SdkFhekc5REY2YTVGdmdITl9aQWpuTWNzdC1zSk9DN2t2YWFyenZ3X3NVZ0IyZUhqNEliRUF4M3Y4Y1dBLXBORC00MlVtS1oyUDgyVdIBhgFBVV95cUxNNzZOeDFkUW4zemtJYTlpQVJRaUZ3REJ5cHY1clhGX1JwY3YzUHc3RHFXWDVNMXU0eFRQT0dOYUw4X09ncDY4OEtDTjVleVlHQk13X0llNEQ3MkYxcUFBbzhYVEI3cjl3bUtWMWVRd200cHNlQUdER2pxSXBDMVdDRVRScGhmdw?oc=5\" target=\"_blank\">Το Κογκρέσο φρενάρει την πώληση F-35 στην Τουρκία</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">slpress.gr</font>",
-   "source": "SLpress",
-   "side": "greek_analysis",
-   "lang": "el",
-   "published": "2026-08-25T07:19:01+00:00",
-   "collected": "2026-08-26T07:10:53.755019+00:00",
-   "keywords_hit": [
-    "f-35"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Το Κογκρέσο φρενάρει την πώληση F-35 στην Τουρκία slpress.gr",
-   "angle": null
-  },
-  {
-   "id": "2a6379ce47624b65",
-   "title": "Yunanistan'da 3 bölgede orman yangını çıktı",
-   "link": "https://www.milletgazetesi.gr/yunanistan/yunanistanda-3-bolgede-orman-yangini-cikti",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Yunanistan)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-08-25T07:11:44.582239+00:00",
-   "collected": "2026-08-25T07:11:44.582254+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null
-  },
-  {
-   "id": "3053c688348432d8",
-   "title": "Athens pushes back against Turkish moves",
-   "link": "https://www.ekathimerini.com/politics/foreign-policy/1313269/athens-pushes-back-against-turkish-moves/",
-   "summary_raw": "Greece is intensifying diplomatic efforts to counter what it describes as Turkish provocations and violations of international law in the Aegean Sea and the Eastern Mediterranean, while simultaneously preparing for a range of potential scenarios linked to ongoing regional disputes.",
-   "source": "Kathimerini (EN)",
-   "side": "greek_media",
-   "lang": "en",
-   "published": "2026-08-25T07:07:17+00:00",
-   "collected": "2026-08-25T09:01:59.790970+00:00",
-   "keywords_hit": [
-    "aegean"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Greece is intensifying diplomatic efforts to counter what it describes as Turkish provocations and violations of international law in the Aegean Sea and the Eastern Mediterranean, while simultaneously",
-   "angle": null,
-   "corroborated_by": [
-    "Greek City Times"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    },
-    {
-     "name": "Αιγαίο",
-     "lat": 39.0,
-     "lon": 25.5
-    },
-    {
-     "name": "Ανατολική Μεσόγειος",
-     "lat": 34.0,
-     "lon": 30.0
-    }
-   ]
-  },
-  {
-   "id": "207318f72c340fef",
-   "title": "Πλεύρης: «Μειώσαμε τις μεταναστευτικές ροές κατά 20.000» - 41.995 αφίξεις σε ένα έτος",
-   "link": "https://www.pentapostagma.gr/ethnika-themata/esoteriki-asfaleia/7386691_pleyris-meiosame-tis-metanasteytikes-roes-kata-20000",
-   "summary_raw": "Ο κ. Πλεύρης αναφέρθηκε και στην αποσυμφόρηση των νησιών",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-08-25T06:59:35+00:00",
-   "collected": "2026-08-25T07:10:54.158706+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "αφίξεις"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο κ. Πλεύρης αναφέρθηκε και στην αποσυμφόρηση των νησιών",
-   "angle": null
-  },
-  {
-   "id": "0273b4205892d1e5",
-   "title": "Συναγερμός στη Γερμανία: Τρίτο drone και στρατιωτικά εκρηκτικά κοντά στο αεροδρόμιο της Λειψίας",
-   "link": "https://www.protothema.gr/world/article/1869140/sunagermos-sti-germania-trito-drone-kai-stratiotika-ekriktika-koda-sto-aerodromio-tis-leipsias/?utm_source=rss",
-   "summary_raw": "Οι Αρχές εξετάζουν σχέδιο επίθεσης σε ουκρανικά μεταγωγικά - Υποψίες για εμπλοκή ρωσικών μυστικών υπηρεσιών",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T06:59:00+00:00",
-   "collected": "2026-08-25T08:01:27.073503+00:00",
-   "keywords_hit": [
-    "μυστικών υπηρεσιών"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Οι Αρχές εξετάζουν σχέδιο επίθεσης σε ουκρανικά μεταγωγικά - Υποψίες για εμπλοκή ρωσικών μυστικών υπηρεσιών",
-   "angle": null
-  },
-  {
-   "id": "c315f7db9f7eab84",
-   "title": "Ηράκλειο: Δύο επιχειρήσεις διάσωσης μεταναστών ανοιχτά των Καλών Λιμένων – Πάνω από 80 διασωθέντες - Newsbomb",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQV9DQXlHZmhCc3R3V3Z2QklSWWg0M1AzS0FJUldrZ0FkbXFlc295X3ZzVVRSdGpPS1RQRFJ4eHlSMFRpeEVmbDE3ZlpqUHliZmUwOFZ3OHRRYmQ1TXJscXpUUkJjV0d0SU5NMmZvVWFDRjZma1VNU01KUk9Ecml0Z1doVUZvOGlUdFNnVUNCelEyY0ZDeXRWSVNyaFlPQjJQdW51WmNDX1JKRU8xYXhoRkU4LXFZWW9VR1htMURwRnFScURQa1RTTlJSeS0yX0dtYmFIUjVYaTNKTkU?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQV9DQXlHZmhCc3R3V3Z2QklSWWg0M1AzS0FJUldrZ0FkbXFlc295X3ZzVVRSdGpPS1RQRFJ4eHlSMFRpeEVmbDE3ZlpqUHliZmUwOFZ3OHRRYmQ1TXJscXpUUkJjV0d0SU5NMmZvVWFDRjZma1VNU01KUk9Ecml0Z1doVUZvOGlUdFNnVUNCelEyY0ZDeXRWSVNyaFlPQjJQdW51WmNDX1JKRU8xYXhoRkU4LXFZWW9VR1htMURwRnFScURQa1RTTlJSeS0yX0dtYmFIUjVYaTNKTkU?oc=5\" target=\"_blank\">Ηράκλειο: Δύο επιχειρήσεις διάσωσης μεταναστών ανοιχτά των Καλών Λιμένων – Πάνω από 80 διασωθέντες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsbomb</font>",
-   "source": "Newsbomb",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-08-25T06:57:51+00:00",
-   "collected": "2026-08-25T09:02:00.256765+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ηράκλειο: Δύο επιχειρήσεις διάσωσης μεταναστών ανοιχτά των Καλών Λιμένων – Πάνω από 80 διασωθέντες Newsbomb",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κρήτη",
-     "lat": 35.24,
-     "lon": 24.81
-    }
-   ]
-  },
-  {
-   "id": "2f1155361bcdcba3",
-   "title": "Νέες αφίξεις μεταναστών στους Καλούς Λιμένες – 84 άτομα σε δύο βάρκες",
-   "link": "https://www.zarpanews.gr/nees-afixeis-metanaston-stoys-kaloys-limenes-84-atoma-se-dyo-varkes/",
-   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"360\" src=\"https://www.zarpanews.gr/wp-content/uploads/2026/06/metanastes-768x432.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"640\" /><p>Νέες αφίξεις μεταναστών στους Καλούς Λιμένες, κινητοποίησαν νωρίς του πρωί της Τρίτης το Λιμενικό Σώμα. Συνολικά, στην περιοχή έφτασαν 84 άτομα, τα οποία εντοπίστηκαν σε δύο διαφορετικές ομάδες. Η πρώτη αποτελείται από 30 άτομα, ενώ η δεύτερη από 54 άτομα. Σε επιφυλακή παραμένουν οι αρμόδιες Αρχές στη νότια Κρήτη, καθώς οι καλές καιρικές συνθήκες στη [&#8230;]</p>\n<p>The post <a href=\"https://www.zarpanews.gr/nees-afixeis-metanaston-stoys-kaloys-limenes-84-atoma-se-dyo-varkes/\">Νέες αφίξεις μεταναστών στους Καλούς Λιμένες – 84 άτομα σε δύο βάρκες</a> appeared first on <a href=\"https://www.zarpanews.gr\">zarpanews.gr</a>.</p>",
-   "source": "Zarpanews (Χανιά)",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-25T06:51:15+00:00",
-   "collected": "2026-08-25T07:11:20.947706+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "λιμενικ",
-    "αφίξεις"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Νέες αφίξεις μεταναστών στους Καλούς Λιμένες, κινητοποίησαν νωρίς του πρωί της Τρίτης το Λιμενικό Σώμα. Συνολικά, στην περιοχή έφτασαν 84 άτομα, τα οποία εντοπίστηκαν σε δύο διαφορετικές ομάδες. Η πρώ",
-   "angle": null
-  },
-  {
-   "id": "8705ed77ca47bac9",
-   "title": "⚡️ With the continued closure of the Strait of Hormuz, a wave of Russian and American LNG tankers is forced to take a longer route, passing by the Cape of Good Hope, to reach Asian…",
-   "link": "https://t.me/me_observer_TG/1074868",
-   "summary_raw": "⚡️ With the continued closure of the Strait of Hormuz, a wave of Russian and American LNG tankers is forced to take a longer route, passing by the Cape of Good Hope, to reach Asian markets. At the same time, LNG prices in Asian markets are approaching their highest levels this year. - India was forced to buy the most expensive LNG shipments in recent years to secure its supplies.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-08-25T06:50:34+00:00",
-   "collected": "2026-08-25T07:11:37.623210+00:00",
-   "keywords_hit": [
-    "lng"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ With the continued closure of the Strait of Hormuz, a wave of Russian and American LNG tankers is forced to take a longer route, passing by the Cape of Good Hope, to reach Asian markets. At the sam",
-   "angle": null
-  },
-  {
-   "id": "c0397aff0d3ca8f3",
-   "title": "Κρήτη: Επιχείρηση διάσωσης 85 μεταναστών ανοιχτά των Καλών Λιμένων",
-   "link": "https://www.kathimerini.gr/society/564418924/kriti-epicheirisi-diasosis-85-metanaston-anoichta-ton-kalon-limenon/",
-   "summary_raw": "Μεγάλη επιχείρηση εντοπισμού και περισυλλογής περίπου 85 μεταναστών πραγματοποιήθηκε στη θαλάσσια περιοχή ανατολικά-νοτιοανατολικά των Καλών Λιμένων, υπό τον συντονισμό του Ενιαίου Κέντρου Συντονισμού Ερευνας και Διάσωσης. Σύμφωνα με το Λιμενικό Σώμα – Ελληνική Ακτοφυλακή, οι αλλοδαποί επέβαιναν σε δύο λέμβους, οι οποίες εντοπίστηκαν από μη επανδρωμένο εναέριο μέσο της δύναμης Frontex. Στην περιοχή έσπευσε περιπολικό […]",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T06:50:20+00:00",
-   "collected": "2026-08-25T08:01:28.761293+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "frontex",
-    "λέμβ",
-    "λιμενικ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Μεγάλη επιχείρηση εντοπισμού και περισυλλογής περίπου 85 μεταναστών πραγματοποιήθηκε στη θαλάσσια περιοχή ανατολικά-νοτιοανατολικά των Καλών Λιμένων, υπό τον συντονισμό του Ενιαίου Κέντρου Συντονισμού",
-   "angle": null,
-   "corroborated_by": [
-    "Πτήση & Διάστημα"
-   ],
-   "locations": [
-    {
-     "name": "Κρήτη",
-     "lat": 35.24,
-     "lon": 24.81
-    }
-   ]
-  },
-  {
-   "id": "b4881b73ea969ca0",
-   "title": "Turkish Cypriot premier condemns attempts to block Barcelona youth football camp",
-   "link": "https://www.aa.com.tr/en/sports/turkish-cypriot-premier-condemns-attempts-to-block-barcelona-youth-football-camp/4036448",
-   "summary_raw": "Far-right ELAM urges Greek Cypriot authorities to pressure Spain over FC Barcelona’s planned training camp in Turkish Republic of Northern Cyprus",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-08-25T06:49:45+00:00",
-   "collected": "2026-08-25T07:10:28.840955+00:00",
-   "keywords_hit": [
-    "greek",
-    "cyprus",
-    "cypriot"
-   ],
-   "category": "Κυπριακό",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "Far-right ELAM urges Greek Cypriot authorities to pressure Spain over FC Barcelona’s planned training camp in Turkish Republic of Northern Cyprus",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    },
-    {
-     "name": "Ψευδοκράτος",
-     "lat": 35.3,
-     "lon": 33.3
-    }
-   ]
-  },
-  {
-   "id": "f13b71f31f1bb8de",
-   "title": "Μήνυμα Μητσοτάκη προς την Αγκυρα: Οι αντιδράσεις δεν επηρεάζουν τον δικό μας σχεδιασμό",
-   "link": "https://www.kathimerini.gr/politics/foreign-policy/564418267/minyma-mitsotaki-pros-tin-agkyra-oi-antidraseis-den-epireazoyn-ton-diko-mas-schediasmo/",
-   "summary_raw": "Η Αθήνα προετοιμάζει διάβημα προς την Αγκυρα για τα τουρκικά θαλάσσια πάρκα, ενώ ο κ. Γεραπετρίτης θα ενημερώσει την επόμενη εβδομάδα το Συμβούλιο Εξωτερικών Υποθέσεων.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T06:49:16+00:00",
-   "collected": "2026-08-25T08:01:28.761454+00:00",
-   "keywords_hit": [
-    "γεραπετρίτης"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Αθήνα προετοιμάζει διάβημα προς την Αγκυρα για τα τουρκικά θαλάσσια πάρκα, ενώ ο κ. Γεραπετρίτης θα ενημερώσει την επόμενη εβδομάδα το Συμβούλιο Εξωτερικών Υποθέσεων.",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    }
-   ]
-  },
-  {
-   "id": "253e0e09d204e34e",
-   "title": "Σαμοθράκη: Στην τελική ευθεία 39 νέα διαμερίσματα για τα Στελέχη του Στρατού - E-evros",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFjUi1EZW0xT3l6Y1FNYnVha21abXQ2dUtLQ0hISUl0bDFydlBSMzZURnJ3TFlyam12MkhkZ19tQXFrTlA5d2h5dWo1V0p4dmRMMlRaMU0yeGFOSW1RZWN0ZElvM0QtZTFFNUh6TTNxY19BXzlQbWF4OVhlWXVlTlI4YS1NQTRKYmVOYndvSEU1OENDdG91VHNvZzBoX0tNR052VjdzS040UTN1ZVpqX3dyMXh5U3lBN0VvcWNBYw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFjUi1EZW0xT3l6Y1FNYnVha21abXQ2dUtLQ0hISUl0bDFydlBSMzZURnJ3TFlyam12MkhkZ19tQXFrTlA5d2h5dWo1V0p4dmRMMlRaMU0yeGFOSW1RZWN0ZElvM0QtZTFFNUh6TTNxY19BXzlQbWF4OVhlWXVlTlI4YS1NQTRKYmVOYndvSEU1OENDdG91VHNvZzBoX0tNR052VjdzS040UTN1ZVpqX3dyMXh5U3lBN0VvcWNBYw?oc=5\" target=\"_blank\">Σαμοθράκη: Στην τελική ευθεία 39 νέα διαμερίσματα για τα Στελέχη του Στρατού</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
-   "source": "e-Evros",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-25T06:48:34+00:00",
-   "collected": "2026-08-25T07:11:21.414707+00:00",
-   "keywords_hit": [
-    "θράκη",
-    "evros"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Σαμοθράκη: Στην τελική ευθεία 39 νέα διαμερίσματα για τα Στελέχη του Στρατού E-evros",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Σαμοθράκη",
-     "lat": 40.47,
-     "lon": 25.53
-    }
-   ]
-  },
-  {
-   "id": "649c3e18efce6496",
-   "title": "Brussels city records 57 shootings in seven months, outpacing record year",
-   "link": "https://brusselssignal.eu/2026/08/brussels-city-records-57-shootings-in-seven-months-outpacing-record-year/",
-   "summary_raw": "Brussels recorded 57 shootings in the first seven months of 2026, two fatalities and 21 injuries, suggesting a potential record-breaking year due to rising violence linked to drug trafficking.\n<p><a href=\"https://brusselssignal.eu/2026/08/brussels-city-records-57-shootings-in-seven-months-outpacing-record-year/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-25T06:35:51+00:00",
-   "collected": "2026-08-25T08:01:34.361604+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Brussels recorded 57 shootings in the first seven months of 2026, two fatalities and 21 injuries, suggesting a potential record-breaking year due to rising violence linked to drug trafficking. Source",
-   "angle": null
-  },
-  {
-   "id": "11de343d89c5b9c5",
-   "title": "Τουρκία: «Η Αθήνα ρίχνει λάδι στη φωτιά», γράφει η Turkiye   για τις δηλώσεις Γεραπετρίτη",
-   "link": "https://www.dimokratiki.gr/25-08-2026/tourkia-i-athina-richni-ladi-sti-fotia-grafi-i-turkiye-gia-tis-dilosis-gerapetriti/?utm_source=rss&utm_medium=rss&utm_campaign=tourkia-i-athina-richni-ladi-sti-fotia-grafi-i-turkiye-gia-tis-dilosis-gerapetriti",
-   "summary_raw": "<p>Η τουρκική φιλοκυβερνητική και εθνικιστική εφημερίδα Turkiye υιοθετεί ιδιαίτερα επιθετική ρητορική απέναντι στις δηλώσεις του υπουργού Εξωτερικών Γιώργου Γεραπετρίτη, παρουσιάζοντας τις αναφορές του για το Αιγαίο και την Ανατολική Μεσόγειο ως προσπάθεια κλιμάκωσης της έντασης (φωτογραφία, επάνω, από το άρθρο της turkiyegazetesi.com.tr στην ηλεκτρονική έκδοσή της). Η εφημερίδα εστιάζει ιδιαίτερα στην αναφορά του υπουργού για...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/25-08-2026/tourkia-i-athina-richni-ladi-sti-fotia-grafi-i-turkiye-gia-tis-dilosis-gerapetriti/\" style=\"font-size: 12px;\" title=\"Τουρκία: «Η Αθήνα ρίχνει λάδι στη φωτιά», γράφει η Turkiye   για τις δηλώσεις Γεραπετρίτη\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/25-08-2026/tourkia-i-athina-richni-ladi-sti-fotia-grafi-i-turkiye-gia-tis-dilosis-gerapetriti/\">Τουρκία: «Η Αθήνα ρίχνει λάδι στη φωτιά», γράφει η Turkiye   για τις δηλώσεις Γεραπετρίτη</a></p>",
-   "source": "Δημοκρατική Ρόδου",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-25T06:35:02+00:00",
-   "collected": "2026-08-25T07:11:16.519180+00:00",
-   "keywords_hit": [
-    "αιγαίο"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 4,
-   "turkish_narrative": true,
-   "summary_el": "Η τουρκική φιλοκυβερνητική και εθνικιστική εφημερίδα Turkiye υιοθετεί ιδιαίτερα επιθετική ρητορική απέναντι στις δηλώσεις του υπουργού Εξωτερικών Γιώργου Γεραπετρίτη, παρουσιάζοντας τις αναφορές του γ",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Αθήνα",
-     "lat": 37.98,
-     "lon": 23.73
-    },
-    {
-     "name": "Αιγαίο",
-     "lat": 39.0,
-     "lon": 25.5
-    },
-    {
-     "name": "Ανατολική Μεσόγειος",
-     "lat": 34.0,
-     "lon": 30.0
-    }
-   ]
-  },
-  {
-   "id": "c0fe5ed84745d5f1",
-   "title": "Libya factions draft initial election pact amid lingering mistrust",
-   "link": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss",
-   "summary_raw": "Libyan factions sign an initial an election pact, but divided institutions and deep legal gaps threaten its execution.",
-   "source": "Al Jazeera English",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-25T06:10:49+00:00",
-   "collected": "2026-08-25T07:10:57.705533+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Libyan factions sign an initial an election pact, but divided institutions and deep legal gaps threaten its execution.",
-   "angle": null
-  },
-  {
-   "id": "adf0c626ba40ac5c",
-   "title": "Έβρος: Τρεις συλλήψεις Ελλήνων για ναρκωτικά στην περιοχή Αλεξανδρούπολης",
-   "link": "https://www.evros-news.gr/2026/08/25/evros-treis-syllipseis-ellinon-gia-narkotika-stin-periochi-alexandroupolis/",
-   "summary_raw": "Στο πλαίσιο στοχευμένων δράσεων για την καταπολέμηση της διάδοσης των ναρκωτικών, συνελήφθησαν στον Έβρο κατά το χρονικό διάστημα από 17 έως και23-8-2026 τρεις Έλληνες. Αναλυτικότερα [&#8230;]",
-   "source": "Evros News",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-08-25T06:08:18+00:00",
-   "collected": "2026-08-25T07:10:40.965403+00:00",
-   "keywords_hit": [
-    "έβρος"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Στο πλαίσιο στοχευμένων δράσεων για την καταπολέμηση της διάδοσης των ναρκωτικών, συνελήφθησαν στον Έβρο κατά το χρονικό διάστημα από 17 έως και23-8-2026 τρεις Έλληνες. Αναλυτικότερα […]",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Αλεξανδρούπολη",
-     "lat": 40.85,
-     "lon": 25.87
-    },
-    {
-     "name": "Έβρος",
-     "lat": 41.12,
-     "lon": 26.35
-    }
-   ]
-  },
-  {
-   "id": "981caf58c848c01f",
-   "title": "Μεταναστευτικό: Δύο βάρκες στους Καλούς Λιμένες, επί ποδός το Λιμενικό - Cretalive",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0JfU1A5RFRyUHkzRFU4YlpfZlVuMHFsWVk5dVF3SF9TaGNzTDg3bkhDZlFCQVhpWklFcVZYeHR2SmoyYzltMHp1YTZVcWNGbTI2bDVkM0hEWENnUDVJLW53emkzODdHc01QSnlxQndLR3pocVdBWWkzbzRHSFVQYUFKUmFXWTJUekJzRC04OVlWbU9ocWtQaG94eEs?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0JfU1A5RFRyUHkzRFU4YlpfZlVuMHFsWVk5dVF3SF9TaGNzTDg3bkhDZlFCQVhpWklFcVZYeHR2SmoyYzltMHp1YTZVcWNGbTI2bDVkM0hEWENnUDVJLW53emkzODdHc01QSnlxQndLR3pocVdBWWkzbzRHSFVQYUFKUmFXWTJUekJzRC04OVlWbU9ocWtQaG94eEs?oc=5\" target=\"_blank\">Μεταναστευτικό: Δύο βάρκες στους Καλούς Λιμένες, επί ποδός το Λιμενικό</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cretalive</font>",
-   "source": "Cretalive",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-25T06:06:48+00:00",
-   "collected": "2026-08-25T09:54:16.045983+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "λιμενικ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Μεταναστευτικό: Δύο βάρκες στους Καλούς Λιμένες, επί ποδός το Λιμενικό Cretalive",
-   "angle": null
-  },
-  {
-   "id": "80b9a4522e82459d",
-   "title": "Ethnic Memory: Why Societies Should Be Monoethnic",
-   "link": "https://europeanconservative.com/articles/commentary/ethnic-memory-monoethnic-societies-cohesion-survival/",
-   "summary_raw": "Multiculturalists who dismiss concerns about Islamic or African immigration by comparing them with past hostility to Irish, Italian, or Slavic immigrants overlook the vast differences in ethnic memory and cultural distance that can make integration more difficult.",
-   "source": "The European Conservative",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-08-25T06:00:00+00:00",
-   "collected": "2026-08-25T07:11:31.050036+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Multiculturalists who dismiss concerns about Islamic or African immigration by comparing them with past hostility to Irish, Italian, or Slavic immigrants overlook the vast differences in ethnic memory",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "f13b3bc1e67f4804",
-   "title": "Λ. Αμερική: Ο «Τραμπ της Κολομβίας» διέταξε την άμεση απέλαση μεταναστών χωρίς χαρτιά",
-   "link": "https://www.efsyn.gr/kosmos/1453730/l-ameriki-o-tramp-tis-kolomvias-dietaxe-tin-amesi-apelasi-metanaston-horis-hartia/",
-   "summary_raw": "Σε ομιλία του που παρέπεμπε στο δόγμα «America First» του Τραμπ, ο πρόεδρος της Κολομβίας, Αμπελάρδο δε λα Εσπριέγια τόνισε: «Πρώτα οι Κολομβιανοί, ύστερα οι Κολομβιανοί κι έπειτα οι Κολομβιανοί».",
-   "source": "Εφημερίδα των Συντακτών",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T05:55:45+00:00",
-   "collected": "2026-08-25T07:11:28.224093+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "απέλαση"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Σε ομιλία του που παρέπεμπε στο δόγμα «America First» του Τραμπ, ο πρόεδρος της Κολομβίας, Αμπελάρδο δε λα Εσπριέγια τόνισε: «Πρώτα οι Κολομβιανοί, ύστερα οι Κολομβιανοί κι έπειτα οι Κολομβιανοί».",
-   "angle": null
-  },
-  {
-   "id": "5b9b1fabda9e5376",
-   "title": "Υψηλός o κίνδυνος πυρκαγιάς σήμερα Τρίτη σε 35 περιοχές της χώρας",
-   "link": "https://www.tanea.gr/2026/08/25/greece/ypsilos-o-kindynos-pyrkagias-simera-triti-25-08-se-35-perioxes-tis-xoras/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/08/Pyrosvestiki-pirosvestiki-Fotia-Fwtia-Pyrkagia-Pirkagia-Floges-Canadair-23-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Υψηλός κίνδυνος πυρκαγιάς προβλέπεται για σήμερα, Τρίτη 25 Αυγούστου, σε 35 περιοχές της χώρας, σύμφωνα με τον χάρτη πρόβλεψης που εκδίδει η Πολιτική Προστασία. Αναλυτικά, ο υψηλός κίνδυνος (επίπεδο 3) αφορά τις εξής περιοχές: Αττική και Κύθηρα, Βοιωτία, Εύβοια, Σκύρο. Φθιώτιδα, Φωκίδα, Αιτωλοακαρνανία, Θεσπρωτία, Πρέβεζα, Άρτα. Τρίκαλα, Λάρισα, Μαγνησία. Έβρος, Ροδόπη, Κιλκίς, Θεσσαλονίκη, Χαλκιδική και [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-25T05:44:22+00:00",
-   "collected": "2026-08-25T08:01:31.322379+00:00",
-   "keywords_hit": [
-    "έβρος"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Υψηλός κίνδυνος πυρκαγιάς προβλέπεται για σήμερα, Τρίτη 25 Αυγούστου, σε 35 περιοχές της χώρας, σύμφωνα με τον χάρτη πρόβλεψης που εκδίδει η Πολιτική Προστασία. Αναλυτικά, ο υψηλός κίνδυνος (επίπεδο 3",
-   "angle": null
-  },
-  {
-   "id": "7a8d31aec72eec45",
-   "title": "Σαμοθράκη: Τραυματισμός 60χρονης στη Γριά Βάθρα – Επιτυσημένη επιχείρηση διάσωσης απ’ την Πυροσβεστική",
-   "link": "https://www.evros-news.gr/2026/08/25/samothraki-travmatismos-60chronis-sti-gria-vathra-epitysimeni-epicheirisi-diasosis-ap-tin-pyrosvestiki/",
-   "summary_raw": "Άλλη μι επιχείρηση διάσωσης αυτό το καλοκαίρι πραγματοποιήθηκε χθες Δευτέρα(24/8) στη Σαμοθράκη, όταν μία γυναίκα έπεσε στη Γριά Βάθρα και τραυματίστηκε. Σύμφωνα με πληροφορίες, η [&#8230;]",
-   "source": "Evros News",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-08-25T05:30:27+00:00",
-   "collected": "2026-08-25T07:10:40.965581+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Άλλη μι επιχείρηση διάσωσης αυτό το καλοκαίρι πραγματοποιήθηκε χθες Δευτέρα(24/8) στη Σαμοθράκη, όταν μία γυναίκα έπεσε στη Γριά Βάθρα και τραυματίστηκε. Σύμφωνα με πληροφορίες, η […]",
-   "angle": null,
-   "corroborated_by": [
-    "e-Evros"
-   ],
-   "locations": [
-    {
-     "name": "Σαμοθράκη",
-     "lat": 40.47,
-     "lon": 25.53
-    }
-   ]
-  },
-  {
-   "id": "f131269419e94fe5",
-   "title": "Kόμβος drones στο αεροδρόμιο των Μαριτσών την ώρα που οι Patriot αναδιατάσσονται από την Κάρπαθο έως τη Σαουδική Αραβία",
-   "link": "https://www.dimokratiki.gr/25-08-2026/komvos-drones-sto-aerodromio-ton-maritson-tin-ora-pou-i-patriot-anadiatassonte-apo-tin-karpatho-eos-ti-saoudiki-aravia/?utm_source=rss&utm_medium=rss&utm_campaign=komvos-drones-sto-aerodromio-ton-maritson-tin-ora-pou-i-patriot-anadiatassonte-apo-tin-karpatho-eos-ti-saoudiki-aravia",
-   "summary_raw": "<p>• Εγκρίθηκε η κατασκευή υποδομών στο αεροδρόμιο των Μαριτσών για τη μόνιμη μεταστάθμευση στρατιωτικών μη επανδρωμένων αεροσκαφών, ενώ η συστοιχία Patriot της Καρπάθου μεταφέρθηκε στη Σούδα και επανεξετάζεται η επιστροφή της αντίστοιχης από το Γιανμπού Σε πλήρη εξέλιξη βρίσκεται μια ευρεία αναδιάταξη του αμυντικού σχεδιασμού της χώρας, με τη Ρόδο να αποκτά κεντρικό ρόλο στο...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/25-08-2026/komvos-drones-sto-aerodromio-ton-maritson-tin-ora-pou-i-patriot-anadiatassonte-apo-tin-karpatho-eos-ti-saoudiki-aravia/\" style=\"font-size: 12px;\" title=\"Kόμβος drones στο αεροδρόμιο των Μαριτσών την ώρα που οι Patriot αναδιατάσσονται από την Κάρπαθο έως τη Σαουδική Αραβία\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/25-08-2026/komvos-drones-sto-aerodromio-ton-maritson-tin-ora-pou-i-patriot-anadiatassonte-apo-tin-karpatho-eos-ti-saoudiki-aravia/\">Kόμβος drones στο αεροδρόμιο των Μαριτσών την ώρα που οι Patriot αναδιατάσσονται από την Κάρπαθο έως τη Σαουδική Αραβία</a></p>",
-   "source": "Δημοκρατική Ρόδου",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-25T05:17:36+00:00",
-   "collected": "2026-08-25T05:50:17.066679+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "• Εγκρίθηκε η κατασκευή υποδομών στο αεροδρόμιο των Μαριτσών για τη μόνιμη μεταστάθμευση στρατιωτικών μη επανδρωμένων αεροσκαφών, ενώ η συστοιχία Patriot της Καρπάθου μεταφέρθηκε στη Σούδα και επανεξε",
-   "angle": null
-  },
-  {
-   "id": "5e8da12429f3d28c",
-   "title": "Ο κίνδυνος για την Ελλάδα από τη σύγκρουση Τουρκίας και Ισραήλ έχει όνομα: σταδιακά τετελεσμένα στη θάλασσα με τα Δωδεκάνησα στην πρώτη γραμμή",
-   "link": "https://www.dimokratiki.gr/25-08-2026/o-kindynos-gia-tin-ellada-apo-ti-sygkrousi-tourkias-ke-israil-echi-onoma-stadiaka-tetelesmena-sti-thalassa-me-ta-dodekanisa-stin-proti-grammi/?utm_source=rss&utm_medium=rss&utm_campaign=o-kindynos-gia-tin-ellada-apo-ti-sygkrousi-tourkias-ke-israil-echi-onoma-stadiaka-tetelesmena-sti-thalassa-me-ta-dodekanisa-stin-proti-grammi",
-   "summary_raw": "<p>• Αποκλεισμένη από το συριακό μέτωπο λόγω της ισραηλινής υπεροχής, η Άγκυρα μετατοπίζει το κέντρο βάρους της πίεσης προς δυσμάς με θαλάσσια πάρκα, γκρίζες ζώνες και το επερχόμενο νομοσχέδιο για τη «Γαλάζια Πατρίδα». Αναλυτές προειδοποιούν ότι η απειλή για την Ελλάδα δεν είναι το θερμό επεισόδιο αλλά η μεθοδική μετατροπή μονομερών διαταγμάτων σε πραγματικότητα στο...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/25-08-2026/o-kindynos-gia-tin-ellada-apo-ti-sygkrousi-tourkias-ke-israil-echi-onoma-stadiaka-tetelesmena-sti-thalassa-me-ta-dodekanisa-stin-proti-grammi/\" style=\"font-size: 12px;\" title=\"Ο κίνδυνος για την Ελλάδα από τη σύγκρουση Τουρκίας και Ισραήλ έχει όνομα: σταδιακά τετελεσμένα στη θάλασσα με τα Δωδεκάνησα στην πρώτη γραμμή\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/25-08-2026/o-kindynos-gia-tin-ellada-apo-ti-sygkrousi-tourkias-ke-israil-echi-onoma-stadiaka-tetelesmena-sti-thalassa-me-ta-dodekanisa-stin-proti-grammi/\">Ο κίνδυνος για την Ελλάδα από τη σύγκρουση Τουρκίας και Ισραήλ έχει όνομα: σταδιακά τετελεσμένα στη θάλασσα με τα Δωδεκάνησα στην πρώτη γραμμή</a></p>",
-   "source": "Δημοκρατική Ρόδου",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-25T05:16:49+00:00",
-   "collected": "2026-08-25T05:50:17.067167+00:00",
-   "keywords_hit": [
-    "γαλάζια πατρίδα"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "• Αποκλεισμένη από το συριακό μέτωπο λόγω της ισραηλινής υπεροχής, η Άγκυρα μετατοπίζει το κέντρο βάρους της πίεσης προς δυσμάς με θαλάσσια πάρκα, γκρίζες ζώνες και το επερχόμενο νομοσχέδιο για τη «Γα",
-   "angle": null,
-   "corroborated_by": [
-    "Τα Νέα"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Άγκυρα",
-     "lat": 39.93,
-     "lon": 32.86
-    }
-   ]
   }
  ]
 }
