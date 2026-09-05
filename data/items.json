@@ -1,7 +1,181 @@
 {
- "updated": "2026-09-05T18:23:02.178014+00:00",
- "count": 1605,
+ "updated": "2026-09-05T21:19:24.401767+00:00",
+ "count": 1612,
  "items": [
+  {
+   "id": "28727dc74578a621",
+   "title": "Greek Prime Minister Kyriakos Mitsotakis:  Have no doubt: the clouds are gathering, and the seas of international relations are becoming rougher.   The hour is therefore approachin…",
+   "link": "https://t.me/ClashReport/95223",
+   "summary_raw": "Greek Prime Minister Kyriakos Mitsotakis:  Have no doubt: the clouds are gathering, and the seas of international relations are becoming rougher.   The hour is therefore approaching — the hour when it will be judged whether Greece will find itself among those who endured the storms, or whether it will be swept away together with those who failed to resist the vortex of events in time.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-09-05T21:15:15+00:00",
+   "collected": "2026-09-05T21:18:29.125931+00:00",
+   "keywords_hit": [
+    "greece",
+    "greek",
+    "mitsotakis"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Greek Prime Minister Kyriakos Mitsotakis: Have no doubt: the clouds are gathering, and the seas of international relations are becoming rougher. The hour is therefore approaching — the hour when it wi",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "ca8e759e254f5932",
+   "title": "The Spectator Index Prices, since start of the year.  European natural gas: +155% Heating oil: +114% Gasoline: +87% Brent crude: +59% US crude oil: +59% Coal: +39% tweet",
+   "link": "https://t.me/OSINTLive/570024",
+   "summary_raw": "The Spectator Index Prices, since start of the year.  European natural gas: +155% Heating oil: +114% Gasoline: +87% Brent crude: +59% US crude oil: +59% Coal: +39% tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-09-05T21:03:09+00:00",
+   "collected": "2026-09-05T21:18:33.286800+00:00",
+   "keywords_hit": [
+    "natural gas"
+   ],
+   "category": "Ενέργεια",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The Spectator Index Prices, since start of the year. European natural gas: +155% Heating oil: +114% Gasoline: +87% Brent crude: +59% US crude oil: +59% Coal: +39% tweet",
+   "angle": null
+  },
+  {
+   "id": "27dda261590d9aa1",
+   "title": "Turkish, Iranian foreign ministers discuss ongoing talks with US",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-iranian-foreign-ministers-discuss-ongoing-talks-with-us/4048467",
+   "summary_raw": "Hakan Fidan, Abbas Araghchi hold phone call, say Turkish diplomatic sources",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-09-05T20:58:23+00:00",
+   "collected": "2026-09-05T21:17:33.068193+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Hakan Fidan, Abbas Araghchi hold phone call, say Turkish diplomatic sources",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "e33acbcb2b67a744",
+   "title": "Trump EPA Takes Transformative Approach to Ending Plague of Plastic Waste",
+   "link": "https://www.dailysignal.com/2026/09/05/epa-treats-plastic-waste-energy-manufacturing-resource/",
+   "summary_raw": "The Environmental Protection Agency under President Donald Trump has launched a quiet revolution in the approach the EPA takes toward some forms of plastic waste, removing regulatory barriers by treating some plastic recycling as a form of manufacturing rather than waste disposal. The EPA&#8217;s new approach aims to incentivize advanced recycling of plastic, contributing to...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-05T19:30:00+00:00",
+   "collected": "2026-09-05T21:18:27.502044+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The Environmental Protection Agency under President Donald Trump has launched a quiet revolution in the approach the EPA takes toward some forms of plastic waste, removing regulatory barriers by treat",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "150cb2fddd760548",
+   "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
+   "link": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
+   "summary_raw": "The Trump administration has sought to expand third-country deportations, with more than 30 deals struck so far.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-05T19:19:52+00:00",
+   "collected": "2026-09-05T21:17:56.993030+00:00",
+   "keywords_hit": [
+    "migrant",
+    "deportation"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "The Trump administration has sought to expand third-country deportations, with more than 30 deals struck so far.",
+   "angle": null
+  },
+  {
+   "id": "920826cd86228901",
+   "title": "Two pilots killed after Greek fighter jet crashes during an air show",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
+   "summary_raw": "Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-05T18:44:41+00:00",
+   "collected": "2026-09-05T21:17:56.993294+00:00",
+   "keywords_hit": [
+    "greek"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.",
+   "angle": null
+  },
+  {
+   "id": "a9449782042576f5",
+   "title": "Από την κακιστοκρατική Αθήνα, στον Ελληνισμό της ΑΟΖ και των 12 μιλίων - NeaKriti",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0x5NjlIenVDd3RXU3M2b3ViakhXNk9QRzI2TVBNWENaeDQxTml5TUtyQ2VOY0ZGQjB6QTRfUklVOFFNTDZpMDRYZ2VCbGlqeVM5X3EtZFlkZzNyWUFoczFKc3p4dHVsN205V3B0MU5JQXM3VW1pczVfN0tnbXhvckRiMkd2b0l3ME9tZ3A5cnNOOEV0S2gzeHpIWlpoR3RVaFI4a01xREpjRlhkRjZPdtIBtgFBVV95cUxPQ21QMkxic3FUemtFYW1HanJKcFVuTTlrUnNOVmRfbFB1eG9ZMENpM1dyRnZKajRBRU5mZUhla3ZlM2tBZ3pWMFBJaGFNUl90TW1jcEt5emNEUmJ4Z20tdy1SX1d6N0RZU1U0V3FUenZyWnJTdGpQNGNiaGFpQWdUMkJ6cjJZZklIVkwzY2JzZUJKcG1Ic2lPemdxZWF0eXpGSml5ZTNmaFlTa01BZllJaU00OHZRdw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxON0x5NjlIenVDd3RXU3M2b3ViakhXNk9QRzI2TVBNWENaeDQxTml5TUtyQ2VOY0ZGQjB6QTRfUklVOFFNTDZpMDRYZ2VCbGlqeVM5X3EtZFlkZzNyWUFoczFKc3p4dHVsN205V3B0MU5JQXM3VW1pczVfN0tnbXhvckRiMkd2b0l3ME9tZ3A5cnNOOEV0S2gzeHpIWlpoR3RVaFI4a01xREpjRlhkRjZPdtIBtgFBVV95cUxPQ21QMkxic3FUemtFYW1HanJKcFVuTTlrUnNOVmRfbFB1eG9ZMENpM1dyRnZKajRBRU5mZUhla3ZlM2tBZ3pWMFBJaGFNUl90TW1jcEt5emNEUmJ4Z20tdy1SX1d6N0RZU1U0V3FUenZyWnJTdGpQNGNiaGFpQWdUMkJ6cjJZZklIVkwzY2JzZUJKcG1Ic2lPemdxZWF0eXpGSml5ZTNmaFlTa01BZllJaU00OHZRdw?oc=5\" target=\"_blank\">Από την κακιστοκρατική Αθήνα, στον Ελληνισμό της ΑΟΖ και των 12 μιλίων</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NeaKriti</font>",
+   "source": "Nea Kriti",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-09-05T18:26:55+00:00",
+   "collected": "2026-09-05T21:18:16.623186+00:00",
+   "keywords_hit": [
+    "αοζ"
+   ],
+   "category": "Αιγαίο-ΑΟΖ",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Από την κακιστοκρατική Αθήνα, στον Ελληνισμό της ΑΟΖ και των 12 μιλίων NeaKriti",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    }
+   ]
+  },
+  {
+   "id": "a4754c8afbd040b3",
+   "title": "Μεταναστευτικό: Συνελήφθησαν τρεις φερόμενοι διακινητές - Ανάμεσά τους δύο 17χρονοι - Cretalive",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFUxUVFsTHNvVXRjWVd5bDlzVFFoU3RrMTUzakxHQWpGRnFjbHNXZzc2SkpGbHVfeHBQS044WXJrdXNLclozZC1fMnI5ajR5YXFNcGNMWmc5cDMtUDVsVkd3YkoyRHdlSU9ENFdwdWU2NUxJOW9oMW1Fc0twR3Vud2FGSG1SM3JNREJ3Zlk5UWIyYzAxWEZHdEFfX3FOOHF1TGd0VXBaTlNYd2o4NldPSy1B?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFUxUVFsTHNvVXRjWVd5bDlzVFFoU3RrMTUzakxHQWpGRnFjbHNXZzc2SkpGbHVfeHBQS044WXJrdXNLclozZC1fMnI5ajR5YXFNcGNMWmc5cDMtUDVsVkd3YkoyRHdlSU9ENFdwdWU2NUxJOW9oMW1Fc0twR3Vud2FGSG1SM3JNREJ3Zlk5UWIyYzAxWEZHdEFfX3FOOHF1TGd0VXBaTlNYd2o4NldPSy1B?oc=5\" target=\"_blank\">Μεταναστευτικό: Συνελήφθησαν τρεις φερόμενοι διακινητές - Ανάμεσά τους δύο 17χρονοι</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cretalive</font>",
+   "source": "Cretalive",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-09-05T18:14:39+00:00",
+   "collected": "2026-09-05T21:18:17.095504+00:00",
+   "keywords_hit": [
+    "μεταναστ",
+    "διακινητ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Μεταναστευτικό: Συνελήφθησαν τρεις φερόμενοι διακινητές - Ανάμεσά τους δύο 17χρονοι Cretalive",
+   "angle": null
+  },
   {
    "id": "d9a5826fcd88c272",
    "title": "Open Source Intel A Greek F-4 Phantom II crashed during a low-altitude maneuver at the Athens Flying Week air show at Tanagra Air Base. Both pilots were killed. No ejection was obs…",
@@ -213,6 +387,65 @@
    ]
   },
   {
+   "id": "e03805846216f992",
+   "title": "Who Is Renaming Everything on the Map? It’s Not Just Trump",
+   "link": "https://www.dailysignal.com/2026/09/05/who-is-renaming-everything-on-the-map-its-not-just-trump/",
+   "summary_raw": "In one of his Truth Social bombs, President Donald Trump insisted we should rename Lake Ontario to Lake America after Canada refused to accept his trade negotiation terms. It obviously echoes his renaming of the Gulf of Mexico to the Gulf of America. It&#8217;s easy to find these whole geographic kerfuffles unnecessary. But the media...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-05T17:00:00+00:00",
+   "collected": "2026-09-05T21:18:27.502212+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "In one of his Truth Social bombs, President Donald Trump insisted we should rename Lake Ontario to Lake America after Canada refused to accept his trade negotiation terms. It obviously echoes his rena",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "5183e71ee5bedba7",
+   "title": "State Department Says ‘Do Not Travel to Libya for Any Reason’",
+   "link": "https://www.breitbart.com/national-security/2026/09/05/state-department-says-do-not-travel-to-libya-for-any-reason/",
+   "summary_raw": "<p>The U.S. State Department has updated its travel warning for Libya to the highest level, advising Americans not to visit the highly unstable country “for any reason” — and to “prepare a will and end-of-life instructions” if they must go there.</p>\n<p>The post <a href=\"https://www.breitbart.com/national-security/2026/09/05/state-department-says-do-not-travel-to-libya-for-any-reason/\" rel=\"nofollow\">State Department Says ‘Do Not Travel to Libya for Any Reason’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-05T16:34:12+00:00",
+   "collected": "2026-09-05T21:18:27.354829+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The U.S. State Department has updated its travel warning for Libya to the highest level, advising Americans not to visit the highly unstable country “for any reason” — and to “prepare a will and end-o",
+   "angle": null
+  },
+  {
+   "id": "74d788f8c29a1fd3",
+   "title": "VIDEO: President Trump's 'Great Negotiators' Witkoff and Kushner Arrive in Moscow for Peace Talks amid Ukraine War",
+   "link": "https://www.breitbart.com/europe/2026/09/05/video-president-trumps-great-negotiators-witkoff-kushner-arrive-moscow-for-peace-talks-ukraine-war/",
+   "summary_raw": "<p>President Donald Trump's envoys arrived in Russia on Saturday to work on ending the ongoing war with Ukraine.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/09/05/video-president-trumps-great-negotiators-witkoff-kushner-arrive-moscow-for-peace-talks-ukraine-war/\" rel=\"nofollow\">VIDEO: President Trump&#8217;s &#8216;Great Negotiators&#8217; Witkoff and Kushner Arrive in Moscow for Peace Talks amid Ukraine War</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-05T16:32:26+00:00",
+   "collected": "2026-09-05T21:18:27.353048+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "President Donald Trump's envoys arrived in Russia on Saturday to work on ending the ongoing war with Ukraine. The post VIDEO: President Trump’s ‘Great Negotiators’ Witkoff and Kushner Arrive in Moscow",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "d63ecc4451ab6f16",
    "title": "Δένδιας για Τανάγρα: «Βαθύτατη η θλίψη μας» – Τριήμερο πένθος στις Ένοπλες Δυνάμεις",
    "link": "https://www.in.gr/2026/09/05/politics/epikairotita/dendias-gia-tanagra-vathytati-i-thlipsi-mas-triimero-penthos-stis-enoples-dynameis/",
@@ -264,6 +497,32 @@
      "name": "Αθήνα",
      "lat": 37.98,
      "lon": 23.73
+    }
+   ]
+  },
+  {
+   "id": "25ad924e526f7631",
+   "title": "Τουρκικά UAV παραβίασαν οκτώ φορές τον Εθνικό Εναέριο Χώρο στο Αιγαίο - newsbomb.gr",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1hJMzJ2bTZ5YkhWdUtYWFJ4YTRRV19hdWMzRTJKQlI4Y2cxLXh0SUxxRUVvRnNsaENWN21zdXBRN095RmN5VXI3S1NZTGxmTlF5OGxTbGR5aGJfVjlkdW9tbnRKY2ZjT19lZm83WmhuV2ZCeDNCR2lCOGl5M2V0ZklzSWQ0bXpqa2ZYejFNa2VkRGs0Um1NNHF1MUFoU2d4SWdzc1N2QXF5aGlJeU9FSlI1a0lQYUZzdnVVZXhQczk?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1hJMzJ2bTZ5YkhWdUtYWFJ4YTRRV19hdWMzRTJKQlI4Y2cxLXh0SUxxRUVvRnNsaENWN21zdXBRN095RmN5VXI3S1NZTGxmTlF5OGxTbGR5aGJfVjlkdW9tbnRKY2ZjT19lZm83WmhuV2ZCeDNCR2lCOGl5M2V0ZklzSWQ0bXpqa2ZYejFNa2VkRGs0Um1NNHF1MUFoU2d4SWdzc1N2QXF5aGlJeU9FSlI1a0lQYUZzdnVVZXhQczk?oc=5\" target=\"_blank\">Τουρκικά UAV παραβίασαν οκτώ φορές τον Εθνικό Εναέριο Χώρο στο Αιγαίο</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsbomb.gr</font>",
+   "source": "Newsbomb",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-09-05T16:09:48+00:00",
+   "collected": "2026-09-05T21:17:34.882638+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Τουρκικά UAV παραβίασαν οκτώ φορές τον Εθνικό Εναέριο Χώρο στο Αιγαίο newsbomb.gr",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
     }
    ]
   },
@@ -519,6 +778,46 @@
    "angle": null
   },
   {
+   "id": "aa309ea9aa12d3e1",
+   "title": "U.S. Strikes Three Iranian Tankers After Iran Attacks Aircraft Carrier",
+   "link": "https://www.breitbart.com/national-security/2026/09/05/u-s-strikes-three-iranian-tankers-after-iran-attacks-aircraft-carrier/",
+   "summary_raw": "<p>U.S. Central Command (CENTCOM) on Saturday announced that two Iranian oil tankers were disabled by U.S. airstrikes, and a third was “completely destroyed.” One of the tankers was struck near Iran’s primary oil loading facility at Kharg Island, confirming reports of explosions near the island by Iranian state media.</p>\n<p>The post <a href=\"https://www.breitbart.com/national-security/2026/09/05/u-s-strikes-three-iranian-tankers-after-iran-attacks-aircraft-carrier/\" rel=\"nofollow\">U.S. Strikes Three Iranian Tankers After Iran Attacks Aircraft Carrier</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-05T15:39:27+00:00",
+   "collected": "2026-09-05T21:18:27.352406+00:00",
+   "keywords_hit": [],
+   "category": "Διπλωματία",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "U.S. Central Command (CENTCOM) on Saturday announced that two Iranian oil tankers were disabled by U.S. airstrikes, and a third was “completely destroyed.” One of the tankers was struck near Iran’s pr",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)"
+   ]
+  },
+  {
+   "id": "e6bfcd3bd4de27f9",
+   "title": "Thousands Rally in Croatia Demanding Urgent Cleanup of Tonnes of Toxic Waste From Town",
+   "link": "https://www.breitbart.com/europe/2026/09/05/thousands-rally-in-croatia-demanding-urgent-cleanup-of-tonnes-of-toxic-waste-from-town/",
+   "summary_raw": "<p>Tens of thousands of people rallied on Saturday in Croatia, furious that authorities for months haven't cleared a huge amount of illegally dumped hazardous waste that has triggered fears of major environmental damage in the European Union country.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/09/05/thousands-rally-in-croatia-demanding-urgent-cleanup-of-tonnes-of-toxic-waste-from-town/\" rel=\"nofollow\">Thousands Rally in Croatia Demanding Urgent Cleanup of Tonnes of Toxic Waste From Town</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-05T15:38:51+00:00",
+   "collected": "2026-09-05T21:18:27.354464+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Tens of thousands of people rallied on Saturday in Croatia, furious that authorities for months haven't cleared a huge amount of illegally dumped hazardous waste that has triggered fears of major envi",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "103f5084477d9c74",
    "title": "US ambassador-designate John Breslow arrives in Cyprus",
    "link": "https://cyprus-mail.com/2026/09/05/us-ambassador-designate-john-breslow-arrives-in-cyprus",
@@ -625,6 +924,26 @@
    "corroborated_by": [
     "Anadolu Agency (EN)",
     "Telegram @OSINTLive"
+   ]
+  },
+  {
+   "id": "eeb64f537571aea6",
+   "title": "Farage's Reform UK Party Vows Tax Cuts for 40 Million Britons Within 100 Days If Elected",
+   "link": "https://www.breitbart.com/europe/2026/09/05/farages-reform-uk-party-vows-tax-cuts-for-40-million-britons-within-100-days-if-elected/",
+   "summary_raw": "<p>Reform UK has announced plans to provide thousands of pounds in much-needed tax relief for around 40 million Britons within 100 days in office.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/09/05/farages-reform-uk-party-vows-tax-cuts-for-40-million-britons-within-100-days-if-elected/\" rel=\"nofollow\">Farage&#8217;s Reform UK Party Vows Tax Cuts for 40 Million Britons Within 100 Days If Elected</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-05T15:28:27+00:00",
+   "collected": "2026-09-05T21:18:27.354274+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Reform UK has announced plans to provide thousands of pounds in much-needed tax relief for around 40 million Britons within 100 days in office. The post Farage’s Reform UK Party Vows Tax Cuts for 40 M",
+   "angle": null,
+   "corroborated_by": [
+    "Spiked"
    ]
   },
   {
@@ -940,6 +1259,32 @@
    "turkish_narrative": false,
    "summary_el": "Η Κροατία ενέκρινε πολυετές πρόγραμμα 112,2 εκατ. ευρώ για πρόσθετες δυνατότητες εντοπισμού και αυτοπροστασίας επιπέδου F4 στα δώδεκα Rafale της. Το άρθρο Κροατία: Αναβάθμιση των 12 Rafale με πρόσθετε",
    "angle": null
+  },
+  {
+   "id": "b1c4f71af0959db8",
+   "title": "Greek Air Force Jet Crashes at Annual Aerial Show, Starts Fire",
+   "link": "https://www.breitbart.com/europe/2026/09/05/greek-air-force-jet-crashes-at-annual-aerial-show-starts-fire/",
+   "summary_raw": "<p>A Greek air force jet crashed at an aerial show north of Athens, starting a fire that sent large plumes of black smoke into the air in front of several thousand spectators on Saturday.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/09/05/greek-air-force-jet-crashes-at-annual-aerial-show-starts-fire/\" rel=\"nofollow\">Greek Air Force Jet Crashes at Annual Aerial Show, Starts Fire</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-05T13:45:36+00:00",
+   "collected": "2026-09-05T21:18:27.354628+00:00",
+   "keywords_hit": [
+    "greek"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "A Greek air force jet crashed at an aerial show north of Athens, starting a fire that sent large plumes of black smoke into the air in front of several thousand spectators on Saturday. The post Greek ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    }
+   ]
   },
   {
    "id": "98e08f79ca13375d",
@@ -4571,6 +4916,26 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Ο ηγέτης του αντιμεταναστευτικού κόμματος Reform UK, Νάιτζελ Φάρατζ, απέρριψε σήμερα τις νέες κατηγορίες περί παρατυπιών στη χρηματοδότησή του, που κλονίζουν το κόμμα τη στιγμή που προσπαθεί να ανακάμ",
+   "angle": null
+  },
+  {
+   "id": "ef9533626072f20f",
+   "title": "Χριστοδουλίδης: Σε συζητήσεις με ενεργειακούς κολοσσούς για τη διάθεση και άλλων τεμαχίων της ΑΟΖ - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjhrTElUM05yR3FRanN4Y0p5Y1RpdFdySUM1M2NCeGZ6MDloSENpbjV3QzgyUE85dW4zM0V4Y09kMERhMVVoRDc3YmlpUzhBZk10Z0wteDkwWlBJYjRVWEJ4N0htdkZpRDFEVmJtYkxwekptaWwweE15Xzl2ckhVemZPVTI2Mk5WdTYzM3MwMmZENmc3cG81eUlRekVfRDlhaHdKc3c4WGtRR0lwbVV4ZEl4UnJDY3JFOU83QXZGTkozc1Y3cU93U01rVQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjhrTElUM05yR3FRanN4Y0p5Y1RpdFdySUM1M2NCeGZ6MDloSENpbjV3QzgyUE85dW4zM0V4Y09kMERhMVVoRDc3YmlpUzhBZk10Z0wteDkwWlBJYjRVWEJ4N0htdkZpRDFEVmJtYkxwekptaWwweE15Xzl2ckhVemZPVTI2Mk5WdTYzM3MwMmZENmc3cG81eUlRekVfRDlhaHdKc3c4WGtRR0lwbVV4ZEl4UnJDY3JFOU83QXZGTkozc1Y3cU93U01rVQ?oc=5\" target=\"_blank\">Χριστοδουλίδης: Σε συζητήσεις με ενεργειακούς κολοσσούς για τη διάθεση και άλλων τεμαχίων της ΑΟΖ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-09-04T16:28:44+00:00",
+   "collected": "2026-09-05T21:17:57.480100+00:00",
+   "keywords_hit": [
+    "αοζ",
+    "χριστοδουλίδης"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Χριστοδουλίδης: Σε συζητήσεις με ενεργειακούς κολοσσούς για τη διάθεση και άλλων τεμαχίων της ΑΟΖ Energypress",
    "angle": null
   },
   {
@@ -8258,6 +8623,23 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Global News reported on Wednesday that the Canadian government awarded over $2 million in contracts, including law enforcement and defense contracts, to Mohammad Reza Ghafouri Fard, an Iranian immigra",
+   "angle": null
+  },
+  {
+   "id": "656d4b6b99c849a1",
+   "title": "Why universities embrace cheats",
+   "link": "https://unherd.com/2026/09/why-universities-embrace-cheats/?edition=us",
+   "summary_raw": "Outcomes are more important than education",
+   "source": "UnHerd",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-09-03T23:04:40+00:00",
+   "collected": "2026-09-05T21:18:26.588948+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Outcomes are more important than education",
    "angle": null
   },
   {
@@ -37401,242 +37783,6 @@
    "angle": null,
    "corroborated_by": [
     "Telegram @OSINTLive"
-   ]
-  },
-  {
-   "id": "20b88a8de92c574a",
-   "title": "Libyan MP Accuses High Council of State of Prolonging Political Division",
-   "link": "https://libyareview.com/67944/libyan-mp-accuses-high-council-of-state-of-prolonging-political-division/",
-   "summary_raw": "<p>Libyan House of Representatives member Saeed Emghib has accused the High Council of State (HCS) of seeking to prolong the country&#8217;s political division by rejecting participation in the signing ceremony for an agreement reached through the UN-facilitated 4+4 process. Emghib said growing international support for the 4+4 agreement would increase the political cost for parties [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67944/libyan-mp-accuses-high-council-of-state-of-prolonging-political-division/\">Libyan MP Accuses High Council of State of Prolonging Political Division</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-08-29T21:10:49+00:00",
-   "collected": "2026-08-29T21:46:45.797243+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Libyan House of Representatives member Saeed Emghib has accused the High Council of State (HCS) of seeking to prolong the country’s political division by rejecting participation in the signing ceremon",
-   "angle": null
-  },
-  {
-   "id": "e5d9367370c0192e",
-   "title": "Top Democrat: Migrant Crime Is a 'Fake Problem'",
-   "link": "https://www.breitbart.com/politics/2026/08/29/top-democrat-migrant-crime-is-a-fake-problem/",
-   "summary_raw": "<p>Migrant crime is a \"fake problem,\" says Connecticut Democrat Sen. Chris Murphy, a pro-migration leader in the Democrat Party.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/29/top-democrat-migrant-crime-is-a-fake-problem/\" rel=\"nofollow\">Top Democrat: Migrant Crime Is a &#8216;Fake Problem&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-29T21:03:52+00:00",
-   "collected": "2026-08-30T06:44:46.628501+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Migrant crime is a \"fake problem,\" says Connecticut Democrat Sen. Chris Murphy, a pro-migration leader in the Democrat Party. The post Top Democrat: Migrant Crime Is a ‘Fake Problem’ appeared first on",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "4daee8883fb49296",
-   "title": "Türkiye slams Israeli Foreign Ministry's remarks targeting President Erdogan",
-   "link": "https://www.aa.com.tr/en/turkiye/turkiye-slams-israeli-foreign-ministrys-remarks-targeting-president-erdogan/4041201",
-   "summary_raw": "Lies, slanders targeting Turkish president reflect 'cowardly and rotten mentality' of criminals serving in Israeli government, says Foreign Ministry",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-08-29T20:11:21+00:00",
-   "collected": "2026-08-29T21:46:23.997086+00:00",
-   "keywords_hit": [
-    "erdogan"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": true,
-   "summary_el": "Lies, slanders targeting Turkish president reflect 'cowardly and rotten mentality' of criminals serving in Israeli government, says Foreign Ministry",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @clashreport"
-   ]
-  },
-  {
-   "id": "1d0accc56856b477",
-   "title": "Can international diplomacy find a way forward in Libya?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
-   "summary_raw": "Efforts intensify to break political impasse in a divided country.",
-   "source": "Al Jazeera English",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-08-29T20:01:02+00:00",
-   "collected": "2026-08-29T21:46:53.876327+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Efforts intensify to break political impasse in a divided country.",
-   "angle": null
-  },
-  {
-   "id": "e5fac8d86bd853b0",
-   "title": "Ανάλυση: Πόσο μπορούν ν' αντέξουν τους πολέμους οι ΗΠΑ; Η σύγκρουση με το Ιράν «στραγγίζει» το οπλοστάσιό τους και τις αποδυναμώνει απέναντι σε Ρωσία και Κίνα",
-   "link": "https://www.protothema.gr/world/article/1871264/poso-boroun-n-adexoun-tous-polemous-oi-ipa-i-sugrousi-me-to-iran-straggizei-to-oplostasio-tous-kai-tis-apodunamonei/?utm_source=rss",
-   "summary_raw": "Wall Street Journal: Ελλείψεις σε πυραύλους PAC-3 για τα συστήματα αεράμυνας Patriot, αλλά και σε ATACMS - Όλο και πιο δύσκολη η στρατιωτική υποστήριξη της Ουκρανίας, τι θα συμβεί σε μια κρίση με Ρωσία και Κίνα",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-29T19:41:00+00:00",
-   "collected": "2026-08-29T21:47:17.586540+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Wall Street Journal: Ελλείψεις σε πυραύλους PAC-3 για τα συστήματα αεράμυνας Patriot, αλλά και σε ATACMS - Όλο και πιο δύσκολη η στρατιωτική υποστήριξη της Ουκρανίας, τι θα συμβεί σε μια κρίση με Ρωσί",
-   "angle": null
-  },
-  {
-   "id": "13ed3bca7b360461",
-   "title": "Where Is Libya’s Imported Fuel Going as Bill Tops $1 Billion?",
-   "link": "https://libyareview.com/67939/where-is-libyas-imported-fuel-going-as-bill-tops-1-billion/",
-   "summary_raw": "<p>Libya is spending more than $1 billion a month on fuel imports, raising concerns over smuggling and questions about where the large quantities entering the country are ultimately going, former Oil and Gas Minister Mohamed Aoun has said. Aoun, who served in the Tripoli-based Government of National Unity (GNU), warned that the rising cost of [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/67939/where-is-libyas-imported-fuel-going-as-bill-tops-1-billion/\">Where Is Libya’s Imported Fuel Going as Bill Tops $1 Billion?</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-08-29T19:36:09+00:00",
-   "collected": "2026-08-29T21:46:45.797855+00:00",
-   "keywords_hit": [
-    "libya",
-    "tripoli",
-    "smuggl"
-   ],
-   "category": "Ενέργεια",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Libya is spending more than $1 billion a month on fuel imports, raising concerns over smuggling and questions about where the large quantities entering the country are ultimately going, former Oil and",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Τρίπολη",
-     "lat": 32.89,
-     "lon": 13.19
-    }
-   ]
-  },
-  {
-   "id": "155cf2d829044d2d",
-   "title": "Virginia Catholic Bishops Launch Coordinated Push Against 2 Constitutional Amendments",
-   "link": "https://www.dailysignal.com/2026/08/29/virginia-catholic-ballot-amendments/",
-   "summary_raw": "Virginia’s most populous Catholic diocese is planning a coordinated effort in churches next month, urging parishioners to reject constitutional amendments on abortion and marriage that will appear on the ballot this fall. Bishop Michael Burbidge of the Diocese of Arlington hosted a webinar for priests and asked them to read a message at Masses on...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-29T19:30:00+00:00",
-   "collected": "2026-08-29T21:47:27.305098+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Virginia’s most populous Catholic diocese is planning a coordinated effort in churches next month, urging parishioners to reject constitutional amendments on abortion and marriage that will appear on ",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "7898b204af7ea4e4",
-   "title": "Τροχαίο με εγκατάλειψη στην Αλεξανδρούπολη: Αναζητείται Τούρκος οδηγός - E-evros",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDJLZ213OVMxSG5qNVkzUGxxdmxhY040UUcxQ1hva0NiSDhuTF9MVzkwdV9wUWVTeVJaRFZCZVhOY2RuQkZVV1lfRjlwT0kzaDVBMy02MDNfeXlNODVraGpFYWdMY1dNZVVoMU9VUkNpczJqcmRlNWZYM1BaZUVPUkYxdkZhcmI2eVlzX3pHZ3RHRThGNDdZTlZkcXFpOXp4VHJidENmZ0xhQThKTjVaUTJLYw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDJLZ213OVMxSG5qNVkzUGxxdmxhY040UUcxQ1hva0NiSDhuTF9MVzkwdV9wUWVTeVJaRFZCZVhOY2RuQkZVV1lfRjlwT0kzaDVBMy02MDNfeXlNODVraGpFYWdMY1dNZVVoMU9VUkNpczJqcmRlNWZYM1BaZUVPUkYxdkZhcmI2eVlzX3pHZ3RHRThGNDdZTlZkcXFpOXp4VHJidENmZ0xhQThKTjVaUTJLYw?oc=5\" target=\"_blank\">Τροχαίο με εγκατάλειψη στην Αλεξανδρούπολη: Αναζητείται Τούρκος οδηγός</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
-   "source": "e-Evros",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-08-29T19:23:00+00:00",
-   "collected": "2026-08-30T23:33:37.300327+00:00",
-   "keywords_hit": [
-    "evros"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Τροχαίο με εγκατάλειψη στην Αλεξανδρούπολη: Αναζητείται Τούρκος οδηγός E-evros",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Αλεξανδρούπολη",
-     "lat": 40.85,
-     "lon": 25.87
-    }
-   ]
-  },
-  {
-   "id": "2149cac5146da3ed",
-   "title": "Exclusive—Price Sukhia: Xavier Becerra’s Mexico Problem",
-   "link": "https://www.breitbart.com/politics/2026/08/29/exclusive-price-sukhia-xavier-becerras-mexico-problem/",
-   "summary_raw": "<p>A growing body of evidence reveals that Xavier Becerra, the current frontrunner for California governor, has deep ties to a network of militant activists and foreign agents who have a history of meddling in U.S. elections, mobilizing pro-immigration activism, and undermining American sovereignty.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/08/29/exclusive-price-sukhia-xavier-becerras-mexico-problem/\" rel=\"nofollow\">Exclusive—Price Sukhia: Xavier Becerra’s Mexico Problem</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-08-29T19:00:37+00:00",
-   "collected": "2026-08-29T21:47:27.098750+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A growing body of evidence reveals that Xavier Becerra, the current frontrunner for California governor, has deep ties to a network of militant activists and foreign agents who have a history of meddl",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "9b858cfd7ec2313f",
-   "title": "Συναγερμός στην Ευρώπη για το φυσικό αέριο: Σε χαμηλό 13 ετών τα αποθέματα",
-   "link": "https://www.efsyn.gr/oikonomia/1456672/synagermos-stin-eyropi-gia-to-fysiko-aerio-se-hamilo-13-eton-ta-apothemata/",
-   "summary_raw": "Εκτιμήσεις για τιμές φωτιά στο φυσικό αέριο τους επόμενους μήνες.",
-   "source": "Εφημερίδα των Συντακτών",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-29T18:33:48+00:00",
-   "collected": "2026-08-29T18:34:40.234180+00:00",
-   "keywords_hit": [
-    "φυσικό αέριο"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Εκτιμήσεις για τιμές φωτιά στο φυσικό αέριο τους επόμενους μήνες.",
-   "angle": null
-  },
-  {
-   "id": "4044353f5a12802c",
-   "title": "Απελάθηκε ΗΠΑ ο Μάιλο Γιαννόπουλος που ζητούσε αυστηρά μέτρα κατά των μεταναστών",
-   "link": "https://www.protothema.gr/world/article/1871272/apelathike-apo-tis-ipa-o-mailo-giannopoulos-pou-zitouse-mazikes-apelaseis-metanaston/?utm_source=rss",
-   "summary_raw": "Ο ακροδεξιός σχολιαστής επέστρεψε στη Βρετανία λίγες ώρες μετά τη σύλληψή του – Φέρεται να είχε παραβιάσει τον μεταναστευτικό νόμο",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-08-29T18:29:00+00:00",
-   "collected": "2026-08-29T18:34:37.092946+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο ακροδεξιός σχολιαστής επέστρεψε στη Βρετανία λίγες ώρες μετά τη σύλληψή του – Φέρεται να είχε παραβιάσει τον μεταναστευτικό νόμο",
-   "angle": null,
-   "corroborated_by": [
-    "Εφημερίδα των Συντακτών"
    ]
   }
  ]
