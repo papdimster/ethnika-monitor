@@ -1,7 +1,459 @@
 {
- "updated": "2026-09-08T21:55:24.236913+00:00",
- "count": 1542,
+ "updated": "2026-09-09T00:19:50.513117+00:00",
+ "count": 1543,
  "items": [
+  {
+   "id": "559fd165e221768b",
+   "title": "Tütün üreticilerine kuraklık desteği sözü",
+   "link": "https://www.milletgazetesi.gr/bati-trakya/tutun-ureticilerine-kuraklik-destegi-sozu",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Batı Trakya)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-09-09T00:18:56.164481+00:00",
+   "collected": "2026-09-09T00:18:56.164483+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null
+  },
+  {
+   "id": "cf7caca97654e2a0",
+   "title": "As Hostilities Flare and Oil Prices Spike, U.S. Consumers Pay at the Pump",
+   "link": "https://insideclimatenews.org/news/08092026/oil-prices-spike-amid-trump-climate-rollbacks/",
+   "summary_raw": "Hours after President Donald Trump predicted on Truth Social that oil prices would fall precipitously once the United States wins its war with Iran, strikes on Saudi Arabia’s oil infrastructure by Iranian-backed Houthis Tuesday caused global oil prices to spike to nearly $100 per barrel. The latest runup, bringing the global crude price up 33 [&#8230;]",
+   "source": "Inside Climate News",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-09-09T00:08:08+00:00",
+   "collected": "2026-09-09T00:18:30.824265+00:00",
+   "keywords_hit": [],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Hours after President Donald Trump predicted on Truth Social that oil prices would fall precipitously once the United States wins its war with Iran, strikes on Saudi Arabia’s oil infrastructure by Ira",
+   "angle": null
+  },
+  {
+   "id": "580fe4b301cfc8d2",
+   "title": "Egypt, Greece, Greek Cypriot Administration call for Gaza plan’s 2nd phase, end to Israeli attacks on Lebanon",
+   "link": "https://www.aa.com.tr/en/middle-east/egypt-greece-greek-cypriot-administration-call-for-gaza-plan-s-2nd-phase-end-to-israeli-attacks-on-lebanon/4051549",
+   "summary_raw": "Leaders also reaffirm support for Palestinian statehood, political solutions in Libya and expanded cooperation across Eastern Mediterranean",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-09-08T23:50:31+00:00",
+   "collected": "2026-09-09T00:17:58.962518+00:00",
+   "keywords_hit": [
+    "libya",
+    "greece",
+    "greek",
+    "cypriot"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Leaders also reaffirm support for Palestinian statehood, political solutions in Libya and expanded cooperation across Eastern Mediterranean",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Ανατολική Μεσόγειος",
+     "lat": 34.0,
+     "lon": 30.0
+    }
+   ]
+  },
+  {
+   "id": "422fcc1fa78d0856",
+   "title": "⚡️ American journalist: Between 110 and 120 Patriot interceptor missiles were launched in Jordan tonight.",
+   "link": "https://t.me/me_observer_TG/1086212",
+   "summary_raw": "⚡️ American journalist: Between 110 and 120 Patriot interceptor missiles were launched in Jordan tonight.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-09-08T23:39:01+00:00",
+   "collected": "2026-09-09T00:18:53.200690+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ American journalist: Between 110 and 120 Patriot interceptor missiles were launched in Jordan tonight.",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "9212d651cf9edea0",
+   "title": "Open Source Intel Additionally, the IRGC claims its anti-ship ballistic missiles struck two US Navy Arleigh Burke-class destroyers:   - USS Delbert D. Black (DDG-119) guided-missil…",
+   "link": "https://t.me/OSINTLive/570982",
+   "summary_raw": "Open Source Intel Additionally, the IRGC claims its anti-ship ballistic missiles struck two US Navy Arleigh Burke-class destroyers:   - USS Delbert D. Black (DDG-119) guided-missile destroyer. - USS John Paul Jones (DDG-53) guided-missile destroyer.  The attack reportedly “inflicted significant damage on these vessels”.  Take these reports with extreme caution.  IRGC statement regarding tonight’s ballistic missile attack:  “The F-35, F-16, and F-15 fighter jet maintenance, preparation, and storage facilities in Al-Azraq air base, along with fighter jet shelters, were targeted.” - Open Source Intel tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-09-08T23:20:15+00:00",
+   "collected": "2026-09-09T00:18:53.808892+00:00",
+   "keywords_hit": [
+    "f-16",
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel Additionally, the IRGC claims its anti-ship ballistic missiles struck two US Navy Arleigh Burke-class destroyers: - USS Delbert D. Black (DDG-119) guided-missile destroyer. - USS Joh",
+   "angle": null
+  },
+  {
+   "id": "06a735d2d8d3f7f2",
+   "title": "Many People Aren’t Connecting the Dots Between Climate Change and Extreme Weather",
+   "link": "https://insideclimatenews.org/news/08092026/todays-climate-extreme-weather-attribution-disconnect/",
+   "summary_raw": "At the end of August, devastating floods and a debris flow triggered by a glacier collapse crashed through the valleys of Nepal, killing more than 1,300 people. Earlier this summer, deadly heat waves plagued much of the United States and Europe. Meanwhile, record-low snow levels and a long-term drought stoked wildfires across the western U.S. [&#8230;]",
+   "source": "Inside Climate News",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-09-08T23:13:21+00:00",
+   "collected": "2026-09-09T00:18:30.824500+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "At the end of August, devastating floods and a debris flow triggered by a glacier collapse crashed through the valleys of Nepal, killing more than 1,300 people. Earlier this summer, deadly heat waves ",
+   "angle": null,
+   "corroborated_by": [
+    "Grist",
+    "Guardian Environment"
+   ]
+  },
+  {
+   "id": "bb628e22c467b9f6",
+   "title": "Britain's paramilitary nightmare",
+   "link": "https://unherd.com/2026/09/britains-paramilitary-nightmare/?edition=us",
+   "summary_raw": "Are these the new Blackshirts?",
+   "source": "UnHerd",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-09-08T23:03:09+00:00",
+   "collected": "2026-09-09T00:18:49.779681+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Are these the new Blackshirts?",
+   "angle": null,
+   "corroborated_by": [
+    "Spiked"
+   ]
+  },
+  {
+   "id": "af8a733f3b0ebf3d",
+   "title": "Migrant Facility Plans Move Ahead Despite Local Opposition",
+   "link": "https://greekcitytimes.com/2026/09/09/migrant-facility-plans-move-ahead-despite-local-opposition/",
+   "summary_raw": "<p>Greece is pressing ahead with a 400-person migrant facility in Athanatoi, Crete, despite strong opposition from Heraklion authorities and residents.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/09/09/migrant-facility-plans-move-ahead-despite-local-opposition/\">Migrant Facility Plans Move Ahead Despite Local Opposition</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-09-08T22:54:03+00:00",
+   "collected": "2026-09-09T00:18:19.693284+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Greece is pressing ahead with a 400-person migrant facility in Athanatoi, Crete, despite strong opposition from Heraklion authorities and residents. The post Migrant Facility Plans Move Ahead Despite ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κρήτη",
+     "lat": 35.24,
+     "lon": 24.81
+    },
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "3cf5444c967c1fbb",
+   "title": "Open Source Intel IRGC statement regarding tonight’s ballistic missile attack:  “The F-35, F-16, and F-15 fighter jet maintenance, preparation, and storage facilities in Al-Azraq a…",
+   "link": "https://t.me/OSINTLive/570977",
+   "summary_raw": "Open Source Intel IRGC statement regarding tonight’s ballistic missile attack:  “The F-35, F-16, and F-15 fighter jet maintenance, preparation, and storage facilities in Al-Azraq air base, along with fighter jet shelters, were targeted.” tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-09-08T22:50:03+00:00",
+   "collected": "2026-09-09T00:18:53.807885+00:00",
+   "keywords_hit": [
+    "f-16",
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel IRGC statement regarding tonight’s ballistic missile attack: “The F-35, F-16, and F-15 fighter jet maintenance, preparation, and storage facilities in Al-Azraq air base, along with f",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "50dda4a634c7263d",
+   "title": "Open Source Intel Ukraine has ordered around 1,000 Patriot missiles with allied support and EU financing, but most deliveries are years away.  Kyiv is asking allies for 300 missile…",
+   "link": "https://t.me/OSINTLive/570970",
+   "summary_raw": "Open Source Intel Ukraine has ordered around 1,000 Patriot missiles with allied support and EU financing, but most deliveries are years away.  Kyiv is asking allies for 300 missiles from existing stocks now, offering replacements from future orders.  Defense Minister Yevhenii Khmara also says Ukraine faces a $27 billion drone funding gap. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-09-08T22:49:54+00:00",
+   "collected": "2026-09-09T00:18:53.806727+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Open Source Intel Ukraine has ordered around 1,000 Patriot missiles with allied support and EU financing, but most deliveries are years away. Kyiv is asking allies for 300 missiles from existing stock",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "6c3d99a1ee7c9c0b",
+   "title": "Over 3,000 Turkish Citizens Hold Greek Golden Visa Permits",
+   "link": "https://greekcitytimes.com/2026/09/09/over-3000-turkish-citizens-hold-greek-golden-visa-permits/",
+   "summary_raw": "<p>Turkish buyers are showing strong demand for Greek property, particularly in Attica, the southern suburbs of Athens, Thessaloniki and the Aegean islands, with Northern Greece emerging as a major area of interest. Official figures from Greece’s Ministry of Migration and Asylum show a significant increase in the number of Turkish citizens obtaining residence permits through…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/09/09/over-3000-turkish-citizens-hold-greek-golden-visa-permits/\">Over 3,000 Turkish Citizens Hold Greek Golden Visa Permits</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-09-08T22:49:38+00:00",
+   "collected": "2026-09-09T00:18:19.693586+00:00",
+   "keywords_hit": [
+    "aegean",
+    "asylum"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Turkish buyers are showing strong demand for Greek property, particularly in Attica, the southern suburbs of Athens, Thessaloniki and the Aegean islands, with Northern Greece emerging as a major area ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    },
+    {
+     "name": "Θεσσαλονίκη",
+     "lat": 40.64,
+     "lon": 22.94
+    },
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "21d3561b3aec446b",
+   "title": "IRGC Claims Strike on Al-Azraq Base",
+   "link": "https://www.osint613.com/post/irgc-claims-strike-al-azraq-base-22459",
+   "summary_raw": "IRGC statement regarding tonight’s ballistic missile attack:\n\n“The F-35, F-16, and F-15 fighter jet maintenance, preparation, and storage facilities in Al-Azraq air base, along with fighter jet shelters, were targeted.”",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-09-08T22:45:31+00:00",
+   "collected": "2026-09-09T00:18:50.838545+00:00",
+   "keywords_hit": [
+    "f-16",
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "IRGC statement regarding tonight’s ballistic missile attack: “The F-35, F-16, and F-15 fighter jet maintenance, preparation, and storage facilities in Al-Azraq air base, along with fighter jet shelter",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive",
+    "Telegram @clashreport"
+   ]
+  },
+  {
+   "id": "2d6432c03b696c4d",
+   "title": "Ρούμπιο: «Νέα εποχή» στη συνεργασία ΗΠΑ - Κολομβίας μετά μετά την εποχή Πέτρο",
+   "link": "https://www.protothema.gr/world/article/1875917/roubio-nea-epohi-sti-sunergasia-ipa-kolomvias-meta-meta-tin-epohi-petro/?utm_source=rss",
+   "summary_raw": "Ο Αμερικανός ΥΠΕΞ ανακοίνωσε συμφωνίες για κρίσιμα ορυκτά και πυρηνική συνεργασία με τη νέα κυβέρνηση της Μπογοτά",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-08T22:44:00+00:00",
+   "collected": "2026-09-09T00:18:42.930837+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Ο Αμερικανός ΥΠΕΞ ανακοίνωσε συμφωνίες για κρίσιμα ορυκτά και πυρηνική συνεργασία με τη νέα κυβέρνηση της Μπογοτά",
+   "angle": null
+  },
+  {
+   "id": "cf2efdf695f853e0",
+   "title": "The IRGC says it launched a heavy ballistic missile strike on the Al-Azraq base in Jordan in retaliation for attacks on Iranian oil tankers.  According to the statement, the strike…",
+   "link": "https://t.me/ClashReport/95727",
+   "summary_raw": "The IRGC says it launched a heavy ballistic missile strike on the Al-Azraq base in Jordan in retaliation for attacks on Iranian oil tankers.  According to the statement, the strike targeted maintenance hangars, aircraft preparation areas, fighter shelters, and locations housing F-35, F-16, and F-15 jets, causing significant damage.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-09-08T22:39:14+00:00",
+   "collected": "2026-09-09T00:18:52.056716+00:00",
+   "keywords_hit": [
+    "f-16",
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "The IRGC says it launched a heavy ballistic missile strike on the Al-Azraq base in Jordan in retaliation for attacks on Iranian oil tankers. According to the statement, the strike targeted maintenance",
+   "angle": null,
+   "corroborated_by": [
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "bdff024af824ae01",
+   "title": "Ukraine Orders 1000 Patriot Missiles",
+   "link": "https://www.osint613.com/post/ukraine-orders-1000-patriot-missiles-22457",
+   "summary_raw": "Ukraine has ordered around 1,000 Patriot missiles with allied support and EU financing, but most deliveries are years away.\n\nKyiv is asking allies for 300 missiles from existing stocks now, offering replacements from future orders.\n\nDefense Minister Yevhenii Khmara also says Ukraine faces a $27 billion drone funding gap.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-09-08T22:33:38+00:00",
+   "collected": "2026-09-09T00:18:50.839072+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Ukraine has ordered around 1,000 Patriot missiles with allied support and EU financing, but most deliveries are years away. Kyiv is asking allies for 300 missiles from existing stocks now, offering re",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "6010cd1ed6d81dbb",
+   "title": "ΗΠΑ: Εφετείο απαγορεύει στην εφορία να μεταβιβάζει προσωπικά στοιχεία μεταναστών στην ICE",
+   "link": "https://www.in.gr/2026/09/09/world/ipa-efeteio-apagoreyei-stin-eforia-na-metavivazei-prosopika-stoixeia-metanaston-stin-ice/",
+   "summary_raw": "<div><img alt=\"ICE μεταβίβαση εφορία\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"507\" src=\"https://www.in.gr/wp-content/uploads/2026/09/ice-usa-768x507.png\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Απαγόρευση στις μεταβιβάσεις στοιχείων μεταναστών από την εφορία στην ICE επιβάλλει ομοσπονδιακό εφετείο στις ΗΠΑ, επικαλούμενο το απόρρητο προσωπικών δεδομένων φορολογουμένων.</p>\n<p>The post <a href=\"https://www.in.gr/2026/09/09/world/ipa-efeteio-apagoreyei-stin-eforia-na-metavivazei-prosopika-stoixeia-metanaston-stin-ice/\">ΗΠΑ: Εφετείο απαγορεύει στην εφορία να μεταβιβάζει προσωπικά στοιχεία μεταναστών στην ICE</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-08T22:30:04+00:00",
+   "collected": "2026-09-09T00:18:44.608636+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Απαγόρευση στις μεταβιβάσεις στοιχείων μεταναστών από την εφορία στην ICE επιβάλλει ομοσπονδιακό εφετείο στις ΗΠΑ, επικαλούμενο το απόρρητο προσωπικών δεδομένων φορολογουμένων. The post ΗΠΑ: Εφετείο α",
+   "angle": null,
+   "corroborated_by": [
+    "Πρώτο Θέμα"
+   ]
+  },
+  {
+   "id": "7b52788678b4b790",
+   "title": "What we know about masked anti-migrant protesters in the UK",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-we-know-about-masked-anti-migrant-protesters-in-the-uk?traffic_source=rss",
+   "summary_raw": "Hundreds of masked men shut down UK ports over the weekend.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-08T22:28:56+00:00",
+   "collected": "2026-09-09T00:18:22.680687+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Hundreds of masked men shut down UK ports over the weekend.",
+   "angle": null
+  },
+  {
+   "id": "68e9b531a24f7b75",
+   "title": "Greek Coast Guard Vessel LS-060 Documented During Illegal Pushback of 27 People",
+   "link": "https://aegeanboatreport.com/2026/09/09/greek-coast-guard-vessel-ls-060-documented-during-illegal-pushback-of-27-people/",
+   "summary_raw": "People in distress called the Greek emergency service and were told help was coming. They then photographed and filmed Greek Coast Guard vessel LS-060 alongside them. Hours later, Turkish authorities recorded the rescue of 27 people from a life raft and stated that they had been pushed back by Greek assets. 4 September 2026 –<a class=\"more-link\" href=\"https://aegeanboatreport.com/2026/09/09/greek-coast-guard-vessel-ls-060-documented-during-illegal-pushback-of-27-people/\">Continue reading <span class=\"screen-reader-text\">\"Greek Coast Guard Vessel LS-060 Documented During Illegal Pushback of 27 People\"</span></a>",
+   "source": "Aegean Boat Report",
+   "side": "migration_ngo",
+   "lang": "en",
+   "published": "2026-09-08T22:12:28+00:00",
+   "collected": "2026-09-09T00:18:14.206344+00:00",
+   "keywords_hit": [
+    "aegean",
+    "pushback",
+    "coast guard",
+    "greek"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "People in distress called the Greek emergency service and were told help was coming. They then photographed and filmed Greek Coast Guard vessel LS-060 alongside them. Hours later, Turkish authorities ",
+   "angle": null
+  },
+  {
+   "id": "78e32be1af5d4659",
+   "title": "«Μπλόκο» στην κυβέρνηση Τραμπ για τα φορολογικά δεδομένα μεταναστών στις ΗΠΑ",
+   "link": "https://www.protothema.gr/world/article/1875916/bloko-stin-kuvernisi-trab-gia-ta-forologika-dedomena-metanaston-stis-ipa/?utm_source=rss",
+   "summary_raw": "Το Εφετείο έκρινε παράνομη τη μαζική διαβίβαση προσωπικών πληροφοριών στην ICE για τις επιχειρήσεις απέλασης",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-08T22:03:13+00:00",
+   "collected": "2026-09-09T00:18:42.930970+00:00",
+   "keywords_hit": [
+    "μεταναστ",
+    "απέλαση"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Το Εφετείο έκρινε παράνομη τη μαζική διαβίβαση προσωπικών πληροφοριών στην ICE για τις επιχειρήσεις απέλασης",
+   "angle": null,
+   "corroborated_by": [
+    "in.gr"
+   ]
+  },
   {
    "id": "4c6df81f075ac512",
    "title": "Prof. Dr. Cevat Akşit Hocaefendi, İskeçe Çınar Camii'nde soydaşlarla buluşacak",
@@ -121,6 +573,28 @@
    "angle": null
   },
   {
+   "id": "ba5a806acbc6f67e",
+   "title": "Ohio’s US Senators Call Out Yet Another Deadly Crash Involving Illegal Immigrant",
+   "link": "https://www.dailysignal.com/2026/09/08/ohio-senators-deadly-crash-illegal/",
+   "summary_raw": "Over the holiday weekend, another illegal immigrant was involved in a deadly crash, this time in Fairfield County, Ohio. Other Ohioans have also been killed in recent crashes allegedly caused by illegal immigrant drivers. Both Sen. Bernie Moreno and Sen. Jon Husted, two Republicans from Ohio, called attention to the matter on X to express...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T21:45:01+00:00",
+   "collected": "2026-09-09T00:18:50.676251+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Over the holiday weekend, another illegal immigrant was involved in a deadly crash, this time in Fairfield County, Ohio. Other Ohioans have also been killed in recent crashes allegedly caused by illeg",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "31c39cbb69d57f59",
    "title": "Morning One-on-One Meeting Between Presidents Sisi and Christodoulides in Egypt",
    "link": "https://www.thenationalherald.com/morning-one-on-one-meeting-between-presidents-sisi-and-christodoulides-in-egypt/",
@@ -232,6 +706,26 @@
    ]
   },
   {
+   "id": "5f7616ba3aed63b8",
+   "title": "Victor Davis Hanson: When Will the Iranian People Overthrow the Regime?",
+   "link": "https://www.dailysignal.com/2026/09/08/hanson-iranian-people-overthrow/",
+   "summary_raw": "Editor’s note: This is a lightly edited transcript of today’s video from Daily Signal senior contributor&#160;Victor Davis Hanson.&#160;Subscribe to our YouTube channel to see more of his videos. Hello, this is Victor Davis Hanson for the Daily Signal.  We are six months out now from the beginning of the Iran war, if that&#8217;s what it...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T21:00:00+00:00",
+   "collected": "2026-09-09T00:18:50.676592+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Editor’s note: This is a lightly edited transcript of today’s video from Daily Signal senior contributor Victor Davis Hanson. Subscribe to our YouTube channel to see more of his videos. Hello, this is",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "bcf5479307a5d385",
    "title": "Fourteen on trial over deadliest English Channel crossing on record",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/fourteen-on-trial-over-deadliest-english-channel-crossing-on-record?traffic_source=rss",
@@ -287,6 +781,26 @@
      "lat": 40.47,
      "lon": 25.53
     }
+   ]
+  },
+  {
+   "id": "76ad9d889ba11ff3",
+   "title": "Trump Asks SCOTUS to Permit Voter Verification System Ahead of Midterms",
+   "link": "https://www.breitbart.com/politics/2026/09/08/trump-asks-scotus-permit-voter-verification-ahead-midterms/",
+   "summary_raw": "<p>The DOJ is asking the Supreme Court to intervene to allow the government to use an updated verification system, known as the SAVE program.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/08/trump-asks-scotus-permit-voter-verification-ahead-midterms/\" rel=\"nofollow\">Trump Asks SCOTUS to Permit Voter Verification System Ahead of Midterms</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T20:07:42+00:00",
+   "collected": "2026-09-09T00:18:50.440575+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The DOJ is asking the Supreme Court to intervene to allow the government to use an updated verification system, known as the SAVE program. The post Trump Asks SCOTUS to Permit Voter Verification Syste",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
    ]
   },
   {
@@ -446,6 +960,26 @@
    ]
   },
   {
+   "id": "40f5b60722774b79",
+   "title": "Exclusive – Secretary Scott Bessent Announces Further Sanctions on Iran: ‘The Snake’s Dead but It Doesn’t Know It's Dead’",
+   "link": "https://www.breitbart.com/politics/2026/09/08/exclusive-secretary-scott-bessent-announces-further-sanctions-on-iran-the-snakes-dead-but-it-doesnt-know-its-dead/",
+   "summary_raw": "<p>Treasury Secretary Scott Bessent announced during the Breitbart News \"State of the Economy\" policy event Tuesday that the Trump administration has imposed sanctions on an Iranian airline and plan to sanction another bank this week.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/08/exclusive-secretary-scott-bessent-announces-further-sanctions-on-iran-the-snakes-dead-but-it-doesnt-know-its-dead/\" rel=\"nofollow\">Exclusive – Secretary Scott Bessent Announces Further Sanctions on Iran: ‘The Snake’s Dead but It Doesn’t Know It&#8217;s Dead’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T18:59:22+00:00",
+   "collected": "2026-09-09T00:18:50.439702+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Treasury Secretary Scott Bessent announced during the Breitbart News \"State of the Economy\" policy event Tuesday that the Trump administration has imposed sanctions on an Iranian airline and plan to s",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "238dbc5215ab7180",
    "title": "Η Βοσνία απελαύνει δύο Σέρβους διπλωμάτες στον απόηχο της κηδείας του Μλάντιτς με στρατιωτικές τιμές",
    "link": "https://www.ertnews.gr/eidiseis/diethni/i-vosnia-apelaynei-dyo-servous-diplomates-ston-apoixo-tis-kideias-tou-mlantits-me-stratiotikes-times/",
@@ -463,6 +997,26 @@
    "turkish_narrative": false,
    "summary_el": "Αμέσως μετά την κηδεία με στρατιωτικές τιμές στο Βελιγράδι του καταδικασμένου για εγκλήματα πολέμου Σερβοβόσνιου στρατηγού Ράτκο Μλάντιτς, ο υπουργός Εξωτερικών της Βοσνίας-Ερζεγοβίνης, Ελμεντίν Κονάκ",
    "angle": null
+  },
+  {
+   "id": "c6cc60db324e4278",
+   "title": "Why Trump’s Push for Transparency in Public Schools Is a Victory for Parents",
+   "link": "https://www.dailysignal.com/2026/09/08/why-trumps-push-for-transparency-in-public-schools-is-a-victory-for-parents/",
+   "summary_raw": "My kids just started back at school, and as a mom and an attorney defending parental rights, I want to stand up and applaud President Donald Trump’s work to crack down on the extremism and unconstitutional actions of schools from Kansas to Massachusetts.  Trump is right to use every lever of power he has in...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T18:45:00+00:00",
+   "collected": "2026-09-09T00:18:50.677505+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "My kids just started back at school, and as a mom and an attorney defending parental rights, I want to stand up and applaud President Donald Trump’s work to crack down on the extremism and unconstitut",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
   },
   {
    "id": "e1a0705c7d7401df",
@@ -689,6 +1243,26 @@
    ]
   },
   {
+   "id": "4a5ace17fd2da134",
+   "title": "Britain should not pay a penny in slavery reparations",
+   "link": "https://www.spiked-online.com/2026/09/08/britain-should-not-pay-a-penny-in-slavery-reparations/",
+   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/09/08/britain-should-not-pay-a-penny-in-slavery-reparations/\">Britain should not pay a penny in slavery reparations</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
+   "source": "Spiked",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-09-08T18:15:03+00:00",
+   "collected": "2026-09-09T00:18:50.292258+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "The post Britain should not pay a penny in slavery reparations appeared first on spiked .",
+   "angle": null,
+   "corroborated_by": [
+    "UnHerd"
+   ]
+  },
+  {
    "id": "9323a000a3f18982",
    "title": "Egypt to participate in Cyprus independence parade for first time",
    "link": "https://cyprus-mail.com/2026/09/08/egypt-to-participate-in-cyprus-independence-parade-for-first-time",
@@ -740,6 +1314,23 @@
      "lon": 22.0
     }
    ]
+  },
+  {
+   "id": "ccbd6ff6bd3e1ae4",
+   "title": "Exclusive – Secretary Scott Bessent: If China ‘Were to Pull Ahead of Us on AI, Nothing Else Matters’",
+   "link": "https://www.breitbart.com/politics/2026/09/08/exclusive-secretary-scott-bessent-if-china-were-pull-ahead-of-us-on-ai-nothing-else-matters/",
+   "summary_raw": "<p>Treasury Secretary Scott Bessent said the U.S. must maintain its lead over China in AI while urging AI companies to better address data center concerns.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/08/exclusive-secretary-scott-bessent-if-china-were-pull-ahead-of-us-on-ai-nothing-else-matters/\" rel=\"nofollow\">Exclusive – Secretary Scott Bessent: If China ‘Were to Pull Ahead of Us on AI, Nothing Else Matters’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T17:58:54+00:00",
+   "collected": "2026-09-09T00:18:50.443265+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Treasury Secretary Scott Bessent said the U.S. must maintain its lead over China in AI while urging AI companies to better address data center concerns. The post Exclusive – Secretary Scott Bessent: I",
+   "angle": null
   },
   {
    "id": "e6ff851383b894dc",
@@ -797,6 +1388,26 @@
    ]
   },
   {
+   "id": "716c94a3a8dff16a",
+   "title": "Fans Wearing XX-XY Athletics Gear Booted From Soccer Game, Sports Bar",
+   "link": "https://www.dailysignal.com/2026/09/08/fans-wearing-xx-xy-athletics-gear-booted-from-soccer-game-sports-bar/",
+   "summary_raw": "A Portland professional soccer team and a prominent women&#8217;s sports bar removed fans wearing apparel from XX-XY Athletics, a company that opposes allowing men who claim to identify as women to compete in women&#8217;s sports. A group of eight fans attended the women&#8217;s soccer match between the Portland Thorns and the Washington Spirit at the...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T17:43:10+00:00",
+   "collected": "2026-09-09T00:18:50.677693+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "A Portland professional soccer team and a prominent women’s sports bar removed fans wearing apparel from XX-XY Athletics, a company that opposes allowing men who claim to identify as women to compete ",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "7ca256315d5d6b01",
    "title": "M61 Vulcan: Το εξάκαννο πυροβόλο που σημάδεψε την εποχή των τζετ",
    "link": "https://flight.com.gr/m61-vulcan-gun-history/?utm_source=rss&utm_medium=rss&utm_campaign=m61-vulcan-gun-history",
@@ -814,6 +1425,26 @@
    "turkish_narrative": false,
    "summary_el": "Η ιστορία, η λειτουργία και η ελληνική υπηρεσία του εξάκαννου πυροβόλου M61 Vulcan, από το F-104 και το F-4E έως το F-16 Viper. Το άρθρο M61 Vulcan: Το εξάκαννο πυροβόλο που σημάδεψε την εποχή των τζε",
    "angle": null
+  },
+  {
+   "id": "e2e2227e798f95e0",
+   "title": "Victor Davis Hanson: The Generation That Built America Was the Last of Its Kind",
+   "link": "https://www.dailysignal.com/2026/09/08/hanson-generation-built-america/",
+   "summary_raw": "Editor’s note: This is a lightly edited transcript of “Victor Davis Hanson: In His Own Words” from Daily Signal senior contributor&#160;Victor Davis Hanson.&#160;Subscribe to Victor Davis Hanson’s own YouTube channel to watch past episodes. Jack Fowler: Our friend, your friend, and I&#8217;m a great admirer of David Mamet, the playwright and screenwriter and author. He...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T17:40:00+00:00",
+   "collected": "2026-09-09T00:18:50.677902+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Editor’s note: This is a lightly edited transcript of “Victor Davis Hanson: In His Own Words” from Daily Signal senior contributor Victor Davis Hanson. Subscribe to Victor Davis Hanson’s own YouTube c",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
   },
   {
    "id": "60bb006bba46a3cd",
@@ -1086,6 +1717,26 @@
    ]
   },
   {
+   "id": "455bed875cccbd52",
+   "title": "Exclusive — Secretary Scott Bessent ‘Watching Policy Become People’ with Blowout Jobs Numbers: a Million Jobs Created, 'That's Why the Wage Growth Is Good’",
+   "link": "https://www.breitbart.com/economy/2026/09/08/exclusive-secretary-scott-bessent-watching-policy-become-people-with-blowout-jobs-numbers-a-million-jobs-created-thats-why-the-wage-growth-is-good/",
+   "summary_raw": "<p>There have been a million jobs created under the Trump administration, and that's why wage growth is strong, Treasury Secretary Scott Bessent said during a policy event with Breitbart News on the state of the economy.</p>\n<p>The post <a href=\"https://www.breitbart.com/economy/2026/09/08/exclusive-secretary-scott-bessent-watching-policy-become-people-with-blowout-jobs-numbers-a-million-jobs-created-thats-why-the-wage-growth-is-good/\" rel=\"nofollow\">Exclusive — Secretary Scott Bessent ‘Watching Policy Become People’ with Blowout Jobs Numbers: a Million Jobs Created, &#8216;That&#8217;s Why the Wage Growth Is Good’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T16:34:15+00:00",
+   "collected": "2026-09-09T00:18:50.443826+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "There have been a million jobs created under the Trump administration, and that's why wage growth is strong, Treasury Secretary Scott Bessent said during a policy event with Breitbart News on the stat",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "7b73cc50a90efdbb",
    "title": "EU Turns to Israel for Air Defense",
    "link": "https://www.osint613.com/post/eu-turns-to-israel-for-air-defense-22418",
@@ -1126,6 +1777,26 @@
    "severity": 4,
    "turkish_narrative": false,
    "summary_el": "Stopping mass migration means working Americans make more money and have more jobs, Treasury Secretary Scott Bessent said during a Breitbart News policy event, describing the underlying fundamentals o",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "6dbb7f3842ca4166",
+   "title": "Exclusive — Trump Economic Advisor Christopher Phelan: Jobs Gains Under Trump Higher than 77 Bloomberg Economists' Projections",
+   "link": "https://www.breitbart.com/economy/2026/09/08/exclusive-trump-economic-advisor-christopher-phelan-jobs-gains-under-trump-higher-than-77-bloomberg-economists-projections/",
+   "summary_raw": "<p>Trump Economic Advisor Christopher Phelan said at Breitbart's State of the Economy event on Tuesday that job gains have soared higher than 77 economists' predictions.</p>\n<p>The post <a href=\"https://www.breitbart.com/economy/2026/09/08/exclusive-trump-economic-advisor-christopher-phelan-jobs-gains-under-trump-higher-than-77-bloomberg-economists-projections/\" rel=\"nofollow\">Exclusive — Trump Economic Advisor Christopher Phelan: Jobs Gains Under Trump Higher than 77 Bloomberg Economists&#8217; Projections</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-08T16:21:24+00:00",
+   "collected": "2026-09-09T00:18:50.444116+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Trump Economic Advisor Christopher Phelan said at Breitbart's State of the Economy event on Tuesday that job gains have soared higher than 77 economists' predictions. The post Exclusive — Trump Econom",
    "angle": null,
    "corroborated_by": [
     "Daily Signal"
@@ -1748,6 +2419,26 @@
      "lon": 33.2
     }
    ]
+  },
+  {
+   "id": "451c8dd821078498",
+   "title": "Υπεγράφη η ρύθμιση για την απόκτηση των δύο φρεγατών FREMM -Δένδιας: Με τις FDI θα είναι ο πυρήνας ισχύος του ελληνικού στόλου στη νέα εποχή - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUllNSUhxUXF3QkdubG1JX1ZtY1hWZUo3ZnhZWkVFRnJfNk43SWo2cmlmVWxWUVFtTjVFdXZIMHpxTGIxR2JHQVpRcDdsU0NCR3ZQYmRXVUI2cld1X3RFUXladHhyeDVENldnV1pYaFE2RW9pOHlfVFUxZGlWYW84WUVYSHpqcTdS0gGOAUFVX3lxTFBIUlRRTGJxLUZpYWlrT2JoM3p4NWIwa3p6eHpXU2YxNXl0SE43cjMxemItRk1kaW1EcVpmWFpYenczbV9pcnZsa0ZhOGM2a3FzbFhVUUYwc0lOcWhvV0QxSHpQZ3RTbXQ5U1liUnpMTG5LcXVaT1FLWWZibGRQZFE4TExQa1RFU1dWYXRWckE?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUllNSUhxUXF3QkdubG1JX1ZtY1hWZUo3ZnhZWkVFRnJfNk43SWo2cmlmVWxWUVFtTjVFdXZIMHpxTGIxR2JHQVpRcDdsU0NCR3ZQYmRXVUI2cld1X3RFUXladHhyeDVENldnV1pYaFE2RW9pOHlfVFUxZGlWYW84WUVYSHpqcTdS0gGOAUFVX3lxTFBIUlRRTGJxLUZpYWlrT2JoM3p4NWIwa3p6eHpXU2YxNXl0SE43cjMxemItRk1kaW1EcVpmWFpYenczbV9pcnZsa0ZhOGM2a3FzbFhVUUYwc0lOcWhvV0QxSHpQZ3RTbXQ5U1liUnpMTG5LcXVaT1FLWWZibGRQZFE4TExQa1RFU1dWYXRWckE?oc=5\" target=\"_blank\">Υπεγράφη η ρύθμιση για την απόκτηση των δύο φρεγατών FREMM -Δένδιας: Με τις FDI θα είναι ο πυρήνας ισχύος του ελληνικού στόλου στη νέα εποχή</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-08T14:16:12+00:00",
+   "collected": "2026-09-09T00:18:45.789834+00:00",
+   "keywords_hit": [
+    "fdi",
+    "δένδιας"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Υπεγράφη η ρύθμιση για την απόκτηση των δύο φρεγατών FREMM -Δένδιας: Με τις FDI θα είναι ο πυρήνας ισχύος του ελληνικού στόλου στη νέα εποχή iefimerida.gr",
+   "angle": null
   },
   {
    "id": "549d3fa4fb2cbd2d",
@@ -4701,6 +5392,29 @@
      "lat": 34.9,
      "lon": 33.2
     }
+   ]
+  },
+  {
+   "id": "8407c9cbeaead7e2",
+   "title": "Nepal says big polluters must ‘wake up’ as it calls for climate compensation over flood disaster",
+   "link": "https://www.theguardian.com/world/2026/sep/08/nepal-floods-climate-compensation",
+   "summary_raw": "<p>Foreign minister Shisir Khanal tells the Guardian the world’s biggest economies need to help Nepal, which contributes less than 0.1% of global greenhouse gas emissions </p><p>Nepal is demanding $20m in climate compensation for the recent devastating floods, as a senior minister called on the world’s most polluting countries to “wake up” and accept shared responsibility for a disaster that led to the death or disappearance of more than 6,000 people.</p><p>Scientists believe the climate crisis <a href=\"https://www.theguardian.com/world/2026/aug/27/climate-crisis-mountain-areas-glaciers-nepal-tibet\">had a role to play in the floods</a>, which were triggered when a melting glacier partially collapsed and set off a deadly landslide and flash flooding through Chinese-controlled Tibet and Nepal in late August. So far, more than 1,300 are confirmed dead and more than 5,500 still missing, with hopes of their survival diminished <a href=\"https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster\">after 12 days of rescue operations</a>.</p> <a href=\"https://www.theguardian.com/world/2026/sep/08/nepal-floods-climate-compensation\">Continue reading.",
+   "source": "Guardian Environment",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-09-08T00:58:09+00:00",
+   "collected": "2026-09-09T00:18:30.579647+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Foreign minister Shisir Khanal tells the Guardian the world’s biggest economies need to help Nepal, which contributes less than 0.1% of global greenhouse gas emissions Nepal is demanding $20m in clima",
+   "angle": null,
+   "corroborated_by": [
+    "Grist",
+    "Inside Climate News"
    ]
   },
   {
@@ -35021,608 +35735,6 @@
    "severity": 3,
    "turkish_narrative": true,
    "summary_el": "",
-   "angle": null
-  },
-  {
-   "id": "572ce293f8549632",
-   "title": "Η κλιματική κρίση στρέφει τουριστικά ρεύματα προς τον ευρωπαϊκό Βορρά - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYjlDb0NscXctSmFFWDB1UXBQTENQT2RlcWVkQ016Ni1Fb0VtYmVvNzAwdE1KM0VVNlMyOUQ3Y2pMaHcwbUhFR3psYVQxeTBQdXFIX1loMEQwOTZnU1U1M0ZCU1c2OW9a?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYjlDb0NscXctSmFFWDB1UXBQTENQT2RlcWVkQ016Ni1Fb0VtYmVvNzAwdE1KM0VVNlMyOUQ3Y2pMaHcwbUhFR3psYVQxeTBQdXFIX1loMEQwOTZnU1U1M0ZCU1c2OW9a?oc=5\" target=\"_blank\">Η κλιματική κρίση στρέφει τουριστικά ρεύματα προς τον ευρωπαϊκό Βορρά</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-02T00:17:30+00:00",
-   "collected": "2026-09-02T21:52:26.864802+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η κλιματική κρίση στρέφει τουριστικά ρεύματα προς τον ευρωπαϊκό Βορρά ecopress",
-   "angle": null
-  },
-  {
-   "id": "5bcaacb9132192fa",
-   "title": "Trump: Iran Could Be ‘Totally Wiped Out’ — Tehran Launches Missile Attack on U.S. Bases in Jordan",
-   "link": "https://www.breitbart.com/politics/2026/09/01/trump-iran-could-be-totally-wiped-out-tehran-launches-missile-attack-on-u-s-bases-in-jordan/",
-   "summary_raw": "<p>President Donald Trump warned Tuesday that Iran could be “totally wiped out as a country” if it continued its attacks on U.S. forces, as Tehran launched a new ballistic missile barrage targeting American military facilities in Jordan following a wave of U.S. strikes on Iran.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/01/trump-iran-could-be-totally-wiped-out-tehran-launches-missile-attack-on-u-s-bases-in-jordan/\" rel=\"nofollow\">Trump: Iran Could Be ‘Totally Wiped Out’ — Tehran Launches Missile Attack on U.S. Bases in Jordan</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-02T00:08:33+00:00",
-   "collected": "2026-09-02T04:44:59.468656+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "President Donald Trump warned Tuesday that Iran could be “totally wiped out as a country” if it continued its attacks on U.S. forces, as Tehran launched a new ballistic missile barrage targeting Ameri",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "6f297a6bd42ba355",
-   "title": "Μεγάλο ενδιαφέρον στον διαγωνισμό για το έργο ανάπλασης της ΔΕΘ - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbHlSVnZXMW9IWXFsdHE0LXVzdFppREdtTS1HaGtTQ1B5YXpiYXF0amRpc0RMSng2MkJ1enp5bzFmVEhHTmtvZ09jVmhYeWhzVFFTdGhzQ2d4dnh2VDQ5ckJvVF9ualF6?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbHlSVnZXMW9IWXFsdHE0LXVzdFppREdtTS1HaGtTQ1B5YXpiYXF0amRpc0RMSng2MkJ1enp5bzFmVEhHTmtvZ09jVmhYeWhzVFFTdGhzQ2d4dnh2VDQ5ckJvVF9ualF6?oc=5\" target=\"_blank\">Μεγάλο ενδιαφέρον στον διαγωνισμό για το έργο ανάπλασης της ΔΕΘ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-02T00:04:16+00:00",
-   "collected": "2026-09-05T12:46:03.061598+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Μεγάλο ενδιαφέρον στον διαγωνισμό για το έργο ανάπλασης της ΔΕΘ ecopress",
-   "angle": null
-  },
-  {
-   "id": "fe5c77ce7630d6cb",
-   "title": "ΥΠΕΘΟΟ: έως το τέλος Σεπτεμβρίου οι πληρωμές του Ταμείου Ανάκαμψης - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BVVA5cTBCTWhlQnJBWTFrV3dEOUhENjViMGd2ZmFNckk4MmlkaFA4NzV6RnRVcmM2dDZXSUFvX2MtelVySDFpUTNXUW9NX3Z5UUVER05PeEFleDNZRWdrWGdxMjljRnFJdnAtbg?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9BVVA5cTBCTWhlQnJBWTFrV3dEOUhENjViMGd2ZmFNckk4MmlkaFA4NzV6RnRVcmM2dDZXSUFvX2MtelVySDFpUTNXUW9NX3Z5UUVER05PeEFleDNZRWdrWGdxMjljRnFJdnAtbg?oc=5\" target=\"_blank\">ΥΠΕΘΟΟ: έως το τέλος Σεπτεμβρίου οι πληρωμές του Ταμείου Ανάκαμψης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-02T00:00:13+00:00",
-   "collected": "2026-09-05T04:35:01.237426+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "ΥΠΕΘΟΟ: έως το τέλος Σεπτεμβρίου οι πληρωμές του Ταμείου Ανάκαμψης ecopress",
-   "angle": null
-  },
-  {
-   "id": "34201f29970284e1",
-   "title": "Iran fires missiles at US bases in four countries after deadly strike on wedding party",
-   "link": "https://brusselssignal.eu/2026/09/iran-fires-missiles-at-us-bases-in-four-countries-after-deadly-strike-on-wedding-party/",
-   "summary_raw": "Iran has launched missile and drone attacks on US bases in Jordan, Iraq, Kuwait, and Bahrain following a US strike that killed at least four at a wedding. The situation escalates.\n<p><a href=\"https://brusselssignal.eu/2026/09/iran-fires-missiles-at-us-bases-in-four-countries-after-deadly-strike-on-wedding-party/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-09-02T00:00:01+00:00",
-   "collected": "2026-09-02T09:41:48.608456+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Iran has launched missile and drone attacks on US bases in Jordan, Iraq, Kuwait, and Bahrain following a US strike that killed at least four at a wedding. The situation escalates. Source",
-   "angle": null
-  },
-  {
-   "id": "8cc0ac664d6c2d2b",
-   "title": "Survey: Over 1/3 of Gun Owners Have Used a Firearm in Self-Defense",
-   "link": "https://www.breitbart.com/2nd-amendment/2026/09/01/survey-over-1-3-of-gun-owners-have-used-a-firearm-in-self-defense/",
-   "summary_raw": "<p>A survey conducted by Georgetown University’s William English found that over one-third of American gun owners have used a firearm in self-defense.</p>\n<p>The post <a href=\"https://www.breitbart.com/2nd-amendment/2026/09/01/survey-over-1-3-of-gun-owners-have-used-a-firearm-in-self-defense/\" rel=\"nofollow\">Survey: Over 1/3 of Gun Owners Have Used a Firearm in Self-Defense</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-01T23:57:37+00:00",
-   "collected": "2026-09-02T18:46:36.286861+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A survey conducted by Georgetown University’s William English found that over one-third of American gun owners have used a firearm in self-defense. The post Survey: Over 1/3 of Gun Owners Have Used a ",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "0b9e892a301171dd",
-   "title": "ΔΕΗ: Μείωση τιμής στο σταθερό τιμολόγιο,απορρόφηση αυξήσεων στο πράσινο - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PQUFJMlNtRU5aMnAzdEdoR0RWcG9OQzRtOFR2azBDQXUycTFFS202bjJrU05VRDRDUzFhbEtLdHVKdXREUERILWI5bExyUnV2TGNNaUFwU1RxUFp4LVhfZGVCUG4tclEtb1FN?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9PQUFJMlNtRU5aMnAzdEdoR0RWcG9OQzRtOFR2azBDQXUycTFFS202bjJrU05VRDRDUzFhbEtLdHVKdXREUERILWI5bExyUnV2TGNNaUFwU1RxUFp4LVhfZGVCUG4tclEtb1FN?oc=5\" target=\"_blank\">ΔΕΗ: Μείωση τιμής στο σταθερό τιμολόγιο,απορρόφηση αυξήσεων στο πράσινο</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-01T23:56:47+00:00",
-   "collected": "2026-09-02T00:18:07.321532+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "ΔΕΗ: Μείωση τιμής στο σταθερό τιμολόγιο,απορρόφηση αυξήσεων στο πράσινο ecopress",
-   "angle": null
-  },
-  {
-   "id": "a510fae0e0eeb5cc",
-   "title": "Εκτός σχεδίου: οι παγίδες για ΥΔΟΜ, ΣΥΠΟΘΑ, Δήμους, ιδιοκτήτες, μηχανικούς και η ευθύνη του κράτους - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hU1Q2NDMyMXk0TUoxSGZweV9Vd2xSbkRNdVlmc2RFTEVZaExIMEdXdVhpbEN4TlVIWko0dXhsZjMwNVNPTzF1SXViV0Rua1NuOFB4TUlXVE5QUDJ0dlNxWjBmWVdhSmpsUjRVZg?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1hU1Q2NDMyMXk0TUoxSGZweV9Vd2xSbkRNdVlmc2RFTEVZaExIMEdXdVhpbEN4TlVIWko0dXhsZjMwNVNPTzF1SXViV0Rua1NuOFB4TUlXVE5QUDJ0dlNxWjBmWVdhSmpsUjRVZg?oc=5\" target=\"_blank\">Εκτός σχεδίου: οι παγίδες για ΥΔΟΜ, ΣΥΠΟΘΑ, Δήμους, ιδιοκτήτες, μηχανικούς και η ευθύνη του κράτους</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-01T23:49:02+00:00",
-   "collected": "2026-09-04T09:42:40.202363+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Εκτός σχεδίου: οι παγίδες για ΥΔΟΜ, ΣΥΠΟΘΑ, Δήμους, ιδιοκτήτες, μηχανικούς και η ευθύνη του κράτους ecopress",
-   "angle": null
-  },
-  {
-   "id": "ea16db8dcd12f9c9",
-   "title": "Exclusive – Sen. Ron Johnson Says Chinese Propaganda Fueling Data Center Opposition: ‘Do We Really Want to Lose the Race to AI?’",
-   "link": "https://www.breitbart.com/politics/2026/09/01/exclusive-sen-ron-johnson-says-chinese-propaganda-fueling-data-center-opposition-do-we-really-want-to-lose-the-race-to-ai/",
-   "summary_raw": "<p>Sen. Ron Johnson (R-WI) said during a Breitbart News Fight Club Roundtable that he believes China is helping fund opposition to artificial intelligence data centers, while arguing that the country should consider the effects on the electrical grid and water resources without putting itself at a disadvantage in the competition over AI.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/01/exclusive-sen-ron-johnson-says-chinese-propaganda-fueling-data-center-opposition-do-we-really-want-to-lose-the-race-to-ai/\" rel=\"nofollow\">Exclusive – Sen. Ron Johnson Says Chinese Propaganda Fueling Data Center Opposition: ‘Do We Really Want to Lose the Race to AI?’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-01T23:45:47+00:00",
-   "collected": "2026-09-02T04:44:59.468223+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Sen. Ron Johnson (R-WI) said during a Breitbart News Fight Club Roundtable that he believes China is helping fund opposition to artificial intelligence data centers, while arguing that the country sho",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "0ef1988190b431b8",
-   "title": "World’s coral reefs are running out of time to recover",
-   "link": "https://www.ekathimerini.com/nytimes/1313945/worlds-coral-reefs-are-running-out-of-time-to-recover/",
-   "summary_raw": "Coral reefs around the world, struggling as climate change drives more frequent and more intense marine heat waves, are running out of time for recovery, according to a sweeping new report on the state of the world’s corals published Monday.",
-   "source": "Kathimerini (EN)",
-   "side": "greek_media",
-   "lang": "en",
-   "published": "2026-09-01T23:44:00+00:00",
-   "collected": "2026-09-02T04:43:59.598151+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Coral reefs around the world, struggling as climate change drives more frequent and more intense marine heat waves, are running out of time for recovery, according to a sweeping new report on the stat",
-   "angle": null
-  },
-  {
-   "id": "a9e6a5765cf50f84",
-   "title": "⚡️ #Lebanon Shelling with phosphorus shells by the Zionist enemy targets the vicinity of Ali al-Taher hills in the Nabatieh district, southern steadfast Lebanon. • 21:54 — #Lebanon…",
-   "link": "https://t.me/me_observer_TG/1080586",
-   "summary_raw": "⚡️ #Lebanon Shelling with phosphorus shells by the Zionist enemy targets the vicinity of Ali al-Taher hills in the Nabatieh district, southern steadfast Lebanon. • 21:54 — #Lebanon Artillery shelling by the Zionist enemy, continuously targeting Hrush Ali al…",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-09-01T23:39:03+00:00",
-   "collected": "2026-09-02T00:18:39.236064+00:00",
-   "keywords_hit": [
-    "steadfast"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ #Lebanon Shelling with phosphorus shells by the Zionist enemy targets the vicinity of Ali al-Taher hills in the Nabatieh district, southern steadfast Lebanon. • 21:54 — #Lebanon Artillery shelling ",
-   "angle": null
-  },
-  {
-   "id": "3481470403e92094",
-   "title": "Egypt may be preparing to buy 24 additional Rafale fighter jets from Dassault Aviation, according to La Tribune. Cairo has reportedly sent France a formal request for proposal, tho…",
-   "link": "https://t.me/ClashReport/94637",
-   "summary_raw": "Egypt may be preparing to buy 24 additional Rafale fighter jets from Dassault Aviation, according to La Tribune. Cairo has reportedly sent France a formal request for proposal, though Dassault declined to comment.  Egypt will have 54 Rafales in service by the end of 2026, following previous orders in 2015 and 2021.   A new deal would increase its fleet to 78 aircraft.  Source: La Tribune",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-09-01T23:35:28+00:00",
-   "collected": "2026-09-02T00:18:37.566102+00:00",
-   "keywords_hit": [
-    "rafale"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Egypt may be preparing to buy 24 additional Rafale fighter jets from Dassault Aviation, according to La Tribune. Cairo has reportedly sent France a formal request for proposal, though Dassault decline",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κάιρο",
-     "lat": 30.04,
-     "lon": 31.24
-    }
-   ]
-  },
-  {
-   "id": "8fc275b71f76b244",
-   "title": "Nuno Felix RT @GiorgiaMeloni: Italy stands in full solidarity with Germany after the Russian hybrid attack in Leipzig.  The security of our Allies is the security of us all. Attemp…",
-   "link": "https://t.me/OSINTLive/569049",
-   "summary_raw": "Nuno Felix RT @GiorgiaMeloni: Italy stands in full solidarity with Germany after the Russian hybrid attack in Leipzig.  The security of our Allies is the security of us all. Attempts to intimidate us or to drive a wedge between Allies will not succeed: hybrid actions against any one of us are a matter of concern for all of us, and will be met with a united response.  At times like this, it is essential to remain steadfast, to keep working closely together, and to maintain a credible posture of deterrence in defence of our citizens’ security. tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-09-01T23:32:26+00:00",
-   "collected": "2026-09-02T00:18:40.080506+00:00",
-   "keywords_hit": [
-    "steadfast"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Nuno Felix RT @GiorgiaMeloni: Italy stands in full solidarity with Germany after the Russian hybrid attack in Leipzig. The security of our Allies is the security of us all. Attempts to intimidate us o",
-   "angle": null
-  },
-  {
-   "id": "f315df38a89aacca",
-   "title": "Biden FBI Cited SPLC in Taking Thousands of Actions Despite Knowing Org’s Deep Flaws",
-   "link": "https://www.dailysignal.com/2026/09/01/dojs-report-richmond-catholic-memo-exposed-much-bigger-problem-fbi/",
-   "summary_raw": "The Justice Department&#8217;s new report on the Richmond Catholic memo reveals that the FBI had cited the Southern Poverty Law Center more than 22,000 times, at times without any caveats, even though FBI policies would require any SPLC citation to note potential bias and contested credibility. The Richmond office of the FBI published the notorious...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-01T23:25:00+00:00",
-   "collected": "2026-09-02T00:18:35.670990+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The Justice Department’s new report on the Richmond Catholic memo reveals that the FBI had cited the Southern Poverty Law Center more than 22,000 times, at times without any caveats, even though FBI p",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "4c8120ec5576689a",
-   "title": "Federal Judge Strikes Down New York’s Climate Change Superfund Law",
-   "link": "https://insideclimatenews.org/news/01092026/federal-judge-strikes-down-new-york-climate-change-superfund-act/",
-   "summary_raw": "A federal judge has struck down New York’s Climate Change Superfund Act, ruling that it “conflicts with” federal authority.&#160;&#160; The legislation would have required fossil fuel companies to help cover the costs of adapting to climate change, but it operates in an area of the law “in which the federal interest is so dominant that [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-01T23:19:38+00:00",
-   "collected": "2026-09-02T00:18:09.768415+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A federal judge has struck down New York’s Climate Change Superfund Act, ruling that it “conflicts with” federal authority. The legislation would have required fossil fuel companies to help cover the ",
-   "angle": null,
-   "corroborated_by": [
-    "Guardian Environment"
-   ]
-  },
-  {
-   "id": "1ffc89fab488b2e1",
-   "title": "UN faces contentious Iran nuclear vote ahead of General Assembly - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0dNZ2g0a1VQV3N1NV9oT2RWZE0zR1NzeklYOEItMHFRTFJMNS1jTVhFbUdHMjNaT0ZrM21WMmlJWjdsWVhSQVNtOUd3MWhzWjBhN3lucmZ3T1BnanVnSG1ZMUJITkZ4Q1EydEdYYVB0VXVfSjcwdm84S0RvYUNSUFdVeFBVR01xRWRVb0YtSFFIc0RjVWNsOEZqM0xrT0RxTWVmcTRrdkl4WTdDSXc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0dNZ2g0a1VQV3N1NV9oT2RWZE0zR1NzeklYOEItMHFRTFJMNS1jTVhFbUdHMjNaT0ZrM21WMmlJWjdsWVhSQVNtOUd3MWhzWjBhN3lucmZ3T1BnanVnSG1ZMUJITkZ4Q1EydEdYYVB0VXVfSjcwdm84S0RvYUNSUFdVeFBVR01xRWRVb0YtSFFIc0RjVWNsOEZqM0xrT0RxTWVmcTRrdkl4WTdDSXc?oc=5\" target=\"_blank\">UN faces contentious Iran nuclear vote ahead of General Assembly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-   "source": "Reuters World",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-09-01T23:06:50+00:00",
-   "collected": "2026-09-02T09:41:08.985698+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "UN faces contentious Iran nuclear vote ahead of General Assembly Reuters",
-   "angle": null
-  },
-  {
-   "id": "03a0d75b57abd434",
-   "title": "Ανακαίνιση Κατοικίας: νέα ΚΥΑ για κλειστά και ανοιχτά ακίνητα και οι αποκλεισμοί - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55RkZNdXBESjZKcHR5UE5SY1d0WWVCVXkzOGtmdS05QlhZdi02bGxXcUI4bExRNDN0ZXVoN1NCMkVjZUlvNVZUQkJxRG5YaWF5T29sU0QwdmlKSjhNS0hjeVRST0Z0NU1qbmc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE55RkZNdXBESjZKcHR5UE5SY1d0WWVCVXkzOGtmdS05QlhZdi02bGxXcUI4bExRNDN0ZXVoN1NCMkVjZUlvNVZUQkJxRG5YaWF5T29sU0QwdmlKSjhNS0hjeVRST0Z0NU1qbmc?oc=5\" target=\"_blank\">Ανακαίνιση Κατοικίας: νέα ΚΥΑ για κλειστά και ανοιχτά ακίνητα και οι αποκλεισμοί</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-01T23:05:31+00:00",
-   "collected": "2026-09-03T21:44:19.104094+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ανακαίνιση Κατοικίας: νέα ΚΥΑ για κλειστά και ανοιχτά ακίνητα και οι αποκλεισμοί ecopress",
-   "angle": null
-  },
-  {
-   "id": "6e8b4b6b0c0b6d93",
-   "title": "AI is Trump’s Manhattan Project",
-   "link": "https://unherd.com/2026/09/ai-is-trumps-manhattan-project/?edition=us",
-   "summary_raw": "The “Genesis Mission” will start a scientific revolution",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-09-01T23:03:43+00:00",
-   "collected": "2026-09-02T00:18:32.333879+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The “Genesis Mission” will start a scientific revolution",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "361148a948d00035",
-   "title": "The man who made bin Laden",
-   "link": "https://unherd.com/2026/09/the-man-who-made-bin-laden/?edition=us",
-   "summary_raw": "Abu Musab al-Suri trailblazed the global jihad",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-09-01T23:02:54+00:00",
-   "collected": "2026-09-03T18:44:26.951580+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Abu Musab al-Suri trailblazed the global jihad",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "4f1880d197700d52",
-   "title": "Status-6 (War & Military News) Schizo party in the replies  Italy stands in full solidarity with Germany after the Russian hybrid attack in Leipzig.  The security of our Allies is …",
-   "link": "https://t.me/OSINTLive/569036",
-   "summary_raw": "Status-6 (War & Military News) Schizo party in the replies  Italy stands in full solidarity with Germany after the Russian hybrid attack in Leipzig.  The security of our Allies is the security of us all. Attempts to intimidate us or to drive a wedge between Allies will not succeed: hybrid actions against any one of us are a matter of concern for all of us, and will be met with a united response.  At times like this, it is essential to remain steadfast, to keep working closely together, and to maintain a credible posture of deterrence in defence of our citizens’ security. - Giorgia Meloni tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-09-01T23:01:37+00:00",
-   "collected": "2026-09-02T00:18:40.079083+00:00",
-   "keywords_hit": [
-    "steadfast"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Status-6 (War & Military News) Schizo party in the replies Italy stands in full solidarity with Germany after the Russian hybrid attack in Leipzig. The security of our Allies is the security of us all",
-   "angle": null
-  },
-  {
-   "id": "73186bda0ec92369",
-   "title": "Trump:  I am pleased to nominate a true WARRIOR, Hung Cao, to become the next Secretary of the Navy.   We need Patriots like Hung leading our Navy and Marine Corps, and I can think…",
-   "link": "https://t.me/ClashReport/94634",
-   "summary_raw": "Trump:  I am pleased to nominate a true WARRIOR, Hung Cao, to become the next Secretary of the Navy.   We need Patriots like Hung leading our Navy and Marine Corps, and I can think of no one better than him to make sure our Great Navy and Marine Corps remain the FIERCEST and BEST Force the World has ever seen.   The Senate needs to confirm this Warfighter, ASAP, so he can continue the fantastic work he has been doing over the past 4 months.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-09-01T22:56:34+00:00",
-   "collected": "2026-09-02T00:18:37.565760+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Trump: I am pleased to nominate a true WARRIOR, Hung Cao, to become the next Secretary of the Navy. We need Patriots like Hung leading our Navy and Marine Corps, and I can think of no one better than ",
-   "angle": null
-  },
-  {
-   "id": "d8b3a31f769149d1",
-   "title": "Inside the Iranian clampdown",
-   "link": "https://www.spiked-online.com/2026/09/01/inside-the-iranian-clampdown/",
-   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/09/01/inside-the-iranian-clampdown/\">Inside the Iranian clampdown</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
-   "source": "Spiked",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-09-01T22:55:57+00:00",
-   "collected": "2026-09-02T00:18:32.708377+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The post Inside the Iranian clampdown appeared first on spiked .",
-   "angle": null
-  },
-  {
-   "id": "1c644eb4f2e54599",
-   "title": "UN Chief Welcomes Libya 4+4 Agreement as Important Step Toward Elections",
-   "link": "https://libyareview.com/68012/un-chief-welcomes-libya-44-agreement-as-important-step-toward-elections/",
-   "summary_raw": "<p>UN Secretary-General Antonio Guterres has welcomed the signing of the new agreement reached through Libya’s smaller convening, describing it as an important step towards national elections and ending the country’s prolonged transitional period. UN spokesperson Stephane Dujarric said the agreement, signed on Sunday, addresses the first two stages of the political roadmap facilitated by the [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68012/un-chief-welcomes-libya-44-agreement-as-important-step-toward-elections/\">UN Chief Welcomes Libya 4+4 Agreement as Important Step Toward Elections</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-09-01T22:43:20+00:00",
-   "collected": "2026-09-02T00:17:50.753530+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "UN Secretary-General Antonio Guterres has welcomed the signing of the new agreement reached through Libya’s smaller convening, describing it as an important step towards national elections and ending ",
-   "angle": null
-  },
-  {
-   "id": "ee58e7680d65e37e",
-   "title": "WATCH: Netflix Rushes Out Documentary on Trump's Secret Turkey Plane Swap",
-   "link": "https://www.breitbart.com/politics/2026/09/01/watch-netflix-rushes-out-documentary-on-trumps-secret-turkey-plane-swap/",
-   "summary_raw": "<p>Netflix announced Tuesday that it will release a documentary on President Donald Trump&#8217;s secret plane swap in Turkey, premiering the film Friday. The streaming service posted a trailer for &#8220;Instadocs: The Decoy Plane,&#8221; the third installment of its quick-turn documentary</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/01/watch-netflix-rushes-out-documentary-on-trumps-secret-turkey-plane-swap/\" rel=\"nofollow\">WATCH: Netflix Rushes Out Documentary on Trump&#8217;s Secret Turkey Plane Swap</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-01T22:37:32+00:00",
-   "collected": "2026-09-02T09:41:52.458764+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Netflix announced Tuesday that it will release a documentary on President Donald Trump’s secret plane swap in Turkey, premiering the film Friday. The streaming service posted a trailer for “Instadocs:",
-   "angle": null,
-   "corroborated_by": [
-    "Brussels Signal",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "49a364d42f0a9d77",
-   "title": "Western Macedonia Gets AI Supercomputer, Hydrogen Innovation Hub",
-   "link": "https://greekcitytimes.com/2026/09/02/western-macedonia-gets-ai-supercomputer-hydrogen-innovation-hub/",
-   "summary_raw": "<p>Greece is investing €58m in an AI supercomputer and hydrogen innovation hub to transform Western Macedonia’s economy and support new jobs and investment.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/09/02/western-macedonia-gets-ai-supercomputer-hydrogen-innovation-hub/\">Western Macedonia Gets AI Supercomputer, Hydrogen Innovation Hub</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-09-01T22:37:03+00:00",
-   "collected": "2026-09-02T00:17:55.326570+00:00",
-   "keywords_hit": [
-    "hydrogen"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Greece is investing €58m in an AI supercomputer and hydrogen innovation hub to transform Western Macedonia’s economy and support new jobs and investment. The post Western Macedonia Gets AI Supercomput",
-   "angle": null
-  },
-  {
-   "id": "867eb67c64809d26",
-   "title": "Κτηματολόγιο: ψηφιακά οι διορθώσεις ορίων από 18 Σεπτεμβρίου – Πώς θα γίνεται η νέα διαδικασία - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pNnR2WHZsUFBybXdqNGxHbVFRVTVGaTJVWmtNNWYwLTVTeWJrcmdEMGY3d290NEZ2cVFBaVdUUXA0RG1tZnFLR1JiNkhvV1RMWjJBRGVWb0VMYU9YWmRDY1paSGdUazVtV21N?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5pNnR2WHZsUFBybXdqNGxHbVFRVTVGaTJVWmtNNWYwLTVTeWJrcmdEMGY3d290NEZ2cVFBaVdUUXA0RG1tZnFLR1JiNkhvV1RMWjJBRGVWb0VMYU9YWmRDY1paSGdUazVtV21N?oc=5\" target=\"_blank\">Κτηματολόγιο: ψηφιακά οι διορθώσεις ορίων από 18 Σεπτεμβρίου – Πώς θα γίνεται η νέα διαδικασία</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-01T22:35:11+00:00",
-   "collected": "2026-09-03T18:43:54.206981+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Κτηματολόγιο: ψηφιακά οι διορθώσεις ορίων από 18 Σεπτεμβρίου – Πώς θα γίνεται η νέα διαδικασία ecopress",
-   "angle": null
-  },
-  {
-   "id": "9b82e137913d4fc3",
-   "title": "Νέα κλιμάκωση ΗΠΑ-Ιράν: Νεκροί σε γάμο από αμερικανικό πλήγμα, ιρανικά αντίποινα και επιθέσεις σε Ιορδανία και Κουβέιτ",
-   "link": "https://www.protothema.gr/world/article/1872597/nea-klimakosi-ipa-iran-nekroi-se-gamo-apo-amerikaniko-pligma-iranika-adipoina-kai-purauliki-epithesi-stin-iordania/?utm_source=rss",
-   "summary_raw": "Η Τεχεράνη έβαλε στο στόχαστρο αμερικανικές βάσεις και συμφέροντα, ενώ το φυσικό αέριο στην Ευρώπη εκτινάχθηκε κατά 6,2%",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-01T22:34:00+00:00",
-   "collected": "2026-09-02T00:18:25.205307+00:00",
-   "keywords_hit": [
-    "φυσικό αέριο"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Τεχεράνη έβαλε στο στόχαστρο αμερικανικές βάσεις και συμφέροντα, ενώ το φυσικό αέριο στην Ευρώπη εκτινάχθηκε κατά 6,2%",
-   "angle": null
-  },
-  {
-   "id": "fcd4c9ab330064d3",
-   "title": "At the Grand Canyon, Flooding and Wildfire Underscore Compounding Extreme Weather Risks",
-   "link": "https://insideclimatenews.org/news/01092026/todays-climate-grand-canyon-flash-floods/",
-   "summary_raw": "An intense downpour at Grand Canyon National Park transformed hiking trails and shallow creeks into deadly rapids over the weekend, killing at least two people. Following scattered showers Saturday morning, around an inch of rain pummeled parts of the storied Arizona park in just a half hour later that day. Flash floods carried water, mud [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-01T22:31:43+00:00",
-   "collected": "2026-09-02T00:18:09.768542+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "An intense downpour at Grand Canyon National Park transformed hiking trails and shallow creeks into deadly rapids over the weekend, killing at least two people. Following scattered showers Saturday mo",
-   "angle": null,
-   "corroborated_by": [
-    "Guardian Environment"
-   ]
-  },
-  {
-   "id": "1409db7d68b9181f",
-   "title": "Legal Fight Escalates Over Leftist Billionaire’s Funding of E. Jean Carroll’s Lawsuit Against Trump",
-   "link": "https://www.dailysignal.com/2026/09/01/legal-fight-escalates-over-leftist-billionaires-funding-of-e-jean-carrolls-lawsuit-against-trump/",
-   "summary_raw": "FIRST ON THE DAILY SIGNAL—A watchdog group is pressing New York to act against the lawyer for E. Jean Carroll for allegedly failing to disclose that Democrat donor Reid Hoffman bankrolled the defamation lawsuit against President Donald Trump. In July, the National Legal and Policy Center filed a bar complaint with the Attorney Grievance Committee...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-01T22:31:40+00:00",
-   "collected": "2026-09-03T00:19:58.947397+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "FIRST ON THE DAILY SIGNAL—A watchdog group is pressing New York to act against the lawyer for E. Jean Carroll for allegedly failing to disclose that Democrat donor Reid Hoffman bankrolled the defamati",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "UnHerd"
-   ]
-  },
-  {
-   "id": "65ae887036e5d461",
-   "title": "Γιάννης Γκαράνης | Με το Ν και με το Β | Τρίτη 1 Σεπτεμβρίου 2026 - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3UyamNNalZyNWp1TmpnUDVYSjlyem1Cc1lMcS1GNE9QaUZaWXhGb2Y5Z2U3ZkgwNy1qM0ZHQlM2dmItcWxMMldDX1RFUk82MUJCWk5WY2haTkphQk9SYlpETUd1Z1pCWjBYeEhvdXRGb3Z4UEU4ZnlLSmo3T3p5eHZNSVVhM3BnSTBXY1FVa1c0VVU4dUtEY04wYkJadWNlT1FjdGgtUWY0SWFRaDJ2bXdDcVRJMlU?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3UyamNNalZyNWp1TmpnUDVYSjlyem1Cc1lMcS1GNE9QaUZaWXhGb2Y5Z2U3ZkgwNy1qM0ZHQlM2dmItcWxMMldDX1RFUk82MUJCWk5WY2haTkphQk9SYlpETUd1Z1pCWjBYeEhvdXRGb3Z4UEU4ZnlLSmo3T3p5eHZNSVVhM3BnSTBXY1FVa1c0VVU4dUtEY04wYkJadWNlT1FjdGgtUWY0SWFRaDJ2bXdDcVRJMlU?oc=5\" target=\"_blank\">Γιάννης Γκαράνης | Με το Ν και με το Β | Τρίτη 1 Σεπτεμβρίου 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-09-01T22:04:11+00:00",
-   "collected": "2026-09-03T14:37:26.072591+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Γιάννης Γκαράνης | Με το Ν και με το Β | Τρίτη 1 Σεπτεμβρίου 2026 Παρατηρητής της Θράκης",
-   "angle": null,
-   "corroborated_by": [
-    "Evros News"
-   ],
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "c3c3daea9fed3c77",
-   "title": "Turkey shifts from Russian to American crude as Iran war disrupts energy supplies - Nordic Monitor",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGZwM3Z5SFg2Y2FldjZQNGtfb3hKOF84dFAtRWFTdHVwN3RuWTQzcFMwRko1alplUXhGX1VOdVFBS1psaVlsbVdEcEwtU0tIajM1OTV0MlYwRkNGVkNudHJYRjh3VmlkTDl1MERoV2otcElCU25NeDRGU09RU3pYNENfMUVLYXpqYWV1RmY2QnZhYnBuNVhWb0FTX2JXNWxhYXBxUWRKSjViSDF4dlZDY0hpX0phNXM?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGZwM3Z5SFg2Y2FldjZQNGtfb3hKOF84dFAtRWFTdHVwN3RuWTQzcFMwRko1alplUXhGX1VOdVFBS1psaVlsbVdEcEwtU0tIajM1OTV0MlYwRkNGVkNudHJYRjh3VmlkTDl1MERoV2otcElCU25NeDRGU09RU3pYNENfMUVLYXpqYWV1RmY2QnZhYnBuNVhWb0FTX2JXNWxhYXBxUWRKSjViSDF4dlZDY0hpX0phNXM?oc=5\" target=\"_blank\">Turkey shifts from Russian to American crude as Iran war disrupts energy supplies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nordic Monitor</font>",
-   "source": "Nordic Monitor",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-09-01T22:01:16+00:00",
-   "collected": "2026-09-02T04:44:12.064484+00:00",
-   "keywords_hit": [],
-   "category": "Ενέργεια",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Turkey shifts from Russian to American crude as Iran war disrupts energy supplies Nordic Monitor",
    "angle": null
   }
  ]
