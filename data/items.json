@@ -1,7 +1,598 @@
 {
- "updated": "2026-09-16T17:05:07.291545+00:00",
- "count": 1305,
+ "updated": "2026-09-16T20:12:49.906044+00:00",
+ "count": 1296,
  "items": [
+  {
+   "id": "535527c4a7d0f9e6",
+   "title": "WarMonitor RT @atrupar: FOX NEWS: Is this where we are in America with the price of gasoline for the foreseeable future?  CHRIS WRIGHT: Look, President Trump is simply not going to…",
+   "link": "https://t.me/OSINTLive/572862",
+   "summary_raw": "WarMonitor RT @atrupar: FOX NEWS: Is this where we are in America with the price of gasoline for the foreseeable future?  CHRIS WRIGHT: Look, President Trump is simply not going to allow Iran to get nuclear weapons  (So, yes!) https://twitter.com/atrupar/status/2100217715818438681/video/1 tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-09-16T20:03:24+00:00",
+   "collected": "2026-09-16T20:11:49.081325+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Ενέργεια",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "WarMonitor RT @atrupar: FOX NEWS: Is this where we are in America with the price of gasoline for the foreseeable future? CHRIS WRIGHT: Look, President Trump is simply not going to allow Iran to get nu",
+   "angle": null
+  },
+  {
+   "id": "508d9f7833e676c8",
+   "title": "Κρήτη: Εντοπίστηκαν 71 μετανάστες σε λέμβο νότια από την Αγία Γαλήνη",
+   "link": "https://www.tanea.gr/2026/09/16/greece/kriti-entopistikan-71-allodapoi-se-lemvo-notia-apo-tin-agia-galini/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/07/LIMENIKO_SOROI-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Το σκάφος με τους μετανάστες εντοπίστηκε από drone της Frontex",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-16T19:59:45+00:00",
+   "collected": "2026-09-16T20:11:40.207056+00:00",
+   "keywords_hit": [
+    "frontex",
+    "λέμβ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Το σκάφος με τους μετανάστες εντοπίστηκε από drone της Frontex",
+   "angle": null,
+   "corroborated_by": [
+    "Zarpanews (Χανιά)",
+    "Πενταπόσταγμα",
+    "Πρώτο Θέμα"
+   ],
+   "locations": [
+    {
+     "name": "Κρήτη",
+     "lat": 35.24,
+     "lon": 24.81
+    }
+   ]
+  },
+  {
+   "id": "a131a36846db533a",
+   "title": "Εντοπίστηκαν 71 παράνομοι μετανάστες νότια της Αγίας Γαλήνης Ρεθύμνου από drone της Frontex",
+   "link": "https://www.pentapostagma.gr/koinonia/7390056_entopistikan-71-paranomoi-metanastes-notia-tis-agias-galinis-rethymnoy-apo-drone",
+   "summary_raw": "Περισυνελέγησαν από φορτηγό πλοίο με τούρκικη σημαία και μεταφέρονται στο λιμάνι της Αγίας Γαλήνης",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-09-16T19:57:05+00:00",
+   "collected": "2026-09-16T20:11:09.122414+00:00",
+   "keywords_hit": [
+    "frontex"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Περισυνελέγησαν από φορτηγό πλοίο με τούρκικη σημαία και μεταφέρονται στο λιμάνι της Αγίας Γαλήνης",
+   "angle": null,
+   "corroborated_by": [
+    "Πρώτο Θέμα",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "2322e66b4d9efb4c",
+   "title": "Εντοπίστηκαν 71 παράνομοι μετανάστες νότια της Αγίας Γαλήνης Ρεθύμνου από drone της Frontex",
+   "link": "https://www.protothema.gr/greece/article/1879960/edopistikan-71-paranomoi-metanastes-notia-tis-agias-galinis-rethumnou-apo-drone-tis-frontex/?utm_source=rss",
+   "summary_raw": "Περισυνελέγησαν από φορτηγό πλοίο με τούρκικη σημαία και μεταφέρονται στο λιμάνι της Αγίας Γαλήνης",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-16T19:49:00+00:00",
+   "collected": "2026-09-16T20:11:37.599923+00:00",
+   "keywords_hit": [
+    "frontex"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Περισυνελέγησαν από φορτηγό πλοίο με τούρκικη σημαία και μεταφέρονται στο λιμάνι της Αγίας Γαλήνης",
+   "angle": null,
+   "corroborated_by": [
+    "Πενταπόσταγμα",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "61a86fdb684e2f44",
+   "title": "Libyan Parliament Honours Fallen With Pledge To Protect Sovereignty",
+   "link": "https://libyareview.com/68336/libyan-parliament-honours-fallen-with-pledge-to-protect-sovereignty/",
+   "summary_raw": "<p>Libya’s House of Representatives marked Martyrs’ Day on Wednesday, paying tribute to Omar Mukhtar and all Libyans who sacrificed their lives in defence of the country. In a statement issued for the annual commemoration, the House of Representatives said the sacrifices of Libya’s fallen would remain deeply rooted in the memory of the Libyan people. [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68336/libyan-parliament-honours-fallen-with-pledge-to-protect-sovereignty/\">Libyan Parliament Honours Fallen With Pledge To Protect Sovereignty</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-09-16T19:27:03+00:00",
+   "collected": "2026-09-16T20:11:05.530196+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Libya’s House of Representatives marked Martyrs’ Day on Wednesday, paying tribute to Omar Mukhtar and all Libyans who sacrificed their lives in defence of the country. In a statement issued for the an",
+   "angle": null
+  },
+  {
+   "id": "a2e6ce0534917df9",
+   "title": "ICE Arrests Previously Deported Illegal Alien Sex Offender in Philadelphia",
+   "link": "https://www.breitbart.com/politics/2026/09/16/ice-arrests-previously-deported-illegal-alien-sex-offender-in-philadelphia/",
+   "summary_raw": "<p>Immigration and Customs Enforcement (ICE) has arrested an illegal alien sex offender, who was previously deported from the United States, in the sanctuary city of Philadelphia, Pennsylvania.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/16/ice-arrests-previously-deported-illegal-alien-sex-offender-in-philadelphia/\" rel=\"nofollow\">ICE Arrests Previously Deported Illegal Alien Sex Offender in Philadelphia</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-16T19:26:43+00:00",
+   "collected": "2026-09-16T20:11:45.329665+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Immigration and Customs Enforcement (ICE) has arrested an illegal alien sex offender, who was previously deported from the United States, in the sanctuary city of Philadelphia, Pennsylvania. The post ",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "556fea024dd5d59c",
+   "title": "China Pressures Iran to Open Strait of Hormuz as Foreign Minister Visits Beijing",
+   "link": "https://www.breitbart.com/middle-east/2026/09/16/china-pressures-iran-to-open-strait-of-hormuz-as-foreign-minister-visits-beijing/",
+   "summary_raw": "<p>Chinese Foreign Minister Wang Yi urged Iran to reopen the Strait of Hormuz and return to the June memorandum of understanding (MOU) with the United States when he met with visiting Iranian Foreign Minister Abbas Araghchi in Beijing on Wednesday.</p>\n<p>The post <a href=\"https://www.breitbart.com/middle-east/2026/09/16/china-pressures-iran-to-open-strait-of-hormuz-as-foreign-minister-visits-beijing/\" rel=\"nofollow\">China Pressures Iran to Open Strait of Hormuz as Foreign Minister Visits Beijing</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-16T19:20:51+00:00",
+   "collected": "2026-09-16T20:11:45.327431+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Chinese Foreign Minister Wang Yi urged Iran to reopen the Strait of Hormuz and return to the June memorandum of understanding (MOU) with the United States when he met with visiting Iranian Foreign Min",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "6904dc76380b5f61",
+   "title": "ΦΙΝΤΑΝ: Για εμάς η στρατιωτικοποίηση είναι απειλή και αυτό δεν θα αλλάξει ποτέ",
+   "link": "https://www.pentapostagma.gr/videos/7390058_fintan-gia-emas-i-stratiotikopoiisi-einai-apeili-kai-ayto-den-tha-allaxei-pote",
+   "summary_raw": "Φιντάν: Η στρατιωτικοποίηση των ελληνικών νησιών αποτελεί απειλή για την Τουρκία δήλωσε ο κορυφαίος διπλωμάτης της Ο ...",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-09-16T19:00:20+00:00",
+   "collected": "2026-09-16T20:11:09.123337+00:00",
+   "keywords_hit": [
+    "φιντάν"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": true,
+   "summary_el": "Φιντάν: Η στρατιωτικοποίηση των ελληνικών νησιών αποτελεί απειλή για την Τουρκία δήλωσε ο κορυφαίος διπλωμάτης της Ο ...",
+   "angle": null,
+   "corroborated_by": [
+    "iefimerida",
+    "Δημοκρατική Ρόδου",
+    "Καθημερινή",
+    "Πρώτο Θέμα",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "9fe4a51f6890aa1d",
+   "title": "Αλεξανδρούπολη: Μαθήματα ελληνικών για λαθρομετανάστες πρόσφυγες με απόφαση Υπουργείου Παιδείας, για πρώτη φορά από φέτος",
+   "link": "https://www.evros-news.gr/2026/09/16/alexandroupoli-mathimata-ellinikon-gia-lathrometanastes-prosfyges-me-apofasi-ypourgeiou-paideias-gia-proti-fora-apo-fetos/",
+   "summary_raw": "Την λειτουργία Προπαρασκευαστικού Τμήματος εκμάθησης ελληνικής γλώσσας για λαθρομετανάστες και πρόσφυγες στο ΣΔΕ Αλεξανδρούπολης για πρώτη φορά από φέτος, αποφάσισε η Γενική Γραμματεία Επαγγελματικής Εκπαίδευσης, [&#8230;]",
+   "source": "Evros News",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-09-16T19:00:03+00:00",
+   "collected": "2026-09-16T20:10:57.864688+00:00",
+   "keywords_hit": [
+    "πρόσφυγ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Την λειτουργία Προπαρασκευαστικού Τμήματος εκμάθησης ελληνικής γλώσσας για λαθρομετανάστες και πρόσφυγες στο ΣΔΕ Αλεξανδρούπολης για πρώτη φορά από φέτος, αποφάσισε η Γενική Γραμματεία Επαγγελματικής ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αλεξανδρούπολη",
+     "lat": 40.85,
+     "lon": 25.87
+    }
+   ]
+  },
+  {
+   "id": "9db4e5bb81d102c7",
+   "title": "Η Τουρκία μετακινεί ταξιαρχία 2.000 καταδρομέων απέναντι από τη Σάμο – Πώς συνδέεται με την επίσκεψη Μητσοτάκη (βίντεο)",
+   "link": "https://www.philenews.com/kosmos/article/1771209/i-tourkia-metakini-taxiarchia-2-000-katadromeon-apenanti-apo-ti-samo-pos-sindeete-me-tin-episkepsi-mitsotaki-sto-kastellorizo/",
+   "summary_raw": "<p>Μεγάλη δύναμη του στρατού μετακινούν οι ένοπλες δυνάμεις της Τουρκίας, καθώς ταξιαρχία 2.000 καταδρομών από το Χοτζάτ της ανατολικής χώρας πηγαίνει στα δυτικά και κοντά στη Σάμο. Η μεταφορά της στρατιωτικής μονάδας περίπου 2000 καταδρομέων προς τα παράλια του Αιγαίου σχολιάζεται από τουρκικά μέσα ενημέρωσης. Σχολιάζοντας τη συγκεκριμένη στρατιωτική κινητικότητα, αναλυτής του τουρκικού δικτύου A Haber αναφέρει αρχικά ότι τέτοιου είδους μετακινήσεις αποτελούν [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/kosmos/article/1771209/i-tourkia-metakini-taxiarchia-2-000-katadromeon-apenanti-apo-ti-samo-pos-sindeete-me-tin-episkepsi-mitsotaki-sto-kastellorizo/\">Η Τουρκία μετακινεί ταξιαρχία 2.000 καταδρομέων απέναντι από τη Σάμο &#8211; Πώς συνδέεται με την επίσκεψη Μητσοτάκη (βίντεο)</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
+   "source": "Philenews",
+   "side": "cypriot_media",
+   "lang": "el",
+   "published": "2026-09-16T18:35:29+00:00",
+   "collected": "2026-09-16T20:11:10.394040+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Αιγαίο-ΑΟΖ",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Μεγάλη δύναμη του στρατού μετακινούν οι ένοπλες δυνάμεις της Τουρκίας, καθώς ταξιαρχία 2.000 καταδρομών από το Χοτζάτ της ανατολικής χώρας πηγαίνει στα δυτικά και κοντά στη Σάμο. Η μεταφορά της στρατι",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Σάμος",
+     "lat": 37.75,
+     "lon": 26.98
+    },
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "b429ae54135ca4d8",
+   "title": "Κρήτη | ‘Επιασαν 16χρονο για διακίνηση μεταναστών στου Καλούς Λιμένες",
+   "link": "https://www.zarpanews.gr/kriti-039-epiasan-16chrono-gia-diakinisi-metanaston-stoy-kaloys-limenes/",
+   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"347\" src=\"https://www.zarpanews.gr/wp-content/uploads/2019/08/xeiropedes-1-768x416.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"640\" /><p>Νέα σύλληψη για διακίνηση μεταναστών, αυτή τη φορά ενός 16χρονου, ανακοίνωσε το Λιμενικό. Η ανακοίνωση: Αναφορικά με τον εντοπισμό και τη διάσωση 36 αλλοδαπών στη θαλάσσια περιοχή 33 ν.μ. νοτιοανατολικά των Καλών Λιμένων, τις πρωινές ώρες σήμερα, συνελήφθη ένας 16χρονος αλλοδαπός (υπήκοος Σουδάν), εξ’ αυτών, για παράβαση του άρθρου 83 του Ν. 3386/2005 «Παράνομη είσοδος [&#8230;]</p>\n<p>The post <a href=\"https://www.zarpanews.gr/kriti-039-epiasan-16chrono-gia-diakinisi-metanaston-stoy-kaloys-limenes/\">Κρήτη | &#8216;Επιασαν 16χρονο για διακίνηση μεταναστών στου Καλούς Λιμένες</a> appeared first on <a href=\"https://www.zarpanews.gr\">zarpanews.gr</a>.</p>",
+   "source": "Zarpanews (Χανιά)",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-09-16T18:33:26+00:00",
+   "collected": "2026-09-16T20:11:36.761465+00:00",
+   "keywords_hit": [
+    "μεταναστ",
+    "λιμενικ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Νέα σύλληψη για διακίνηση μεταναστών, αυτή τη φορά ενός 16χρονου, ανακοίνωσε το Λιμενικό. Η ανακοίνωση: Αναφορικά με τον εντοπισμό και τη διάσωση 36 αλλοδαπών στη θαλάσσια περιοχή 33 ν.μ. νοτιοανατολι",
+   "angle": null,
+   "corroborated_by": [
+    "Τα Νέα"
+   ],
+   "locations": [
+    {
+     "name": "Κρήτη",
+     "lat": 35.24,
+     "lon": 24.81
+    }
+   ]
+  },
+  {
+   "id": "e5ddcf62f8de1a01",
+   "title": "⚡️ US Vice President Vance: The withdrawal of the United States from the war with Iran and leaving the region to face the crisis alone will lead to a global energy crisis. ▪️As lon…",
+   "link": "https://t.me/me_observer_TG/1092611",
+   "summary_raw": "⚡️ US Vice President Vance: The withdrawal of the United States from the war with Iran and leaving the region to face the crisis alone will lead to a global energy crisis. ▪️As long as Iran continues to target ships, the American abandonment of the region will necessarily mean a global energy crisis. ▪️We are working to protect American assets in the region and ensure the continued flow of oil and natural gas to global markets.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-09-16T18:27:26+00:00",
+   "collected": "2026-09-16T20:11:48.397189+00:00",
+   "keywords_hit": [
+    "natural gas"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ US Vice President Vance: The withdrawal of the United States from the war with Iran and leaving the region to face the crisis alone will lead to a global energy crisis. ▪️As long as Iran continues ",
+   "angle": null
+  },
+  {
+   "id": "5eb94ade5ba61f3d",
+   "title": "Ένα ακόμα F-16 Viper στην Πολεμική Αεροπορία -Παρέλαβε το 60ό εκσυγχρονισμένο μαχητικό, οι δυνατότητες που έχει [εικόνες] - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVJjaTJib0lVWjV2anJDLVMxMEpVU05YdDF5amZuTFNaMFY4Uml4SC1rQkZiZWt6UUloejJla19tTkNPdHZYX253WTJkVzd3dTM5Vkt4OEFpeXhSdHZnMlpXb1FZNGRwd2FrbkNTZ1c1czhIeU1qLWtKZkVjNXh3cdIBhgFBVV95cUxQcmozbUtpZFVnR2Ewa1JuY2ZIOWNNdmZKZzZZaFRMSW5leFFlNkpiSlRXaUIzUU9wM0FCajMtTjQyZkRkVmVQTnR4T1VzS2tfYklpcE43TnVzMjM5bVlwcENqUnBPQkcxd2ZJaVRfc3I2eWVwTlNJOGh6MGpDVXhMbGxNYlI4dw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVJjaTJib0lVWjV2anJDLVMxMEpVU05YdDF5amZuTFNaMFY4Uml4SC1rQkZiZWt6UUloejJla19tTkNPdHZYX253WTJkVzd3dTM5Vkt4OEFpeXhSdHZnMlpXb1FZNGRwd2FrbkNTZ1c1czhIeU1qLWtKZkVjNXh3cdIBhgFBVV95cUxQcmozbUtpZFVnR2Ewa1JuY2ZIOWNNdmZKZzZZaFRMSW5leFFlNkpiSlRXaUIzUU9wM0FCajMtTjQyZkRkVmVQTnR4T1VzS2tfYklpcE43TnVzMjM5bVlwcENqUnBPQkcxd2ZJaVRfc3I2eWVwTlNJOGh6MGpDVXhMbGxNYlI4dw?oc=5\" target=\"_blank\">Ένα ακόμα F-16 Viper στην Πολεμική Αεροπορία -Παρέλαβε το 60ό εκσυγχρονισμένο μαχητικό, οι δυνατότητες που έχει [εικόνες]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-16T18:07:54+00:00",
+   "collected": "2026-09-16T20:11:40.765032+00:00",
+   "keywords_hit": [
+    "f-16"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ένα ακόμα F-16 Viper στην Πολεμική Αεροπορία -Παρέλαβε το 60ό εκσυγχρονισμένο μαχητικό, οι δυνατότητες που έχει [εικόνες] iefimerida.gr",
+   "angle": null
+  },
+  {
+   "id": "a26e0499aa28b068",
+   "title": "Η Τουρκία μετακινεί ταξιαρχία 2.000 καταδρομέων απέναντι από την Σάμο, τοπικά ΜΜΕ το συνδέουν με την επίσκεψη Μητσοτάκη στο Καστελλόριζο",
+   "link": "https://www.protothema.gr/world/article/1879914/i-tourkia-metakinei-katadromeis-sta-anatolika-koda-stin-samo/?utm_source=rss",
+   "summary_raw": "Η μεταφορά της στρατιωτικής μονάδας περίπου 2000 καταδρομέων προς τα παράλια του Αιγαίου σχολιάζεται από τουρκικά μέσα ενημέρωσης",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-16T18:03:00+00:00",
+   "collected": "2026-09-16T20:11:37.603030+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Η μεταφορά της στρατιωτικής μονάδας περίπου 2000 καταδρομέων προς τα παράλια του Αιγαίου σχολιάζεται από τουρκικά μέσα ενημέρωσης",
+   "angle": null,
+   "corroborated_by": [
+    "Καθημερινή",
+    "Πενταπόσταγμα",
+    "Τα Νέα"
+   ],
+   "locations": [
+    {
+     "name": "Σάμος",
+     "lat": 37.75,
+     "lon": 26.98
+    },
+    {
+     "name": "Καστελλόριζο",
+     "lat": 36.15,
+     "lon": 29.58
+    },
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "83772cf7f86dee88",
+   "title": "ΥΠΕΞ σε Άγκυρα: Παράδοξο να μιλάτε για «απειλή» ενώ έχετε ακόμα σε ισχύ το casus belli",
+   "link": "https://www.tanea.gr/2026/09/16/politics/ypeks-se-agkyra-paradokso-na-milate-gia-apeili-eno-exete-akoma-se-isxy-to-casus-belli/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/09/7078805-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Το ΥΠΕΞ απέρριψε τις τουρκικές αιτιάσεις για τα νησιά, τονίζοντας ότι η εξωτερική πολιτική της Ελλάδας είναι ανεξάρτητη και δεν αποσταθεροποιεί την περιοχή",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-16T17:55:18+00:00",
+   "collected": "2026-09-16T20:11:40.213461+00:00",
+   "keywords_hit": [
+    "casus belli"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Το ΥΠΕΞ απέρριψε τις τουρκικές αιτιάσεις για τα νησιά, τονίζοντας ότι η εξωτερική πολιτική της Ελλάδας είναι ανεξάρτητη και δεν αποσταθεροποιεί την περιοχή",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "7d654cdfda4d73c9",
+   "title": "Τουρκία: Η 51η Ταξιαρχία Καταδρομών μετασταθμεύει απέναντι από τη Σάμο – Πώς επηρεάζονται οι ισορροπίες στο Αιγαίο",
+   "link": "https://www.tanea.gr/2026/09/16/politics/tourkia-i-51i-taksiarxia-katadromon-metastathmeyei-apenanti-apo-ti-samo-pos-epireazontai-oi-isorropies-sto-aigaio/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/09/2026-08-20T134327Z_922680165_RC2A2NAAB0GB_RTRMADP_3_TURKEY-DEFENCE-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Η Τουρκία ανεβάζει τον πήχη της έντασης, προχωρώντας στην μεταστάθμευση απέναντι από την Σάμο της επίλεκτης 51η Ταξιαρχίας Καταδρομών από την περιοχή Χοζάτ του Τούντζελι στην παραθαλάσσια περιοχή Σέκε (Söke) της επαρχίας Αϊδινίου. Η μετακίνηση αυτή δεν αποτελεί μια απλή, εσωτερική διοικητική αναδιάταξη, αλλά μια κίνηση με βαθύ στρατηγικό υπόβαθρο, καθώς η νέα βάση της [&#8230;]",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-16T17:43:25+00:00",
+   "collected": "2026-09-16T20:11:40.214025+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Η Τουρκία ανεβάζει τον πήχη της έντασης, προχωρώντας στην μεταστάθμευση απέναντι από την Σάμο της επίλεκτης 51η Ταξιαρχίας Καταδρομών από την περιοχή Χοζάτ του Τούντζελι στην παραθαλάσσια περιοχή Σέκε",
+   "angle": null,
+   "corroborated_by": [
+    "Καθημερινή",
+    "Πενταπόσταγμα",
+    "Πρώτο Θέμα"
+   ],
+   "locations": [
+    {
+     "name": "Σάμος",
+     "lat": 37.75,
+     "lon": 26.98
+    },
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "9fde147ed2f5ea1b",
+   "title": "Εξελίξεις στις ελληνικές FDI με το βλέμμα στην αναβάθμιση Standard 2",
+   "link": "https://flight.com.gr/developments-in-greek-fdi-with-an-eye-on-the-standard-2-upgrade/?utm_source=rss&utm_medium=rss&utm_campaign=developments-in-greek-fdi-with-an-eye-on-the-standard-2-upgrade",
+   "summary_raw": "<p>Η δεύτερη ελληνική φρεγάτα FDI «Νέαρχος» μπήκε ξανά στη θάλασσα από το Lorient, καθώς βρίσκεται στην τελική ευθεία πριν από την παράδοσή της στο Πολεμικό Ναυτικό. Όπως αναφέρει το Mer et Marine, το πλοίο πραγματοποιεί αυτή την εβδομάδα εκπαίδευση με το ελληνικό πλήρωμα, ενώ την επόμενη εβδομάδα θα ακολουθήσει νέα έξοδος για τεχνικές δοκιμές. Μετά [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/developments-in-greek-fdi-with-an-eye-on-the-standard-2-upgrade/\">Εξελίξεις στις ελληνικές FDI με το βλέμμα στην αναβάθμιση Standard 2</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-09-16T17:40:00+00:00",
+   "collected": "2026-09-16T20:10:52.965397+00:00",
+   "keywords_hit": [
+    "fdi"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η δεύτερη ελληνική φρεγάτα FDI «Νέαρχος» μπήκε ξανά στη θάλασσα από το Lorient, καθώς βρίσκεται στην τελική ευθεία πριν από την παράδοσή της στο Πολεμικό Ναυτικό. Όπως αναφέρει το Mer et Marine, το πλ",
+   "angle": null
+  },
+  {
+   "id": "aafd660b6692b522",
+   "title": "US ‘not prepared’ to respond to nuclear attacks in space, report says",
+   "link": "https://www.defensenews.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/",
+   "summary_raw": "A recent war-gaming report found that the U.S. has no tested response to a nuclear detonation in space.",
+   "source": "Defense News",
+   "side": "defense_intl",
+   "lang": "en",
+   "published": "2026-09-16T17:37:17+00:00",
+   "collected": "2026-09-16T20:11:14.163458+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "A recent war-gaming report found that the U.S. has no tested response to a nuclear detonation in space.",
+   "angle": null
+  },
+  {
+   "id": "95e380ca31004e4b",
+   "title": "Libyan Army Deputy Commander Honours Libya’s Fallen On Martyrs’ Day",
+   "link": "https://libyareview.com/68333/libyan-army-deputy-commander-honours-libyas-fallen-on-martyrs-day/",
+   "summary_raw": "<p>Libyan Army Deputy Commander-in-Chief Lieutenant General Saddam Haftar marked Martyrs’ Day on Wednesday by honouring Libya’s fallen and reaffirming his commitment to the country’s unity, security and stability. In a statement published on his Facebook page, Saddam Haftar paid particular tribute to Omar Mukhtar, the Libyan resistance leader who was executed by Italian colonial authorities [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68333/libyan-army-deputy-commander-honours-libyas-fallen-on-martyrs-day/\">Libyan Army Deputy Commander Honours Libya’s Fallen On Martyrs’ Day</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-09-16T17:34:40+00:00",
+   "collected": "2026-09-16T20:11:05.530543+00:00",
+   "keywords_hit": [
+    "libya",
+    "haftar"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Libyan Army Deputy Commander-in-Chief Lieutenant General Saddam Haftar marked Martyrs’ Day on Wednesday by honouring Libya’s fallen and reaffirming his commitment to the country’s unity, security and ",
+   "angle": null
+  },
+  {
+   "id": "42a0ada7bc1f4e8e",
+   "title": "Why has the response to Nepal’s floods been so muted?",
+   "link": "https://www.aljazeera.com/opinions/2026/9/16/why-has-the-response-to-nepals-floods-been-so-muted?traffic_source=rss",
+   "summary_raw": "Because wealthy nations do not want to take responsibility for their role in the current climate crisis.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-16T17:17:49+00:00",
+   "collected": "2026-09-16T20:11:12.509039+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Because wealthy nations do not want to take responsibility for their role in the current climate crisis.",
+   "angle": null
+  },
+  {
+   "id": "05819c23e851f531",
+   "title": "Israel’s SPICE 1000 bombs can soon drop from F-35 fighters",
+   "link": "https://www.defensenews.com/global/mideast-africa/2026/09/16/israels-spice-1000-bombs-can-soon-drop-from-f-35-fighters/",
+   "summary_raw": "The Israeli air force can look forward to yet another bomb type for its F-35 fleet.",
+   "source": "Defense News",
+   "side": "defense_intl",
+   "lang": "en",
+   "published": "2026-09-16T17:15:01+00:00",
+   "collected": "2026-09-16T20:11:14.163590+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "The Israeli air force can look forward to yet another bomb type for its F-35 fleet.",
+   "angle": null
+  },
+  {
+   "id": "ee922af2051b6c54",
+   "title": "Καύσιμα: Στα 2,15 ευρώ η αμόλυβδη στη Θεσσαλονίκη – Προειδοποιήσεις για νέα ενεργειακή κρίση",
+   "link": "https://www.ertnews.gr/roi-idiseon/kaysima-sta-2-15-eyro-i-amolyvdi-sti-thessaloniki-proeidopoiiseis-gia-nea-energeiaki-krisi/",
+   "summary_raw": "<img alt=\"ergostasio-kafsis-aporimaton\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"800\" src=\"https://www.ertnews.gr/wp-content/uploads/2025/11/ergostasio-kafsis-aporimaton.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>Νέο κύμα ανατιμήσεων στα καύσιμα πιέζει τους οδηγούς, με τη μέση πανελλαδική τιμή της αμόλυβδης να έχει φτάσει τα 2,16 ευρώ το λίτρο. Σύμφωνα με παράγοντες της αγοράς, οι αυξήσεις από τα διυλιστήρια είναι σχεδόν καθημερινές, καθώς οι διεθνείς τιμές του πετρελαίου παραμένουν σε υψηλά επίπεδα. Η γεωπολιτική αστάθεια στη Μέση Ανατολή και οι επιθέσεις ... <a class=\"read-more\" href=\"https://www.ertnews.gr/roi-idiseon/kaysima-sta-2-15-eyro-i-amolyvdi-sti-thessaloniki-proeidopoiiseis-gia-nea-energeiaki-krisi/\" title=\"Καύσιμα: Στα 2,15 ευρώ η αμόλυβδη στη Θεσσαλονίκη – Προειδοποιήσεις για νέα ενεργειακή κρίση\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-09-16T17:11:53+00:00",
+   "collected": "2026-09-16T20:10:51.542580+00:00",
+   "keywords_hit": [
+    "ενεργειακή κρίση"
+   ],
+   "category": "Ενέργεια",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Νέο κύμα ανατιμήσεων στα καύσιμα πιέζει τους οδηγούς, με τη μέση πανελλαδική τιμή της αμόλυβδης να έχει φτάσει τα 2,16 ευρώ το λίτρο. Σύμφωνα με παράγοντες της αγοράς, οι αυξήσεις από τα διυλιστήρια ε",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θεσσαλονίκη",
+     "lat": 40.64,
+     "lon": 22.94
+    }
+   ]
+  },
+  {
+   "id": "bac72b94caaa851a",
+   "title": "ΥΠΕΞ: Μονομερείς και νομικά αβάσιμοι οι ισχυρισμοί Φιντάν περί αποστρατιωτικοποίησης ελληνικών νησιών",
+   "link": "https://www.dimokratiki.gr/16-09-2026/ypex-monomeris-ke-nomika-avasimi-i-ischyrismi-fintan-peri-apostratiotikopiisis-ellinikon-nision/?utm_source=rss&utm_medium=rss&utm_campaign=ypex-monomeris-ke-nomika-avasimi-i-ischyrismi-fintan-peri-apostratiotikopiisis-ellinikon-nision",
+   "summary_raw": "<p>Μονομερείς και νομικά αβάσιμους χαρακτηρίζει τις απόψεις του Χακάν Φιντάν το ελληνικό υπουργείο Εξωτερικών και επισημαίνει ότι «η  Ελλάδα, ως κυρίαρχο κράτος, δικαιούται πλήρως να λάβει όλα τα αναγκαία μέτρα ώστε να διασφαλίσει ότι θα είναι σε θέση να ασκήσει το αναφαίρετο δικαίωμα της σε νόμιμη άμυνα» Σε ανακοίνωση που εξέδωσε το ελληνικό υπουργείο Εξωτερικών για τις δηλώσεις του Τούρκου...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/16-09-2026/ypex-monomeris-ke-nomika-avasimi-i-ischyrismi-fintan-peri-apostratiotikopiisis-ellinikon-nision/\" style=\"font-size: 12px;\" title=\"ΥΠΕΞ: Μονομερείς και νομικά αβάσιμοι οι ισχυρισμοί Φιντάν περί αποστρατιωτικοποίησης ελληνικών νησιών\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/16-09-2026/ypex-monomeris-ke-nomika-avasimi-i-ischyrismi-fintan-peri-apostratiotikopiisis-ellinikon-nision/\">ΥΠΕΞ: Μονομερείς και νομικά αβάσιμοι οι ισχυρισμοί Φιντάν περί αποστρατιωτικοποίησης ελληνικών νησιών</a></p>",
+   "source": "Δημοκρατική Ρόδου",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-09-16T17:11:36+00:00",
+   "collected": "2026-09-16T20:11:34.450008+00:00",
+   "keywords_hit": [
+    "αποστρατιωτικοποί",
+    "φιντάν"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Μονομερείς και νομικά αβάσιμους χαρακτηρίζει τις απόψεις του Χακάν Φιντάν το ελληνικό υπουργείο Εξωτερικών και επισημαίνει ότι «η Ελλάδα, ως κυρίαρχο κράτος, δικαιούται πλήρως να λάβει όλα τα αναγκαία",
+   "angle": null,
+   "corroborated_by": [
+    "iefimerida",
+    "Καθημερινή",
+    "Πενταπόσταγμα"
+   ],
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "45874aa5f0000b24",
+   "title": "Parents Give NC School District 15 Days to Protect Religious Freedom or Face Lawsuit",
+   "link": "https://www.dailysignal.com/2026/09/16/parents-give-nc-school-district-15-days-protect-religious-freedom-face-lawsuit/",
+   "summary_raw": "FIRST ON THE DAILY SIGNAL—A group of parents has given a North Carolina school district 15 days to provide religious accommodations related to a transgender teacher or face a lawsuit, according to a demand letter obtained by the Daily Signal. Thomas More Society attorneys argue that recent Supreme Court precedents require the Wake County Public...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-16T17:11:06+00:00",
+   "collected": "2026-09-16T20:11:45.530923+00:00",
+   "keywords_hit": [
+    "religious freedom"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "FIRST ON THE DAILY SIGNAL—A group of parents has given a North Carolina school district 15 days to provide religious accommodations related to a transgender teacher or face a lawsuit, according to a d",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
   {
    "id": "cb3466f6fb484096",
    "title": "Rodop’ta  çiçek hastalığına karşı mobil dezenfeksiyon istasyonları yeniden kuruluyor",
@@ -18,6 +609,40 @@
    "turkish_narrative": false,
    "summary_el": "",
    "angle": null
+  },
+  {
+   "id": "8d20051f56e6e16a",
+   "title": "Απάντηση ΥΠΕΞ σε Φιντάν: Η Ελλάδα δικαιούται να λάβει όλα τα μέτρα για να διασφαλίσει τη νόμιμη άμυνά της",
+   "link": "https://www.kathimerini.gr/politics/foreign-policy/564462244/apantisi-ypex-se-fintan-i-ellada-dikaioytai-na-lavei-ola-ta-metra-gia-na-diasfalisei-tin-nomimi-amyna-tis/",
+   "summary_raw": "«Ο χαρακτηρισμός της αμυντικής θωράκισης ελληνικού εδάφους ως “απειλής” είναι όχι μόνο αστήρικτος αλλά και οξύμωρος, όταν, κατά παράβαση του Διεθνούς Δικαίου, η Τουρκία εξακολουθεί να διατηρεί σε ισχύ απειλή πολέμου (casus belli) κατά της Ελλάδας σε περίπτωση άσκησης νόμιμου κυριαρχικού δικαιώματος», τόνισε ο εκπρόσωπος του υπουργείου Εξωτερικών, Παναγιώτης Γιαννακούλιας.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-16T16:58:24+00:00",
+   "collected": "2026-09-16T20:11:38.722121+00:00",
+   "keywords_hit": [
+    "casus belli",
+    "φιντάν"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "«Ο χαρακτηρισμός της αμυντικής θωράκισης ελληνικού εδάφους ως “απειλής” είναι όχι μόνο αστήρικτος αλλά και οξύμωρος, όταν, κατά παράβαση του Διεθνούς Δικαίου, η Τουρκία εξακολουθεί να διατηρεί σε ισχύ",
+   "angle": null,
+   "corroborated_by": [
+    "iefimerida",
+    "Δημοκρατική Ρόδου",
+    "Πενταπόσταγμα",
+    "Πρώτο Θέμα",
+    "Τα Νέα"
+   ],
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
   },
   {
    "id": "eeea2f24f48b1249",
@@ -50,6 +675,30 @@
      "lat": 39.0,
      "lon": 22.0
     }
+   ]
+  },
+  {
+   "id": "9571c9ca301d9834",
+   "title": "Υπουργείο Εξωτερικών για τα νησιά μετά τις δηλώσεις Φιντάν: Αναφαίρετο δικαίωμα η ασφάλεια του συνόλου της ελληνικής επικράτειας - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObmU2Njc4bVp3dUVRbEZVNUtNQVp1anVPSHVabURqQk1EdmRtQzNnVnM1bG1sVjRMRGNYUEl5bzZfWXVySlQzdFlaYUV1cW1Pb2F2ZE5yQzk0OWxYb0RwVzI3NkdwNkFxNWt3NF91Ynlmd2Yzd1RGbGNSUlFqanpqM2luZDlmQllpcEdRSNIBkgFBVV95cUxQTDAtNzNCYk9wdXJXMDZ5WjFtalJ6Znp4MW42WjdMdnU3MGRrRTM1SFJ1b2tWZFpfd1Vyb0ptQ2Z4TzBUbENjaWpaaWN4TEgtcUg2elFZRDNiTVVoSWdfR0VxRkJkZWJGejhIenVQQ0cwR3ZoQmhvdnoyS0ZCZUZMTzZaczY2QXlBTDF6TUxtWmtXQQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxObmU2Njc4bVp3dUVRbEZVNUtNQVp1anVPSHVabURqQk1EdmRtQzNnVnM1bG1sVjRMRGNYUEl5bzZfWXVySlQzdFlaYUV1cW1Pb2F2ZE5yQzk0OWxYb0RwVzI3NkdwNkFxNWt3NF91Ynlmd2Yzd1RGbGNSUlFqanpqM2luZDlmQllpcEdRSNIBkgFBVV95cUxQTDAtNzNCYk9wdXJXMDZ5WjFtalJ6Znp4MW42WjdMdnU3MGRrRTM1SFJ1b2tWZFpfd1Vyb0ptQ2Z4TzBUbENjaWpaaWN4TEgtcUg2elFZRDNiTVVoSWdfR0VxRkJkZWJGejhIenVQQ0cwR3ZoQmhvdnoyS0ZCZUZMTzZaczY2QXlBTDF6TUxtWmtXQQ?oc=5\" target=\"_blank\">Υπουργείο Εξωτερικών για τα νησιά μετά τις δηλώσεις Φιντάν: Αναφαίρετο δικαίωμα η ασφάλεια του συνόλου της ελληνικής επικράτειας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-16T16:49:19+00:00",
+   "collected": "2026-09-16T20:11:40.769731+00:00",
+   "keywords_hit": [
+    "φιντάν"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Υπουργείο Εξωτερικών για τα νησιά μετά τις δηλώσεις Φιντάν: Αναφαίρετο δικαίωμα η ασφάλεια του συνόλου της ελληνικής επικράτειας iefimerida.gr",
+   "angle": null,
+   "corroborated_by": [
+    "Δημοκρατική Ρόδου",
+    "Καθημερινή",
+    "Πενταπόσταγμα"
    ]
   },
   {
@@ -112,6 +761,26 @@
    ]
   },
   {
+   "id": "e4d8ae1d0cd58b60",
+   "title": "Mark Zuckerberg Sides with Donald Trump in AI Safety Debate",
+   "link": "https://www.breitbart.com/tech/2026/09/16/mark-zuckerberg-sides-with-donald-trump-in-ai-safety-debate/",
+   "summary_raw": "<p>Mark Zuckerberg has staked out his position in the industry's growing argument over how fast AI should advance, aligning himself with President Donald Trump and Nvidia CEO Jensen Huang against Anthropic's Dario Amodei, OpenAI's Sam Altman, and Elon Musk.</p>\n<p>The post <a href=\"https://www.breitbart.com/tech/2026/09/16/mark-zuckerberg-sides-with-donald-trump-in-ai-safety-debate/\" rel=\"nofollow\">Mark Zuckerberg Sides with Donald Trump in AI Safety Debate</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-16T16:41:04+00:00",
+   "collected": "2026-09-16T20:11:45.328399+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Mark Zuckerberg has staked out his position in the industry's growing argument over how fast AI should advance, aligning himself with President Donald Trump and Nvidia CEO Jensen Huang against Anthrop",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "4ab7bffec376ef27",
    "title": "Προχωρά η κατασκευή Γηροκομείου στον Δήμο Ορεστιάδας – Τηλεδιάσκεψη υπό τον Υπουργό Θάνο Πλεύρη",
    "link": "https://migration.gov.gr/prochora-i-kataskeyi-girokomeioy-ston-dimo-orestiadas-tilediaskepsi-ypo-ton-ypoyrgo-thano-pleyri/?utm_source=rss&utm_medium=rss&utm_campaign=prochora-i-kataskeyi-girokomeioy-ston-dimo-orestiadas-tilediaskepsi-ypo-ton-ypoyrgo-thano-pleyri",
@@ -159,6 +828,26 @@
    ]
   },
   {
+   "id": "a2efba2d650d3f15",
+   "title": "After Years of Silence, New House Bill Targets the Tactics Used to Shield Epstein",
+   "link": "https://www.dailysignal.com/2026/09/16/house-targets-tactics-shield-epstein/",
+   "summary_raw": "House Oversight Chairman James Comer, R-Ky., introduced the Survivor’s Voice Protection Act on Wednesday based on a monthslong investigation into government failures in the Jeffrey Epstein sex-trafficking operation. The Daily Signal first reported this month the House Oversight and Government Reform Committee was drafting a bill defining human trafficking to prevent offenders from using loopholes...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-16T16:30:00+00:00",
+   "collected": "2026-09-16T20:11:45.531363+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "House Oversight Chairman James Comer, R-Ky., introduced the Survivor’s Voice Protection Act on Wednesday based on a monthslong investigation into government failures in the Jeffrey Epstein sex-traffic",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "a6d3cf5b8fbbd54f",
    "title": "Israel Is Bringing SPICE 1000 Standoff Weapon To The F-35",
    "link": "https://www.twz.com/air/israel-is-bringing-spice-1000-standoff-weapon-to-the-f-35",
@@ -175,6 +864,25 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "The standoff weapon could eventually give other F-35 operators a new path to a long-range precision strike capability. The post Israel Is Bringing SPICE 1000 Standoff Weapon To The F-35 appeared first",
+   "angle": null
+  },
+  {
+   "id": "67885e0373a3bc66",
+   "title": "Την ελληνική πρόταση για το μεταναστευτικό θα παρουσιάσει στο Συμβούλιο Εσωτερικών της ΕΕ ο Θάνος Πλεύρης - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXpBY2RfVTN5Ty1aZkJ6YkpsZ0V2TlBZekVBNWhsdHBpNkRFWFlhSkJOZ0FkTGllbHB5dXpUaHBzTDlsNVpMNlU0bUl1ZGM5aElSYjFNZWVYUUhDQzJiVXd1Tm1yMzhOSXFVRVUtaWxWem1abl9fZ2dzVUdETUpnRW5QZ0hyRTlITWpEbE1B0gGTAUFVX3lxTFBUTE1yTlExMmlvS3BhZlY0Nll2ZG1ZZG5JN1pVZUxrYldaRWVseE5XUnlTNUNCaTlPaElPN3laX3BjMjZOLVlhUFU1b21mMkhUNHowUXVGVXVSSTRSVk55QmM3LXBBRXFpQ2JIR2JGVzNLam50anl6Q1NfMy11LVlON0hQWllfODFiMTJselQ1RGJQZw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXpBY2RfVTN5Ty1aZkJ6YkpsZ0V2TlBZekVBNWhsdHBpNkRFWFlhSkJOZ0FkTGllbHB5dXpUaHBzTDlsNVpMNlU0bUl1ZGM5aElSYjFNZWVYUUhDQzJiVXd1Tm1yMzhOSXFVRVUtaWxWem1abl9fZ2dzVUdETUpnRW5QZ0hyRTlITWpEbE1B0gGTAUFVX3lxTFBUTE1yTlExMmlvS3BhZlY0Nll2ZG1ZZG5JN1pVZUxrYldaRWVseE5XUnlTNUNCaTlPaElPN3laX3BjMjZOLVlhUFU1b21mMkhUNHowUXVGVXVSSTRSVk55QmM3LXBBRXFpQ2JIR2JGVzNLam50anl6Q1NfMy11LVlON0hQWllfODFiMTJselQ1RGJQZw?oc=5\" target=\"_blank\">Την ελληνική πρόταση για το μεταναστευτικό θα παρουσιάσει στο Συμβούλιο Εσωτερικών της ΕΕ ο Θάνος Πλεύρης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-16T16:21:57+00:00",
+   "collected": "2026-09-16T20:11:40.771794+00:00",
+   "keywords_hit": [
+    "μεταναστ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Την ελληνική πρόταση για το μεταναστευτικό θα παρουσιάσει στο Συμβούλιο Εσωτερικών της ΕΕ ο Θάνος Πλεύρης iefimerida.gr",
    "angle": null
   },
   {
@@ -199,6 +907,23 @@
     "OnAlert",
     "Πρώτο Θέμα"
    ]
+  },
+  {
+   "id": "4a54d628b15ce2f1",
+   "title": "Vinci invests €90 million in MCS truck charging network",
+   "link": "https://www.electrive.com/2026/09/16/vinci-invests-e90-million-in-mcs-truck-charging-network/",
+   "summary_raw": "<div><img alt=\"Scania e lkw mcs stecker\" class=\"attachment-medium size-medium wp-post-image\" height=\"267\" src=\"https://www.electrive.com/media/2026/09/scania-e-lkw-mcs-stecker-2025-400x267.jpg\" style=\"margin-bottom: 15px;\" title=\"scania e lkw mcs stecker 2025\" width=\"400\" /></div>Vinci Concessions, together with Épopée Gestion and ADEME Investissement, will invest nearly €90 million euros in a fast-charging network for electric trucks. Around 20 locations are planned for the first phase - most of them in France. Later, the network will expand to Germany and Spain through Voltix.",
+   "source": "Electrive (EU ηλεκτροκίνηση)",
+   "side": "green_emobility",
+   "lang": "en",
+   "published": "2026-09-16T16:15:00+00:00",
+   "collected": "2026-09-16T20:11:25.626695+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Vinci Concessions, together with Épopée Gestion and ADEME Investissement, will invest nearly €90 million euros in a fast-charging network for electric trucks. Around 20 locations are planned for the f",
+   "angle": null
   },
   {
    "id": "b145b97f1e8c7148",
@@ -239,6 +964,26 @@
    "angle": null,
    "corroborated_by": [
     "Reuters World"
+   ]
+  },
+  {
+   "id": "25ca0e416215b8de",
+   "title": "Ballot Harvesting Concerns in Nursing Homes Spur New Push to Protect Vulnerable Seniors",
+   "link": "https://www.dailysignal.com/2026/09/16/ballot-harvesting-nursing-homes/",
+   "summary_raw": "As the Trump administration seeks to crack down on potential voter fraud in nursing homes, an election watchdog group is providing additional information to long-term care facilities, citing several past criminal cases involving political operatives and staff who took advantage of vulnerable elderly residents. A Centers for Medicare and Medicaid Services memo from late July...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-16T16:10:00+00:00",
+   "collected": "2026-09-16T20:11:45.531598+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "As the Trump administration seeks to crack down on potential voter fraud in nursing homes, an election watchdog group is providing additional information to long-term care facilities, citing several p",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
    ]
   },
   {
@@ -460,6 +1205,26 @@
    ]
   },
   {
+   "id": "e83867aa8eb5e265",
+   "title": "The United States Leading the World on Pro-Life, Pro-Family",
+   "link": "https://www.dailysignal.com/2026/09/16/united-states-pro-life-pro-family/",
+   "summary_raw": "Signature nations to the Geneva Consensus Declaration gathered on Capitol Hill this week to sign the sixth annual declaration on the sanctity of life and the importance of putting families first. As the United States serves as this year&#8217;s secretariat, Congress and the Institute for Women&#8217;s Health hosted 43 member countries standing for the right...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-16T15:11:59+00:00",
+   "collected": "2026-09-16T20:11:45.532030+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Signature nations to the Geneva Consensus Declaration gathered on Capitol Hill this week to sign the sixth annual declaration on the sanctity of life and the importance of putting families first. As t",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "21e1e5831df56695",
    "title": "F-16 Viper: Παραδόθηκε το 60ό αναβαθμισμένο αεροσκάφος στην Πολεμική Αεροπορία",
    "link": "https://www.onalert.gr/eksoplismoi/f-16-viper-paradothike-to-60o-anavathmismeno-aeroskafos-stin-polemiki-aeroporia/819898/",
@@ -506,6 +1271,26 @@
      "lat": 39.0,
      "lon": 22.0
     }
+   ]
+  },
+  {
+   "id": "cf30fbad0790bc0a",
+   "title": "Congress Hears Pleas for Release of God-Fearing Chinese Democracy Advocate",
+   "link": "https://www.dailysignal.com/2026/09/16/congress-chinese-democracy-advocate/",
+   "summary_raw": "A top congressional panel on Wednesday examined the imprisonment of Chinese media entrepreneur Jimmy Lai and the state of press freedom and judicial independence in China. The Congressional-Executive Commission on China hearing, titled “A Son and Daughter’s Appeal to Xi Jinping to Release Their Dad, Jimmy Lai,” comes a week before the Chinese Communist Party...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-16T14:49:15+00:00",
+   "collected": "2026-09-16T20:11:45.532240+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A top congressional panel on Wednesday examined the imprisonment of Chinese media entrepreneur Jimmy Lai and the state of press freedom and judicial independence in China. The Congressional-Executive ",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
    ]
   },
   {
@@ -590,6 +1375,32 @@
    "angle": null,
    "corroborated_by": [
     "Reuters Sustainability"
+   ]
+  },
+  {
+   "id": "c1689198f496275d",
+   "title": "Η Θράκη χρειάζεται Υπουργείο Ανασυγκρότησης - xronos.gr",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1dla0RUNnpEZk9FbEl1MXBWenVlVkV4dF9RVklWbWFxR2g4dUpLY3J1X1U5VXlZd1NuOGMyWFktUDVuOF81dTFuRGUxWjJCRU5Ia2xlcmNfWU40R09hR1VTVm0wZHZRb05TNkhPaTdhNG94ckFVX3Nqanh1ZDk3SQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1dla0RUNnpEZk9FbEl1MXBWenVlVkV4dF9RVklWbWFxR2g4dUpLY3J1X1U5VXlZd1NuOGMyWFktUDVuOF81dTFuRGUxWjJCRU5Ia2xlcmNfWU40R09hR1VTVm0wZHZRb05TNkhPaTdhNG94ckFVX3Nqanh1ZDk3SQ?oc=5\" target=\"_blank\">Η Θράκη χρειάζεται Υπουργείο Ανασυγκρότησης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xronos.gr</font>",
+   "source": "Χρόνος (Κομοτηνή)",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-09-16T13:37:14+00:00",
+   "collected": "2026-09-16T20:10:54.544341+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η Θράκη χρειάζεται Υπουργείο Ανασυγκρότησης xronos.gr",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
    ]
   },
   {
@@ -3095,6 +3906,26 @@
    "angle": null
   },
   {
+   "id": "65fd71b1f38e3c5f",
+   "title": "Is Flock spying on you?",
+   "link": "https://unherd.com/2026/09/is-flock-spying-on-you/?edition=us",
+   "summary_raw": "AI cameras are terrorizing California",
+   "source": "UnHerd",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-09-15T23:02:30+00:00",
+   "collected": "2026-09-16T20:11:44.665156+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "AI cameras are terrorizing California",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "9fd7a600904f79f6",
    "title": "An Environmental Defender Is Murdered Every Three Days",
    "link": "https://insideclimatenews.org/news/15092026/at-least-124-environmental-defenders-killed-in-2025/",
@@ -3251,6 +4082,26 @@
    "angle": null,
    "corroborated_by": [
     "Daily Signal"
+   ]
+  },
+  {
+   "id": "1d4ed6d0720aeb5a",
+   "title": "High Tariffs Could Harm American Semiconductor Industry. Here’s How to Get the Policy Right.",
+   "link": "https://www.dailysignal.com/2026/09/15/high-tariff-harm-american-semiconductor-industry/",
+   "summary_raw": "All Americans should congratulate President Donald Trump on his progress to insource more American manufacturing. That being said, tariffs are tricky things. If a country imposes no tariffs, it may well see its domestic industry bleed away to other countries. America saw a lot of that in recent decades. However, raise tariffs too high and...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-15T21:30:00+00:00",
+   "collected": "2026-09-16T20:11:45.532468+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "All Americans should congratulate President Donald Trump on his progress to insource more American manufacturing. That being said, tariffs are tricky things. If a country imposes no tariffs, it may we",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
    ]
   },
   {
@@ -28100,1056 +28951,6 @@
    "turkish_narrative": false,
    "summary_el": "Έντονη κατασκευαστική δραστηριότητα παρατηρείται, στο φερόμενο ως υπόγειο πυρηνικό καταφύγιο του Ιράν, το οποίο οι δυτικές μυστικές υπηρεσίες αποκαλούν «Όρος Pickaxe» (Όρος της Αξίνας), καθώς εξελισσό",
    "angle": null
-  },
-  {
-   "id": "1f176882170dc32d",
-   "title": "Χριστοδουλίδης: Στα εθνικά θέματα δεν έχουμε την πολυτέλεια να μην εργαζόμαστε από κοινού – Ζήτησε συνεργασία όλων για το Κυπριακό",
-   "link": "https://www.philenews.com/politiki/article/1768474/christodoulidis-sta-ethnika-themata-den-echoume-tin-politelia-na-min-ergazomaste-apo-kinou-zitise-sinergasia-olon-gia-to-kipriako/",
-   "summary_raw": "<p>Την ανάγκη για κοινή προσπάθεια στα εθνικά ζητήματα και ευρύτερη συνεργασία στην προσπάθεια επίλυσης του Κυπριακού υπογράμμισε ο Πρόεδρος της Δημοκρατίας, Νίκος Χριστοδουλίδης, μιλώντας σε εκδήλωση του Σωματείου «Ένωσις Νέων Τραστ» στη Λευκωσία το απόγευμα της Τετάρτης. Ο Πρόεδρος ανέφερε ότι «γνωρίζουμε ξεκάθαρα πού θέλουμε να πάμε και ποιους μοχλούς πρέπει να χρησιμοποιήσουμε» για την [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/politiki/article/1768474/christodoulidis-sta-ethnika-themata-den-echoume-tin-politelia-na-min-ergazomaste-apo-kinou-zitise-sinergasia-olon-gia-to-kipriako/\">Χριστοδουλίδης: Στα εθνικά θέματα δεν έχουμε την πολυτέλεια να μην εργαζόμαστε από κοινού &#8211; Ζήτησε συνεργασία όλων για το Κυπριακό</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-09-09T20:08:00+00:00",
-   "collected": "2026-09-09T21:44:01.966359+00:00",
-   "keywords_hit": [
-    "χριστοδουλίδης"
-   ],
-   "category": "Κυπριακό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Την ανάγκη για κοινή προσπάθεια στα εθνικά ζητήματα και ευρύτερη συνεργασία στην προσπάθεια επίλυσης του Κυπριακού υπογράμμισε ο Πρόεδρος της Δημοκρατίας, Νίκος Χριστοδουλίδης, μιλώντας σε εκδήλωση το",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Λευκωσία",
-     "lat": 35.19,
-     "lon": 33.38
-    }
-   ]
-  },
-  {
-   "id": "5b0adbcdb13668d0",
-   "title": "The X Factor: Unprecedented Spending Could Be Republicans' Midterm Trump Card",
-   "link": "https://www.breitbart.com/politics/2026/09/09/x-factor-unprecedented-spending-could-be-republicans-midterm-trump-card/",
-   "summary_raw": "<p>Never before has a president's political operation invested in a midterm the way President Trump and the MAGA movement are backing Republicans this year.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/09/x-factor-unprecedented-spending-could-be-republicans-midterm-trump-card/\" rel=\"nofollow\">The X Factor: Unprecedented Spending Could Be Republicans&#8217; Midterm Trump Card</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T20:06:41+00:00",
-   "collected": "2026-09-10T00:18:15.313690+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Never before has a president's political operation invested in a midterm the way President Trump and the MAGA movement are backing Republicans this year. The post The X Factor: Unprecedented Spending ",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "929347454ac789e1",
-   "title": "Christodoulides: We do not have the luxury of not working together",
-   "link": "https://cyprus-mail.com/2026/09/09/christodoulides-we-do-not-have-the-luxury-of-not-working-together",
-   "summary_raw": "President Nikos Christodoulides said on Wednesday that Cyprus could not afford to work separately on national issues, stressing the need for cooperation in efforts to resolve the Cyprus problem. “We do not have the luxury of not working together,” Christodoulides said in a speech at an event organised by the youth trust association (Koken) in [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-09-09T19:44:39+00:00",
-   "collected": "2026-09-09T21:43:44.545086+00:00",
-   "keywords_hit": [
-    "christodoulides"
-   ],
-   "category": "Κυπριακό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "President Nikos Christodoulides said on Wednesday that Cyprus could not afford to work separately on national issues, stressing the need for cooperation in efforts to resolve the Cyprus problem. “We d",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "5d9574de2b05de14",
-   "title": "Trump Administration Seeks to Exclude Illegal Aliens, Foreign Visitors from 2030 Census",
-   "link": "https://www.breitbart.com/politics/2026/09/09/trump-administration-seeks-to-exclude-illegal-aliens-foreign-visitors-from-2030-census/",
-   "summary_raw": "<p>President Donald Trump's Department of Commerce is seeking to significantly change the 2030 Census by excluding illegal aliens and foreign visitors from the count so that apportionment of congressional districts is more accurate.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/09/trump-administration-seeks-to-exclude-illegal-aliens-foreign-visitors-from-2030-census/\" rel=\"nofollow\">Trump Administration Seeks to Exclude Illegal Aliens, Foreign Visitors from 2030 Census</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T19:40:33+00:00",
-   "collected": "2026-09-10T00:18:15.313905+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "President Donald Trump's Department of Commerce is seeking to significantly change the 2030 Census by excluding illegal aliens and foreign visitors from the count so that apportionment of congressiona",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "0fede0eaeeddb1f2",
-   "title": "Τετ α τετ Μακρόν–Μητσοτάκη: Στο επίκεντρο η ηλεκτρική διασύνδεση Ελλάδας–Κύπρου",
-   "link": "https://www.philenews.com/ellada/article/1768463/tet-a-tet-makron-mitsotaki-sto-epikentro-i-ilektriki-diasindesi-elladas-kiprou/",
-   "summary_raw": "<p>Η πορεία υλοποίησης της ηλεκτρικής διασύνδεσης Ελλάδας–Κύπρου βρέθηκε ψηλά στην ατζέντα της συνάντησης του Κυριάκου Μητσοτάκη με τον Εμανουέλ Μακρόν στο Παρίσι, μαζί με τις τελευταίες εξελίξεις στην Ανατολική Μεσόγειο και τη Μέση Ανατολή. Το τετ-α-τετ των δύο ηγετών πραγματοποιήθηκε με ευρεία ατζέντα, η οποία περιλάμβανε θέματα διμερούς και ευρωπαϊκού ενδιαφέροντος, αλλά και ζητήματα που [&#8230;]</p>\n<p>Το άρθρο <a href=\"https://www.philenews.com/ellada/article/1768463/tet-a-tet-makron-mitsotaki-sto-epikentro-i-ilektriki-diasindesi-elladas-kiprou/\">Τετ α τετ Μακρόν–Μητσοτάκη: Στο επίκεντρο η ηλεκτρική διασύνδεση Ελλάδας–Κύπρου</a> εμφανίστηκε πρώτα στο <a href=\"https://www.philenews.com\">Philenews</a>.</p>",
-   "source": "Philenews",
-   "side": "cypriot_media",
-   "lang": "el",
-   "published": "2026-09-09T19:36:24+00:00",
-   "collected": "2026-09-09T21:44:01.967107+00:00",
-   "keywords_hit": [
-    "διασύνδεση"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η πορεία υλοποίησης της ηλεκτρικής διασύνδεσης Ελλάδας–Κύπρου βρέθηκε ψηλά στην ατζέντα της συνάντησης του Κυριάκου Μητσοτάκη με τον Εμανουέλ Μακρόν στο Παρίσι, μαζί με τις τελευταίες εξελίξεις στην Α",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    },
-    {
-     "name": "Ανατολική Μεσόγειος",
-     "lat": 34.0,
-     "lon": 30.0
-    }
-   ]
-  },
-  {
-   "id": "d41cb4260825a381",
-   "title": "UN says Nepal suffering disproportionate losses from climate change",
-   "link": "https://www.aa.com.tr/en/asia-pacific/un-says-nepal-suffering-disproportionate-losses-from-climate-change/4052563",
-   "summary_raw": "Nepal suffers profound consequences of climate change despite minimal greenhouse gas contributions, says resident coordinator",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-09-09T19:27:50+00:00",
-   "collected": "2026-09-09T21:43:32.201791+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Nepal suffers profound consequences of climate change despite minimal greenhouse gas contributions, says resident coordinator",
-   "angle": null,
-   "corroborated_by": [
-    "Grist"
-   ]
-  },
-  {
-   "id": "f4b074355354a758",
-   "title": "Macron and Mitsotakis discuss GSI as Cyprus awaits implementation",
-   "link": "https://cyprus-mail.com/2026/09/09/macron-and-mitsotakis-discuss-gsi-as-cyprus-awaits-implementation",
-   "summary_raw": "Greek Prime Minister Kyriakos Mitsotakis and French President Emmanuel Macron discussed the Great Sea Interconnector on Wednesday. The project was among the main issues discussed during their meeting in Paris, alongside developments in the Levant and Middle East. Particular attention was given to the next steps for the Greece Cyprus electricity interconnection after an agreement [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-09-09T19:21:58+00:00",
-   "collected": "2026-09-09T21:43:44.545343+00:00",
-   "keywords_hit": [
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Greek Prime Minister Kyriakos Mitsotakis and French President Emmanuel Macron discussed the Great Sea Interconnector on Wednesday. The project was among the main issues discussed during their meeting ",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "e0bcff8c068a7edd",
-   "title": "#Italy #Greece  Italy and Greece have signed an agreement to transfer two FREMM frigates, the Carlo Bergamini and Virginio Fasan, to the Hellenic Navy, with the first ship expected…",
-   "link": "https://t.me/OSINTdefender/20191",
-   "summary_raw": "#Italy #Greece  Italy and Greece have signed an agreement to transfer two FREMM frigates, the Carlo Bergamini and Virginio Fasan, to the Hellenic Navy, with the first ship expected to arrive in 2028 and the second in 2029.  Subscribe to @OSINTdefender | 💬 Chat room",
-   "source": "Telegram @OSINTdefender",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-09-09T19:15:00+00:00",
-   "collected": "2026-09-09T21:44:40.901492+00:00",
-   "keywords_hit": [
-    "greece"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "#Italy #Greece Italy and Greece have signed an agreement to transfer two FREMM frigates, the Carlo Bergamini and Virginio Fasan, to the Hellenic Navy, with the first ship expected to arrive in 2028 an",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "deb01824efc924e5",
-   "title": "Greece vows to further deepen relations with Israel",
-   "link": "https://www.aa.com.tr/en/europe/greece-vows-to-further-deepen-relations-with-israel/4052538",
-   "summary_raw": "‘Of course, Greece will also develop its cooperation with Israel. It has brought significant added value, especially at the levels of defense and technology,’ says Foreign Minister George Gerapetritis",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-09-09T19:04:27+00:00",
-   "collected": "2026-09-09T21:43:32.202141+00:00",
-   "keywords_hit": [
-    "gerapetritis",
-    "greece"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "‘Of course, Greece will also develop its cooperation with Israel. It has brought significant added value, especially at the levels of defense and technology,’ says Foreign Minister George Gerapetritis",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "4d410aacbff00c9f",
-   "title": "Iran-Backed Houthis Threaten Red Sea Shipping and Bab el-Mandeb Strait",
-   "link": "https://www.breitbart.com/national-security/2026/09/09/iran-backed-houthis-threaten-red-sea-shipping-bab-el-mandeb-strait/",
-   "summary_raw": "<p>Intense fighting between the Iran-backed Houthi insurgents and the internationally recognized government of Yemen continued on Wednesday.</p>\n<p>The post <a href=\"https://www.breitbart.com/national-security/2026/09/09/iran-backed-houthis-threaten-red-sea-shipping-bab-el-mandeb-strait/\" rel=\"nofollow\">Iran-Backed Houthis Threaten Red Sea Shipping and Bab el-Mandeb Strait</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T19:04:08+00:00",
-   "collected": "2026-09-10T09:48:55.754600+00:00",
-   "keywords_hit": [],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Intense fighting between the Iran-backed Houthi insurgents and the internationally recognized government of Yemen continued on Wednesday. The post Iran-Backed Houthis Threaten Red Sea Shipping and Bab",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ερυθρά Θάλασσα",
-     "lat": 20.0,
-     "lon": 38.0
-    }
-   ]
-  },
-  {
-   "id": "3404fd5f8442f11f",
-   "title": "Trump Says Iran Seeks Nuclear Weapon",
-   "link": "https://www.osint613.com/post/trump-says-iran-seeks-nuclear-weapon-22553",
-   "summary_raw": "Trump on Iran:\n\nThey are desperate to try and affect the election so that we can get a nice weak group of people in there and leave them alone and let them have their nuclear weapon.\n\nAll they want is a nuclear weapon.",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-09-09T19:01:14+00:00",
-   "collected": "2026-09-09T21:44:38.566463+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Trump on Iran: They are desperate to try and affect the election so that we can get a nice weak group of people in there and leave them alone and let them have their nuclear weapon. All they want is a",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @clashreport"
-   ]
-  },
-  {
-   "id": "440a12132bbb0ce1",
-   "title": "Eastern & Western Libyan Military Chiefs Agree on Joint Cooperation Plan",
-   "link": "https://libyareview.com/68159/eastern-western-libyan-military-chiefs-agree-on-joint-cooperation-plan/",
-   "summary_raw": "<p>Senior military commanders from eastern and western Libya have agreed on a four-part cooperation plan covering joint exercises, weapons, logistics and military education, as efforts continue to strengthen coordination and move towards unifying the country’s divided military institutions. The agreement was reached on Wednesday during a meeting in Libya’s Sirte involving the chiefs of staff [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68159/eastern-western-libyan-military-chiefs-agree-on-joint-cooperation-plan/\">Eastern &amp; Western Libyan Military Chiefs Agree on Joint Cooperation Plan</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-09-09T19:00:38+00:00",
-   "collected": "2026-09-09T21:43:56.096032+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Senior military commanders from eastern and western Libya have agreed on a four-part cooperation plan covering joint exercises, weapons, logistics and military education, as efforts continue to streng",
-   "angle": null
-  },
-  {
-   "id": "705c9c7487450fdb",
-   "title": "DOJ Cracks Down on Law School for Violating Civil Rights Law",
-   "link": "https://www.dailysignal.com/2026/09/09/scoop-berkeley-law-discrimination/",
-   "summary_raw": "FIRST ON THE DAILY SIGNAL—The Department of Justice has found that the University of California, Berkeley School of Law illegally discriminated against Asian and white applicants based on race during its 2024 and 2025 admissions processes, after the Supreme Court struck down affirmative action. “Berkeley Law School’s deliberate efforts to circumvent the Supreme Court’s decision...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T19:00:00+00:00",
-   "collected": "2026-09-09T21:44:38.357580+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "FIRST ON THE DAILY SIGNAL—The Department of Justice has found that the University of California, Berkeley School of Law illegally discriminated against Asian and white applicants based on race during ",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "f84f5356c79a138a",
-   "title": "Spain's spy agency warned of plans to storm Ceuta before mass migrant crossing, documents show - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXJKcGdWeU1GNjFJb0RrQ2FOUmJyY0Q1NWtGLVJVdEJsNUlheFdneDliMU5NOHhZRGFPY3VWSXFOcVVjbk04a2dneVB0T0FhRWdhN2FNUjhPTmk2ZjdLZlNYRnRTM3FDYU1fTmZMWW15NkluSWpsSER4UjlyZFMtV2lwNzcyODhlc0U5TUlxWWpnRjV6RklIYmRjN0RLcjJnZXVNcVI2WUVjMi0xMVhScDB5U1ZpZVhxRHlUaw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXJKcGdWeU1GNjFJb0RrQ2FOUmJyY0Q1NWtGLVJVdEJsNUlheFdneDliMU5NOHhZRGFPY3VWSXFOcVVjbk04a2dneVB0T0FhRWdhN2FNUjhPTmk2ZjdLZlNYRnRTM3FDYU1fTmZMWW15NkluSWpsSER4UjlyZFMtV2lwNzcyODhlc0U5TUlxWWpnRjV6RklIYmRjN0RLcjJnZXVNcVI2WUVjMi0xMVhScDB5U1ZpZVhxRHlUaw?oc=5\" target=\"_blank\">Spain's spy agency warned of plans to storm Ceuta before mass migrant crossing, documents show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-   "source": "Reuters World",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-09-09T18:51:07+00:00",
-   "collected": "2026-09-09T21:43:46.015710+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Spain's spy agency warned of plans to storm Ceuta before mass migrant crossing, documents show Reuters",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @clashreport",
-    "The National Herald"
-   ]
-  },
-  {
-   "id": "8cca651795cbef17",
-   "title": "Another search, rescue vessel to join efforts to find those missing from capsized ship off TRNC",
-   "link": "https://www.aa.com.tr/en/turkiye/another-search-rescue-vessel-to-join-efforts-to-find-those-missing-from-capsized-ship-off-trnc/4052515",
-   "summary_raw": "Specially equipped vessel with deep-sea search capabilities to leave Istanbul on Thursday, expected to reach Northern Cyprus by weekend at earliest",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-09-09T18:49:50+00:00",
-   "collected": "2026-09-09T21:43:32.202471+00:00",
-   "keywords_hit": [
-    "trnc",
-    "cyprus"
-   ],
-   "category": "Κυπριακό",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "Specially equipped vessel with deep-sea search capabilities to leave Istanbul on Thursday, expected to reach Northern Cyprus by weekend at earliest",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    },
-    {
-     "name": "Ψευδοκράτος",
-     "lat": 35.3,
-     "lon": 33.3
-    },
-    {
-     "name": "Κωνσταντινούπολη",
-     "lat": 41.01,
-     "lon": 28.98
-    }
-   ]
-  },
-  {
-   "id": "29ea1cfb2aeeeb4b",
-   "title": "Trump on Iran:  They are desperate to try and affect the election so that we can get a nice weak group of people in there and leave them alone and let them have their nuclear weapo…",
-   "link": "https://t.me/ClashReport/95858",
-   "summary_raw": "Trump on Iran:  They are desperate to try and affect the election so that we can get a nice weak group of people in there and leave them alone and let them have their nuclear weapon.  All they want is a nuclear weapon.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-09-09T18:48:36+00:00",
-   "collected": "2026-09-09T21:44:40.176090+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Trump on Iran: They are desperate to try and affect the election so that we can get a nice weak group of people in there and leave them alone and let them have their nuclear weapon. All they want is a",
-   "angle": null,
-   "corroborated_by": [
-    "OSINT613"
-   ]
-  },
-  {
-   "id": "b83c8782092f02aa",
-   "title": "Trump on Iran:  I am doing much more than a nuclear deal. There is a lot more than nuclear.  We are gonna have nuclear, that’s 99.9, but there is gonna be a lot of other things on …",
-   "link": "https://t.me/ClashReport/95855",
-   "summary_raw": "Trump on Iran:  I am doing much more than a nuclear deal. There is a lot more than nuclear.  We are gonna have nuclear, that’s 99.9, but there is gonna be a lot of other things on the table.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-09-09T18:43:45+00:00",
-   "collected": "2026-09-09T21:44:40.175788+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Trump on Iran: I am doing much more than a nuclear deal. There is a lot more than nuclear. We are gonna have nuclear, that’s 99.9, but there is gonna be a lot of other things on the table.",
-   "angle": null,
-   "corroborated_by": [
-    "OSINT613"
-   ]
-  },
-  {
-   "id": "6a61edcb2844b54f",
-   "title": "Everything Is Bigger in Texas—Including the Senate Stakes",
-   "link": "https://www.dailysignal.com/2026/09/09/texas-senate-stakes/",
-   "summary_raw": "The race for control of the Senate next January is a dead heat. Conventional wisdom suggests the contests in swingy states like Michigan, Ohio, North Carolina, and Georgia could prove decisive. And they might.  But&#160;it&#8217;s&#160;possible that the fate of the chamber known as the &#8220;world&#8217;s greatest deliberative body&#8221; will come down to a state not usually...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T18:42:14+00:00",
-   "collected": "2026-09-10T09:48:55.924655+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The race for control of the Senate next January is a dead heat. Conventional wisdom suggests the contests in swingy states like Michigan, Ohio, North Carolina, and Georgia could prove decisive. And th",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "6798148f7bc77918",
-   "title": "Exclusive — Trump Economic Advisor Christopher Phelan: Trump’s Plan to Reduce Runaway Biden Inflation Is Working, ‘No Reason to Raise Rates’",
-   "link": "https://www.breitbart.com/economy/2026/09/09/exclusive-trump-economic-advisor-christopher-phelan-trumps-plan-to-reduce-runaway-biden-inflation-is-working-no-reason-to-raise-rates/",
-   "summary_raw": "<p>Trump Economic Advisor Christopher Phelan said that President Donald Trump's plan to reduce inflation is working, and added that he sees \"no reason to raise rates.\"</p>\n<p>The post <a href=\"https://www.breitbart.com/economy/2026/09/09/exclusive-trump-economic-advisor-christopher-phelan-trumps-plan-to-reduce-runaway-biden-inflation-is-working-no-reason-to-raise-rates/\" rel=\"nofollow\">Exclusive — Trump Economic Advisor Christopher Phelan: Trump’s Plan to Reduce Runaway Biden Inflation Is Working, ‘No Reason to Raise Rates’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T18:40:52+00:00",
-   "collected": "2026-09-10T00:18:15.314171+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Trump Economic Advisor Christopher Phelan said that President Donald Trump's plan to reduce inflation is working, and added that he sees \"no reason to raise rates.\" The post Exclusive — Trump Economic",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "9dc846f30749157d",
-   "title": "Floridis'ten Türkiye üzerinden seçim mesajı: “Yunanistan hükümetsiz kalırsa karşıdan saldırı gelir”",
-   "link": "https://www.milletgazetesi.gr/yunanistan/floridisten-turkiye-uzerinden-secim-mesaji-yunanistan-hukumetsiz-kalirsa-karsidan-saldiri-gelir",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Yunanistan)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-09-09T18:40:48.169650+00:00",
-   "collected": "2026-09-09T18:40:48.169664+00:00",
-   "keywords_hit": [],
-   "category": "Ελληνοτουρκικά",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "f172d2f53b82b4ac",
-   "title": "Şentop’tan Gümülcine’de taziye ziyareti, İbrahim Şerif’e başsağlığı diledi",
-   "link": "https://www.milletgazetesi.gr/bati-trakya/sentoptan-gumulcinede-taziye-ziyareti-ibrahim-serife-bassagligi-diledi",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Batı Trakya)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-09-09T18:40:46.860582+00:00",
-   "collected": "2026-09-09T18:40:46.860584+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κομοτηνή",
-     "lat": 41.12,
-     "lon": 25.41
-    }
-   ]
-  },
-  {
-   "id": "6bb6fa60d912c71c",
-   "title": "Trump: Not Looking for Iran Deal",
-   "link": "https://www.osint613.com/post/trump-not-looking-for-iran-deal-22546",
-   "summary_raw": "Trump on Iran:\n\n“We’re not looking for a deal.”\n\n“I’m doing much more than a nuclear deal. Many things are on the table.”\n\nSays the war with Iran will end “immediately after the election.”",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-09-09T18:37:23+00:00",
-   "collected": "2026-09-09T18:40:41.095315+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Trump on Iran: “We’re not looking for a deal.” “I’m doing much more than a nuclear deal. Many things are on the table.” Says the war with Iran will end “immediately after the election.”",
-   "angle": null
-  },
-  {
-   "id": "f1d479f0e47db82f",
-   "title": "Q: For weeks you've been saying that gasoline prices will go down, but oil has now returned to over $100 a barrel. How do you explain that to Americans? Trump: I think it's very ea…",
-   "link": "https://t.me/me_observer_TG/1086940",
-   "summary_raw": "Q: For weeks you've been saying that gasoline prices will go down, but oil has now returned to over $100 a barrel. How do you explain that to Americans? Trump: I think it's very easy to explain to Americans. All you have to ask them is: Will you allow Iran to possess a nuclear weapon? And the answer is: No.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-09-09T18:36:51+00:00",
-   "collected": "2026-09-09T18:40:43.905419+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Q: For weeks you've been saying that gasoline prices will go down, but oil has now returned to over $100 a barrel. How do you explain that to Americans? Trump: I think it's very easy to explain to Ame",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @clashreport"
-   ]
-  },
-  {
-   "id": "44ef902232c4bb68",
-   "title": "8 Οκτωβρίου 1996: Καταρρίπτεται το πρώτο F-16 στην ιστορία και είναι τουρκικό",
-   "link": "https://www.pentapostagma.gr/ethnika-themata/ellinotoyrkika/7388526_8-oktobrioy-1996-katarriptetai-proto-f-16-stin-istoria-kai",
-   "summary_raw": "Η Ελλάδα κατέρριψε το πρώτο F-16 στην ιστορία πριν από περίπου 24 χρόνια",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-09-09T18:34:33+00:00",
-   "collected": "2026-09-09T18:40:03.682353+00:00",
-   "keywords_hit": [
-    "f-16"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Η Ελλάδα κατέρριψε το πρώτο F-16 στην ιστορία πριν από περίπου 24 χρόνια",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "4d76241a6d3cc767",
-   "title": "Reporter: You said that oil and gas prices were going to come down. Oil is now back above 100 dollars. How do you explain this to Americans?  Trump: It’s very easy to explain to Am…",
-   "link": "https://t.me/ClashReport/95847",
-   "summary_raw": "Reporter: You said that oil and gas prices were going to come down. Oil is now back above 100 dollars. How do you explain this to Americans?  Trump: It’s very easy to explain to Americans: all you have to do is say, will you let Iran have a nuclear weapon? The answer is no.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-09-09T18:33:14+00:00",
-   "collected": "2026-09-09T18:40:42.565841+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Reporter: You said that oil and gas prices were going to come down. Oil is now back above 100 dollars. How do you explain this to Americans? Trump: It’s very easy to explain to Americans: all you have",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @me_observer_TG"
-   ]
-  },
-  {
-   "id": "57683ea083226f6f",
-   "title": "Why Argentina smells blood over the Falklands",
-   "link": "https://www.spiked-online.com/2026/09/09/why-argentina-smells-blood-over-the-falklands/",
-   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/09/09/why-argentina-smells-blood-over-the-falklands/\">Why Argentina smells blood over the Falklands</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
-   "source": "Spiked",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-09-09T18:30:37+00:00",
-   "collected": "2026-09-09T18:40:40.512518+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The post Why Argentina smells blood over the Falklands appeared first on spiked .",
-   "angle": null
-  },
-  {
-   "id": "d42f0db5428e9709",
-   "title": "Μητσοτάκης-Μακρόν: Στο τραπέζι το καλώδιο Ελλάδας-Κύπρου, η Meridiam και τα επόμενα βήματα για τον GSI",
-   "link": "https://www.pentapostagma.gr/politiki/7389001_mitsotakis-makron-sto-trapezi-kalodio-elladas-kyproy-i-meridiam-kai-ta-epomena",
-   "summary_raw": "Ο Κυριάκος Μητσοτάκης και ο Εμανουέλ Μακρόν συζήτησαν στα Ηλύσια το μέλλον του Great Sea Interconnector, με τη Meridiam...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-09-09T18:26:57+00:00",
-   "collected": "2026-09-09T18:40:03.682667+00:00",
-   "keywords_hit": [
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ο Κυριάκος Μητσοτάκης και ο Εμανουέλ Μακρόν συζήτησαν στα Ηλύσια το μέλλον του Great Sea Interconnector, με τη Meridiam...",
-   "angle": null,
-   "corroborated_by": [
-    "Philenews",
-    "SLpress",
-    "Πρώτο Θέμα"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "aa34827bf088cc29",
-   "title": "CalState Professor Calls on Audience to ‘F— Up’ ICE Officer",
-   "link": "https://www.dailysignal.com/2026/09/09/calstate-professor-calls-audience-f-up-ice-officer/",
-   "summary_raw": "A professor of pan-African Studies with a leadership role in Black Lives Matter urged her audience to &#8220;f&#8212; up&#8221; an officer with U.S. Immigration and Customs Enforcement Sunday, stating that there should be nowhere the agent could &#8220;go where they are comfortable.&#8221; Melina Abdullah, a professor of Pan-African Studies at California State University, Los Angeles,...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T18:21:25+00:00",
-   "collected": "2026-09-09T18:40:40.970179+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A professor of pan-African Studies with a leadership role in Black Lives Matter urged her audience to “f— up” an officer with U.S. Immigration and Customs Enforcement Sunday, stating that there should",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "0a579a96f51f0df2",
-   "title": "We Spend a Lot More on Welfare Than Bombs. That’s a Problem.",
-   "link": "https://www.dailysignal.com/2026/09/09/more-on-welfare-than-bombs/",
-   "summary_raw": "The other day, New York City Mayor Zohran Mamdani told Qatari state media that the United States was &#8220;spending tens of billions of dollars on killing people&#8221; when that money &#8220;could have been used to make life easier&#8221; for the public. &#8220;There always seems to be money for war,&#8221; he went on, &#8220;but not to...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T18:20:00+00:00",
-   "collected": "2026-09-10T09:48:55.924783+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The other day, New York City Mayor Zohran Mamdani told Qatari state media that the United States was “spending tens of billions of dollars on killing people” when that money “could have been used to m",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "610f433838022a0a",
-   "title": "Μητσοτάκης-Μακρόν στο Ελιζέ: Συζήτησαν για την ηλεκτρική διασύνδεση Ελλάδας-Κύπρου και τα επόμενα βήματα για τον GSI - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkxxMEFacHM5QW5vSTI5V3hkaU15b3dBNUhUVnpjTzgtclg3ZHBVeTVWbVRKMkFEeGxubGZUeXF4cnpfanhVWTNIaEdKUDdVS0lLeS16OU1wY0hwMEVYM2pRX3puQWNZOUgyZjB5ZVhYVWZISVJLQUt1QWYtLTFYbkxzWU9HaWk2U1djVVJYRFlPZVNTX0tF0gGcAUFVX3lxTE9zZVFnaWliZkIxMHpJYTlCQWZsZW9qOHlxZWl3Vl9SWC1TMmpzSkxHQndDR1VsbnVkUjlQV2ctVEdGamR2OE84c3gzNlk4SEhsRFRVVHZ6aTJKWUxFNjg2dUhzZHF1Yks3Yks0VUFqMzBUWjdiNVdmSThvZWF4ZWx0c2FKYUVaeEE2T0d5OHJQWjZhSTluazNYR3VVSg?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkxxMEFacHM5QW5vSTI5V3hkaU15b3dBNUhUVnpjTzgtclg3ZHBVeTVWbVRKMkFEeGxubGZUeXF4cnpfanhVWTNIaEdKUDdVS0lLeS16OU1wY0hwMEVYM2pRX3puQWNZOUgyZjB5ZVhYVWZISVJLQUt1QWYtLTFYbkxzWU9HaWk2U1djVVJYRFlPZVNTX0tF0gGcAUFVX3lxTE9zZVFnaWliZkIxMHpJYTlCQWZsZW9qOHlxZWl3Vl9SWC1TMmpzSkxHQndDR1VsbnVkUjlQV2ctVEdGamR2OE84c3gzNlk4SEhsRFRVVHZ6aTJKWUxFNjg2dUhzZHF1Yks3Yks0VUFqMzBUWjdiNVdmSThvZWF4ZWx0c2FKYUVaeEE2T0d5OHJQWjZhSTluazNYR3VVSg?oc=5\" target=\"_blank\">Μητσοτάκης-Μακρόν στο Ελιζέ: Συζήτησαν για την ηλεκτρική διασύνδεση Ελλάδας-Κύπρου και τα επόμενα βήματα για τον GSI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-09T18:18:46+00:00",
-   "collected": "2026-09-09T21:44:33.152808+00:00",
-   "keywords_hit": [
-    "διασύνδεση"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Μητσοτάκης-Μακρόν στο Ελιζέ: Συζήτησαν για την ηλεκτρική διασύνδεση Ελλάδας-Κύπρου και τα επόμενα βήματα για τον GSI iefimerida.gr",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "1824ee24d5b3e63a",
-   "title": "#USA #Iran   Iran is experiencing a significant construction surge at its underground Pickaxe Mountain nuclear site, as indicated by recent satellite imagery. This activity raises …",
-   "link": "https://t.me/OSINTdefender/20188",
-   "summary_raw": "#USA #Iran   Iran is experiencing a significant construction surge at its underground Pickaxe Mountain nuclear site, as indicated by recent satellite imagery. This activity raises concerns about potential advancements in its nuclear capabilities, particularly regarding uranium enrichment.  Subscribe to @OSINTdefender | 💬 Chat room",
-   "source": "Telegram @OSINTdefender",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-09-09T18:17:35+00:00",
-   "collected": "2026-09-10T18:32:04.235407+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "#USA #Iran Iran is experiencing a significant construction surge at its underground Pickaxe Mountain nuclear site, as indicated by recent satellite imagery. This activity raises concerns about potenti",
-   "angle": null
-  },
-  {
-   "id": "4ae94d532f807fa1",
-   "title": "Rubio on Colombia: 'We've Seen More Concrete Action Against Criminal Gangs in One Month Than We Did in Four Years'",
-   "link": "https://www.breitbart.com/national-security/2026/09/09/rubio-on-colombia-weve-seen-more-concrete-action-against-criminal-gangs-in-one-month-than-we-did-in-four-years/",
-   "summary_raw": "<p>U.S. Secretary of State Marco Rubio on Tuesday praised the recently inaugurated administration of conservative President Abelardo de la Espriella for its fight against organized criminal gangs.</p>\n<p>The post <a href=\"https://www.breitbart.com/national-security/2026/09/09/rubio-on-colombia-weve-seen-more-concrete-action-against-criminal-gangs-in-one-month-than-we-did-in-four-years/\" rel=\"nofollow\">Rubio on Colombia: &#8216;We&#8217;ve Seen More Concrete Action Against Criminal Gangs in One Month Than We Did in Four Years&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T18:17:27+00:00",
-   "collected": "2026-09-10T09:48:55.754933+00:00",
-   "keywords_hit": [
-    "crete"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "U.S. Secretary of State Marco Rubio on Tuesday praised the recently inaugurated administration of conservative President Abelardo de la Espriella for its fight against organized criminal gangs. The po",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "79af33b76877113a",
-   "title": "O ΔΟΑΕ παραπέμπει το Ιράν στο Συμβούλιο Ασφαλείας του ΟΗΕ για «μη τήρηση» των υποχρεώσεών του",
-   "link": "https://www.in.gr/2026/09/09/world/o-doae-parapempei-to-iran-sto-symvoulio-asfaleias-tou-oie-gia-mi-tirisi-ton-ypoxreoseon-tou/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/09/2026-09-09T132512Z_592814026_RC2PFNA9EBVX_RTRMADP_5_SYRIA-NUCLEAR-IAEA-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Το Συμβούλιο των διοικητών του Διεθνούς Οργανισμού Ατομικής Ενέργειας (ΔΟΑΕ/IAEA) παρέπεμψε το Ιράν στο ΣΑ του ΟΗΕ με στόχο «να αυξήσει την πίεση στην Τεχεράνη»</p>\n<p>The post <a href=\"https://www.in.gr/2026/09/09/world/o-doae-parapempei-to-iran-sto-symvoulio-asfaleias-tou-oie-gia-mi-tirisi-ton-ypoxreoseon-tou/\">O ΔΟΑΕ παραπέμπει το Ιράν στο Συμβούλιο Ασφαλείας του ΟΗΕ για «μη τήρηση» των υποχρεώσεών του</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-09T18:15:56+00:00",
-   "collected": "2026-09-09T18:40:33.820112+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Το Συμβούλιο των διοικητών του Διεθνούς Οργανισμού Ατομικής Ενέργειας (ΔΟΑΕ/IAEA) παρέπεμψε το Ιράν στο ΣΑ του ΟΗΕ με στόχο «να αυξήσει την πίεση στην Τεχεράνη» The post O ΔΟΑΕ παραπέμπει το Ιράν στο ",
-   "angle": null
-  },
-  {
-   "id": "1c974a4cebf10ef0",
-   "title": "Μητσοτάκης-Μακρόν: Στο τραπέζι το καλώδιο Ελλάδας-Κύπρου, η Meridiam και τα επόμενα βήματα για τον GSI",
-   "link": "https://www.protothema.gr/politics/article/1876426/mitsotakis-makron-sto-trapezi-to-kalodio-elladas-kuprou-i-meridiam-kai-ta-epomena-vimata-gia-ton-gsi/?utm_source=rss",
-   "summary_raw": "Ο Κυριάκος Μητσοτάκης και ο Εμανουέλ Μακρόν συζήτησαν στα Ηλύσια το μέλλον του Great Sea Interconnector, με τη Meridiam να ενισχύει τον ρόλο της, ενώ στο επίκεντρο βρέθηκαν ενέργεια, Μέση Ανατολή και προστασία ανηλίκων",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-09T17:56:00+00:00",
-   "collected": "2026-09-09T18:40:31.888206+00:00",
-   "keywords_hit": [
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ο Κυριάκος Μητσοτάκης και ο Εμανουέλ Μακρόν συζήτησαν στα Ηλύσια το μέλλον του Great Sea Interconnector, με τη Meridiam να ενισχύει τον ρόλο της, ενώ στο επίκεντρο βρέθηκαν ενέργεια, Μέση Ανατολή και ",
-   "angle": null,
-   "corroborated_by": [
-    "Philenews",
-    "SLpress",
-    "Πενταπόσταγμα"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "7251cfbeedf2d490",
-   "title": "Στο Ηράκλειο μεταφέρεται μια ακόμα ομάδα μεταναστών που έφτασε στην Κρήτη - Cretalive",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVI4LTU4LTR2U0pvM21Rb0R3bmI3cEhEaDBHYnN4TTFteFRDeDJsWTJfWUU3ck5OSVdBSW14dVRLT1VRZlFWeUV3czJjaC14Uld6aGxZOFR1TzVBTEk0dTE4R3JWQ1g5VnExN0g0YlFUbG5FalRhYmMzWmdHamlkdjVvYnpfOTNRM2xRM1cyaVVPODNTMmJDRVZoSFhpQjM4Vk01bnZJYw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVI4LTU4LTR2U0pvM21Rb0R3bmI3cEhEaDBHYnN4TTFteFRDeDJsWTJfWUU3ck5OSVdBSW14dVRLT1VRZlFWeUV3czJjaC14Uld6aGxZOFR1TzVBTEk0dTE4R3JWQ1g5VnExN0g0YlFUbG5FalRhYmMzWmdHamlkdjVvYnpfOTNRM2xRM1cyaVVPODNTMmJDRVZoSFhpQjM4Vk01bnZJYw?oc=5\" target=\"_blank\">Στο Ηράκλειο μεταφέρεται μια ακόμα ομάδα μεταναστών που έφτασε στην Κρήτη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cretalive</font>",
-   "source": "Cretalive",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-09-09T17:55:00+00:00",
-   "collected": "2026-09-09T21:44:26.477776+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Στο Ηράκλειο μεταφέρεται μια ακόμα ομάδα μεταναστών που έφτασε στην Κρήτη Cretalive",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κρήτη",
-     "lat": 35.24,
-     "lon": 24.81
-    }
-   ]
-  },
-  {
-   "id": "8aec6303840e1741",
-   "title": "5 Takeaways From Our Investigation Into China’s Massive Overseas Investments",
-   "link": "https://insideclimatenews.org/news/09092026/planet-china-overseas-investments-investigation-takeaways/",
-   "summary_raw": "For more than a decade, the Chinese government has overseen a trillion-dollar building spree across the globe, helping construct and finance a vast network of mines, ports, railways and other infrastructure outside its borders.&#160; These projects through its Belt and Road Initiative are increasingly shaping global development, especially in emerging economies. What does it look [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-09T17:47:52+00:00",
-   "collected": "2026-09-10T14:29:28.653745+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "For more than a decade, the Chinese government has overseen a trillion-dollar building spree across the globe, helping construct and finance a vast network of mines, ports, railways and other infrastr",
-   "angle": null,
-   "corroborated_by": [
-    "ESG Today"
-   ]
-  },
-  {
-   "id": "b77ddca26a1faaee",
-   "title": "Climate change could cost Greece’s agriculture up to $1.2B annually: Study",
-   "link": "https://www.aa.com.tr/en/europe/climate-change-could-cost-greece-s-agriculture-up-to-12b-annually-study/4052460",
-   "summary_raw": "Study projects major production losses, regional shifts in farming by 2060",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-09-09T17:41:21+00:00",
-   "collected": "2026-09-09T18:39:38.426352+00:00",
-   "keywords_hit": [
-    "climate",
-    "greece"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Study projects major production losses, regional shifts in farming by 2060",
-   "angle": null,
-   "corroborated_by": [
-    "ESG Today",
-    "Kathimerini (EN)"
-   ]
-  },
-  {
-   "id": "b7753617d2b75cb4",
-   "title": "Forced Into the Right Decision? A Look at U.S. Land-Based Deterrence Posture",
-   "link": "https://warontherocks.com/forced-into-the-right-decision-a-look-at-u-s-land-based-deterrence-posture/",
-   "summary_raw": "<p>In 2019, Steve Fetter wrote &#8220;A Cheaper Nuclear Sponge,&#8221; in which he argued that building a new intercontinental ballistic missile (ICBM) was unnecessary for strengthening U.S. land-based deterrence. After several years of changing defense budgets and strategic priorities, we asked Steve to revisit his arguments.Image: U.S. Air Force (John Ingle)In your 2019 article, you argued that building an entirely new ICBM was unnecessary and that the Pentagon could save tens of billions by extending the life of the Minuteman III instead. Nearly seven years on, how has that argument held up? What has the new ballistic missile program&#8217;s trajectory looked</p>\n<p>The post <a href=\"https://warontherocks.com/forced-into-the-right-decision-a-look-at-u-s-land-based-deterrence-posture/\">Forced Into the Right Decision? A Look at U.S. Land-Based Deterrence Posture</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
-   "source": "War on the Rocks",
-   "side": "defense_intl",
-   "lang": "en",
-   "published": "2026-09-09T17:30:23+00:00",
-   "collected": "2026-09-09T18:40:06.922894+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "In 2019, Steve Fetter wrote “A Cheaper Nuclear Sponge,” in which he argued that building a new intercontinental ballistic missile (ICBM) was unnecessary for strengthening U.S. land-based deterrence. A",
-   "angle": null
-  },
-  {
-   "id": "15a857c67e27c1c7",
-   "title": "Open Source Intel Iranian Deputy FM Gharibabadi on the anti-Iran resolution: \"You attack safeguarded nuclear facilities, disrupt the verification process, then use that same disrup…",
-   "link": "https://t.me/OSINTLive/571170",
-   "summary_raw": "Open Source Intel Iranian Deputy FM Gharibabadi on the anti-Iran resolution: \"You attack safeguarded nuclear facilities, disrupt the verification process, then use that same disruption to justify a resolution at the Board of Governors.\"  He said this won't compensate for their failed policies, nor advance anything at the Security Council.  The IAEA Board of Governors voted 23 in favor to refer Iran's nuclear file back to the UN Security Council. The resolution was drafted by the U.S., U.K., France and Germany, citing Iran's failure to meet its NPT non-proliferation obligations. - Open Source Intel tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-09-09T17:28:31+00:00",
-   "collected": "2026-09-09T18:40:44.564745+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Open Source Intel Iranian Deputy FM Gharibabadi on the anti-Iran resolution: \"You attack safeguarded nuclear facilities, disrupt the verification process, then use that same disruption to justify a re",
-   "angle": null
-  },
-  {
-   "id": "2d74e3fa18b25e83",
-   "title": "Missouri AG Catherine Hanaway Sues ATF over Suppressor Registration",
-   "link": "https://www.breitbart.com/2nd-amendment/2026/09/09/missouri-ag-catherine-hanaway-sues-atf-over-suppressor-registration/",
-   "summary_raw": "<p>Missouri Attorney General Catherine L. Hanaway filed a lawsuit against the ATF (Bureau of Alcohol, Tobacco, Firearms and Explosives) Tuesday, seeking to end the requirement that law-abiding Americans must register suppressors and short barrel rifles and shotguns.</p>\n<p>The post <a href=\"https://www.breitbart.com/2nd-amendment/2026/09/09/missouri-ag-catherine-hanaway-sues-atf-over-suppressor-registration/\" rel=\"nofollow\">Missouri AG Catherine Hanaway Sues ATF over Suppressor Registration</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T17:25:11+00:00",
-   "collected": "2026-09-10T09:48:55.754462+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Missouri Attorney General Catherine L. Hanaway filed a lawsuit against the ATF (Bureau of Alcohol, Tobacco, Firearms and Explosives) Tuesday, seeking to end the requirement that law-abiding Americans ",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "f4044a6a6bc3a9bb",
-   "title": "Exclusive – Alliance for a Better Future CEO Janet Kelly: ‘Human Dignity’ Must Be at Core of AI Policy",
-   "link": "https://www.breitbart.com/politics/2026/09/09/exclusive-alliance-for-a-better-future-ceo-janet-kelly-human-dignity-must-be-at-core-of-ai-policy/",
-   "summary_raw": "<p>Alliance for a Better Future CEO Janet Kelly said during the Breitbart News “State of the Economy” policy event Tuesday that humanity dignity must be at the core of artificial intelligence (AI) policy, adding that she believes \"every single human is made with inherent value and worth.\" </p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/09/exclusive-alliance-for-a-better-future-ceo-janet-kelly-human-dignity-must-be-at-core-of-ai-policy/\" rel=\"nofollow\">Exclusive – Alliance for a Better Future CEO Janet Kelly: ‘Human Dignity’ Must Be at Core of AI Policy</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T17:18:35+00:00",
-   "collected": "2026-09-10T00:18:15.318063+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Alliance for a Better Future CEO Janet Kelly said during the Breitbart News “State of the Economy” policy event Tuesday that humanity dignity must be at the core of artificial intelligence (AI) policy",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "57dc2daeafe671d8",
-   "title": "Η ΕΕ χορηγεί βοήθεια 115 εκατ. ευρώ στην Ισπανία για την Θέουτα",
-   "link": "https://www.in.gr/2026/09/09/world/i-ee-xorigei-voitheia-115-ekat-eyro-stin-ispania-gia-tin-theouta/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/09/2026-09-09T094455Z_1344924043_RC27FNARDMTS_RTRMADP_5_MIGRATION-EUROPE-SPAIN-CEUTA-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Η Ευρωπαϊκή Ένωση χορήγησε έκτακτη βοήθεια στην Ισπανία για την ανθρωπιστική διαχείριση της κρίσης της Θέουτα μετά την είσοδο 5.000 έως 10.000 μεταναστών.</p>\n<p>The post <a href=\"https://www.in.gr/2026/09/09/world/i-ee-xorigei-voitheia-115-ekat-eyro-stin-ispania-gia-tin-theouta/\">Η ΕΕ χορηγεί βοήθεια 115 εκατ. ευρώ στην Ισπανία για την Θέουτα</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-09T17:17:01+00:00",
-   "collected": "2026-09-09T18:40:33.823618+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Η Ευρωπαϊκή Ένωση χορήγησε έκτακτη βοήθεια στην Ισπανία για την ανθρωπιστική διαχείριση της κρίσης της Θέουτα μετά την είσοδο 5.000 έως 10.000 μεταναστών. The post Η ΕΕ χορηγεί βοήθεια 115 εκατ. ευρώ ",
-   "angle": null,
-   "corroborated_by": [
-    "ΕΡΤ News",
-    "Εφημερίδα των Συντακτών",
-    "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "0df66cc1509fbeb2",
-   "title": "Με 115 εκατ. ευρώ ενίσχυσε η Ευρωπαϊκή Ένωση την Ισπανία για την κρίση στη Θέουτα",
-   "link": "https://www.ertnews.gr/eidiseis/me-115-ekat-eyro-enisxyse-i-eyropaiki-enosi-tin-ispania-gia-tin-krisi-sti-theouta/",
-   "summary_raw": "<img alt=\"APTOPIX Spain Ceuta\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"682\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/09/theouta-ispania.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Έκτακτη βοήθεια ύψους -περίπου- 115 εκατομμυρίων ευρώ χορήγησε η Ευρωπαϊκή Ένωση στην Ισπανία την Τετάρτη (09/09), προκειμένου να τη στηρίξει στην κρίση της διαχείρισης του θύλακα της Θέουτα, μετά τη μαζική και παράνομη άφιξη μεταναστών από το Μαρόκο στα τέλη Ιουλίου. Η χρηματική αυτή βοήθεια αναμένεται να χρησιμεύσει κυρίως για την ενίσχυση της επιτήρησης των ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/me-115-ekat-eyro-enisxyse-i-eyropaiki-enosi-tin-ispania-gia-tin-krisi-sti-theouta/\" title=\"Με 115 εκατ. ευρώ ενίσχυσε η Ευρωπαϊκή Ένωση την Ισπανία για την κρίση στη Θέουτα\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-09-09T17:10:01+00:00",
-   "collected": "2026-09-09T18:39:42.129543+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Έκτακτη βοήθεια ύψους -περίπου- 115 εκατομμυρίων ευρώ χορήγησε η Ευρωπαϊκή Ένωση στην Ισπανία την Τετάρτη (09/09), προκειμένου να τη στηρίξει στην κρίση της διαχείρισης του θύλακα της Θέουτα, μετά τη ",
-   "angle": null,
-   "corroborated_by": [
-    "in.gr",
-    "Εφημερίδα των Συντακτών",
-    "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "14684291ab8db8e5",
-   "title": "Εξαφανίστηκαν οι μηδενικές τιμές ρεύματος",
-   "link": "https://www.kathimerini.gr/economy/564440398/exafanistikan-oi-midenikes-times-reymatos/",
-   "summary_raw": "Η Ρυθμιστική Αρχή Ενέργειας διερευνά το παράδοξο της χαμηλής παραγωγής από φωτοβολταϊκά ακόμη και τις μεσημβρινές ώρες.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-09T17:09:41+00:00",
-   "collected": "2026-09-09T21:44:30.461085+00:00",
-   "keywords_hit": [
-    "φωτοβολταϊκ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Ρυθμιστική Αρχή Ενέργειας διερευνά το παράδοξο της χαμηλής παραγωγής από φωτοβολταϊκά ακόμη και τις μεσημβρινές ώρες.",
-   "angle": null
-  },
-  {
-   "id": "20a6bb9e8b3946cd",
-   "title": "London Doubles Down on Decision to Impose Sanctions on Israel",
-   "link": "https://www.breitbart.com/europe/2026/09/09/london-doubles-down-on-decision-to-impose-sanctions-on-israel/",
-   "summary_raw": "<p>British Prime Minister Andy Burnham defended his government's decision to ban trade with Israeli settlements in West Bank.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/09/09/london-doubles-down-on-decision-to-impose-sanctions-on-israel/\" rel=\"nofollow\">London Doubles Down on Decision to Impose Sanctions on Israel</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-09T17:06:13+00:00",
-   "collected": "2026-09-10T00:18:15.317376+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "British Prime Minister Andy Burnham defended his government's decision to ban trade with Israeli settlements in West Bank. The post London Doubles Down on Decision to Impose Sanctions on Israel appear",
-   "angle": null,
-   "corroborated_by": [
-    "UnHerd"
-   ]
   }
  ]
 }
