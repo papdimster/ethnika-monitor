@@ -1,7 +1,289 @@
 {
- "updated": "2026-09-18T19:41:35.246355+00:00",
- "count": 1357,
+ "updated": "2026-09-18T22:39:02.650847+00:00",
+ "count": 1364,
  "items": [
+  {
+   "id": "c8fe84ceab25ac6e",
+   "title": "Baran: “İskeçe’de hiçbir taşkın önleme projesi yürütülmüyor”",
+   "link": "https://www.milletgazetesi.gr/bati-trakya/baran-iskecede-hicbir-taskin-onleme-projesi-yurutulmuyor",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Batı Trakya)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-09-18T22:38:07.688808+00:00",
+   "collected": "2026-09-18T22:38:07.688809+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ξάνθη",
+     "lat": 41.14,
+     "lon": 24.89
+    }
+   ]
+  },
+  {
+   "id": "ff37030687355e1c",
+   "title": "OSINTdefender The United States has warned Japan and other allies to expect delays of as much as five years in key weapons deliveries, including Patriot Missile Interceptors and To…",
+   "link": "https://t.me/OSINTLive/573471",
+   "summary_raw": "OSINTdefender The United States has warned Japan and other allies to expect delays of as much as five years in key weapons deliveries, including Patriot Missile Interceptors and Tomahawk Land Attack Missiles (TLAM), as it rebuilds its own depleted munitions stocks following the still-ongoing Iran War, according to reporting by Bloomberg. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-09-18T22:29:51+00:00",
+   "collected": "2026-09-18T22:38:04.799223+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "OSINTdefender The United States has warned Japan and other allies to expect delays of as much as five years in key weapons deliveries, including Patriot Missile Interceptors and Tomahawk Land Attack M",
+   "angle": null
+  },
+  {
+   "id": "baf0f8c0fc962dbe",
+   "title": "Environmental and Public Health Groups Sue Over the Trump EPA’s Latest Attempt to Bolster Fossil Fuels",
+   "link": "https://insideclimatenews.org/news/18092026/environmental-and-public-health-groups-sue-trump-epa-over-power-plant-fossil-fuels/",
+   "summary_raw": "Environmental and public health groups are suing the Trump administration over its most recent move to eliminate protections against climate-warming pollution. The Environmental Protection Agency announced a plan on Monday, finalized in the Federal Register on Thursday, to revoke most of a Biden-era rule to limit greenhouse gas emissions from fossil fuel power plants. The [&#8230;]",
+   "source": "Inside Climate News",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-09-18T22:06:34+00:00",
+   "collected": "2026-09-18T22:37:38.301728+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Environmental and public health groups are suing the Trump administration over its most recent move to eliminate protections against climate-warming pollution. The Environmental Protection Agency anno",
+   "angle": null,
+   "corroborated_by": [
+    "Cyprus Mail"
+   ]
+  },
+  {
+   "id": "4bc161b1023a88ac",
+   "title": "Σάμος: Επεισοδιακή καταδίωξη και σύλληψη Τούρκου υπηκόου με πλαστά ταξιδιωτικά έγγραφα",
+   "link": "https://www.tanea.gr/2026/09/19/greece/samos-epeisodiaki-katadioksi-kai-syllipsi-tourkou-ypikoou-me-plasta-taksidiotika-eggrafa/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/09/limeniko-oxima-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Από την Αθήνα στη Σάμο και από το αεροδρόμιο… στα χέρια του Λιμενικού – Τι εξετάζουν οι Αρχές για τη δράση του",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-18T21:47:38+00:00",
+   "collected": "2026-09-18T22:37:54.477448+00:00",
+   "keywords_hit": [
+    "λιμενικ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Από την Αθήνα στη Σάμο και από το αεροδρόμιο… στα χέρια του Λιμενικού – Τι εξετάζουν οι Αρχές για τη δράση του",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Σάμος",
+     "lat": 37.75,
+     "lon": 26.98
+    },
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    }
+   ]
+  },
+  {
+   "id": "9a66838c19f263ab",
+   "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
+   "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
+   "summary_raw": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-18T21:06:14+00:00",
+   "collected": "2026-09-18T22:37:29.506033+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)"
+   ]
+  },
+  {
+   "id": "098cb949201e0217",
+   "title": "US appeals court rejects Trump policy allowing swift deportations to third countries - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHZla3E5c3Z5TlJXUHhoRGEybF84bkRCb1lkT0pSaGswSmRuZWx2SXI1RUdCcy1Ba2Q1cVZYOHlOSjgwcjhpZU5uem95Umx4dFJTdzk1U21oZmtCVHlxeTFVazJtMGJVbEVZTHpSYkM2dUhNenl0Q0IyTU92VTZxZkdPWm5EemlqQzk4d3RsM2pzbWlUY3dfV19jQXIyTGRLMDFTcmFFTzZQR1FOV3RNTmdtYUh3ajdUbGRv?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHZla3E5c3Z5TlJXUHhoRGEybF84bkRCb1lkT0pSaGswSmRuZWx2SXI1RUdCcy1Ba2Q1cVZYOHlOSjgwcjhpZU5uem95Umx4dFJTdzk1U21oZmtCVHlxeTFVazJtMGJVbEVZTHpSYkM2dUhNenl0Q0IyTU92VTZxZkdPWm5EemlqQzk4d3RsM2pzbWlUY3dfV19jQXIyTGRLMDFTcmFFTzZQR1FOV3RNTmdtYUh3ajdUbGRv?oc=5\" target=\"_blank\">US appeals court rejects Trump policy allowing swift deportations to third countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters World",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-18T20:46:26+00:00",
+   "collected": "2026-09-18T22:37:13.589589+00:00",
+   "keywords_hit": [
+    "deportation"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "US appeals court rejects Trump policy allowing swift deportations to third countries Reuters",
+   "angle": null
+  },
+  {
+   "id": "8d8f465372b96c14",
+   "title": "US probes possible espionage after F-35 parts diverted to Hong Kong: Report",
+   "link": "https://www.aa.com.tr/en/americas/us-probes-possible-espionage-after-f-35-parts-diverted-to-hong-kong-report/4061601",
+   "summary_raw": "Shipment of F-35 parts sent from Australia to US for repairs was rerouted while crossing Pacific, according to news outlet Politico",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-09-18T20:31:37+00:00",
+   "collected": "2026-09-18T22:36:59.392590+00:00",
+   "keywords_hit": [
+    "f-35",
+    "espionage"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Shipment of F-35 parts sent from Australia to US for repairs was rerouted while crossing Pacific, according to news outlet Politico",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English"
+   ]
+  },
+  {
+   "id": "efe2dc7ddb4d7031",
+   "title": "Τραμπ: Ο πόλεμος με το Ιράν θα τελειώσει σύντομα – Τι είπε για την τιμή της βενζίνης και τα πυρηνικά",
+   "link": "https://www.ertnews.gr/eidiseis/diethni/tramp-o-polemos-me-to-iran-tha-teleiosei-syntoma-ti-eipe-gia-tin-timi-tis-venzinis-kai-ta-pyrinika/",
+   "summary_raw": "<img alt=\"Trump\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/09/ap26261725386410-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Ο Ντόναλντ Τραμπ γνωστοποίησε κατά τη διάρκεια συνέντευξης Τύπου στο Οβάλ Γραφείο την Παρασκευή (18/9) ότι ο πόλεμος με το Ιράν θα ολοκληρωθεί σύντομα. Ο πρόεδρος των ΗΠΑ επανέλαβε ότι «η Τεχεράνη δεν θα αποκτήσει πυρηνικό όπλο», ενώ πρόσθεσε ότι τότε θα πέσει και η τιμή της βενζίνης «Πιστεύω ότι αν οι περισσότεροι άνθρωποι είχαν ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/tramp-o-polemos-me-to-iran-tha-teleiosei-syntoma-ti-eipe-gia-tin-timi-tis-venzinis-kai-ta-pyrinika/\" title=\"Τραμπ: Ο πόλεμος με το Ιράν θα τελειώσει σύντομα &#8211; Τι είπε για την τιμή της βενζίνης και τα πυρηνικά\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-09-18T20:14:47+00:00",
+   "collected": "2026-09-18T22:37:03.345851+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Ο Ντόναλντ Τραμπ γνωστοποίησε κατά τη διάρκεια συνέντευξης Τύπου στο Οβάλ Γραφείο την Παρασκευή (18/9) ότι ο πόλεμος με το Ιράν θα ολοκληρωθεί σύντομα. Ο πρόεδρος των ΗΠΑ επανέλαβε ότι «η Τεχεράνη δεν",
+   "angle": null
+  },
+  {
+   "id": "4e44cde07efc2120",
+   "title": "“Χειροπέδες” σε 18χρονο για τη διακίνηση 59 μεταναστών στη Γαύδο",
+   "link": "https://www.zarpanews.gr/quot-cheiropedes-quot-se-18chrono-gia-ti-diakinisi-59-metanaston-sti-gaydo/",
+   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"373\" src=\"https://www.zarpanews.gr/wp-content/uploads/2026/06/METANASTES-1-1200x700-1-768x448.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"640\" /><p>Χειροπέδες σε 18χρονο έβαλε το Λιμενικό για τη διακίνηση των 59 μεταναστών που εντοπίστηκαν στη Γαύδο. Στη σχετική ανακοίνωση αναφέρεται: “Αναφορικά με τον εντοπισμό και τη διάσωση 59 αλλοδαπών στη θαλάσσια περιοχή 35 ν.μ. νότια της Γαύδου, τις μεσημβρινές ώρες χθες, συνελήφθη ένας 18χρονος αλλοδαπός (υπήκοος Νοτίου Σουδάν), εξ’ αυτών, για παράβαση του άρθρου 83 [&#8230;]</p>\n<p>The post <a href=\"https://www.zarpanews.gr/quot-cheiropedes-quot-se-18chrono-gia-ti-diakinisi-59-metanaston-sti-gaydo/\">&#8220;Χειροπέδες&#8221; σε 18χρονο για τη διακίνηση 59 μεταναστών στη Γαύδο</a> appeared first on <a href=\"https://www.zarpanews.gr\">zarpanews.gr</a>.</p>",
+   "source": "Zarpanews (Χανιά)",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-09-18T19:51:46+00:00",
+   "collected": "2026-09-18T22:37:50.700504+00:00",
+   "keywords_hit": [
+    "μεταναστ",
+    "λιμενικ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Χειροπέδες σε 18χρονο έβαλε το Λιμενικό για τη διακίνηση των 59 μεταναστών που εντοπίστηκαν στη Γαύδο. Στη σχετική ανακοίνωση αναφέρεται: “Αναφορικά με τον εντοπισμό και τη διάσωση 59 αλλοδαπών στη θα",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Γαύδος",
+     "lat": 34.83,
+     "lon": 24.1
+    }
+   ]
+  },
+  {
+   "id": "39edd7161992c5ea",
+   "title": "Christodoulides Heads from Athens to New York",
+   "link": "https://www.thenationalherald.com/christodoulides-heads-from-athens-to-new-york/",
+   "summary_raw": "<p>NICOSIA. Cyprus President Nikos Christodoulides is traveling to New York, where he will address the 81st United Nations General Assembly and hold meetings with the UN secretary-general, his personal envoy on Cyprus, as well as heads of state or government and senior officials of international organizations and multinational companies. Christodoulides is traveling to New York...</p>\n<p>The post <a href=\"https://www.thenationalherald.com/christodoulides-heads-from-athens-to-new-york/\">Christodoulides Heads from Athens to New York</a> appeared first on <a href=\"https://www.thenationalherald.com\">The National Herald</a>.</p>",
+   "source": "The National Herald",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-09-18T19:48:21+00:00",
+   "collected": "2026-09-18T22:37:31.385978+00:00",
+   "keywords_hit": [
+    "christodoulides"
+   ],
+   "category": "Κυπριακό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "NICOSIA. Cyprus President Nikos Christodoulides is traveling to New York, where he will address the 81st United Nations General Assembly and hold meetings with the UN secretary-general, his personal e",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "3725662a59ec8e66",
+   "title": "Macron orders infrastructure shield against Russian attacks and calls G7 energy meeting",
+   "link": "https://brusselssignal.eu/2026/09/macron-orders-infrastructure-shield-against-russian-attacks-and-calls-g7-energy-meeting/",
+   "summary_raw": "French President Emmanuel Macron has ordered a plan to protect critical infrastructure from Russian attacks and announced a G7 energy meeting to strengthen cooperation soon.\n<p><a href=\"https://brusselssignal.eu/2026/09/macron-orders-infrastructure-shield-against-russian-attacks-and-calls-g7-energy-meeting/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-18T19:44:19+00:00",
+   "collected": "2026-09-18T22:37:57.169400+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "French President Emmanuel Macron has ordered a plan to protect critical infrastructure from Russian attacks and announced a G7 energy meeting to strengthen cooperation soon. Source",
+   "angle": null
+  },
+  {
+   "id": "531445bca3af3154",
+   "title": "Yunan savaş uçaklarına İsrail mühimmatı",
+   "link": "https://www.defenceturk.net/yunan-savas-ucaklarina-israil-muhimmati",
+   "summary_raw": "<p>Yunanistan, F-16 savaş uçaklarında kullanılmak üzere İsrail&#8217;den tedarik edilen SPICE 1000/2000 güdüm kitlerine ilişkin sözleşmenin kontrol ve kabul işlemlerini yürütecek komiteyi oluşturdu. Yunanistan Genelkurmay Başkanlığı, F-16 savaş uçaklarında kullanılmak üzere tedarik edilen SPICE 1000 ve SPICE 2000 güdüm kitlerine ilişkin sözleşmenin kontrol ve kabul işlemlerini yürütecek komiteyi oluşturdu. 17 Eylül 2026 tarihli kararla, 009C/23 numaralı [&#8230;]</p>\n<p>The post <a href=\"https://www.defenceturk.net/yunan-savas-ucaklarina-israil-muhimmati\">Yunan savaş uçaklarına İsrail mühimmatı</a> appeared first on <a href=\"https://www.defenceturk.net\">DefenceTurk</a>.</p>",
+   "source": "DefenceTurk",
+   "side": "turkish_defense",
+   "lang": "tr",
+   "published": "2026-09-18T19:41:58+00:00",
+   "collected": "2026-09-18T22:37:26.908365+00:00",
+   "keywords_hit": [
+    "yunanistan",
+    "f-16",
+    "yunan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Yunanistan, F-16 savaş uçaklarında kullanılmak üzere İsrail’den tedarik edilen SPICE 1000/2000 güdüm kitlerine ilişkin sözleşmenin kontrol ve kabul işlemlerini yürütecek komiteyi oluşturdu. Yunanistan",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
   {
    "id": "2c0728d559c10cef",
    "title": "German Defense Minister Boris Pistorius:  The F-35 has also fulfilled another promise.   Together with our American allies, we will protect the peace that has made our freedom poss…",
@@ -49,6 +331,29 @@
      "lat": 37.98,
      "lon": 23.73
     }
+   ]
+  },
+  {
+   "id": "a3da579630c254bc",
+   "title": "Drone hits cooling tower of Russian Kursk nuclear plant",
+   "link": "https://cyprus-mail.com/2026/09/18/drone-hits-cooling-tower-of-russian-kursk-nuclear-plant",
+   "summary_raw": "The International Atomic Energy Agency said on Friday it had been informed the cooling tower of a reactor unit “was hit by a drone” the previous day at western Russia’s Kursk nuclear power plant. The UN nuclear watchdog said the reactor unit was operating at the time it was hit, but continued operating as before [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-09-18T19:22:57+00:00",
+   "collected": "2026-09-18T22:37:12.265203+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "The International Atomic Energy Agency said on Friday it had been informed the cooling tower of a reactor unit “was hit by a drone” the previous day at western Russia’s Kursk nuclear power plant. The ",
+   "angle": null,
+   "corroborated_by": [
+    "Inside Climate News",
+    "The National Herald"
    ]
   },
   {
@@ -251,6 +556,25 @@
    "angle": null
   },
   {
+   "id": "2559833a06ab4b33",
+   "title": "Turkish army chief visits Denmark for NATO Military Committee meeting",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-army-chief-visits-denmark-for-nato-military-committee-meeting/4061497",
+   "summary_raw": "During trip, Chief of General Staff Selcuk Bayraktaroglu visits Türkiye's ambassador to Copenhagen",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-09-18T18:13:33+00:00",
+   "collected": "2026-09-18T22:36:59.393552+00:00",
+   "keywords_hit": [
+    "bayraktar"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "During trip, Chief of General Staff Selcuk Bayraktaroglu visits Türkiye's ambassador to Copenhagen",
+   "angle": null
+  },
+  {
    "id": "0fb1a7d64790fa96",
    "title": "WATCH: Undercover Video Shows Democrat Roy Cooper Refusing to Apologize to Murder Victims' Families",
    "link": "https://www.breitbart.com/politics/2026/09/18/undercover-video-shows-democrat-roy-cooper-refusing-to-apologize-to-murder-victims-families/",
@@ -345,6 +669,45 @@
    "angle": null
   },
   {
+   "id": "4ad2aea0ada8642e",
+   "title": "Exclusive — Seven-Figure Ad Buy Spotlights Mike Rogers over Abdul El-Sayed on AI Safeguards in Michigan",
+   "link": "https://www.breitbart.com/politics/2026/09/18/exclusive-seven-figure-ad-buy-spotlights-mike-rogers-over-abdul-el-sayed-on-ai-safeguards-in-michigan/",
+   "summary_raw": "<p>A new seven-figure advertising campaign in Michigan is highlighting Republican Senate candidate Mike Rogers’ call for a national security framework governing artificial intelligence as Americans increasingly pressure Washington to adopt safeguards for the emerging technology.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/18/exclusive-seven-figure-ad-buy-spotlights-mike-rogers-over-abdul-el-sayed-on-ai-safeguards-in-michigan/\" rel=\"nofollow\">Exclusive — Seven-Figure Ad Buy Spotlights Mike Rogers over Abdul El-Sayed on AI Safeguards in Michigan</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-18T18:07:44+00:00",
+   "collected": "2026-09-18T22:38:00.624234+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A new seven-figure advertising campaign in Michigan is highlighting Republican Senate candidate Mike Rogers’ call for a national security framework governing artificial intelligence as Americans incre",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "127f5e28e2c5e4a3",
+   "title": "Libya’s Azzawiya Oil Refining Company to Double Annual Oil Output",
+   "link": "https://libyareview.com/68395/libyas-azzawiya-oil-refining-company-to-double-annual-oil-output/",
+   "summary_raw": "<p>Libya&#8217;s Azzawiya Oil Refining Company said on Thursday, September 17, 2026, that its project to develop the oil blending and packaging plant has entered the implementation phase, targeting higher production and improved efficiency. The project aims to modernise production lines and address technical and operational problems caused by ageing machinery and equipment. Production Capacity to [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68395/libyas-azzawiya-oil-refining-company-to-double-annual-oil-output/\">Libya&#8217;s Azzawiya Oil Refining Company to Double Annual Oil Output</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-09-18T18:07:25+00:00",
+   "collected": "2026-09-18T22:37:21.712925+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Libya’s Azzawiya Oil Refining Company said on Thursday, September 17, 2026, that its project to develop the oil blending and packaging plant has entered the implementation phase, targeting higher prod",
+   "angle": null
+  },
+  {
    "id": "fb74f1ac08c18add",
    "title": "ΑΝΑΛΥΣΗ: Γιατί το F‑35 είναι το απόλυτο μαχητικό της εποχής μας",
    "link": "https://flight.com.gr/f-35-apolyto-machitiko-epochis/?utm_source=rss&utm_medium=rss&utm_campaign=f-35-apolyto-machitiko-epochis",
@@ -364,6 +727,28 @@
    "angle": null,
    "corroborated_by": [
     "OnAlert"
+   ]
+  },
+  {
+   "id": "deb73275dad7b51f",
+   "title": "Renewables Accounted for 36.8% of Cyprus Electricity Generation in June",
+   "link": "https://www.thenationalherald.com/renewables-accounted-for-36-8-of-cyprus-electricity-generation-in-june/",
+   "summary_raw": "<p>NICOSIA. Renewable energy sources accounted for 36.8% of Cyprus’ net electricity generation in June 2026, according to data released by Eurostat on Friday. In July, however, the share fell to 29.98%. Monthly data show that renewables accounted for 34.66% of electricity generation in Cyprus in April, rising to 36.84% in May. The share remained virtually...</p>\n<p>The post <a href=\"https://www.thenationalherald.com/renewables-accounted-for-36-8-of-cyprus-electricity-generation-in-june/\">Renewables Accounted for 36.8% of Cyprus Electricity Generation in June</a> appeared first on <a href=\"https://www.thenationalherald.com\">The National Herald</a>.</p>",
+   "source": "The National Herald",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-09-18T18:03:34+00:00",
+   "collected": "2026-09-18T22:37:31.386578+00:00",
+   "keywords_hit": [
+    "renewable"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "NICOSIA. Renewable energy sources accounted for 36.8% of Cyprus’ net electricity generation in June 2026, according to data released by Eurostat on Friday. In July, however, the share fell to 29.98%. ",
+   "angle": null,
+   "corroborated_by": [
+    "Cyprus Mail"
    ]
   },
   {
@@ -590,6 +975,26 @@
    ]
   },
   {
+   "id": "df2dda367e4a7182",
+   "title": "Victor Davis Hanson: The Left’s Race Narrative Is Driving Americans Apart",
+   "link": "https://www.dailysignal.com/2026/09/18/hanson-left-race-narrative-dying/",
+   "summary_raw": "Editor’s note: This is a lightly edited transcript of “Victor Davis Hanson: In His Own Words” from Daily Signal senior contributor Victor Davis Hanson. Subscribe to Victor Davis Hanson’s own YouTube channel to watch past episodes. Sami Winc: So, Victor, let&#8217;s go ahead and turn to the Left&#8217;s propensity for lying and then their celebration of...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-18T17:06:18+00:00",
+   "collected": "2026-09-18T22:38:00.926477+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Editor’s note: This is a lightly edited transcript of “Victor Davis Hanson: In His Own Words” from Daily Signal senior contributor Victor Davis Hanson. Subscribe to Victor Davis Hanson’s own YouTube c",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "e8facdc2330369f3",
    "title": "Ρωσία: Drone χτύπησε πύργο ψύξης πυρηνικού εργοστασίου",
    "link": "https://www.ertnews.gr/eidiseis/diethni/rosia-drone-xtypise-pyrgo-psyksis-pyrinikou-ergostasiou/",
@@ -682,6 +1087,32 @@
    "angle": null,
    "corroborated_by": [
     "Breitbart"
+   ]
+  },
+  {
+   "id": "7ce7a19680494216",
+   "title": "Mitsotakis to Honor Six Greek Americans at Luncheon Hosted by the Greek-American Community",
+   "link": "https://www.thenationalherald.com/mitsotakis-to-honor-six-greek-americans-at-luncheon-hosted-by-the-greek-american-community/",
+   "summary_raw": "<p>NEW YORK – In a detailed briefing for the Greek-American press on Thursday, September 17, at the Consulate General of Greece in Manhattan, Consul General of Greece in New York Iphigenia Kanara outlined the agenda for the coming days and weeks. The briefing focused on Greece’s presence at the United Nations; the upcoming visits of Prime Minister Kyriakos Mitsotakis, Foreign Minister Giorgos Gerapetritis, Culture Minister Lina Mendoni, and Social Cohesion and Family Affairs Minister Domna Michailidou; elections and voting by Greeks abroad; Greek citizenship; honors to be bestowed upon members of the Greek-American community; and an extensive cultural program.</p>\n<p>The post <a href=\"https://www.thenationalherald.com/mitsotakis-to-honor-six-greek-americans-at-luncheon-hosted-by-the-greek-american-community/\">Mitsotakis to Honor Six Greek Americans at Luncheon Hosted by the Greek-American Community</a> appeared first on <a href=\"https://www.thenationalherald.com\">The National Herald</a>.</p>",
+   "source": "The National Herald",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-09-18T16:40:04+00:00",
+   "collected": "2026-09-18T22:37:31.386866+00:00",
+   "keywords_hit": [
+    "gerapetritis"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "NEW YORK – In a detailed briefing for the Greek-American press on Thursday, September 17, at the Consulate General of Greece in Manhattan, Consul General of Greece in New York Iphigenia Kanara outline",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
    ]
   },
   {
@@ -839,6 +1270,32 @@
    ]
   },
   {
+   "id": "87dcac8c07502657",
+   "title": "«Αγριεύει η θάλασσα»: Υπερπτήσεις από Τουρκία στο Αιγαίο πάνω από Ρω και Ζουράφα έπειτα από 33 μήνες - Newsbomb",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVWhfUmduc3VrZ2lLcjNBNWItWC0xcEMySVBYSWtXRGpQeTl5RU1pQVF6MVEwemVRWVRGTjJHV0xhaXJ2OVFLZ2JGMFhZLXExWTIxWHhkTzltQ2VyLVdQQndJSTlBck8yWU1LY0toR09sc1E2U2ZpS09QSTZMc19QUzFoSzNiY2FDeGhJRndadF9Wa0FteHdZbW4wOUxZbHB0S3MtNzhYZWItaU5qd29hdlpNeFNISXRBbUVnTVJDemhsMGdTQmpWN3JwV2xaUzJ5MHhHNjQzakw0YkRwbkJZZlRQR2hkdw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVWhfUmduc3VrZ2lLcjNBNWItWC0xcEMySVBYSWtXRGpQeTl5RU1pQVF6MVEwemVRWVRGTjJHV0xhaXJ2OVFLZ2JGMFhZLXExWTIxWHhkTzltQ2VyLVdQQndJSTlBck8yWU1LY0toR09sc1E2U2ZpS09QSTZMc19QUzFoSzNiY2FDeGhJRndadF9Wa0FteHdZbW4wOUxZbHB0S3MtNzhYZWItaU5qd29hdlpNeFNISXRBbUVnTVJDemhsMGdTQmpWN3JwV2xaUzJ5MHhHNjQzakw0YkRwbkJZZlRQR2hkdw?oc=5\" target=\"_blank\">«Αγριεύει η θάλασσα»: Υπερπτήσεις από Τουρκία στο Αιγαίο πάνω από Ρω και Ζουράφα έπειτα από 33 μήνες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsbomb</font>",
+   "source": "Newsbomb",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-09-18T16:17:48+00:00",
+   "collected": "2026-09-18T22:37:02.208212+00:00",
+   "keywords_hit": [
+    "αιγαίο"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "«Αγριεύει η θάλασσα»: Υπερπτήσεις από Τουρκία στο Αιγαίο πάνω από Ρω και Ζουράφα έπειτα από 33 μήνες Newsbomb",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
    "id": "da30bfc61cfdf5f2",
    "title": "Η Πολωνία εντάχθηκε στην Αντιβαλλιστική Συμμαχία που συγκρότησαν η Ουκρανία με άλλες ευρωπαϊκές χώρες",
    "link": "https://www.protothema.gr/world/article/1880995/i-polonia-edahthike-stin-adivallistiki-summahia-pou-sugrotisan-i-oukrania-me-alles-europaikes-hores/?utm_source=rss",
@@ -954,6 +1411,25 @@
      "lon": 26.98
     }
    ]
+  },
+  {
+   "id": "c046ddbd29c96cb5",
+   "title": "Libya Seeks Greater Access To Global Banking Networks",
+   "link": "https://libyareview.com/68390/libya-seeks-greater-access-to-global-banking-networks/",
+   "summary_raw": "<p>The Governor of the Central Bank of Libya (CBL), Naji Mohamed Issa, has discussed strengthening ties between Libyan banks and international financial institutions during a meeting in London. The talks focused on expanding correspondent banking channels, facilitating financial transactions and strengthening cooperation between Libya&#8217;s banking sector and global institutions. Representatives of the Arab Bankers Association [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68390/libya-seeks-greater-access-to-global-banking-networks/\">Libya Seeks Greater Access To Global Banking Networks</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-09-18T15:55:39+00:00",
+   "collected": "2026-09-18T22:37:21.713149+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "The Governor of the Central Bank of Libya (CBL), Naji Mohamed Issa, has discussed strengthening ties between Libyan banks and international financial institutions during a meeting in London. The talks",
+   "angle": null
   },
   {
    "id": "245488526546f8a2",
@@ -1174,6 +1650,26 @@
    ]
   },
   {
+   "id": "bb2d53ceb75773f0",
+   "title": "Hasan Piker: US Worse Than Al-Qaeda When It Comes to Terrorism",
+   "link": "https://www.dailysignal.com/2026/09/18/piker-us-worst-terrorists-al-qaeda/",
+   "summary_raw": "Just days after America commemorated the 9/11 attacks that killed 3,000 of its citizens, influencer Hasan Piker declared the United States a greater purveyor of terrorism than the ones who did the deed. Appearing on “The Axios Show,” Piker, who previously declared “America deserved 9/11,” confirmed his earlier statement that “America is the top dog...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-18T15:22:23+00:00",
+   "collected": "2026-09-18T22:38:00.926785+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Just days after America commemorated the 9/11 attacks that killed 3,000 of its citizens, influencer Hasan Piker declared the United States a greater purveyor of terrorism than the ones who did the dee",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "e3f64d76d545d6c5",
    "title": "Syria welcomes Belgian and German delegations to talk development and returns - InfoMigrants",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRTFINUthQnVCMUNGOVRRakFHdTctc2R0OTM1TnY2OGk0ZHBnMDFzMHJSQWpMY1htVWt2UDBPQzNMNlRkSVgxMmVMSTNEMUt5bzFZMmdzOHpHWGRMSGE1WDlacVV5dm9naEx3V2l1QVFVcGRNU09LdnRNOFRfLVVfSldTb2ZENlU4N0VlNmxtWlpUblZDd0JHMXJLdTVpSGgyQWRQQnZjMzhzZmc1ZERRaU1FaXE1c0hiZUNtQQ?oc=5",
@@ -1209,6 +1705,25 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Από τα τέλη Σεπτεμβρίου θα αρχίσουν να ξεδιπλώνονται οι παρεμβάσεις της κυβέρνησης για τη μείωση του ενεργειακού κόστους, με απευθείας επιδότηση στην αντλία για το πετρέλαιο κίνησης και θέρμανσης, αυξ",
+   "angle": null
+  },
+  {
+   "id": "7b58241a5e88f9b3",
+   "title": "Δεξαμενόπλοιο που μετέφερε LNG από τις ΗΠΑ στην Ευρώπη φέρεται να έγινε στόχος κυβερνοεπίθεσης - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmxxS1UzSUNZcnBWekhUZWhEUXk5aVRNNVY2clM3blh4SXFXbTJaaGdySlB0NkhESWg2ZWtvUmFfYldXWUM2UXN3NXMtT1I5SmptczlMUXVPcXlUYzFDM1k3RXo1cVRUVVJYc3NESEszc3MwRWdOSGE3aVRVQjJad3RSaW9IY1VJaGRvSVJFTGh4Y3R5RWt2bUFheGNfbnVYUGJHVkhxZHNyQQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmxxS1UzSUNZcnBWekhUZWhEUXk5aVRNNVY2clM3blh4SXFXbTJaaGdySlB0NkhESWg2ZWtvUmFfYldXWUM2UXN3NXMtT1I5SmptczlMUXVPcXlUYzFDM1k3RXo1cVRUVVJYc3NESEszc3MwRWdOSGE3aVRVQjJad3RSaW9IY1VJaGRvSVJFTGh4Y3R5RWt2bUFheGNfbnVYUGJHVkhxZHNyQQ?oc=5\" target=\"_blank\">Δεξαμενόπλοιο που μετέφερε LNG από τις ΗΠΑ στην Ευρώπη φέρεται να έγινε στόχος κυβερνοεπίθεσης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-09-18T15:11:39+00:00",
+   "collected": "2026-09-18T22:37:30.177022+00:00",
+   "keywords_hit": [
+    "lng"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Δεξαμενόπλοιο που μετέφερε LNG από τις ΗΠΑ στην Ευρώπη φέρεται να έγινε στόχος κυβερνοεπίθεσης Energypress",
    "angle": null
   },
   {
@@ -6559,6 +7074,23 @@
    "corroborated_by": [
     "Cyprus Mail"
    ]
+  },
+  {
+   "id": "a1c500e58c54819e",
+   "title": "Google Signs Green Steel Deal with Stegra to Address Data Center Emissions",
+   "link": "https://www.esgtoday.com/google-signs-green-steel-eac-purchase-deal-with-stegra-to-address-data-center-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-green-steel-eac-purchase-deal-with-stegra-to-address-data-center-emissions",
+   "summary_raw": "<p><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"575\" src=\"https://www.esgtoday.com/wp-content/uploads/2026/09/Stegra4.jpg\" width=\"916\" /></p>Google announced an agreement with green iron and steel maker Stegra for the purchase of [&#8230;]",
+   "source": "ESG Today",
+   "side": "green_esg",
+   "lang": "en",
+   "published": "2026-09-17T13:59:05+00:00",
+   "collected": "2026-09-18T22:37:37.805901+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Google announced an agreement with green iron and steel maker Stegra for the purchase of […]",
+   "angle": null
   },
   {
    "id": "7252a69b4fc9dfec",
@@ -30280,397 +30812,6 @@
      "lat": 37.98,
      "lon": 23.73
     }
-   ]
-  },
-  {
-   "id": "19ab44a9090d7132",
-   "title": "Court Rules Against Trump Order to Keep Costly Michigan Coal Plant Running",
-   "link": "https://insideclimatenews.org/news/11092026/court-rules-against-trump-order-to-keep-costly-michigan-coal-plant-running/",
-   "summary_raw": "A federal appeals court has struck down the Trump administration’s use of emergency powers to require a coal-fired power plant in Michigan to remain open, ruling that the U.S. Department of Energy exceeded its authority. The 3-0 decision in the U.S. Court of Appeals for the District of Columbia is a rebuke of the administration’s [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-11T22:14:08+00:00",
-   "collected": "2026-09-12T05:52:18.861487+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A federal appeals court has struck down the Trump administration’s use of emergency powers to require a coal-fired power plant in Michigan to remain open, ruling that the U.S. Department of Energy exc",
-   "angle": null,
-   "corroborated_by": [
-    "Grist",
-    "IEA"
-   ]
-  },
-  {
-   "id": "0cf970dc59aca222",
-   "title": "Greece ranks first in Europe for asylum applications relative to population",
-   "link": "https://greekcitytimes.com/2026/09/12/greece-asylum-applications-europe-2026/",
-   "summary_raw": "<p>Greece recorded around 23,000 asylum applications in the first half of 2026, the highest rate in Europe relative to population, according to the EUAA.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/09/12/greece-asylum-applications-europe-2026/\">Greece ranks first in Europe for asylum applications relative to population</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-09-11T22:05:18+00:00",
-   "collected": "2026-09-12T00:21:04.277384+00:00",
-   "keywords_hit": [
-    "asylum"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Greece recorded around 23,000 asylum applications in the first half of 2026, the highest rate in Europe relative to population, according to the EUAA. The post Greece ranks first in Europe for asylum ",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "4e881194c36df0ac",
-   "title": "How Texas’ Fight Against Islam Is Shaping the Future of the GOP",
-   "link": "https://www.dailysignal.com/2026/09/11/islam-texas-debate/",
-   "summary_raw": "The growth of Islamic institutions, EPIC City, and debates over Sharia law have made Texas a focal point in the national discussion over Islam.",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-11T22:05:13+00:00",
-   "collected": "2026-09-12T00:21:45.173667+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The growth of Islamic institutions, EPIC City, and debates over Sharia law have made Texas a focal point in the national discussion over Islam.",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "c02a2d60eacd3d18",
-   "title": "Παύλος Χρηστίδης: «Να δούμε πως η πολιτική αλλαγή θα γίνει πράξη με τους πολίτες για τους πολίτες - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVmp1SGhyRHdjRkNlbU9teEswMGlqclFCbFdWbjZDMUJwaUZTZkZwTTlHT2F4VWRxU3NXckFXSEpFMmZESmo2MmxRV2JOTWZMbFN1UjdMX2JoSXNRNFBPQ2JlYW5NR0dMQS1SU24yWXNZV1JkY1o3U2UweVZfM05UT1RvaU9sTVlJMGgwX0c1VXBRdUg1Sk1ITm15VjgxX1FHb05lRHdBdmVXYzlvRDlKajdYOGRHVW9rbUdENXpjOG9NNlFEOEhiNXE2VFJjdlJoNFZBaEhB?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVmp1SGhyRHdjRkNlbU9teEswMGlqclFCbFdWbjZDMUJwaUZTZkZwTTlHT2F4VWRxU3NXckFXSEpFMmZESmo2MmxRV2JOTWZMbFN1UjdMX2JoSXNRNFBPQ2JlYW5NR0dMQS1SU24yWXNZV1JkY1o3U2UweVZfM05UT1RvaU9sTVlJMGgwX0c1VXBRdUg1Sk1ITm15VjgxX1FHb05lRHdBdmVXYzlvRDlKajdYOGRHVW9rbUdENXpjOG9NNlFEOEhiNXE2VFJjdlJoNFZBaEhB?oc=5\" target=\"_blank\">Παύλος Χρηστίδης: «Να δούμε πως η πολιτική αλλαγή θα γίνει πράξη με τους πολίτες για τους πολίτες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-09-11T22:00:00+00:00",
-   "collected": "2026-09-13T11:57:28.963253+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Παύλος Χρηστίδης: «Να δούμε πως η πολιτική αλλαγή θα γίνει πράξη με τους πολίτες για τους πολίτες Παρατηρητής της Θράκης",
-   "angle": null,
-   "corroborated_by": [
-    "Evros News"
-   ],
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "746e7760a1456f8a",
-   "title": "Pennsylvania Democrat Bob Brooks Opposes Voter ID Measure, Requires ID to Attend Campaign Event",
-   "link": "https://www.breitbart.com/politics/2026/09/11/pennsylvania-democrat-bob-brooks-opposes-voter-id-measure-requires-id-to-attend-campaign-event/",
-   "summary_raw": "<p>Bernie Sanders-endorsed Pennsylvania Democrat congressional nominee Bob Brooks, who opposes the SAVE Act and efforts he describes as “restricting voting rights,” required identification to attend a campaign event, with his campaign team denying entry to at least one would-be attendee.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/11/pennsylvania-democrat-bob-brooks-opposes-voter-id-measure-requires-id-to-attend-campaign-event/\" rel=\"nofollow\">Pennsylvania Democrat Bob Brooks Opposes Voter ID Measure, Requires ID to Attend Campaign Event</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-11T21:41:09+00:00",
-   "collected": "2026-09-12T14:12:08.915482+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Bernie Sanders-endorsed Pennsylvania Democrat congressional nominee Bob Brooks, who opposes the SAVE Act and efforts he describes as “restricting voting rights,” required identification to attend a ca",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "6e1b1ae7ad2ed341",
-   "title": "Η Exxon Mobil προβλέπει αύξηση 25% στην παγκόσμια ζήτηση LNG έως το 2030 - Energypress",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0NoSEVwQ1BucVprUGVZcFpZaWo0UldkeGwtVzlSMzlqRjVZVE85T3Rkb3otOV9BYXprXzBRb3JRdjY3SGRZRVFVUjBQMXFZb0dCYUlJXzNQUzlzNmZOUkhFYVpxbkloSDBGd3VvamhhQ2prQ2pOODY1VDgtcUpfWGxETWZIV2xYVFpWcHhWemJaNGJueDBKQlpxXzc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0NoSEVwQ1BucVprUGVZcFpZaWo0UldkeGwtVzlSMzlqRjVZVE85T3Rkb3otOV9BYXprXzBRb3JRdjY3SGRZRVFVUjBQMXFZb0dCYUlJXzNQUzlzNmZOUkhFYVpxbkloSDBGd3VvamhhQ2prQ2pOODY1VDgtcUpfWGxETWZIV2xYVFpWcHhWemJaNGJueDBKQlpxXzc?oc=5\" target=\"_blank\">Η Exxon Mobil προβλέπει αύξηση 25% στην παγκόσμια ζήτηση LNG έως το 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
-   "source": "Energypress",
-   "side": "greek_energy",
-   "lang": "el",
-   "published": "2026-09-11T21:35:33+00:00",
-   "collected": "2026-09-17T13:32:06.819924+00:00",
-   "keywords_hit": [
-    "exxon",
-    "lng"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Exxon Mobil προβλέπει αύξηση 25% στην παγκόσμια ζήτηση LNG έως το 2030 Energypress",
-   "angle": null
-  },
-  {
-   "id": "10dd670535e924c6",
-   "title": "Turkish F-16s trigger two engagements over Aegean as Greece records 10 airspace violations",
-   "link": "https://greekcitytimes.com/2026/09/12/turkish-f16s-aegean-airspace-violations-two-engagements/",
-   "summary_raw": "<p>Six Turkish F-16s, four armed, operated over the Aegean on Friday as Greece recorded 10 airspace violations and two engagements involving Greek fighter jets.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/09/12/turkish-f16s-aegean-airspace-violations-two-engagements/\">Turkish F-16s trigger two engagements over Aegean as Greece records 10 airspace violations</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-09-11T21:23:57+00:00",
-   "collected": "2026-09-11T21:45:14.525682+00:00",
-   "keywords_hit": [
-    "aegean"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Six Turkish F-16s, four armed, operated over the Aegean on Friday as Greece recorded 10 airspace violations and two engagements involving Greek fighter jets. The post Turkish F-16s trigger two engagem",
-   "angle": null,
-   "corroborated_by": [
-    "Kathimerini (EN)"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Αιγαίο",
-     "lat": 39.0,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "c13b11aa4100be43",
-   "title": "Trump on 9/11 Anniversary Ties Iran Fight to War on Terror — ‘There Can Only Be Victory’",
-   "link": "https://www.breitbart.com/politics/2026/09/11/trump-on-9-11-anniversary-ties-iran-fight-to-war-on-terror-there-can-only-be-victory/",
-   "summary_raw": "<p>President Donald Trump explicitly linked the ongoing fight against Iran to America’s post-9/11 fight against terrorism Friday, declaring on the 25th anniversary of the attacks that “there can only be victory.”</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/11/trump-on-9-11-anniversary-ties-iran-fight-to-war-on-terror-there-can-only-be-victory/\" rel=\"nofollow\">Trump on 9/11 Anniversary Ties Iran Fight to War on Terror — ‘There Can Only Be Victory’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-11T21:22:32+00:00",
-   "collected": "2026-09-12T00:21:44.914515+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "President Donald Trump explicitly linked the ongoing fight against Iran to America’s post-9/11 fight against terrorism Friday, declaring on the 25th anniversary of the attacks that “there can only be ",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal",
-    "Spiked",
-    "UnHerd"
-   ]
-  },
-  {
-   "id": "bfe8ef45a529181c",
-   "title": "A federal judge just told Trump there’s no ‘emergency’ to justify keeping a Michigan coal plant open",
-   "link": "https://grist.org/energy/court-reject-trump-energy-emergency-coal-plant/",
-   "summary_raw": "",
-   "source": "Grist",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-11T21:20:55+00:00",
-   "collected": "2026-09-14T19:25:44.788675+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null,
-   "corroborated_by": [
-    "Guardian Environment",
-    "Inside Climate News"
-   ]
-  },
-  {
-   "id": "274a94c9d9625682",
-   "title": "Egypt Backs Unified Libya and Simultaneous Elections",
-   "link": "https://libyareview.com/68224/egypt-backs-unified-libya-and-simultaneous-elections/",
-   "summary_raw": "<p>Egyptian Foreign Minister Badr Abdelatty said on Thursday that Cairo is working to preserve Libya’s unity and supports simultaneous presidential and parliamentary elections. Egypt rejects Libya’s partition Abdelatty stressed Egypt’s opposition to any division of Libya, saying Cairo considers the country’s territorial integrity vital to Libya, Egypt and the wider region. Speaking during a meeting [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68224/egypt-backs-unified-libya-and-simultaneous-elections/\">Egypt Backs Unified Libya and Simultaneous Elections</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-09-11T21:06:18+00:00",
-   "collected": "2026-09-11T21:45:09.765622+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Egyptian Foreign Minister Badr Abdelatty said on Thursday that Cairo is working to preserve Libya’s unity and supports simultaneous presidential and parliamentary elections. Egypt rejects Libya’s part",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κάιρο",
-     "lat": 30.04,
-     "lon": 31.24
-    }
-   ]
-  },
-  {
-   "id": "8646365f5fb07910",
-   "title": "Έτοιμο το Ειδικό Δημοτικό Σχολείο Σαπών - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOGlhZk5sVUJqRVA0bm16cnZ2YUNsZzRsMjVqOFpCSUVqOWNIbjZncVVBNEZ2VnRxZllvem9obE16ZzRBT3NNUThPV2laMWhENU5zZ25hNDNZM0VpOXFoaUhDNEpsYWtyVmh2VkdwWVlsZEZsNFNyczlMM0ZwUlo3dUF5aF9DSWdhcXc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQOGlhZk5sVUJqRVA0bm16cnZ2YUNsZzRsMjVqOFpCSUVqOWNIbjZncVVBNEZ2VnRxZllvem9obE16ZzRBT3NNUThPV2laMWhENU5zZ25hNDNZM0VpOXFoaUhDNEpsYWtyVmh2VkdwWVlsZEZsNFNyczlMM0ZwUlo3dUF5aF9DSWdhcXc?oc=5\" target=\"_blank\">Έτοιμο το Ειδικό Δημοτικό Σχολείο Σαπών</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-09-11T21:00:00+00:00",
-   "collected": "2026-09-11T21:44:57.413345+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Έτοιμο το Ειδικό Δημοτικό Σχολείο Σαπών Παρατηρητής της Θράκης",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "70cd9f59ea583ba3",
-   "title": "The Trump Administration Wants to Fast-Track Arctic Drilling",
-   "link": "https://insideclimatenews.org/news/11092026/the-trump-administration-wants-to-fast-track-arctic-drilling/",
-   "summary_raw": "The Trump administration is moving to accelerate oil and gas drilling across the Western Arctic with a new proposal that would slash environmental review and public input.&#160; The proposal could bring industrial activity to wide areas of wilderness and subsistence hunting grounds for Alaska Natives before President Donald Trump leaves office. The move is the [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-11T20:52:21+00:00",
-   "collected": "2026-09-11T21:45:29.148803+00:00",
-   "keywords_hit": [
-    "drilling"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The Trump administration is moving to accelerate oil and gas drilling across the Western Arctic with a new proposal that would slash environmental review and public input. The proposal could bring ind",
-   "angle": null,
-   "corroborated_by": [
-    "Guardian Environment"
-   ]
-  },
-  {
-   "id": "1b04ff6c2b737bb3",
-   "title": "Ο Φιντάν επικοινώνησε με τον Σαουδάραβα ΥΠΕΞ, μετά τις επιθέσεις στη Σαουδική Αραβία",
-   "link": "https://www.pentapostagma.gr/kosmos/7389312_o-fintan-epikoinonise-me-ton-saoydaraba-ypex-meta-tis-epitheseis-sti-saoydiki-arabia",
-   "summary_raw": "Τον περασμένο μήνα, η Τουρκία - μέλος του ΝΑΤΟ -, η Σαουδική Αραβία και το Πακιστάν υπέγραψαν μια κοινή αμυντική...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-09-11T20:44:41+00:00",
-   "collected": "2026-09-11T21:45:14.105352+00:00",
-   "keywords_hit": [
-    "φιντάν"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Τον περασμένο μήνα, η Τουρκία - μέλος του ΝΑΤΟ -, η Σαουδική Αραβία και το Πακιστάν υπέγραψαν μια κοινή αμυντική...",
-   "angle": null,
-   "corroborated_by": [
-    "SLpress"
-   ]
-  },
-  {
-   "id": "639b706f0ab6e602",
-   "title": "Roy Cooper, NC Democrats Backtrack from Shelly Headen Who Wants Trump Supporters in Concentration Camps",
-   "link": "https://www.breitbart.com/politics/2026/09/11/roy-cooper-nc-democrats-backtrack-from-shelly-headen-who-wants-trump-supporters-in-concentration-camps/",
-   "summary_raw": "<p>North Carolina Democrats are attempting to distance themselves from Shelly Headen, the vile candidate running in a state legislative district who wrote that Trump supporters belong in concentration camps while smiling in front of a Dachau memorial in Germany.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/11/roy-cooper-nc-democrats-backtrack-from-shelly-headen-who-wants-trump-supporters-in-concentration-camps/\" rel=\"nofollow\">Roy Cooper, NC Democrats Backtrack from Shelly Headen Who Wants Trump Supporters in Concentration Camps</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-11T20:14:29+00:00",
-   "collected": "2026-09-12T17:14:21.041856+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "North Carolina Democrats are attempting to distance themselves from Shelly Headen, the vile candidate running in a state legislative district who wrote that Trump supporters belong in concentration ca",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "7c74eb324c033203",
-   "title": "Parents Can’t Escape Washington’s Transgender Policies by Changing Schools, Supreme Court Brief Argues",
-   "link": "https://www.dailysignal.com/2026/09/11/parents-cant-escape-washingtons-transgender-policies-by-changing-schools-supreme-court-brief-argues/",
-   "summary_raw": "The Supreme Court&#8217;s recent parental rights ruling in Mirabelli v. Bonta is giving new momentum to a challenge against Washington state&#8217;s transgender policies, as parents urge the nation&#8217;s highest court to block laws that create an &#8220;incentive&#8221; for gender-confused children to run away. In 2023, Washington lawmakers enacted laws allowing youth shelters to refrain from...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-11T20:07:37+00:00",
-   "collected": "2026-09-12T00:21:45.174223+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "The Supreme Court’s recent parental rights ruling in Mirabelli v. Bonta is giving new momentum to a challenge against Washington state’s transgender policies, as parents urge the nation’s highest cour",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "6582b3802ea87892",
-   "title": "WATCH: Mamdani, AOC Appear to Yuk It Up at Ground Zero While 9/11 Victims' Names Are Read",
-   "link": "https://www.breitbart.com/politics/2026/09/11/watch-mamdani-aoc-appear-yuk-it-up-at-ground-zero-while-9-11-victims-names-are-read/",
-   "summary_raw": "<p>NYC Mayor Zohran Mamdani and Rep. Alexandria Ocasio-Cortez were seen having a jolly time together at the September 11 memorial service as victims' names were read.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/11/watch-mamdani-aoc-appear-yuk-it-up-at-ground-zero-while-9-11-victims-names-are-read/\" rel=\"nofollow\">WATCH: Mamdani, AOC Appear to Yuk It Up at Ground Zero While 9/11 Victims&#8217; Names Are Read</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-11T19:53:42+00:00",
-   "collected": "2026-09-12T05:52:44.636041+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "NYC Mayor Zohran Mamdani and Rep. Alexandria Ocasio-Cortez were seen having a jolly time together at the September 11 memorial service as victims' names were read. The post WATCH: Mamdani, AOC Appear ",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "d22c7934dc3fd505",
-   "title": "Turkey's foreign minister discusses attacks on Saudi Arabia with Saudi counterpart, source says",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-foreign-minister-discusses-attacks-saudi-arabia-saudi",
-   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-foreign-minister-discusses-attacks-saudi-arabia-saudi\" rel=\"bookmark\">\n<span class=\"field field-title\">Turkey's foreign minister discusses attacks on Saudi Arabia with Saudi counterpart, source says</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Turkish Foreign Minister Hakan Fidan discussed regional developments and recent attacks targeting Saudi Arabia in a call with his Saudi counterpart, Prince Faisal bin Farhan Al Saud, a Turkish diplomatic source said on Friday.</p>\n\n<p>Last month, Nato member Turkey, Saudi Arabia and Pakistan signed a joint defence agreement that includes a mutual defence clause similar to Nato's Article 5.</p>\n</div>\n      \n  </div>\n\n</article>",
-   "source": "Middle East Eye",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-09-11T19:51:58+00:00",
-   "collected": "2026-09-11T21:45:06.340039+00:00",
-   "keywords_hit": [
-    "fidan"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Turkey's foreign minister discusses attacks on Saudi Arabia with Saudi counterpart, source says Turkish Foreign Minister Hakan Fidan discussed regional developments and recent attacks targeting Saudi ",
-   "angle": null,
-   "corroborated_by": [
-    "Anadolu Agency (EN)"
    ]
   }
  ]
