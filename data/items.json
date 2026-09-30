@@ -1,7 +1,429 @@
 {
- "updated": "2026-09-29T20:53:12.298220+00:00",
- "count": 1573,
+ "updated": "2026-09-30T00:32:41.984594+00:00",
+ "count": 1562,
  "items": [
+  {
+   "id": "3bf6d9996f4c7f46",
+   "title": "Muhalefetten WSJ haberine ilişkin hükümete yanıt çağrısı",
+   "link": "https://www.milletgazetesi.gr/yunanistan/muhalefetten-wsj-haberine-iliskin-hukumete-yanit-cagrisi",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Yunanistan)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-09-30T00:31:51.140894+00:00",
+   "collected": "2026-09-30T00:31:51.140896+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "",
+   "angle": null
+  },
+  {
+   "id": "4eebfa3fac2c7cc6",
+   "title": "#UK  The United Kingdom has proposed to extend its nuclear deterrent to the nine other members of the Joint Expeditionary Force (JEF), which includes countries like Finland, Denmar…",
+   "link": "https://t.me/OSINTdefender/20368",
+   "summary_raw": "#UK  The United Kingdom has proposed to extend its nuclear deterrent to the nine other members of the Joint Expeditionary Force (JEF), which includes countries like Finland, Denmark, and Sweden, enhancing regional security alongside NATO's existing arrangements.   Subscribe to @OSINTdefender | 💬 Chat room",
+   "source": "Telegram @OSINTdefender",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-09-30T00:05:57+00:00",
+   "collected": "2026-09-30T00:31:46.219494+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "#UK The United Kingdom has proposed to extend its nuclear deterrent to the nine other members of the Joint Expeditionary Force (JEF), which includes countries like Finland, Denmark, and Sweden, enhanc",
+   "angle": null
+  },
+  {
+   "id": "d08408ad35a4bd14",
+   "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+   "summary_raw": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-30T00:00:00+00:00",
+   "collected": "2026-09-30T00:31:17.196585+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive"
+   ]
+  },
+  {
+   "id": "2f9a0dd0c954df28",
+   "title": "Greek Defense Minister Nikos Dendias:  Greece faces a very difficult security environment. It is not only the threat against NATO and Europe from Russia.  We also have our neighbor…",
+   "link": "https://t.me/ClashReport/98967",
+   "summary_raw": "Greek Defense Minister Nikos Dendias:  Greece faces a very difficult security environment. It is not only the threat against NATO and Europe from Russia.  We also have our neighbor, Türkiye.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-09-29T23:50:23+00:00",
+   "collected": "2026-09-30T00:31:45.629602+00:00",
+   "keywords_hit": [
+    "dendias",
+    "greece",
+    "greek"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Greek Defense Minister Nikos Dendias: Greece faces a very difficult security environment. It is not only the threat against NATO and Europe from Russia. We also have our neighbor, Türkiye.",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "1e4929abac001b50",
+   "title": "United Arab Emirates Confirms Secret Visit from Israeli Prime Minister Benjamin Netanyahu",
+   "link": "https://www.breitbart.com/middle-east/2026/09/29/united-arab-emirates-confirms-secret-visit-from-israeli-prime-minister-benjamin-netanyahu/",
+   "summary_raw": "<p>State media in the United Arab Emirates (UAE) confirmed on Monday that Israeli Prime Minister Benjamin Netanyahu made a secret trip to Abu Dhabi on Sunday afternoon and met with Emirati President Mohammed bin Zayed al-Nahyan, commonly known by his initials MBZ.</p>\n<p>The post <a href=\"https://www.breitbart.com/middle-east/2026/09/29/united-arab-emirates-confirms-secret-visit-from-israeli-prime-minister-benjamin-netanyahu/\" rel=\"nofollow\">United Arab Emirates Confirms Secret Visit from Israeli Prime Minister Benjamin Netanyahu</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T22:59:31+00:00",
+   "collected": "2026-09-30T00:31:43.768442+00:00",
+   "keywords_hit": [],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "State media in the United Arab Emirates (UAE) confirmed on Monday that Israeli Prime Minister Benjamin Netanyahu made a secret trip to Abu Dhabi on Sunday afternoon and met with Emirati President Moha",
+   "angle": null
+  },
+  {
+   "id": "abe4796202b939c5",
+   "title": "The gang rape on a migrant boat",
+   "link": "https://www.spiked-online.com/2026/09/29/the-gang-rape-on-a-migrant-boat/",
+   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/09/29/the-gang-rape-on-a-migrant-boat/\">The gang rape on a migrant boat</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
+   "source": "Spiked",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-09-29T22:55:47+00:00",
+   "collected": "2026-09-30T00:31:43.601121+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The post The gang rape on a migrant boat appeared first on spiked .",
+   "angle": null
+  },
+  {
+   "id": "5edc3dc2859c377d",
+   "title": "Illegal Voting in Georgia Just the Tip of the Iceberg, DOJ Offers More Evidence",
+   "link": "https://www.dailysignal.com/2026/09/29/doj-illegal-voting-charged/",
+   "summary_raw": "Twenty-eight individuals in 12 different states have been charged with election interference or illegal voting in federal elections in the past two weeks, the U.S. Department of Justice says. The effort to root out illegal, noncitizen voting has come as part of a large-scale move by the Trump administration to ensure election integrity prior to...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T22:55:13+00:00",
+   "collected": "2026-09-30T00:31:44.044593+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Twenty-eight individuals in 12 different states have been charged with election interference or illegal voting in federal elections in the past two weeks, the U.S. Department of Justice says. The effo",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "7901cab4a5fc812d",
+   "title": "Netanyahu, UAE president hold expanded meeting with officials from 10 countries: Report",
+   "link": "https://www.aa.com.tr/en/middle-east/netanyahu-uae-president-hold-expanded-meeting-with-officials-from-10-countries-report/4073176",
+   "summary_raw": "Israel’s Channel 14 says second session included representatives from US, Saudi Arabia, Morocco, Egypt, Kuwait, Bahrain, Libya and Oman",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-09-29T22:36:57+00:00",
+   "collected": "2026-09-30T00:30:49.435850+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Israel’s Channel 14 says second session included representatives from US, Saudi Arabia, Morocco, Egypt, Kuwait, Bahrain, Libya and Oman",
+   "angle": null
+  },
+  {
+   "id": "df11527f448cb219",
+   "title": "Status-6 RT @CBSNews: “He happens to be a friend of mine,” President Trump said about North Korean leader Kim Jong Un when asked Tuesday why North Korea can have nuclear weapons bu…",
+   "link": "https://t.me/OSINTLive/576594",
+   "summary_raw": "Status-6 RT @CBSNews: “He happens to be a friend of mine,” President Trump said about North Korean leader Kim Jong Un when asked Tuesday why North Korea can have nuclear weapons but not Iran. “I’m about the only person in the entire world that he likes, and I like him.”  Trump then said, “As long as I'm around, he's going to be fine. You know why? Because he respects me and he likes me.\" tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-09-29T22:36:23+00:00",
+   "collected": "2026-09-30T00:31:47.427703+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Status-6 RT @CBSNews: “He happens to be a friend of mine,” President Trump said about North Korean leader Kim Jong Un when asked Tuesday why North Korea can have nuclear weapons but not Iran. “I’m abo",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English"
+   ]
+  },
+  {
+   "id": "f11e4e562f58b225",
+   "title": "Qatari-mediated talks between the U.S. and Iran made little progress, with both sides refusing to compromise and fears of renewed fighting rising.  Qatar proposed a deal linking Ir…",
+   "link": "https://t.me/ClashReport/98961",
+   "summary_raw": "Qatari-mediated talks between the U.S. and Iran made little progress, with both sides refusing to compromise and fears of renewed fighting rising.  Qatar proposed a deal linking Iran’s demand to lift the U.S. naval blockade with U.S. demands for nuclear concessions. But Iran said it would only consider nuclear steps if Washington returned to the June memorandum of understanding.  U.S. officials initially described the talks as positive and said Trump was open to sanctions relief and releasing frozen funds for nuclear concessions. Hours later, Trump said he had offered Iran nothing.  A source told Axios the talks were “stuck,” while Trump said Tuesday that Iran “will give up” and “will not have a nuclear weapon.”  Source: Axios",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-09-29T22:33:45+00:00",
+   "collected": "2026-09-30T00:31:45.628698+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Qatari-mediated talks between the U.S. and Iran made little progress, with both sides refusing to compromise and fears of renewed fighting rising. Qatar proposed a deal linking Iran’s demand to lift t",
+   "angle": null
+  },
+  {
+   "id": "251d25648e260f0b",
+   "title": "Jack Smith Scooped Up Reporters’ Phone Data in Trump Probe: ‘Massive First Amendment Breach’",
+   "link": "https://www.dailysignal.com/2026/09/29/jack-smith-scooped-up-reporters-phone-data-in-trump-probe-massive-first-amendment-breach/",
+   "summary_raw": "Conservative media outlets pushed back after revelations that former special counsel Jack Smith’s investigators obtained communications from nearly 50 journalists at more than a dozen media outlets on both the right and the left. Senate Judiciary Chairman Chuck Grassley, R-Iowa, revealed the information Tuesday. The Senate Judiciary Committee previously exposed that Smith and the Justice...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T22:15:00+00:00",
+   "collected": "2026-09-30T00:31:44.044817+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Conservative media outlets pushed back after revelations that former special counsel Jack Smith’s investigators obtained communications from nearly 50 journalists at more than a dozen media outlets on",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "b47e66b34942a62a",
+   "title": "HII Achieves Preliminary Acceptance of John F. Kennedy (CVN 79)",
+   "link": "https://www.navalnews.com/naval-news/2026/09/hii-achieves-preliminary-acceptance-of-john-f-kennedy-cvn-79/",
+   "summary_raw": "<p>On September 29, 2026, Huntington Ingalls Industries announced the successful completion of the preliminary acceptance test of the second Gerald R. Ford-class nuclear-powered aircraft carrier, the future John F. Kennedy (CVN 79). HII press release HII announced today that its Newport News Shipbuilding (NNS) division has achieved preliminary acceptance of John F. Kennedy (CVN 79), the second Gerald ...</p>\n<p>The post <a href=\"https://www.navalnews.com/naval-news/2026/09/hii-achieves-preliminary-acceptance-of-john-f-kennedy-cvn-79/\">HII Achieves Preliminary Acceptance of John F. Kennedy (CVN 79)</a> appeared first on <a href=\"https://www.navalnews.com\">Naval News</a>.</p>",
+   "source": "Naval News",
+   "side": "defense_intl",
+   "lang": "en",
+   "published": "2026-09-29T22:07:45+00:00",
+   "collected": "2026-09-30T00:31:05.646852+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "On September 29, 2026, Huntington Ingalls Industries announced the successful completion of the preliminary acceptance test of the second Gerald R. Ford-class nuclear-powered aircraft carrier, the fut",
+   "angle": null
+  },
+  {
+   "id": "5dc0176707d3461b",
+   "title": "US Supreme Court allows Trump to continue third-country deportations",
+   "link": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
+   "summary_raw": "The high court grants an emergency petition ahead of expected arguments in the case, slated for December.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-29T22:06:43+00:00",
+   "collected": "2026-09-30T00:31:17.197805+00:00",
+   "keywords_hit": [
+    "deportation"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "The high court grants an emergency petition ahead of expected arguments in the case, slated for December.",
+   "angle": null
+  },
+  {
+   "id": "f0f76baa5ac9a97c",
+   "title": "OSINTdefender The Department of War has confirmed the Navy's F/A-XX contract award to Boeing, officially announcing what Breaking Defense reported today, citing sources, just hours…",
+   "link": "https://t.me/OSINTLive/576586",
+   "summary_raw": "OSINTdefender The Department of War has confirmed the Navy's F/A-XX contract award to Boeing, officially announcing what Breaking Defense reported today, citing sources, just hours earlier. The contract is valued at more than $20 billion for full-scale development, covering multiple test aircraft for ground, airworthiness, systems, and weapons integration testing.  Part of the Next Generation Air Dominance (NGAD) program, F/A-XX will augment and eventually replace the F/A-18E/F Super Hornet and EA-18G Growler starting in the 2030s, operating alongside the carrier variant F-35C. The Navy says it will also be interoperable with Collaborative Combat Aircraft, increasing the capability of every CCA it teams with.  \"The F/A-XX is a critical pillar in our commitment to maintaining peace through strength,\" said Michael Duffey, Under Secretary of War for Acquisition and Sustainment, adding the program will help \"deter aggression, project undisputed power, and secure absolute air superiority.\" Acting Navy Secretary Hung Cao called it \"a generational leap in air superiority.\"  The award makes Boeing the sole U.S. producer of sixth-generation fighters, having already won the Air Force's F-47 ",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-09-29T22:05:54+00:00",
+   "collected": "2026-09-30T00:31:47.426385+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "OSINTdefender The Department of War has confirmed the Navy's F/A-XX contract award to Boeing, officially announcing what Breaking Defense reported today, citing sources, just hours earlier. The contra",
+   "angle": null
+  },
+  {
+   "id": "af8dc792be7be2de",
+   "title": "Professor Censored Over Mock Land Acknowledgment Speaks Out Against University ‘Orthodoxy’ After Court Win",
+   "link": "https://www.dailysignal.com/2026/09/29/professor-censored-over-mock-land-acknowledgment-speaks-out-against-university-orthodoxy-after-court-win/",
+   "summary_raw": "A Washington state computer science professor who won a First Amendment lawsuit against his university over its response to his mock land acknowledgement says the campus culture that fueled the controversy remains firmly entrenched. &#8220;It&#8217;s kind of scary. They broke the law. The U.S. Court of Appeals for the &#8220;9th Circuit said you broke the...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T21:55:00+00:00",
+   "collected": "2026-09-30T00:31:44.045049+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A Washington state computer science professor who won a First Amendment lawsuit against his university over its response to his mock land acknowledgement says the campus culture that fueled the contro",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "1e47b00406bef5d9",
+   "title": "Could LNG Help Libya Improve Electricity Generation?",
+   "link": "https://libyareview.com/68690/could-lng-help-libya-improve-electricity-generation/",
+   "summary_raw": "<p>Libya is studying the use of liquefied natural gas (LNG) to supply power plants in a move aimed at reducing dependence on liquid fuels and improving the efficiency of electricity generation, according to local media reports. Under the proposal, LNG would first be converted back into natural gas through a regasification process before being delivered [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68690/could-lng-help-libya-improve-electricity-generation/\">Could LNG Help Libya Improve Electricity Generation?</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-09-29T21:47:04+00:00",
+   "collected": "2026-09-30T00:31:09.778383+00:00",
+   "keywords_hit": [
+    "libya",
+    "lng",
+    "natural gas"
+   ],
+   "category": "Ενέργεια",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Libya is studying the use of liquefied natural gas (LNG) to supply power plants in a move aimed at reducing dependence on liquid fuels and improving the efficiency of electricity generation, according",
+   "angle": null
+  },
+  {
+   "id": "c9f7bb5ca4d48841",
+   "title": "Trump Suggests 10-Person Committee to ‘Watch Over” AI",
+   "link": "https://www.dailysignal.com/2026/09/29/trump-suggests-10-person-committee-to-watch-over-ai/",
+   "summary_raw": "President Donald Trump said he is thinking of forming a committee for policing artificial intelligence. He spoke to reporters after eating lunch with top tech executives, administration officials, and House Speaker Mike Johnson. &#8220;There&#8217;s going to be a tremendous self-policing aspect&#8221; with respect to AI, Trump said. &#8220;We&#8217;re also thinking about forming a committee of...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T21:43:01+00:00",
+   "collected": "2026-09-30T00:31:44.045460+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "President Donald Trump said he is thinking of forming a committee for policing artificial intelligence. He spoke to reporters after eating lunch with top tech executives, administration officials, and",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "a65012c33f0f15dc",
+   "title": "Exclusive — Rep. Jim Jordan: Sheriffs Are Suing Their Own States over Sanctuary Policies Jeopardizing Safety",
+   "link": "https://www.breitbart.com/radio/2026/09/29/exclusive-rep-jim-jordan-sheriffs-are-suing-their-own-states-over-sanctuary-policies-jeopardizing-safety/",
+   "summary_raw": "<p>Some sheriffs have sued their own states for jeopardizing safety by ignoring immigration laws, Rep. Jim Jordan (R-OH) said during an appearance on Breitbart News Daily.</p>\n<p>The post <a href=\"https://www.breitbart.com/radio/2026/09/29/exclusive-rep-jim-jordan-sheriffs-are-suing-their-own-states-over-sanctuary-policies-jeopardizing-safety/\" rel=\"nofollow\">Exclusive — Rep. Jim Jordan: Sheriffs Are Suing Their Own States over Sanctuary Policies Jeopardizing Safety</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T21:21:06+00:00",
+   "collected": "2026-09-30T00:31:43.767648+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Some sheriffs have sued their own states for jeopardizing safety by ignoring immigration laws, Rep. Jim Jordan (R-OH) said during an appearance on Breitbart News Daily. The post Exclusive — Rep. Jim J",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "8f68d5bf2522e2fc",
+   "title": "US Firm “KBR” Expands Energy Business in Libya",
+   "link": "https://libyareview.com/68687/us-firm-kbr-expands-energy-business-in-libya/",
+   "summary_raw": "<p>US engineering and technology company KBR is looking to expand its activities in Libya into the renewable energy sector, MEED reported, after meeting the chairman of the Libyan Renewable Energy Authority in September to discuss potential contracting opportunities. The move comes as KBR opens a local office in Libya, strengthening its presence in the market [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68687/us-firm-kbr-expands-energy-business-in-libya/\">US Firm &#8220;KBR&#8221; Expands Energy Business in Libya</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-09-29T21:15:36+00:00",
+   "collected": "2026-09-30T00:31:09.778685+00:00",
+   "keywords_hit": [
+    "libya",
+    "renewable"
+   ],
+   "category": "Ενέργεια",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "US engineering and technology company KBR is looking to expand its activities in Libya into the renewable energy sector, MEED reported, after meeting the chairman of the Libyan Renewable Energy Author",
+   "angle": null
+  },
+  {
+   "id": "a1ed0dcbe2013fe4",
+   "title": "Trump set to tout Korean investment in Alaska LNG, other projects - reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2FpZW1yeUwwUnRGdklIbHNsOVVhU0F4YWZUeW1IbU9pRmsxTG9RMkNGdFZqWWJabzNlM0xwMTI4RXFPV0lXZnBYR2tYdnY4X2laMFk3YUVRVzVKU1UtV1VTWDFPaXpmNFExRW1Bdm9SRnl3OEVheXFRUzhkSTcyQjJKTUphNjR4TmRXWnBodGVkbG1Wel9IZ0xKSE5KeHcwNElsa1Rnbmozd3ZZVGs0QUVibw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2FpZW1yeUwwUnRGdklIbHNsOVVhU0F4YWZUeW1IbU9pRmsxTG9RMkNGdFZqWWJabzNlM0xwMTI4RXFPV0lXZnBYR2tYdnY4X2laMFk3YUVRVzVKU1UtV1VTWDFPaXpmNFExRW1Bdm9SRnl3OEVheXFRUzhkSTcyQjJKTUphNjR4TmRXWnBodGVkbG1Wel9IZ0xKSE5KeHcwNElsa1Rnbmozd3ZZVGs0QUVibw?oc=5\" target=\"_blank\">Trump set to tout Korean investment in Alaska LNG, other projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+   "source": "Reuters World",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-09-29T21:12:16+00:00",
+   "collected": "2026-09-30T00:31:03.173071+00:00",
+   "keywords_hit": [
+    "lng"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Trump set to tout Korean investment in Alaska LNG, other projects reuters.com",
+   "angle": null,
+   "corroborated_by": [
+    "Grist"
+   ]
+  },
+  {
+   "id": "c30f73dc6b3bc445",
+   "title": "Riley Gaines To Appeal Transgender Athlete Lawsuit Against NCAA to Supreme Court",
+   "link": "https://www.breitbart.com/sports/2026/09/29/riley-gaines-to-appeal-transgender-athlete-lawsuit-against-ncaa-to-supreme-court/",
+   "summary_raw": "<p>Women&#8217;s sports advocate Riley Gaines confirmed that she plans to appeal her lawsuit against the National Collegiate Athletic Association (NCAA) over its policies regarding transgender-identifying athletes to the Supreme Court. In a post on X, Gaines responded to a post</p>\n<p>The post <a href=\"https://www.breitbart.com/sports/2026/09/29/riley-gaines-to-appeal-transgender-athlete-lawsuit-against-ncaa-to-supreme-court/\" rel=\"nofollow\">Riley Gaines To Appeal Transgender Athlete Lawsuit Against NCAA to Supreme Court</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T20:56:27+00:00",
+   "collected": "2026-09-30T00:31:43.769488+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Women’s sports advocate Riley Gaines confirmed that she plans to appeal her lawsuit against the National Collegiate Athletic Association (NCAA) over its policies regarding transgender-identifying athl",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
   {
    "id": "7956799b18b17831",
    "title": "Topsidis ve Karystianou Dedeağaç’ta bölgesel sorunları görüştü",
@@ -90,6 +512,32 @@
    ]
   },
   {
+   "id": "27e360b5626f867e",
+   "title": "Το ΝΑΤΟ καταδικάζει την πυρηνική ρητορική της Ρωσίας, που απειλεί τη Συμμαχία με αφορμή το Καλίνιγκραντ",
+   "link": "https://www.protothema.gr/world/article/1886893/to-nato-katadikazei-tin-puriniki-ritoriki-tis-rosias-i-opoia-apeilei-ti-summahia-me-pliri-anaptuxi-tou-oplostasiou-tis/?utm_source=rss",
+   "summary_raw": "Νωρίτερα, η ρωσική πρεσβεία στις Βρυξέλλες δημοσίευσε στην πλατφόρμα Χ περιεχόμενο του έγγραφου, στο οποίο η Ρωσία εκφράζει την «ανησυχία» της για τις «προκλητικές ενέργειες» εκ μέρους του ΝΑΤΟ όσον αφορά το Καλίνινγκραντ",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-09-29T20:31:00+00:00",
+   "collected": "2026-09-30T00:31:36.326134+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Νωρίτερα, η ρωσική πρεσβεία στις Βρυξέλλες δημοσίευσε στην πλατφόρμα Χ περιεχόμενο του έγγραφου, στο οποίο η Ρωσία εκφράζει την «ανησυχία» της για τις «προκλητικές ενέργειες» εκ μέρους του ΝΑΤΟ όσον α",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βρυξέλλες",
+     "lat": 50.85,
+     "lon": 4.35
+    }
+   ]
+  },
+  {
    "id": "da7de00d9800ee0b",
    "title": "Το ΝΑΤΟ καταδικάζει την «πυρηνική ρητορική της Ρωσίας για το Καλίνινγκραντ»",
    "link": "https://www.tanea.gr/2026/09/29/world/to-nato-katadikazei-tin-pyriniki-ritoriki-tis-rosias-gia-to-kaliningkrant/",
@@ -129,6 +577,23 @@
    "corroborated_by": [
     "Cyprus Mail"
    ]
+  },
+  {
+   "id": "f266a89fa482077e",
+   "title": "Globalists Fade and Conservatives Steal the Show at U.N. General Assembly",
+   "link": "https://www.breitbart.com/politics/2026/09/29/globalists-fade-and-conservatives-steal-the-show-at-u-n-general-assembly/",
+   "summary_raw": "<p>\"We are clearly moving towards a multipolar world and that movement is irreversible,\" outgoing U.N. Secretary-General António Guterres declared while opening the General Assembly last week – a prediction entirely undermined by the speeches that followed it.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/29/globalists-fade-and-conservatives-steal-the-show-at-u-n-general-assembly/\" rel=\"nofollow\">Globalists Fade and Conservatives Steal the Show at U.N. General Assembly</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T20:15:10+00:00",
+   "collected": "2026-09-30T00:31:43.768167+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "\"We are clearly moving towards a multipolar world and that movement is irreversible,\" outgoing U.N. Secretary-General António Guterres declared while opening the General Assembly last week – a predict",
+   "angle": null
   },
   {
    "id": "2032baf5e3bc40ea",
@@ -671,6 +1136,26 @@
    ]
   },
   {
+   "id": "a367671445f4fad7",
+   "title": "NEWSLETTER: Fatal floods hit India, Nepal and Thailand - reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmpNOGZkdnluczNVZ0lxcXUxUFFLNDZ1SVA2NFhWdmpLdGVGLVR3NjdnYjhhcjdMYmFGUHN2LWo2WmVaWER4ZzFTNHR3b01ONmNOa0RWZWJZRDhtTk1ia2l0T0YyMFFFYmlWcld1QkVKX1p4OE5GanNhc3VWSFhBelhVREp2S0pZcEZIWUJmajNXZw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmpNOGZkdnluczNVZ0lxcXUxUFFLNDZ1SVA2NFhWdmpLdGVGLVR3NjdnYjhhcjdMYmFGUHN2LWo2WmVaWER4ZzFTNHR3b01ONmNOa0RWZWJZRDhtTk1ia2l0T0YyMFFFYmlWcld1QkVKX1p4OE5GanNhc3VWSFhBelhVREp2S0pZcEZIWUJmajNXZw?oc=5\" target=\"_blank\">NEWSLETTER: Fatal floods hit India, Nepal and Thailand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+   "source": "Reuters Sustainability",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-09-29T17:38:35+00:00",
+   "collected": "2026-09-30T00:31:23.626332+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "NEWSLETTER: Fatal floods hit India, Nepal and Thailand reuters.com",
+   "angle": null,
+   "corroborated_by": [
+    "Electrive (EU ηλεκτροκίνηση)"
+   ]
+  },
+  {
    "id": "29acd100dc714b04",
    "title": "Parents Who Treat Boys as Boys and Girls as Girls Are Not Abusers, New Bill Declares",
    "link": "https://www.dailysignal.com/2026/09/29/new-schmitt-bill-would-bar-child-welfare-agencies-from-treating-biological-reality-as-abuse/",
@@ -950,6 +1435,45 @@
    "corroborated_by": [
     "ESG Today"
    ]
+  },
+  {
+   "id": "1ea99ffa8403ab36",
+   "title": "Biden Judge Dismisses Riley Gaines' Transgender Athlete Lawsuit Against NCAA",
+   "link": "https://www.breitbart.com/sports/2026/09/29/biden-judge-dismisses-riley-gaines-transgender-athlete-lawsuit-against-ncaa/",
+   "summary_raw": "<p>A Joe Biden-appointed federal judge has dismissed former college athlete Riley Gaines' lawsuit against the NCAA over its transgender policies</p>\n<p>The post <a href=\"https://www.breitbart.com/sports/2026/09/29/biden-judge-dismisses-riley-gaines-transgender-athlete-lawsuit-against-ncaa/\" rel=\"nofollow\">Biden Judge Dismisses Riley Gaines&#8217; Transgender Athlete Lawsuit Against NCAA</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T16:17:05+00:00",
+   "collected": "2026-09-30T00:31:43.774753+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A Joe Biden-appointed federal judge has dismissed former college athlete Riley Gaines' lawsuit against the NCAA over its transgender policies The post Biden Judge Dismisses Riley Gaines’ Transgender A",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "de89cd42181b4b90",
+   "title": "Η Βόρεια Κορέα χαρακτηρίζει «επικίνδυνη εξέλιξη» το νοτιοκορεατικό πυρηνοκίνητο υποβρύχιο",
+   "link": "https://flight.com.gr/north-korea-south-korea-nuclear-submarine-dangerous-development/?utm_source=rss&utm_medium=rss&utm_campaign=north-korea-south-korea-nuclear-submarine-dangerous-development",
+   "summary_raw": "<p>Η Πιονγκγιάνγκ αντιδρά επισήμως στην αμερικανική έγκριση του νοτιοκορεατικού προγράμματος Chang Bogo N, μιλώντας για νέα περιφερειακή αστάθεια.<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/north-korea-south-korea-nuclear-submarine-dangerous-development/\">Η Βόρεια Κορέα χαρακτηρίζει «επικίνδυνη εξέλιξη» το νοτιοκορεατικό πυρηνοκίνητο υποβρύχιο</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-09-29T16:00:45+00:00",
+   "collected": "2026-09-30T00:30:54.812476+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Η Πιονγκγιάνγκ αντιδρά επισήμως στην αμερικανική έγκριση του νοτιοκορεατικού προγράμματος Chang Bogo N, μιλώντας για νέα περιφερειακή αστάθεια. Το άρθρο Η Βόρεια Κορέα χαρακτηρίζει «επικίνδυνη εξέλιξη",
+   "angle": null
   },
   {
    "id": "9f3191d3b91432d0",
@@ -1299,6 +1823,23 @@
    ]
   },
   {
+   "id": "157e55999a2060a0",
+   "title": "Turkey’s defense firm, telecom operator test smartphone for 2027 sales - Turkish Minute",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0YwSVlZNWF2N0puSzZ1azlOQ1ZiX01iRkZQaUFCaVhZQmZOaVA4aHZ2bHRJbkN1VmgtZjR1bXQzZlJjdnZpdU5nWXkwNmVFc29kdUZERnlNMk1NLUNlWEVIeU5kblR0VzQ4VVU4R3VndTBxT00xU1FKZ2FfUHhxVTd6aGY0Y0RoN1RpcmdsY0c2R0w1SG1uUmR2ckl5eFNoYmpQSTNKN0IyZ243ZXBJ0gGvAUFVX3lxTE5XRjBJWVk1YXY3Sm5LNnVrOU5DVmJfTWJGRlBpQUJpWFlCZk5pUDhodnZsdEluQ3VWaC1mNHVtdDNmUmN2dml1TmdZeTA2ZUVzb2R1RkRGeU0yTU0tQ2VYRUh5TmRuVHRXNDhVVThHdWd1MHFPTTFTUUpnYV9QeHFVN3poZjRjRGg3VGlyZ2xjRzZHTDVIbW5SZHZySXl4U2hialBJM0o3QjJnbjdlcEk?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0YwSVlZNWF2N0puSzZ1azlOQ1ZiX01iRkZQaUFCaVhZQmZOaVA4aHZ2bHRJbkN1VmgtZjR1bXQzZlJjdnZpdU5nWXkwNmVFc29kdUZERnlNMk1NLUNlWEVIeU5kblR0VzQ4VVU4R3VndTBxT00xU1FKZ2FfUHhxVTd6aGY0Y0RoN1RpcmdsY0c2R0w1SG1uUmR2ckl5eFNoYmpQSTNKN0IyZ243ZXBJ0gGvAUFVX3lxTE5XRjBJWVk1YXY3Sm5LNnVrOU5DVmJfTWJGRlBpQUJpWFlCZk5pUDhodnZsdEluQ3VWaC1mNHVtdDNmUmN2dml1TmdZeTA2ZUVzb2R1RkRGeU0yTU0tQ2VYRUh5TmRuVHRXNDhVVThHdWd1MHFPTTFTUUpnYV9QeHFVN3poZjRjRGg3VGlyZ2xjRzZHTDVIbW5SZHZySXl4U2hialBJM0o3QjJnbjdlcEk?oc=5\" target=\"_blank\">Turkey’s defense firm, telecom operator test smartphone for 2027 sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Turkish Minute</font>",
+   "source": "Turkish Minute",
+   "side": "turkish_opposition",
+   "lang": "en",
+   "published": "2026-09-29T15:05:48+00:00",
+   "collected": "2026-09-30T00:30:50.621954+00:00",
+   "keywords_hit": [],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Turkey’s defense firm, telecom operator test smartphone for 2027 sales Turkish Minute",
+   "angle": null
+  },
+  {
    "id": "91d07fd593e68c7d",
    "title": "Στην Αλεξανδρούπολη το LNG carrier NEW NATURE – Την Πέμπτη θα «δέσει» με το FSRU (video) - E-evros",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjJYQ3VtYzAzY2ZGRi0xOXk5SDg1a1VHUGFZNEFqV0xqYWgxN29teF9iNGE5NEhyMGE3TElMdjFUaml1T0hqV3RQSUtPUjRpY04wLVhIai1oRDlsRFZXMnBrMFZ6UEpyYUk5OEt1WnNPWnZVN1lnSFFONTNJV09JTzR6dXd4S3prOGZOb0VfZl80TzFyUzU5RjhsVDM2ZElMVkQza1djeVYyZ1pwUDFNWEYzWWJLNV95XzcwRExJOUxuWTJNa3N3Sw?oc=5",
@@ -1604,6 +2145,26 @@
    ]
   },
   {
+   "id": "7babfc3f0a2975ff",
+   "title": "Hayward: Xi Jinping’s Trip to Washington Yields Little Beyond Tariff Relief",
+   "link": "https://www.breitbart.com/asia/2026/09/29/hayward-xi-jinpings-trip-to-washington-yields-little-beyond-tariff-relief/",
+   "summary_raw": "<p>Chinese dictator Xi Jinping’s trip to Washington, DC, was touted as a historic event, and there was plenty of theater around his meeting with President Donald Trump, but very little of substance has emerged so far beyond an agreement to lower tariffs on about $60 billion worth of trade goods.</p>\n<p>The post <a href=\"https://www.breitbart.com/asia/2026/09/29/hayward-xi-jinpings-trip-to-washington-yields-little-beyond-tariff-relief/\" rel=\"nofollow\">Hayward: Xi Jinping’s Trip to Washington Yields Little Beyond Tariff Relief</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T13:42:58+00:00",
+   "collected": "2026-09-30T00:31:43.776224+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Chinese dictator Xi Jinping’s trip to Washington, DC, was touted as a historic event, and there was plenty of theater around his meeting with President Donald Trump, but very little of substance has e",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "b012e4f9e0e6da99",
    "title": "Over 300,000 refugees in Chad risk losing access to basic services amid funding crisis: UN",
    "link": "https://www.aa.com.tr/en/africa/over-300-000-refugees-in-chad-risk-losing-access-to-basic-services-amid-funding-crisis-un/4072730",
@@ -1699,6 +2260,28 @@
    "turkish_narrative": false,
    "summary_el": "Japanese startup Helical Fusion expects to begin preliminary power-on tests at its demonstration fusion reactor in 2027, it said on Tuesday, a step towards its goal of becoming a global leader in comm",
    "angle": null
+  },
+  {
+   "id": "ecbdafd3e2815613",
+   "title": "DHS: 'Zero Chance' of New Migrant Caravan Reaching U.S. Border",
+   "link": "https://www.breitbart.com/border/2026/09/29/dhs-zero-chance-of-new-migrant-caravan-reaching-u-s-border/",
+   "summary_raw": "<p>U.S. Department of Homeland Security (DHS) Secretary Markwayne Mullin said a new migrant caravan headed to the U.S. from Honduras has \"zero chance\" of making it to the United States' southern border.</p>\n<p>The post <a href=\"https://www.breitbart.com/border/2026/09/29/dhs-zero-chance-of-new-migrant-caravan-reaching-u-s-border/\" rel=\"nofollow\">DHS: &#8216;Zero Chance&#8217; of New Migrant Caravan Reaching U.S. Border</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-29T13:23:53+00:00",
+   "collected": "2026-09-30T00:31:43.775696+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "U.S. Department of Homeland Security (DHS) Secretary Markwayne Mullin said a new migrant caravan headed to the U.S. from Honduras has \"zero chance\" of making it to the United States' southern border. ",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "908c79c2f32ef20b",
@@ -2107,6 +2690,23 @@
    ]
   },
   {
+   "id": "166aa63479eb3dab",
+   "title": "Portugal’s ruling parties move to charge non-resident foreigners for healthcare",
+   "link": "https://brusselssignal.eu/2026/09/portugals-ruling-parties-move-to-charge-non-resident-foreigners-for-healthcare/",
+   "summary_raw": "Portugal's ruling parties have proposed charging non-resident foreigners for national healthcare services, requiring proof of insurance or payment for treatment received.\n<p><a href=\"https://brusselssignal.eu/2026/09/portugals-ruling-parties-move-to-charge-non-resident-foreigners-for-healthcare/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-29T10:37:20+00:00",
+   "collected": "2026-09-30T00:31:41.359339+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Portugal's ruling parties have proposed charging non-resident foreigners for national healthcare services, requiring proof of insurance or payment for treatment received. Source",
+   "angle": null
+  },
+  {
    "id": "15da5eb3de1bacd3",
    "title": "New fuel consumption regulation sees US EV adoption slow",
    "link": "https://www.electrive.com/2026/09/29/new-fuel-consumption-regulation-sees-us-ev-adoption-slow/",
@@ -2326,6 +2926,28 @@
    "turkish_narrative": false,
    "summary_el": "Ελληνογαλλικό Επιμελητήριο: Συνέδριο Ενέργειας στην Αθήνα με επίκεντρο επενδύσεις, υποδομές και ενεργειακή ασφάλεια Energypress",
    "angle": null
+  },
+  {
+   "id": "6742909bfb968d83",
+   "title": "Incoming El Niño Is so Extreme It Doesn’t Have a Scientific Name",
+   "link": "https://insideclimatenews.org/news/29092026/record-breaking-el-nino-grows-in-pacific/",
+   "summary_raw": "Daniel Swain has made a name for himself studying the extremes of a warming planet. Fires, floods, droughts, heat, storms: if it’s a record breaker, Swain has probably studied it.&#160; As a climate scientist at the California Institute for Water Resources of the University of California Agriculture and Natural Resources program, a division of the [&#8230;]",
+   "source": "Inside Climate News",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-09-29T08:55:00+00:00",
+   "collected": "2026-09-30T00:31:24.848891+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Daniel Swain has made a name for himself studying the extremes of a warming planet. Fires, floods, droughts, heat, storms: if it’s a record breaker, Swain has probably studied it. As a climate scienti",
+   "angle": null,
+   "corroborated_by": [
+    "Electrive (EU ηλεκτροκίνηση)"
+   ]
   },
   {
    "id": "54107fd610437031",
@@ -4152,6 +4774,23 @@
    ]
   },
   {
+   "id": "7a96bd90dbf863c3",
+   "title": "Total control has never been so cheap",
+   "link": "https://brusselssignal.eu/2026/09/total-control-has-never-been-so-cheap/",
+   "summary_raw": "The emergence of totalitarian states has become easier due to low-cost surveillance technology, increasing digital dependence, and the erosion of social bonds. Governments exploit these advancements.\n<p><a href=\"https://brusselssignal.eu/2026/09/total-control-has-never-been-so-cheap/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-09-29T00:30:11+00:00",
+   "collected": "2026-09-30T00:31:41.359732+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The emergence of totalitarian states has become easier due to low-cost surveillance technology, increasing digital dependence, and the erosion of social bonds. Governments exploit these advancements. ",
+   "angle": null
+  },
+  {
    "id": "47e26a364e97fb87",
    "title": "Open Source Intel Two people were found dead and at least 40 rescued after a makeshift boat carrying about 60 people capsized off Puerto Rico, the U.S. Coast Guard said.   Survivor…",
    "link": "https://t.me/OSINTLive/576296",
@@ -4840,6 +5479,26 @@
    "angle": null,
    "corroborated_by": [
     "OSINT613"
+   ]
+  },
+  {
+   "id": "f251637123760970",
+   "title": "Exclusive: ICE Arrests Illegal Aliens Convicted of Murder, Child Sex Crimes, Rape",
+   "link": "https://www.breitbart.com/politics/2026/09/28/exclusive-ice-arrests-illegals-convicted-of-murder-child-sex-crimes-rape/",
+   "summary_raw": "<p>Immigration and Customs Enforcement (ICE) has arrested more illegal aliens convicted of crimes such as murder, child sexual abuse, and rape, Breitbart News has learned.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/28/exclusive-ice-arrests-illegals-convicted-of-murder-child-sex-crimes-rape/\" rel=\"nofollow\">Exclusive: ICE Arrests Illegal Aliens Convicted of Murder, Child Sex Crimes, Rape</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-09-28T18:58:39+00:00",
+   "collected": "2026-09-30T00:31:43.775471+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Immigration and Customs Enforcement (ICE) has arrested more illegal aliens convicted of crimes such as murder, child sexual abuse, and rape, Breitbart News has learned. The post Exclusive: ICE Arrests",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
    ]
   },
   {
@@ -7732,6 +8391,23 @@
    "angle": null
   },
   {
+   "id": "6d1f1a8b262c835b",
+   "title": "The Orangemen return",
+   "link": "https://unherd.com/2026/09/history-marches-back-to-drumcree/?edition=us",
+   "summary_raw": "The bitter standoff threatens Stormont",
+   "source": "UnHerd",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-09-28T07:50:16+00:00",
+   "collected": "2026-09-30T00:31:43.330533+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The bitter standoff threatens Stormont",
+   "angle": null
+  },
+  {
    "id": "f94aa6a7e293aef5",
    "title": "Green Effect & We4all ενώνουν δυνάμεις: Για κάθε φωτοβολταϊκό πάνελ, ένα νέο δέντρο στην Ελλάδα - Energypress",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXNkVVFyQ0djQlF0UG1ncDBaVjNqMklKQzZHTHJ5ZF9ZclY2SW5rbGFFVFRrT004VWJPTEZfaDRVcHUxY2ZBdkViTmpnWVMtaDRZZEg2ZHV6V2dTd3VvU2E5ZFJuRGxMa210NDFPUklKdEJzRFhfYXpGN0NJd0hyWVpYcm56MjQ0azVSUkpuVlJxSGwwdURpSEZpNjFGU1dFend6MU84RktRWXZDeEYwR3kzUEMtX256YUhyaA?oc=5",
@@ -10245,6 +10921,25 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Nearly three years after the mob stabbings allegedly carried out by a group of youths at a dance party in the small French village of Crépol, judges have determined to charge 12 defendants with murder",
+   "angle": null
+  },
+  {
+   "id": "49be36dbb642594a",
+   "title": "Why Germany is building an ark for US climate data",
+   "link": "https://grist.org/international/why-germany-is-building-an-ark-for-u-s-climate-data/",
+   "summary_raw": "",
+   "source": "Grist",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-09-27T13:00:00+00:00",
+   "collected": "2026-09-30T00:31:25.284374+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
    "angle": null
   },
   {
@@ -34995,1018 +35690,6 @@
    "turkish_narrative": false,
    "summary_el": "The Trump administration plans to cap next year's refugee inflow at 17,500 people, down from the 125,000 target set under President Joe Biden. The post Trump Cuts Refugee Inflow to 17,500, Down from B",
    "angle": null
-  },
-  {
-   "id": "dad71435b7c05f86",
-   "title": "Competing Climate Visions Clash at UN General Assembly",
-   "link": "https://insideclimatenews.org/news/22092026/un-general-assembly-opens-with-clashing-climate-views/",
-   "summary_raw": "Two divergent worldviews emerged from the first two national addresses on the opening day of the United Nations General Assembly’s 81st session in New York.&#160; Brazil’s president, Luiz Inácio Lula da Silva called for decarbonizing economies, protecting forests and supporting the energy transition through technology transfer. U.S. President Donald Trump followed with a rejection of [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-22T23:41:30+00:00",
-   "collected": "2026-09-23T00:38:34.421706+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Two divergent worldviews emerged from the first two national addresses on the opening day of the United Nations General Assembly’s 81st session in New York. Brazil’s president, Luiz Inácio Lula da Sil",
-   "angle": null,
-   "corroborated_by": [
-    "Anadolu Agency (EN)",
-    "Reuters Sustainability"
-   ]
-  },
-  {
-   "id": "c6156ac351329a21",
-   "title": "Συνάντηση στη Νέα Υόρκη: Ο Ερντογάν ακυρώνει Γκουτέρες ζητώντας αναγνώριση του ψευδοκράτους",
-   "link": "https://www.in.gr/2026/09/23/politics/epikairotita/o-erntogan-akyronei-gkouteres-zitontas-anagnorisi-tou-pseydokratous/",
-   "summary_raw": "<div><img alt=\"Ερντογάν Γκουτέρες\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"514\" src=\"https://www.in.gr/wp-content/uploads/2026/09/erdogan-guterres-768x514.png\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Γκουτέρες και Ερντογάν συζήτησαν και για το Κυπριακό κατά τη συνάντησή τους στη Νέα Υόρκη, με τον τούρκο πρόεδρο να επαναλαμβάνει την πάγια τουρκική θέση για την ύπαρξη δύο κρατών στην Κύπρο. </p>\n<p>The post <a href=\"https://www.in.gr/2026/09/23/politics/epikairotita/o-erntogan-akyronei-gkouteres-zitontas-anagnorisi-tou-pseydokratous/\">Συνάντηση στη Νέα Υόρκη: Ο Ερντογάν ακυρώνει Γκουτέρες ζητώντας αναγνώριση του ψευδοκράτους</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-22T23:30:45+00:00",
-   "collected": "2026-09-23T00:38:54.682577+00:00",
-   "keywords_hit": [
-    "erdogan",
-    "ερντογάν"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": true,
-   "summary_el": "Γκουτέρες και Ερντογάν συζήτησαν και για το Κυπριακό κατά τη συνάντησή τους στη Νέα Υόρκη, με τον τούρκο πρόεδρο να επαναλαμβάνει την πάγια τουρκική θέση για την ύπαρξη δύο κρατών στην Κύπρο. The post",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "0df971deb5955ce8",
-   "title": "Rubio Warns on Iran Nuclear Weapon",
-   "link": "https://www.osint613.com/post/rubio-warns-iran-nuclear-weapon-23384",
-   "summary_raw": "Sec. Rubio on Iran: \n\n\"If Iran had a nuclear weapon, they could do whatever they wanted. They could close the straits and they would tell the world, 'You can’t stop us. We control the straits. We’ll do whatever we want because we have a nuclear weapon and we’ll nuke you if you try to stop us.'\"",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-09-22T23:23:49+00:00",
-   "collected": "2026-09-23T06:02:33.804810+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Sec. Rubio on Iran: \"If Iran had a nuclear weapon, they could do whatever they wanted. They could close the straits and they would tell the world, 'You can’t stop us. We control the straits. We’ll do ",
-   "angle": null
-  },
-  {
-   "id": "998fc9c55ba8fe3f",
-   "title": "Αλβανία: Συνελήφθη η επικεφαλής των μυστικών υπηρεσιών -Κατηγορείται για διαρροή απόρρητων πληροφοριών - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWllqT04ya1BxWk5EaDN1a3RWYlFfdW1ON3MwZHJ5UXpmM3B6NHFLTFFqMUgyeG1VMVBLTmM1V0JhT3hSNWhsTTZyQm5ub2pSQUxjcFZtWDJTQzJHbHV5U0NsV2w4ZzlWUnJKS2RKMjhYenc1Y0dxbERaV2Z2b09MLVZxNEZfelZVbVVRcWNwR1nSAZYBQVVfeXFMTXJJVHBWZ3BkTDNFZ3R2b1AyZmJUb1pnMzJZNHI5Nm01RENibVlmTTRBWjc3bUFXS25EdUFqTkNmZkpQRnh3Vm1DQ2syMy15WnQyQVA0S0lhdFRGeldIWkN2S01UTXkxNDhZaXZjLW9EcGtyNXIxRWo4Q1ctU0pxTjB4OUFxREpsMVRUYzFTNlBDY00yYWZB?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWllqT04ya1BxWk5EaDN1a3RWYlFfdW1ON3MwZHJ5UXpmM3B6NHFLTFFqMUgyeG1VMVBLTmM1V0JhT3hSNWhsTTZyQm5ub2pSQUxjcFZtWDJTQzJHbHV5U0NsV2w4ZzlWUnJKS2RKMjhYenc1Y0dxbERaV2Z2b09MLVZxNEZfelZVbVVRcWNwR1nSAZYBQVVfeXFMTXJJVHBWZ3BkTDNFZ3R2b1AyZmJUb1pnMzJZNHI5Nm01RENibVlmTTRBWjc3bUFXS25EdUFqTkNmZkpQRnh3Vm1DQ2syMy15WnQyQVA0S0lhdFRGeldIWkN2S01UTXkxNDhZaXZjLW9EcGtyNXIxRWo4Q1ctU0pxTjB4OUFxREpsMVRUYzFTNlBDY00yYWZB?oc=5\" target=\"_blank\">Αλβανία: Συνελήφθη η επικεφαλής των μυστικών υπηρεσιών -Κατηγορείται για διαρροή απόρρητων πληροφοριών</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-22T23:15:12+00:00",
-   "collected": "2026-09-23T06:02:29.398619+00:00",
-   "keywords_hit": [
-    "μυστικών υπηρεσιών"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Αλβανία: Συνελήφθη η επικεφαλής των μυστικών υπηρεσιών -Κατηγορείται για διαρροή απόρρητων πληροφοριών iefimerida.gr",
-   "angle": null
-  },
-  {
-   "id": "18effa2ab9694c25",
-   "title": "Will the Gulf war claim another victim?",
-   "link": "https://unherd.com/2026/09/will-the-gulf-war-claim-another-victim/?edition=us",
-   "summary_raw": "Backing Saudi could strand Burnham",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-09-22T23:02:21+00:00",
-   "collected": "2026-09-23T06:02:32.998370+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Backing Saudi could strand Burnham",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "35ef8e2f39e016b1",
-   "title": "Greece, Egypt and Cyprus Strengthen Defence Cooperation",
-   "link": "https://greekcitytimes.com/2026/09/23/greece-egypt-and-cyprus-strengthen-defence-cooperation/",
-   "summary_raw": "<p>Greek Defence Minister Nikos Dendias met Egyptian President Abdel Fattah El-Sisi in Cairo on Tuesday, September 22, as Greece, Egypt and Cyprus moved to strengthen defence cooperation and coordination over regional security challenges. Dendias conveyed Prime Minister Kyriakos Mitsotakis’ greetings to El-Sisi and highlighted the longstanding and historic ties between Greece and Egypt. He also…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/09/23/greece-egypt-and-cyprus-strengthen-defence-cooperation/\">Greece, Egypt and Cyprus Strengthen Defence Cooperation</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-09-22T22:52:44+00:00",
-   "collected": "2026-09-23T00:38:22.109509+00:00",
-   "keywords_hit": [
-    "dendias"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Greek Defence Minister Nikos Dendias met Egyptian President Abdel Fattah El-Sisi in Cairo on Tuesday, September 22, as Greece, Egypt and Cyprus moved to strengthen defence cooperation and coordination",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    },
-    {
-     "name": "Κάιρο",
-     "lat": 30.04,
-     "lon": 31.24
-    }
-   ]
-  },
-  {
-   "id": "e89efa2ba10a4c86",
-   "title": "Στις Βρυξέλλες οι ελληνικές πρωτοβουλίες για περιορισμό της γραφειοκρατίας - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMjhBZmVLYTZab0RVT0x5VFZXbTY0OEZGcjlXa3ZoUXQ2SGw1ZXVyb1pRdV93Nk1HN3B1ZzRRRER6OGYzYUJBWDNPTDlMUE5IVlJNbzE5MXNjUndLWVNKc2RaNHZEcG1H?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMjhBZmVLYTZab0RVT0x5VFZXbTY0OEZGcjlXa3ZoUXQ2SGw1ZXVyb1pRdV93Nk1HN3B1ZzRRRER6OGYzYUJBWDNPTDlMUE5IVlJNbzE5MXNjUndLWVNKc2RaNHZEcG1H?oc=5\" target=\"_blank\">Στις Βρυξέλλες οι ελληνικές πρωτοβουλίες για περιορισμό της γραφειοκρατίας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-22T22:48:24+00:00",
-   "collected": "2026-09-24T10:05:56.237249+00:00",
-   "keywords_hit": [
-    "ελλην"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Στις Βρυξέλλες οι ελληνικές πρωτοβουλίες για περιορισμό της γραφειοκρατίας ecopress",
-   "angle": null
-  },
-  {
-   "id": "0b4c072483f578dd",
-   "title": "Αποθήκευση ενέργειας σε εγκαταλελειμμένα λατομεία και ορυχεία - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44bkF4X2RGcmVFcU1KR0VEdGRWS1owZXZneHlLWVprM1VUcTFjU1R3LWlPeTU1Tk10NWtmVlFXb1hZcnlIT1ZCT29CVzlnMUVJXzlPVHJUcHNOSUFQbUVGS0pHaHk3V2g5?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE44bkF4X2RGcmVFcU1KR0VEdGRWS1owZXZneHlLWVprM1VUcTFjU1R3LWlPeTU1Tk10NWtmVlFXb1hZcnlIT1ZCT29CVzlnMUVJXzlPVHJUcHNOSUFQbUVGS0pHaHk3V2g5?oc=5\" target=\"_blank\">Αποθήκευση ενέργειας σε εγκαταλελειμμένα λατομεία και ορυχεία</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-22T22:43:21+00:00",
-   "collected": "2026-09-23T06:02:14.784292+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Αποθήκευση ενέργειας σε εγκαταλελειμμένα λατομεία και ορυχεία ecopress",
-   "angle": null
-  },
-  {
-   "id": "1a6f311b5d3b3629",
-   "title": "Erdoğan Calls World to Recognise Illegal Turkish Cypriot State",
-   "link": "https://greekcitytimes.com/2026/09/23/erdogan-calls-for-recognition-of-illegal-turkish-cypriot-state/",
-   "summary_raw": "<p>Turkish President Recep Tayyip Erdoğan called on the international community to recognise the Turkish Cypriot state and renewed his proposal for an Eastern Mediterranean conference during his address to the 81st UN General Assembly in New York. Erdoğan also referred to relations with Greece and Cyprus, presenting Turkey as a supporter of good-neighbourly relations and…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/09/23/erdogan-calls-for-recognition-of-illegal-turkish-cypriot-state/\">Erdoğan Calls World to Recognise Illegal Turkish Cypriot State</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-09-22T22:42:44+00:00",
-   "collected": "2026-09-23T00:38:22.110017+00:00",
-   "keywords_hit": [
-    "erdogan"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": true,
-   "summary_el": "Turkish President Recep Tayyip Erdoğan called on the international community to recognise the Turkish Cypriot state and renewed his proposal for an Eastern Mediterranean conference during his address ",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Ανατολική Μεσόγειος",
-     "lat": 34.0,
-     "lon": 30.0
-    }
-   ]
-  },
-  {
-   "id": "4b40fff0d0dcce45",
-   "title": "Eurostat: μεγάλες αυξήσεις στις τιμές καυσίμων μέσα σε ένα χρόνο - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ydjRpcUs2MG1objZyN3dZcjVXaUs2TDNhSWFUM0lBbV9WTGFWc2lBcXNYdmtMZHFnazMzalJOb3BkMG1YdzNIdHFyUF9qSGZFd1hjd1hUc2dSRXp5TmQwVHVVLWZyc0RsN0NJYU9UMFhNS1E?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE8ydjRpcUs2MG1objZyN3dZcjVXaUs2TDNhSWFUM0lBbV9WTGFWc2lBcXNYdmtMZHFnazMzalJOb3BkMG1YdzNIdHFyUF9qSGZFd1hjd1hUc2dSRXp5TmQwVHVVLWZyc0RsN0NJYU9UMFhNS1E?oc=5\" target=\"_blank\">Eurostat: μεγάλες αυξήσεις στις τιμές καυσίμων μέσα σε ένα χρόνο</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-22T22:40:10+00:00",
-   "collected": "2026-09-23T06:02:14.784449+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Eurostat: μεγάλες αυξήσεις στις τιμές καυσίμων μέσα σε ένα χρόνο ecopress",
-   "angle": null,
-   "corroborated_by": [
-    "Energypress"
-   ]
-  },
-  {
-   "id": "7007abe34e1a0b9b",
-   "title": "Select China Committee Begs Trump to Pressure Xi Jinping to Release Religious Worshippers",
-   "link": "https://www.dailysignal.com/2026/09/22/xi-jinping-religious-worshippers/",
-   "summary_raw": "A key congressional panel met Tuesday to urge President Donald Trump to discuss the release of imprisoned Christian worshippers, some of whom are American citizens, from China during his upcoming meeting with Chinese leader Xi Jinping. The hearing from the Congressional-Executive Commission on China comes after the last time the two world leaders met, and...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-22T22:40:00+00:00",
-   "collected": "2026-09-23T00:39:02.570683+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A key congressional panel met Tuesday to urge President Donald Trump to discuss the release of imprisoned Christian worshippers, some of whom are American citizens, from China during his upcoming meet",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "343a0305143a96b4",
-   "title": "Παρέμβαση βιομηχανικών συνδέσμων για το ενεργειακό κόστος - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Sekd1c2g2S1lxVHlVMkNFdWxWZGprQnZSWVd1akd4bTgxN2wtWGhRRWk1dFBJaHFMaEY3Y2VXdzJtZElTemdKdmZVYnFHZjRDRUJVV0JocXFTdWNTREx1empqSGhzeFY1?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Sekd1c2g2S1lxVHlVMkNFdWxWZGprQnZSWVd1akd4bTgxN2wtWGhRRWk1dFBJaHFMaEY3Y2VXdzJtZElTemdKdmZVYnFHZjRDRUJVV0JocXFTdWNTREx1empqSGhzeFY1?oc=5\" target=\"_blank\">Παρέμβαση βιομηχανικών συνδέσμων για το ενεργειακό κόστος</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-09-22T22:32:13+00:00",
-   "collected": "2026-09-23T06:02:14.783806+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Παρέμβαση βιομηχανικών συνδέσμων για το ενεργειακό κόστος ecopress",
-   "angle": null
-  },
-  {
-   "id": "1509f89bebed4877",
-   "title": "Ερντογάν σε Γκουτέρες για Κυπριακό: «Καμία πρόταση χωρίς κυριαρχική ισότητα δεν μπορεί να αποδώσει - newsbomb.gr",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWRyd0FucTN0aGFUbWc1dWd5ZWNuNHIwbUtSS1Myc2pGbVBfXzhTaU42czI2R3ZYdW1hemtSMXo4b2pmbTVWekxPRHZMN3BxTncxV0RkZWdiTklzX2VjalJaUnZSal9hUTZoWTdNQ2tIdkJ3WWx0OHFDcHFDbVkzUGozR2RPWC1mdjl5dlhXTTV1VXFOcEpFVktrZ29XUlhiUWZpNjBPR1dacTY4eTNoLUZ2SUE0dGdMektDTEtDSk5GdVJjUkEyY1ZSMUp6c3AzbG9Ybm5n?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWRyd0FucTN0aGFUbWc1dWd5ZWNuNHIwbUtSS1Myc2pGbVBfXzhTaU42czI2R3ZYdW1hemtSMXo4b2pmbTVWekxPRHZMN3BxTncxV0RkZWdiTklzX2VjalJaUnZSal9hUTZoWTdNQ2tIdkJ3WWx0OHFDcHFDbVkzUGozR2RPWC1mdjl5dlhXTTV1VXFOcEpFVktrZ29XUlhiUWZpNjBPR1dacTY4eTNoLUZ2SUE0dGdMektDTEtDSk5GdVJjUkEyY1ZSMUp6c3AzbG9Ybm5n?oc=5\" target=\"_blank\">Ερντογάν σε Γκουτέρες για Κυπριακό: «Καμία πρόταση χωρίς κυριαρχική ισότητα δεν μπορεί να αποδώσει</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsbomb.gr</font>",
-   "source": "Newsbomb",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-09-22T22:28:08+00:00",
-   "collected": "2026-09-23T06:01:49.397043+00:00",
-   "keywords_hit": [
-    "ερντογάν"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": true,
-   "summary_el": "Ερντογάν σε Γκουτέρες για Κυπριακό: «Καμία πρόταση χωρίς κυριαρχική ισότητα δεν μπορεί να αποδώσει newsbomb.gr",
-   "angle": null,
-   "corroborated_by": [
-    "iefimerida"
-   ]
-  },
-  {
-   "id": "1e39c7d48920e0d9",
-   "title": "Turkey’s Erdoğan urges world to ‘immediately’ start rebuilding Gaza - Turkish Minute",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhTkRQU2JCSXlEeFgySk93RTBJd21hOUphWmxQdWdBZzRQSk5BbDdkdnhRWkZZR1B5RTRmSWhVWXRlVjlNUzhza0FnSFhyNnlF0gGvAUFVX3lxTFBhd2dkc0IxNktBSkVDZ0pweDhHTXRjdFZ1Zmc1RHhiWHhlRk5TOU1RdnN2VGRMNzFzUkgxSW9wa25vVkdBZjhKWndiSEVMNUJHblQ5WkdTMS0zRVpweDlfZTBPeDdYV2h3SE5xa3lIdDNBOEJRTVZQa0tpbUhQcnRfVnVKLVQ2cExzbHJVeVNDbHJwREx6YWMzZF9vUm10eVZZbDdFcmlVajFobjgtU3M?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhTkRQU2JCSXlEeFgySk93RTBJd21hOUphWmxQdWdBZzRQSk5BbDdkdnhRWkZZR1B5RTRmSWhVWXRlVjlNUzhza0FnSFhyNnlF0gGvAUFVX3lxTFBhd2dkc0IxNktBSkVDZ0pweDhHTXRjdFZ1Zmc1RHhiWHhlRk5TOU1RdnN2VGRMNzFzUkgxSW9wa25vVkdBZjhKWndiSEVMNUJHblQ5WkdTMS0zRVpweDlfZTBPeDdYV2h3SE5xa3lIdDNBOEJRTVZQa0tpbUhQcnRfVnVKLVQ2cExzbHJVeVNDbHJwREx6YWMzZF9vUm10eVZZbDdFcmlVajFobjgtU3M?oc=5\" target=\"_blank\">Turkey’s Erdoğan urges world to ‘immediately’ start rebuilding Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Turkish Minute</font>",
-   "source": "Turkish Minute",
-   "side": "turkish_opposition",
-   "lang": "en",
-   "published": "2026-09-22T22:26:08+00:00",
-   "collected": "2026-09-25T18:40:03.474811+00:00",
-   "keywords_hit": [],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Turkey’s Erdoğan urges world to ‘immediately’ start rebuilding Gaza Turkish Minute",
-   "angle": null
-  },
-  {
-   "id": "64e9fa72e0e84ec1",
-   "title": "Italian-Egyptian man arrested for raping 12-year-old boy in Turin park, right-wing parties call for chemical castration and remigration",
-   "link": "https://rmx.news/article/italian-egyptian-man-arrested-for-raping-12-year-old-boy-in-turin-park-right-wing-parties-call-for-chemical-castration-and-remigration/",
-   "summary_raw": "<p>Enrico Forzese, of the right-wing Futuro Nazionale party, called for “sweeps, remigration and more checks\" following the rape</p>\n<p>The post <a href=\"https://rmx.news/article/italian-egyptian-man-arrested-for-raping-12-year-old-boy-in-turin-park-right-wing-parties-call-for-chemical-castration-and-remigration/\">Italian-Egyptian man arrested for raping 12-year-old boy in Turin park, right-wing parties call for chemical castration and remigration</a> appeared first on <a href=\"https://rmx.news\">Remix News</a>.</p>",
-   "source": "Remix News",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-09-22T22:18:07+00:00",
-   "collected": "2026-09-23T17:07:58.046636+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Enrico Forzese, of the right-wing Futuro Nazionale party, called for “sweeps, remigration and more checks\" following the rape The post Italian-Egyptian man arrested for raping 12-year-old boy in Turin",
-   "angle": null
-  },
-  {
-   "id": "d753541ef10b8826",
-   "title": "Αλβανία: Συνελήφθη η επικεφαλής των μυστικών υπηρεσιών της χώρας για υπόθαλψη εγκληματία",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/alvania-synelifthi-i-epikefalis-ton-mystikon-ypiresion-tis-xoras-gia-ypothalpsi-egklimatia/",
-   "summary_raw": "<img alt=\"vlora-hyseni-albania\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"670\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/09/vlora-hyseni-albania.jpeg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>Η αστυνομία της Αλβανίας συνέλαβε την επικεφαλής των μυστικών υπηρεσιών της χώρας (SHISH), Βλόρα Χισένι, η οποία φέρεται να αποκάλυψε εμπιστευτικές πληροφορίες από την έρευνα σε επιχειρηματία της χώρας, προκειμένου αυτός να αποφύγει τη σύλληψή του. Η Βλόρα Χισένι, η οποία βρισκόταν στο Μπακού του Αζερμπαϊτζάν για συμμετοχή σε  διεθνές φόρουμ για την καταπολέμηση της ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/alvania-synelifthi-i-epikefalis-ton-mystikon-ypiresion-tis-xoras-gia-ypothalpsi-egklimatia/\" title=\"Αλβανία: Συνελήφθη η επικεφαλής των μυστικών υπηρεσιών της χώρας για υπόθαλψη εγκληματία\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-09-22T22:13:00+00:00",
-   "collected": "2026-09-23T00:37:59.538817+00:00",
-   "keywords_hit": [
-    "μυστικών υπηρεσιών"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Η αστυνομία της Αλβανίας συνέλαβε την επικεφαλής των μυστικών υπηρεσιών της χώρας (SHISH), Βλόρα Χισένι, η οποία φέρεται να αποκάλυψε εμπιστευτικές πληροφορίες από την έρευνα σε επιχειρηματία της χώρα",
-   "angle": null
-  },
-  {
-   "id": "ad67bde08d8434a9",
-   "title": "Attacks on Black Sea commercial ships ‘unacceptable’: Erdoğan - Turkish Minute",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEk1cTl4UmhXWldkNkNOc2NUTzRmZVpuaV9TRzdPaWRyNWpMbUFIUEE2b2JLS0pBTFhiOVZWUVgtbTZRNDFVWEcwdTFBSEJ1QkduT1E3MDJnMTlWTVl5Z3NzWWRJcUc2UHdRUWE4bXFjX0lfeTNKQWpROXM0UU9KS05TS056M1B1alFwUEIza1p4bGNDSnljVVhSRl92YWRhRGfSAacBQVVfeXFMUGdKVDhHdTRlN0FmYnVncWNiNW5qU3Z6bnhCWlB5aWlXWG1vcTRNSG8zUS1nRFBpWHBSZ2wyamNkdkJrS1Q2V25CRm9iTFJrMkQ4OExkRzBFN1dIeDZKMjNCNXh3a0VscE1OTl84bDRoa1ZiUGZYQ21xUWpIdVdBdDZwQlc2aEUtcFlIQUdZbTZvcE4zUloxV3ZOaHpTdV9PMUJibmJNZEk?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEk1cTl4UmhXWldkNkNOc2NUTzRmZVpuaV9TRzdPaWRyNWpMbUFIUEE2b2JLS0pBTFhiOVZWUVgtbTZRNDFVWEcwdTFBSEJ1QkduT1E3MDJnMTlWTVl5Z3NzWWRJcUc2UHdRUWE4bXFjX0lfeTNKQWpROXM0UU9KS05TS056M1B1alFwUEIza1p4bGNDSnljVVhSRl92YWRhRGfSAacBQVVfeXFMUGdKVDhHdTRlN0FmYnVncWNiNW5qU3Z6bnhCWlB5aWlXWG1vcTRNSG8zUS1nRFBpWHBSZ2wyamNkdkJrS1Q2V25CRm9iTFJrMkQ4OExkRzBFN1dIeDZKMjNCNXh3a0VscE1OTl84bDRoa1ZiUGZYQ21xUWpIdVdBdDZwQlc2aEUtcFlIQUdZbTZvcE4zUloxV3ZOaHpTdV9PMUJibmJNZEk?oc=5\" target=\"_blank\">Attacks on Black Sea commercial ships ‘unacceptable’: Erdoğan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Turkish Minute</font>",
-   "source": "Turkish Minute",
-   "side": "turkish_opposition",
-   "lang": "en",
-   "published": "2026-09-22T22:02:21+00:00",
-   "collected": "2026-09-24T04:57:11.283243+00:00",
-   "keywords_hit": [],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Attacks on Black Sea commercial ships ‘unacceptable’: Erdoğan Turkish Minute",
-   "angle": null,
-   "corroborated_by": [
-    "Anadolu Agency (EN)"
-   ],
-   "locations": [
-    {
-     "name": "Μαύρη Θάλασσα",
-     "lat": 43.0,
-     "lon": 34.0
-    }
-   ]
-  },
-  {
-   "id": "56b1fc2920b7288b",
-   "title": "Gender-neutral policies ‘target’ children, the family: Turkey’s Erdoğan - Turkish Minute",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHB1QUUtOWJzTFZQY3VJZEI4SnQ4ejdCaGNXTEFYWFQtb1lBbW5abkZ3V2ZGY3BnWlpudk1UUWxzU1RHd3J1RU9KNXlQa0VzSkI3NzBVRmFwcnJpN1NMS3NVNWl0YTdUN3VxcW9GbFlQV0U5aENQRVV4SEhoclhKT1RBUldmQkU0WGpxSmhmSWZROEZGeWdyWjJkVWt5R0FVUnB2S1FMb2JPVEFK0gGyAUFVX3lxTE93WTd3aUFNS3N2ZllMbHBSWlFJS3VFQVFYUEJoZmowN2w5Si1nQUdtZUd1LUUwN0RDX21RQll2a1BjQzBpUkhINXJpOWRoMm11NC1UV0hHZzFaZVBhbUJYaThHeUJBeDBVdXVOdVo1dEpCeVdSN2g1eWxNT0tEbVU5U0xTSExFV2oyc1FCU2xTc21Wa1ZTdTZSZHkyM0R0ck02NExHVl8zZWFiNDdNVEpyMnc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHB1QUUtOWJzTFZQY3VJZEI4SnQ4ejdCaGNXTEFYWFQtb1lBbW5abkZ3V2ZGY3BnWlpudk1UUWxzU1RHd3J1RU9KNXlQa0VzSkI3NzBVRmFwcnJpN1NMS3NVNWl0YTdUN3VxcW9GbFlQV0U5aENQRVV4SEhoclhKT1RBUldmQkU0WGpxSmhmSWZROEZGeWdyWjJkVWt5R0FVUnB2S1FMb2JPVEFK0gGyAUFVX3lxTE93WTd3aUFNS3N2ZllMbHBSWlFJS3VFQVFYUEJoZmowN2w5Si1nQUdtZUd1LUUwN0RDX21RQll2a1BjQzBpUkhINXJpOWRoMm11NC1UV0hHZzFaZVBhbUJYaThHeUJBeDBVdXVOdVo1dEpCeVdSN2g1eWxNT0tEbVU5U0xTSExFV2oyc1FCU2xTc21Wa1ZTdTZSZHkyM0R0ck02NExHVl8zZWFiNDdNVEpyMnc?oc=5\" target=\"_blank\">Gender-neutral policies ‘target’ children, the family: Turkey’s Erdoğan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Turkish Minute</font>",
-   "source": "Turkish Minute",
-   "side": "turkish_opposition",
-   "lang": "en",
-   "published": "2026-09-22T22:01:02+00:00",
-   "collected": "2026-09-23T23:44:31.183357+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Gender-neutral policies ‘target’ children, the family: Turkey’s Erdoğan Turkish Minute",
-   "angle": null
-  },
-  {
-   "id": "d00c6140524e7f22",
-   "title": "Gender-neutral policies ‘target’ children, the family, Erdoğan says - Turkish Minute",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQU5sWkNGVmtpUXA1Ni15SDN1dlVIT01LdkFkTERxSDZCcEJkbWxVTWpTZUpiTzBxQzEySmUxd3JUV1paNEI0YmMydEFRSjZxbUFGYzZNNnRFOEllS2Iza3Q1NmpMdV9adUVqNkRaRVIyQXR6N3J4RFZQNU9tcTlTWXdvVXFFWGhmR1JncGFyZWhkeVV5X3Y1MVZhZjlyWVFYSE5Ma2dtMGnSAagBQVVfeXFMTkFObFpDRlZraVFwNTYteUgzdXZVSE9NS3ZBZExEcUg2QnBCZG1sVU1qU2VKYk8wcUMxMkplMXdyVFdaWjRCNGJjMnRBUUo2cW1BRmM2TTZ0RThJZUtiM2t0NTZqTHVfWnVFajZEWkVSMkF0ejdyeERWUDVPbXE5U1l3b1VxRVhoZkdSZ3BhcmVoZHlVeV92NTFWYWY5cllRWEhOTGtnbTBp?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQU5sWkNGVmtpUXA1Ni15SDN1dlVIT01LdkFkTERxSDZCcEJkbWxVTWpTZUpiTzBxQzEySmUxd3JUV1paNEI0YmMydEFRSjZxbUFGYzZNNnRFOEllS2Iza3Q1NmpMdV9adUVqNkRaRVIyQXR6N3J4RFZQNU9tcTlTWXdvVXFFWGhmR1JncGFyZWhkeVV5X3Y1MVZhZjlyWVFYSE5Ma2dtMGnSAagBQVVfeXFMTkFObFpDRlZraVFwNTYteUgzdXZVSE9NS3ZBZExEcUg2QnBCZG1sVU1qU2VKYk8wcUMxMkplMXdyVFdaWjRCNGJjMnRBUUo2cW1BRmM2TTZ0RThJZUtiM2t0NTZqTHVfWnVFajZEWkVSMkF0ejdyeERWUDVPbXE5U1l3b1VxRVhoZkdSZ3BhcmVoZHlVeV92NTFWYWY5cllRWEhOTGtnbTBp?oc=5\" target=\"_blank\">Gender-neutral policies ‘target’ children, the family, Erdoğan says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Turkish Minute</font>",
-   "source": "Turkish Minute",
-   "side": "turkish_opposition",
-   "lang": "en",
-   "published": "2026-09-22T22:01:02+00:00",
-   "collected": "2026-09-26T17:13:38.805604+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Gender-neutral policies ‘target’ children, the family, Erdoğan says Turkish Minute",
-   "angle": null
-  },
-  {
-   "id": "e3e30688548361e1",
-   "title": "Στα «ΝΕΑ» της Τετάρτης: Ψυχρολουσία στην Τουρκία για τα F-35",
-   "link": "https://www.in.gr/2026/09/23/plus/medianews/sta-nea-tis-tetartis-psyxrolousia-stin-tourkia-gia-ta-f-35/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"950\" src=\"https://www.in.gr/wp-content/uploads/2026/09/tanea-21-768x950.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Μήνυμα στην Αγκυρα, θρίλερ στη Ν. Υόρκη • Και μια ΝΟΤΑΜ στο Αιγαίο που παραβιάζει τον ελληνικό εναέριο χώρο</p>\n<p>The post <a href=\"https://www.in.gr/2026/09/23/plus/medianews/sta-nea-tis-tetartis-psyxrolousia-stin-tourkia-gia-ta-f-35/\">Στα «ΝΕΑ» της Τετάρτης: Ψυχρολουσία στην Τουρκία για τα F-35</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-22T22:00:09+00:00",
-   "collected": "2026-09-23T00:38:54.683565+00:00",
-   "keywords_hit": [
-    "αιγαίο",
-    "f-35"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Μήνυμα στην Αγκυρα, θρίλερ στη Ν. Υόρκη • Και μια ΝΟΤΑΜ στο Αιγαίο που παραβιάζει τον ελληνικό εναέριο χώρο The post Στα «ΝΕΑ» της Τετάρτης: Ψυχρολουσία στην Τουρκία για τα F-35 appeared first on in.g",
-   "angle": null,
-   "corroborated_by": [
-    "Τα Νέα"
-   ],
-   "locations": [
-    {
-     "name": "Αιγαίο",
-     "lat": 39.0,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "5c6abd6ac5c840cd",
-   "title": "Egypt targets secret Turkish intelligence operation linked to Muslim Brotherhood - Nordic Monitor",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSjlGaHc1RVZJa19hODhmZkxONl9xS1RnNWQtLTRBdFhDclhwUS1ENE40ZGNOZGNxNVg1em1jaktTcEV2RERRdzVqQ01MX0FHeXhDVTdORVBnMzA2WWs1Mm4tZkVJdGluZHVHelVCcE5YS3ByeWRRRVZEZE5IR1BLOXhlanM0eWNjQXhtdXJBUm5HYjI0bjlhR0NtV01UWWJKYlVlc0JEWDBscUhWY1RTeTJxNE9FZw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSjlGaHc1RVZJa19hODhmZkxONl9xS1RnNWQtLTRBdFhDclhwUS1ENE40ZGNOZGNxNVg1em1jaktTcEV2RERRdzVqQ01MX0FHeXhDVTdORVBnMzA2WWs1Mm4tZkVJdGluZHVHelVCcE5YS3ByeWRRRVZEZE5IR1BLOXhlanM0eWNjQXhtdXJBUm5HYjI0bjlhR0NtV01UWWJKYlVlc0JEWDBscUhWY1RTeTJxNE9FZw?oc=5\" target=\"_blank\">Egypt targets secret Turkish intelligence operation linked to Muslim Brotherhood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nordic Monitor</font>",
-   "source": "Nordic Monitor",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-09-22T22:00:08+00:00",
-   "collected": "2026-09-23T06:01:58.973266+00:00",
-   "keywords_hit": [
-    "intelligence operation"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Egypt targets secret Turkish intelligence operation linked to Muslim Brotherhood Nordic Monitor",
-   "angle": null
-  },
-  {
-   "id": "8a1ab9f3f233561e",
-   "title": "Canada’s MAID Nightmare Gets Even Worse",
-   "link": "https://www.dailysignal.com/2026/09/22/canadas-maid-nightmare-gets-even-worse/",
-   "summary_raw": "Canada’s medical assistance in dying, or MAID, program continues to produce the grotesque results that its detractors warned about. The latest MAID horror north of the border was first reported in a Substack post by Kelsi Sheren titled “The Last Ten Days of Brigitte ‘GG’ Stegemann.” Sheren reported how an 83-year-old Belleville, Ontario, resident with...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-22T22:00:00+00:00",
-   "collected": "2026-09-23T00:39:02.570946+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Canada’s medical assistance in dying, or MAID, program continues to produce the grotesque results that its detractors warned about. The latest MAID horror north of the border was first reported in a S",
-   "angle": null
-  },
-  {
-   "id": "e0d532cbaa5dbe86",
-   "title": "Turkish, Polish leaders meet in New York for talks",
-   "link": "https://www.aa.com.tr/en/turkiye/turkish-polish-leaders-meet-in-new-york-for-talks/4065533",
-   "summary_raw": "Recep Tayyip Erdogan and Karol Nawrocki hold closed-door discussions at Turkish House",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-09-22T21:45:34+00:00",
-   "collected": "2026-09-23T00:37:55.795172+00:00",
-   "keywords_hit": [
-    "erdogan"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Recep Tayyip Erdogan and Karol Nawrocki hold closed-door discussions at Turkish House",
-   "angle": null
-  },
-  {
-   "id": "711a2f19e31a6d99",
-   "title": "Γεραπετρίτης από τον ΟΗΕ: Άμεση κατάπαυση των εχθροπραξιών και αποκατάσταση της ασφάλειας της ναυσιπλοΐας",
-   "link": "https://www.ertnews.gr/eidiseis/gerapetritis-apo-ton-oie-amesi-katapaysi-ton-exthropraksion-kai-apokatastasi-tis-asfaleias-tis-naysiploias/",
-   "summary_raw": "<img alt=\"gerapetritis\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"520\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/09/gerapetritis-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"780\" /><p>Την ανάγκη για άμεση κατάπαυση των εχθροπραξιών στη Μέση Ανατολή και πλήρη αποκατάσταση της ελευθερίας και της ασφάλειας της ναυσιπλοΐας υπογράμμισε ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης, σε δήλωσή του στo ΕΡΤnews , κατά την πρώτη ημέρα εργασιών της 81ης Συνόδου της Γενικής Συνέλευσης του ΟΗΕ στη Νέα Υόρκη. Ο κ. Γεραπετρίτης αναφέρθηκε στις επαφές του ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/gerapetritis-apo-ton-oie-amesi-katapaysi-ton-exthropraksion-kai-apokatastasi-tis-asfaleias-tis-naysiploias/\" title=\"Γεραπετρίτης από τον ΟΗΕ: Άμεση κατάπαυση των εχθροπραξιών και αποκατάσταση της ασφάλειας της ναυσιπλοΐας\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-09-22T21:41:38+00:00",
-   "collected": "2026-09-23T00:37:59.539448+00:00",
-   "keywords_hit": [
-    "γεραπετρίτης",
-    "gerapetritis"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Την ανάγκη για άμεση κατάπαυση των εχθροπραξιών στη Μέση Ανατολή και πλήρη αποκατάσταση της ελευθερίας και της ασφάλειας της ναυσιπλοΐας υπογράμμισε ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης, σε δήλω",
-   "angle": null,
-   "corroborated_by": [
-    "iefimerida",
-    "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "326c2b7cc47c4a8c",
-   "title": "Νέο μήνυμα Ερντογάν για το Κυπριακό στη συνάντηση με τον Γκουτέρες - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWsyei1ZNzQwUHg4clJKYUxaSmUzRG10enNobThkaW93RmEtWlM5N0l2bGQta0lHX2lQaEltSWNPcFRpZDl2ZzN4RG5HaXVfM1dlSUtGNl90VFNnT0Y4ck9LbjR2WkdENHVnYm5DMzdILVpiOTdQZDY2bmNUUkd6VlBweDdQMERDNWFnM3kxMUhqd9IBlwFBVV95cUxOd2lXVzFFTVZSS2VlNWRRQmp4Z2Jfc1h5a08wb0hpYnBTMHNMeE1QaE5GcjdWOGQzazFoMjhmZ0s3T3pRZkxsN3Zia3RrUVVfRzdnZk16dkhsUExGcFpvMURaZFFYcExtdjhaSXFZU0NfZHAzMGpBZW1OdWcwVHVvRXh0NjVrdzZ4TGFvQ01nYmpoSGZrT0JB?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWsyei1ZNzQwUHg4clJKYUxaSmUzRG10enNobThkaW93RmEtWlM5N0l2bGQta0lHX2lQaEltSWNPcFRpZDl2ZzN4RG5HaXVfM1dlSUtGNl90VFNnT0Y4ck9LbjR2WkdENHVnYm5DMzdILVpiOTdQZDY2bmNUUkd6VlBweDdQMERDNWFnM3kxMUhqd9IBlwFBVV95cUxOd2lXVzFFTVZSS2VlNWRRQmp4Z2Jfc1h5a08wb0hpYnBTMHNMeE1QaE5GcjdWOGQzazFoMjhmZ0s3T3pRZkxsN3Zia3RrUVVfRzdnZk16dkhsUExGcFpvMURaZFFYcExtdjhaSXFZU0NfZHAzMGpBZW1OdWcwVHVvRXh0NjVrdzZ4TGFvQ01nYmpoSGZrT0JB?oc=5\" target=\"_blank\">Νέο μήνυμα Ερντογάν για το Κυπριακό στη συνάντηση με τον Γκουτέρες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-22T21:41:00+00:00",
-   "collected": "2026-09-23T06:02:29.403113+00:00",
-   "keywords_hit": [
-    "ερντογάν"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": true,
-   "summary_el": "Νέο μήνυμα Ερντογάν για το Κυπριακό στη συνάντηση με τον Γκουτέρες iefimerida.gr",
-   "angle": null,
-   "corroborated_by": [
-    "Newsbomb"
-   ]
-  },
-  {
-   "id": "d57cd033c8dddb0a",
-   "title": "İsrail’in Barak MX’i Deşifre mi Oldu? Türk AWACS’ı Kıbrıs’ta",
-   "link": "https://www.savunmasanayist.com/israil-barak-mx-turk-awacs-kibris-gorevi/",
-   "summary_raw": "<p>Türk Hava Kuvvetleri&#8217;ne ait muharip ve destek uçakları, Kıbrıs Adası&#8217;nın  güneyindeki uluslararası hava sahasında saatler süren bir uçuş gerçekleştirdi. Yunanistan merkezli Pronews.gr, bu &#8220;gizemli görevin&#8221; hedefinin Güney Kıbrıs Rum Yönetimi&#8217;nin (GKRY) yeni envanterine kattığı İsrail yapımı Barak MX hava savunma sistemleri olduğunu iddia etti. Milli Savunma Bakanlığı tarafından paylaşılan videoya göre; eğitim uçuşuna, bir kısmı &#8230;</p>\n<p>The post <a href=\"https://www.savunmasanayist.com/israil-barak-mx-turk-awacs-kibris-gorevi/\" rel=\"nofollow\">İsrail&#8217;in Barak MX&#8217;i Deşifre mi Oldu? Türk AWACS&#8217;ı Kıbrıs&#8217;ta</a> first appeared on <a href=\"https://www.savunmasanayist.com\" rel=\"nofollow\">SavunmaSanayiST</a>.</p>",
-   "source": "SavunmaSanayiST",
-   "side": "turkish_defense",
-   "lang": "tr",
-   "published": "2026-09-22T21:38:30+00:00",
-   "collected": "2026-09-23T00:38:23.044804+00:00",
-   "keywords_hit": [
-    "yunanistan",
-    "kıbrıs",
-    "yunan"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 4,
-   "turkish_narrative": true,
-   "summary_el": "Türk Hava Kuvvetleri’ne ait muharip ve destek uçakları, Kıbrıs Adası’nın güneyindeki uluslararası hava sahasında saatler süren bir uçuş gerçekleştirdi. Yunanistan merkezli Pronews.gr, bu “gizemli göre",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "2d6d9c623fc90a0f",
-   "title": "California and New York sue over Trump push to halt wind energy projects",
-   "link": "https://www.theguardian.com/us-news/2026/sep/22/california-new-york-trump-wind-energy",
-   "summary_raw": "<p>US officials have begun to buy back wind leases as president seeks to block renewables in favor of fossil fuels</p><p><a href=\"https://www.theguardian.com/us-news/democrats\">Democratic</a> attorneys general from <a href=\"https://www.theguardian.com/us-news/california\">California</a> and <a href=\"https://www.theguardian.com/us-news/new-york\">New York</a> have sued the Trump administration over its plans to buy back offshore wind leases as Donald Trump seeks to discourage the expansion of wind energy in favor of fossil fuels.</p><p>California’s attorney general, Rob Bonta, said he was suing over removal of a project off his state’s coast planned by Chicago-based Invenergy. The <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> said <a href=\"https://apnews.com/article/trump-offshore-wind-energy-climate-interior-invenergy-2809c57fa04b59a21927631b91b4b69f\">in June</a> it was buying back the company’s US offshore wind leases for four wind projects on the east and west coasts.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/22/california-new-york-trump-wind-energy\">Continue reading...</a>",
-   "source": "Guardian Environment",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-22T21:35:42+00:00",
-   "collected": "2026-09-23T17:07:41.350918+00:00",
-   "keywords_hit": [
-    "climate",
-    "renewable",
-    "offshore wind"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "US officials have begun to buy back wind leases as president seeks to block renewables in favor of fossil fuels Democratic attorneys general from California and New York have sued the Trump administra",
-   "angle": null,
-   "corroborated_by": [
-    "Grist"
-   ]
-  },
-  {
-   "id": "5c7f2bebf65af50a",
-   "title": "Γεραπετρίτης από τον ΟΗΕ: Άμεση κατάπαυση πυρός στη Μέση Ανατολή και αποκατάσταση της ναυσιπλοΐας",
-   "link": "https://www.protothema.gr/politics/article/1883045/gerapetritis-apo-ton-oie-amesi-katapausi-puros-sti-mesi-anatoli-kai-apokatastasi-tis-nausiploias/?utm_source=rss",
-   "summary_raw": "Ο υπουργός Εξωτερικών τόνισε τους κινδύνους για παγκόσμια ασφάλεια, ενέργεια και επισιτιστική επάρκεια – Συναντήθηκε με τον Ιρανό ομόλογό του Αμπάς Αραγτσί",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-22T21:34:00+00:00",
-   "collected": "2026-09-23T00:38:52.467371+00:00",
-   "keywords_hit": [
-    "γεραπετρίτης"
-   ],
-   "category": "Διπλωματία",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Ο υπουργός Εξωτερικών τόνισε τους κινδύνους για παγκόσμια ασφάλεια, ενέργεια και επισιτιστική επάρκεια – Συναντήθηκε με τον Ιρανό ομόλογό του Αμπάς Αραγτσί",
-   "angle": null,
-   "corroborated_by": [
-    "iefimerida",
-    "ΕΡΤ News"
-   ]
-  },
-  {
-   "id": "f61ac9fd1fb22fad",
-   "title": "Διαβάστε στα «ΝΕΑ» της Τετάρτης: Ψυχρολουσία στην Τουρκία για τα F-35",
-   "link": "https://www.tanea.gr/2026/09/23/media/diavaste-sta-nea-tis-tetartis-psyxrolousia-stin-tourkia-gia-ta-f-35/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1024\" src=\"https://www.tanea.gr/wp-content/uploads/2026/09/1H-NEA-2309-828x1024.jpg\" style=\"margin-bottom: 15px;\" width=\"828\" /></div>Μήνυμα στην Άγκυρα, θρίλερ στη Νέα Υόρκη",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-22T21:30:32+00:00",
-   "collected": "2026-09-23T00:38:55.397216+00:00",
-   "keywords_hit": [
-    "f-35"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Μήνυμα στην Άγκυρα, θρίλερ στη Νέα Υόρκη",
-   "angle": null,
-   "corroborated_by": [
-    "in.gr"
-   ],
-   "locations": [
-    {
-     "name": "Άγκυρα",
-     "lat": 39.93,
-     "lon": 32.86
-    }
-   ]
-  },
-  {
-   "id": "0b8600404790284c",
-   "title": "Yunanistan’da turuncu alarm: Şiddetli yağış ve fırtına uyarısı, Batı Trakya’da da yağış bekleniyor",
-   "link": "https://www.milletgazetesi.gr/yunanistan/yunanistanda-turuncu-alarm-siddetli-yagis-ve-firtina-uyarisi-bati-trakyada-da-yagis-bekleniyor",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Yunanistan)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-09-22T21:24:08.543469+00:00",
-   "collected": "2026-09-22T21:24:08.543471+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null,
-   "corroborated_by": [
-    "Millet Gazetesi (Batı Trakya)"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "9b051977b49d1943",
-   "title": "Pamuk üreticileri için 2026 endişesi: “Karbon primi” Meclis gündeminde",
-   "link": "https://www.milletgazetesi.gr/bati-trakya/pamuk-ureticileri-icin-2026-endisesi-karbon-primi-meclis-gundeminde",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Batı Trakya)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-09-22T21:24:07.139422+00:00",
-   "collected": "2026-09-22T21:24:07.139424+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null
-  },
-  {
-   "id": "9305ef10333eb945",
-   "title": "Doğu Makedonya ve Trakya, 2027 turizm tanıtım kampanyasını başlattı",
-   "link": "https://www.milletgazetesi.gr/bati-trakya/dogu-makedonya-ve-trakya-2027-turizm-tanitim-kampanyasini-baslatti",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Batı Trakya)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-09-22T21:24:07.139349+00:00",
-   "collected": "2026-09-22T21:24:07.139367+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null,
-   "corroborated_by": [
-    "Millet Gazetesi (Yunanistan)"
-   ],
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "1010c061e2a122fd",
-   "title": "Libyan Parliament Backs Libya’s Candidacy for UN Security Council",
-   "link": "https://libyareview.com/68504/libyan-parliament-backs-libyas-candidacy-for-un-security-council/",
-   "summary_raw": "<p>Libya&#8217;s House of Representatives has backed the country&#8217;s campaign for a non-permanent seat on the United Nations Security Council for the 2028-2029 term, describing the bid as an important national and diplomatic milestone. The parliament&#8217;s Foreign Affairs and International Cooperation Committee welcomed the official launch of Libya&#8217;s candidacy on Tuesday, September 22, 2026. Parliament Supports [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68504/libyan-parliament-backs-libyas-candidacy-for-un-security-council/\">Libyan Parliament Backs Libya&#8217;s Candidacy for UN Security Council</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-09-22T21:22:32+00:00",
-   "collected": "2026-09-22T21:23:07.123104+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Libya’s House of Representatives has backed the country’s campaign for a non-permanent seat on the United Nations Security Council for the 2028-2029 term, describing the bid as an important national a",
-   "angle": null
-  },
-  {
-   "id": "94a18b86f3873344",
-   "title": "Outgoing UN chief says polluters have treated atmosphere like an ‘open sewer’",
-   "link": "https://www.theguardian.com/environment/2026/sep/22/un-antonio-guterres-climate-polluters",
-   "summary_raw": "<p>António Guterres laments world leaders’ inaction and says oil and gas firms ‘must pay’ for climate devastation</p><p>For one last time, António Guterres tried to fix the world’s gaze upon the dangerously escalating climate crisis. But the departing UN secretary general found world leaders still largely focused on other issues, even after a painful summer of stunning climate-driven disasters.</p><p>Speaking to assembled dignitaries at the UN on Tuesday, Guterres railed against big oil for treating “the atmosphere as an open sewer” and warned again of the catastrophic effects of the climate crisis.</p> <a href=\"https://www.theguardian.com/environment/2026/sep/22/un-antonio-guterres-climate-polluters\">Continue reading...</a>",
-   "source": "Guardian Environment",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-22T21:19:45+00:00",
-   "collected": "2026-09-23T06:02:16.255950+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "António Guterres laments world leaders’ inaction and says oil and gas firms ‘must pay’ for climate devastation For one last time, António Guterres tried to fix the world’s gaze upon the dangerously es",
-   "angle": null
-  },
-  {
-   "id": "1b1c9615b71b199a",
-   "title": "Welcome to SI: Trump Tells U.N. that America Is Replacing Term Artificial Intelligence with 'Super Intelligence'",
-   "link": "https://www.breitbart.com/tech/2026/09/22/welcome-to-si-trump-tells-u-n-that-america-is-replacing-term-artificial-intelligence-with-super-intelligence/",
-   "summary_raw": "<p>President Trump declared at the United Nations General Assembly on Tuesday that artificial intelligence will be renamed \"super intelligence,\" in all official United States documents. Trump told the U.N., \"The United States also totally rejects any attempt to construct a globality scheme to control for the artificial intelligence being spoken of so much now, hereinafter called super intelligence. Changing the name.\"</p>\n<p>The post <a href=\"https://www.breitbart.com/tech/2026/09/22/welcome-to-si-trump-tells-u-n-that-america-is-replacing-term-artificial-intelligence-with-super-intelligence/\" rel=\"nofollow\">Welcome to SI: Trump Tells U.N. that America Is Replacing Term Artificial Intelligence with &#8216;Super Intelligence&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-22T21:19:38+00:00",
-   "collected": "2026-09-23T00:39:02.362040+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "President Trump declared at the United Nations General Assembly on Tuesday that artificial intelligence will be renamed \"super intelligence,\" in all official United States documents. Trump told the U.",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "d3c4ac9245d27fd5",
-   "title": "Turkey Backs Libyan-Led Reconciliation Process at UN",
-   "link": "https://libyareview.com/68500/turkey-backs-libyan-led-reconciliation-process-at-un/",
-   "summary_raw": "<p>Turkish President Recep Tayyip Erdogan said on Tuesday that maintaining stability in Libya is currently a priority for Turkey, while calling for a Libyan-led reconciliation process. Erdogan made the remarks during his address to the United Nations General Assembly, where he outlined Turkey&#8217;s position on developments in Libya. Erdogan Calls for Libyan-Led Reconciliation Erdogan said [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/68500/turkey-backs-libyan-led-reconciliation-process-at-un/\">Turkey Backs Libyan-Led Reconciliation Process at UN</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-09-22T21:19:11+00:00",
-   "collected": "2026-09-22T21:23:07.123368+00:00",
-   "keywords_hit": [
-    "erdogan",
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "Turkish President Recep Tayyip Erdogan said on Tuesday that maintaining stability in Libya is currently a priority for Turkey, while calling for a Libyan-led reconciliation process. Erdogan made the r",
-   "angle": null
-  },
-  {
-   "id": "13b19f77064013b9",
-   "title": "ΟΗΕ: Συνάντηση Ερντογάν – Γκουτέρες στο πλαίσιο της Γενικής Συνέλευσης",
-   "link": "https://www.ertnews.gr/eidiseis/oie-synantisi-erntogan-gkouteres-sto-plaisio-tis-genikis-syneleysis/",
-   "summary_raw": "<img alt=\"Trump\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1712\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/09/erdogan-2-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Ο πρόεδρος της Τουρκίας Ρετζέπ Ταγίπ Ερντογάν αναφέρθηκε στο Κυπριακό κατά τη συνάντησή του με τον γενικό γραμματέα του ΟΗΕ, Αντόνιο Γκουτέρες, κατά την οποία συζητήθηκαν περιφερειακά και διεθνή ζητήματα. Ο Τούρκος πρόεδρος δήλωσε ότι «στην Κύπρο, καμία πρόταση που δεν αναγνωρίζει την κυριαρχική ισότητα και το ισότιμο διεθνές καθεστώς του τουρκοκυπριακού λαού δεν θα ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/oie-synantisi-erntogan-gkouteres-sto-plaisio-tis-genikis-syneleysis/\" title=\"ΟΗΕ: Συνάντηση Ερντογάν &#8211; Γκουτέρες στο πλαίσιο της Γενικής Συνέλευσης\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-09-22T21:14:00+00:00",
-   "collected": "2026-09-22T21:22:49.668218+00:00",
-   "keywords_hit": [
-    "erdogan",
-    "ερντογάν"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": true,
-   "summary_el": "Ο πρόεδρος της Τουρκίας Ρετζέπ Ταγίπ Ερντογάν αναφέρθηκε στο Κυπριακό κατά τη συνάντησή του με τον γενικό γραμματέα του ΟΗΕ, Αντόνιο Γκουτέρες, κατά την οποία συζητήθηκαν περιφερειακά και διεθνή ζητήμ",
-   "angle": null,
-   "corroborated_by": [
-    "Philenews",
-    "iefimerida"
-   ]
-  },
-  {
-   "id": "006c7dbe6db427b2",
-   "title": "Γεραπετρίτης από Νέα Υόρκη: Ανάγκη για άμεση κατάπαυση των εχθροπραξιών στη Μέση Ανατολή και αποκατάσταση της ελευθερίας της ναυσιπλοΐας - iefimerida.gr",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2UEhhbldHUHlId082TGZkYVFlYnZTU1I1S0NXaWNEVklyVTZZNHZFY2FyMDQxSU8tRFlqVEludS1Gb3lUX1hSRmlWbkQ5UEh5dFJZazRaY1U3VWJSSi1RTnZzblZTd2prUU1SZmlBNjY0VkhTU3VnMFA5UdIBgAFBVV95cUxPOWxUd19vYkJDY3lMZE1PTFo3U0FBalVqdWMzR19PTTBqOEU4R3JEcFg5SW5IVFRfLVFZVU02TG40bXdKMWY3S0EydFVGZ1JmTU1WZWZfeDgtaHZBU0VxRVc1RjVUNEszMUIyb3plUkczSFFMd2dMOUpOSTZJYW1DRg?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB2UEhhbldHUHlId082TGZkYVFlYnZTU1I1S0NXaWNEVklyVTZZNHZFY2FyMDQxSU8tRFlqVEludS1Gb3lUX1hSRmlWbkQ5UEh5dFJZazRaY1U3VWJSSi1RTnZzblZTd2prUU1SZmlBNjY0VkhTU3VnMFA5UdIBgAFBVV95cUxPOWxUd19vYkJDY3lMZE1PTFo3U0FBalVqdWMzR19PTTBqOEU4R3JEcFg5SW5IVFRfLVFZVU02TG40bXdKMWY3S0EydFVGZ1JmTU1WZWZfeDgtaHZBU0VxRVc1RjVUNEszMUIyb3plUkczSFFMd2dMOUpOSTZJYW1DRg?oc=5\" target=\"_blank\">Γεραπετρίτης από Νέα Υόρκη: Ανάγκη για άμεση κατάπαυση των εχθροπραξιών στη Μέση Ανατολή και αποκατάσταση της ελευθερίας της ναυσιπλοΐας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
-   "source": "iefimerida",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-09-22T21:06:21+00:00",
-   "collected": "2026-09-23T00:38:55.929458+00:00",
-   "keywords_hit": [
-    "γεραπετρίτης"
-   ],
-   "category": "Διπλωματία",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Γεραπετρίτης από Νέα Υόρκη: Ανάγκη για άμεση κατάπαυση των εχθροπραξιών στη Μέση Ανατολή και αποκατάσταση της ελευθερίας της ναυσιπλοΐας iefimerida.gr",
-   "angle": null,
-   "corroborated_by": [
-    "ΕΡΤ News",
-    "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "1a27f1590c4afa56",
-   "title": "Trump in Meeting with Zelensky Predicts Russia, Ukraine Will Reach Deal",
-   "link": "https://www.breitbart.com/politics/2026/09/22/trump-in-meeting-with-zelensky-predicts-russia-ukraine-will-reach-deal/",
-   "summary_raw": "<p>President Donald Trump predicted Tuesday during a meeting with Ukrainian President Volodymyr Zelensky that Russia and Ukraine would reach a deal.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/09/22/trump-in-meeting-with-zelensky-predicts-russia-ukraine-will-reach-deal/\" rel=\"nofollow\">Trump in Meeting with Zelensky Predicts Russia, Ukraine Will Reach Deal</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-22T21:03:53+00:00",
-   "collected": "2026-09-23T00:39:02.361814+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "President Donald Trump predicted Tuesday during a meeting with Ukrainian President Volodymyr Zelensky that Russia and Ukraine would reach a deal. The post Trump in Meeting with Zelensky Predicts Russi",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "770315543789d8d1",
-   "title": "Open Source Intel Trump on Erdogan:  My friend from Türkiye, he’s a tough cookie. Don’t mess around with him, he’s tough.  He’s a fantastic guy. tweet",
-   "link": "https://t.me/OSINTLive/574620",
-   "summary_raw": "Open Source Intel Trump on Erdogan:  My friend from Türkiye, he’s a tough cookie. Don’t mess around with him, he’s tough.  He’s a fantastic guy. tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-09-22T21:02:45+00:00",
-   "collected": "2026-09-22T21:24:04.323537+00:00",
-   "keywords_hit": [
-    "erdogan"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Open Source Intel Trump on Erdogan: My friend from Türkiye, he’s a tough cookie. Don’t mess around with him, he’s tough. He’s a fantastic guy. tweet",
-   "angle": null,
-   "corroborated_by": [
-    "Al Jazeera English",
-    "Anadolu Agency (EN)",
-    "OSINT613",
-    "Reuters World",
-    "Telegram @clashreport"
-   ]
-  },
-  {
-   "id": "43b1d48d2a5f4052",
-   "title": "WarMonitor RT @AZ_Intel_: A U.S. Air Force F-16 Fighting Falcon assigned to the 52nd Fighter Wing crashed at Spangdahlem Air Base in Germany earlier today after its pilot safely ej…",
-   "link": "https://t.me/OSINTLive/574616",
-   "summary_raw": "WarMonitor RT @AZ_Intel_: A U.S. Air Force F-16 Fighting Falcon assigned to the 52nd Fighter Wing crashed at Spangdahlem Air Base in Germany earlier today after its pilot safely ejected; the pilot remains hospitalized for medical treatment, the wing said. https://x.com/AlexiaNoel94927/status/2102419660561961409/video/1 tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-09-22T21:02:36+00:00",
-   "collected": "2026-09-22T21:24:04.322655+00:00",
-   "keywords_hit": [
-    "f-16"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "WarMonitor RT @AZ_Intel_: A U.S. Air Force F-16 Fighting Falcon assigned to the 52nd Fighter Wing crashed at Spangdahlem Air Base in Germany earlier today after its pilot safely ejected; the pilot rem",
-   "angle": null
-  },
-  {
-   "id": "5c747a1dfbeeeae6",
-   "title": "Qatar Goes Diplomatic on Iran, Lambastes Israel for ‘Crimes Against Humanity’ at U.N.",
-   "link": "https://www.breitbart.com/middle-east/2026/09/22/qatar-goes-diplomatic-on-iran-lambastes-israel-crimes-against-humanity-u-n/",
-   "summary_raw": "<p>Qatar’s Sheikh Tamim bin Hamad al-Thani lamented the “dangerous situation” in the Middle East during his address to the U.N.</p>\n<p>The post <a href=\"https://www.breitbart.com/middle-east/2026/09/22/qatar-goes-diplomatic-on-iran-lambastes-israel-crimes-against-humanity-u-n/\" rel=\"nofollow\">Qatar Goes Diplomatic on Iran, Lambastes Israel for ‘Crimes Against Humanity’ at U.N.</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-22T21:00:38+00:00",
-   "collected": "2026-09-23T00:39:02.362204+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Qatar’s Sheikh Tamim bin Hamad al-Thani lamented the “dangerous situation” in the Middle East during his address to the U.N. The post Qatar Goes Diplomatic on Iran, Lambastes Israel for ‘Crimes Agains",
-   "angle": null
-  },
-  {
-   "id": "f49e404c075bacf1",
-   "title": "Trump is backing a diesel export ban. How much would that do?",
-   "link": "https://grist.org/transportation/trump-is-backing-a-diesel-export-ban-how-much-would-that-do/",
-   "summary_raw": "",
-   "source": "Grist",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-09-22T21:00:21+00:00",
-   "collected": "2026-09-23T00:38:34.831666+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null
-  },
-  {
-   "id": "72e9ec5ea6a097a6",
-   "title": "Αλ. Τσίπρας: Πλαφόν τώρα 1,4 ευρώ για το πετρέλαιο θέρμανσης - 1,8 ευρώ για το πετρέλαιο κίνησης - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUdFZTlnRzBuUTR0V25nS0xoeXlIZDRDdHAyZlF1eGNkdTQ1TFZLdXdZRjhtNHpmdzQxMi0wbUNLQlM4NkpaYkFFbG1jaDgyRC05UzlZVzdwQ2JwYmc2SHA0WktwYmd2RmtMQWJCS19rNlRMYkYycklMaHdQd3B5WlE0Nl9UOUNiWm4wdHI3eUJUc3I0T2JUaTAwbGhNWTRrY2tGY0lFSXNCbUwzSUxKWFFFZFUyMUk5RlpJSk1DSm52Qkw4MW9MRHJGSmVUQQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUdFZTlnRzBuUTR0V25nS0xoeXlIZDRDdHAyZlF1eGNkdTQ1TFZLdXdZRjhtNHpmdzQxMi0wbUNLQlM4NkpaYkFFbG1jaDgyRC05UzlZVzdwQ2JwYmc2SHA0WktwYmd2RmtMQWJCS19rNlRMYkYycklMaHdQd3B5WlE0Nl9UOUNiWm4wdHI3eUJUc3I0T2JUaTAwbGhNWTRrY2tGY0lFSXNCbUwzSUxKWFFFZFUyMUk5RlpJSk1DSm52Qkw4MW9MRHJGSmVUQQ?oc=5\" target=\"_blank\">Αλ. Τσίπρας: Πλαφόν τώρα 1,4 ευρώ για το πετρέλαιο θέρμανσης - 1,8 ευρώ για το πετρέλαιο κίνησης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-09-22T21:00:00+00:00",
-   "collected": "2026-09-27T14:02:02.331628+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Αλ. Τσίπρας: Πλαφόν τώρα 1,4 ευρώ για το πετρέλαιο θέρμανσης - 1,8 ευρώ για το πετρέλαιο κίνησης Παρατηρητής της Θράκης",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "dd2407d8d98409e8",
-   "title": "‘WICKED PRESUMPTION’: Social Worker Sues Over School Transgender Policy Requiring ‘a Conspiracy to Lie to Parents’",
-   "link": "https://www.dailysignal.com/2026/09/22/wicked-presumption-social-worker-sues-over-school-transgender-policy-requiring-conspiracy-lie-parents/",
-   "summary_raw": "FIRST ON THE DAILY SIGNAL—An Albuquerque social worker is speaking out after suing to block a school district policy, alleging that it violates her First Amendment rights by forcing her to lie to parents about their students&#8217; gender identities. &#8220;I&#8217;m a social worker. My job is to support &#8230; emotional development, mental health, decision-making processes...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-22T20:59:00+00:00",
-   "collected": "2026-09-22T21:24:00.202546+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "FIRST ON THE DAILY SIGNAL—An Albuquerque social worker is speaking out after suing to block a school district policy, alleging that it violates her First Amendment rights by forcing her to lie to pare",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "2cd5cc207a180159",
-   "title": "Feds Report 160 Election Fraud Arrests as Thousands of New Leads Pour In",
-   "link": "https://www.dailysignal.com/2026/09/22/feds-160-election-fraud-arrests/",
-   "summary_raw": "Since late 2025, federal law enforcement has made 160 election fraud arrests and has 10 times as many investigations in motion, senior Trump administration officials said. “We are investigating several hundred cases that are very much active right now. We are bringing several cases each week,” a Justice Department official told the Daily Signal Tuesday....",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-09-22T20:58:12+00:00",
-   "collected": "2026-09-22T21:24:00.202767+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Since late 2025, federal law enforcement has made 160 election fraud arrests and has 10 times as many investigations in motion, senior Trump administration officials said. “We are investigating severa",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "OSINT613",
-    "Telegram @clashreport"
-   ]
   }
  ]
 }
