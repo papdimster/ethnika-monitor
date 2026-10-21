@@ -1,7 +1,398 @@
 {
- "updated": "2026-10-21T21:26:25.956677+00:00",
- "count": 1625,
+ "updated": "2026-10-21T23:26:08.366310+00:00",
+ "count": 1634,
  "items": [
+  {
+   "id": "5a03239db41c805f",
+   "title": "NEW: The U.S. and Israel are preparing for possible renewed strikes on Iran after the November midterm elections, targeting nuclear facilities, missile systems, and potentially ene…",
+   "link": "https://t.me/ClashReport/102436",
+   "summary_raw": "NEW: The U.S. and Israel are preparing for possible renewed strikes on Iran after the November midterm elections, targeting nuclear facilities, missile systems, and potentially energy infrastructure.   However, Trump has repeatedly delayed military action, and no final decision has been made.   Iran has warned of wider retaliation, including attacks on Gulf oil facilities and digital infrastructure.  Source: NYT",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-10-21T23:12:00+00:00",
+   "collected": "2026-10-21T23:25:12.695674+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "NEW: The U.S. and Israel are preparing for possible renewed strikes on Iran after the November midterm elections, targeting nuclear facilities, missile systems, and potentially energy infrastructure. ",
+   "angle": null
+  },
+  {
+   "id": "4114a8c3be001428",
+   "title": "US assessments find crime in parts of Latin America comparable to some American cities, despite travel warnings",
+   "link": "https://www.aa.com.tr/en/americas/us-assessments-find-crime-in-parts-of-latin-america-comparable-to-some-american-cities-despite-travel-warnings/4096571",
+   "summary_raw": "Internal reports could affect asylum decisions for migrants from 4 countries",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-10-21T22:38:44+00:00",
+   "collected": "2026-10-21T23:23:48.258965+00:00",
+   "keywords_hit": [
+    "migrant",
+    "asylum"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Internal reports could affect asylum decisions for migrants from 4 countries",
+   "angle": null
+  },
+  {
+   "id": "2242f9c225fe3165",
+   "title": "⚡️ Kharatian: The Dead Hand doctrine has been activated. The Dead Hand doctrine refers to the Soviet nuclear response protocol. This protocol is implemented when the Soviet Union o…",
+   "link": "https://t.me/me_observer_TG/1118350",
+   "summary_raw": "⚡️ Kharatian: The Dead Hand doctrine has been activated. The Dead Hand doctrine refers to the Soviet nuclear response protocol. This protocol is implemented when the Soviet Union or current Russia has been destroyed, and according to the protocol, they must respond with nuclear force.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-10-21T22:28:53+00:00",
+   "collected": "2026-10-21T23:25:13.785444+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ Kharatian: The Dead Hand doctrine has been activated. The Dead Hand doctrine refers to the Soviet nuclear response protocol. This protocol is implemented when the Soviet Union or current Russia has",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "4e40b16434a44254",
+   "title": "Oil Flows Return to Pre-War Levels Despite Iran’s Resurgent Hormuz Terrorism",
+   "link": "https://www.breitbart.com/economy/2026/10/21/oil-flows-return-to-pre-war-levels-despite-irans-resurgent-hormuz-terrorism/",
+   "summary_raw": "<p>Data released by maritime tracking agency Kpler on Wednesday showed that oil exports have reached, and even surpassed, pre-war levels despite resurgent terror attacks by Iran on commercial vessels in the Strait of Hormuz.</p>\n<p>The post <a href=\"https://www.breitbart.com/economy/2026/10/21/oil-flows-return-to-pre-war-levels-despite-irans-resurgent-hormuz-terrorism/\" rel=\"nofollow\">Oil Flows Return to Pre-War Levels Despite Iran’s Resurgent Hormuz Terrorism</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-21T22:22:39+00:00",
+   "collected": "2026-10-21T23:24:39.489589+00:00",
+   "keywords_hit": [],
+   "category": "Ενέργεια",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Data released by maritime tracking agency Kpler on Wednesday showed that oil exports have reached, and even surpassed, pre-war levels despite resurgent terror attacks by Iran on commercial vessels in ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ορμούζ",
+     "lat": 26.57,
+     "lon": 56.25
+    }
+   ]
+  },
+  {
+   "id": "51265c7c1d834017",
+   "title": "Greece Records Over 640 Turkish Airspace Violations in 9 Months",
+   "link": "https://greekcitytimes.com/2026/10/22/greece-records-over-640-turkish-airspace-violations-in-9-months/",
+   "summary_raw": "<p>Turkish airspace violations over the Aegean rose 185.7% in the first nine months of 2026, while drone activity accounted for most recent incursions.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/22/greece-records-over-640-turkish-airspace-violations-in-9-months/\">Greece Records Over 640 Turkish Airspace Violations in 9 Months</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-10-21T22:10:41+00:00",
+   "collected": "2026-10-21T23:24:12.821397+00:00",
+   "keywords_hit": [
+    "aegean"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Turkish airspace violations over the Aegean rose 185.7% in the first nine months of 2026, while drone activity accounted for most recent incursions. The post Greece Records Over 640 Turkish Airspace V",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "4d04a1c4dc5cf534",
+   "title": "World’s Worst Polluter, China, Vows Strong Presence at U.N. Climate Alarmism Summit",
+   "link": "https://www.breitbart.com/environment/2026/10/21/worlds-worst-polluter-china-vows-strong-presence-at-u-n-climate-alarmism-summit/",
+   "summary_raw": "<p>China’s Ministry of Ecology and Environment said on Wednesday that it will send a delegation to the COP31 climate conference in Antalya, Turkey, in November to “actively promote the international climate negotiations.”</p>\n<p>The post <a href=\"https://www.breitbart.com/environment/2026/10/21/worlds-worst-polluter-china-vows-strong-presence-at-u-n-climate-alarmism-summit/\" rel=\"nofollow\">World’s Worst Polluter, China, Vows Strong Presence at U.N. Climate Alarmism Summit</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-21T22:07:01+00:00",
+   "collected": "2026-10-21T23:24:39.490915+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "China’s Ministry of Ecology and Environment said on Wednesday that it will send a delegation to the COP31 climate conference in Antalya, Turkey, in November to “actively promote the international clim",
+   "angle": null,
+   "corroborated_by": [
+    "Inside Climate News"
+   ]
+  },
+  {
+   "id": "e4ee217099ed4d30",
+   "title": "Zelensky Says He Would Accept Deal to Freeze Ukraine War at Current Lines",
+   "link": "https://www.breitbart.com/politics/2026/10/21/zelensky-says-he-would-accept-deal-freeze-ukraine-war-current-lines/",
+   "summary_raw": "<p>Volodymyr Zelensky said Wednesday he would accept a peace deal freezing the Ukraine war at current front lines.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/10/21/zelensky-says-he-would-accept-deal-freeze-ukraine-war-current-lines/\" rel=\"nofollow\">Zelensky Says He Would Accept Deal to Freeze Ukraine War at Current Lines</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-21T22:05:05+00:00",
+   "collected": "2026-10-21T23:24:39.489985+00:00",
+   "keywords_hit": [],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Volodymyr Zelensky said Wednesday he would accept a peace deal freezing the Ukraine war at current front lines. The post Zelensky Says He Would Accept Deal to Freeze Ukraine War at Current Lines appea",
+   "angle": null
+  },
+  {
+   "id": "03b95a69480a7ba1",
+   "title": "Greece Raises Turkey-Libya Maritime Deal at UN Security Council",
+   "link": "https://greekcitytimes.com/2026/10/22/greece-raises-turkey-libya-maritime-deal-at-un-security-council/",
+   "summary_raw": "<p>Greece raises Libya’s ratification of the Turkey-Libya maritime deal at the UN as the EU, Egypt and Israel object and Ankara rejects criticism.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/22/greece-raises-turkey-libya-maritime-deal-at-un-security-council/\">Greece Raises Turkey-Libya Maritime Deal at UN Security Council</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-10-21T22:04:39+00:00",
+   "collected": "2026-10-21T23:24:12.821633+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Greece raises Libya’s ratification of the Turkey-Libya maritime deal at the UN as the EU, Egypt and Israel object and Ankara rejects criticism. The post Greece Raises Turkey-Libya Maritime Deal at UN ",
+   "angle": null,
+   "corroborated_by": [
+    "Libya Observer",
+    "Libya Review",
+    "OSINT613"
+   ],
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "8e901b5bc7e06ae5",
+   "title": "Greek MEPs Urge Action Over Crop Burning Pollution from Turkey",
+   "link": "https://greekcitytimes.com/2026/10/22/greek-meps-urge-action-over-crop-burning-pollution-from-turkey/",
+   "summary_raw": "<p>Greek MEPs Freddy Beleris and Dimitris Tsiodras urge EU action over crop-residue burning in Turkish rice fields and pollution risks along the Evros River.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/22/greek-meps-urge-action-over-crop-burning-pollution-from-turkey/\">Greek MEPs Urge Action Over Crop Burning Pollution from Turkey</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-10-21T22:00:40+00:00",
+   "collected": "2026-10-21T23:24:12.821828+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Greek MEPs Freddy Beleris and Dimitris Tsiodras urge EU action over crop-residue burning in Turkish rice fields and pollution risks along the Evros River. The post Greek MEPs Urge Action Over Crop Bur",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
+    }
+   ]
+  },
+  {
+   "id": "5287ae645d30c499",
+   "title": "Επίτροπος Μεσογείου της ΕΕ για το τουρκολιβυκό μνημόνιο: Άκυρο και ανυπόστατο – Αλληλεγγύη σε Ελλάδα και Κύπρο",
+   "link": "https://www.tanea.gr/2026/10/22/world/epitropos-mesogeioy-tis-ee-gia-to-toyrkolivyko-mnimonio-akyro-kai-anypostato-allileggyi-se/",
+   "summary_raw": "<div><img alt=\"Σημαίες Ελλάδας Κύπρου\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://www.tanea.gr/wp-content/uploads/2025/09/ellada-kupros-1024x576.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Την έντονη αντίθεσή της στην κύρωση του τουρκολιβυκού μνημονίου από τη Βουλή των Αντιπροσώπων της Λιβύης εξέφρασε η Επίτροπος της Ευρωπαϊκής Ένωσης για τη Μεσόγειο, Ντουμπράβκα Σουίτσα, υπογραμμίζοντας ότι η συγκεκριμένη συμφωνία παραβιάζει τα κυριαρχικά δικαιώματα τρίτων κρατών και δεν συνάδει με το Δίκαιο της Θάλασσας.",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-21T21:57:06+00:00",
+   "collected": "2026-10-21T23:24:34.903259+00:00",
+   "keywords_hit": [
+    "λιβύη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Την έντονη αντίθεσή της στην κύρωση του τουρκολιβυκού μνημονίου από τη Βουλή των Αντιπροσώπων της Λιβύης εξέφρασε η Επίτροπος της Ευρωπαϊκής Ένωσης για τη Μεσόγειο, Ντουμπράβκα Σουίτσα, υπογραμμίζοντα",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "f4868f2298209897",
+   "title": "OSINTdefender The U.S. military has quietly been scaling back its presence at bases across the Middle East in recent days, according to two U.S. officials and two people familiar w…",
+   "link": "https://t.me/OSINTLive/584440",
+   "summary_raw": "OSINTdefender The U.S. military has quietly been scaling back its presence at bases across the Middle East in recent days, according to two U.S. officials and two people familiar with the matter who spoke to NBC News. Troops at bases in Jordan, Qatar and Kuwait are among those moved, per one of the officials.  Earlier today, the State Department announced the U.S. embassy in Saudi Arabia is reducing staff. Spokesperson Tommy Pigott cited Iranian supported Houthi attacks on Saudi Arabia, including on civilian airports.   Chiefs of mission at multiple other posts were told they would operate with reduced staff, the officials said. U.S. Central Command (CENTCOM) spokesperson said, “We regularly move U.S. service members and assets to optimize mission readiness.”  The sources said the moves respond to ongoing threats, including from Iran, and resemble drawdowns at the start of the war in February. One official and one person familiar said moving forces out of harm’s way is part of planning as President Donald J. Trump considers restarting major combat operations, potentially before or after the midterms. President Trump wrote on October 8th that the U.S. will not attack Iran before the",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-10-21T21:50:20+00:00",
+   "collected": "2026-10-21T23:25:14.341804+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "OSINTdefender The U.S. military has quietly been scaling back its presence at bases across the Middle East in recent days, according to two U.S. officials and two people familiar with the matter who s",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "e09404858fa73c4f",
+   "title": "Limiting Global Warming to 1.5 Degrees Celsius Is No Longer Feasible, UN Report Finds",
+   "link": "https://insideclimatenews.org/news/21102026/limiting-global-warming-to-1-5-degrees-no-longer-realistic/",
+   "summary_raw": "A new report from the United Nations Environment Programme suggests that limiting global warming to 1.5 degrees Celsius above pre-industrial levels is no longer a realistic outcome, even under the most ambitious emissions-reduction scenarios. The report’s lowest-warming scenario, which would require steep cuts in greenhouse gas emissions, would only limit peak global warming to 1.7 [&#8230;]",
+   "source": "Inside Climate News",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-10-21T21:34:36+00:00",
+   "collected": "2026-10-21T23:24:23.416015+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "A new report from the United Nations Environment Programme suggests that limiting global warming to 1.5 degrees Celsius above pre-industrial levels is no longer a realistic outcome, even under the mos",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "Reuters Sustainability"
+   ]
+  },
+  {
+   "id": "0499bc4b069d65e0",
+   "title": "EU Mediterranean Commissioner Calls Libya-Turkey Deal Invalid",
+   "link": "https://greekcitytimes.com/2026/10/22/eu-mediterranean-commissioner-calls-libya-turkey-deal-invalid/",
+   "summary_raw": "<p>EU Mediterranean Commissioner Dubravka Šuica condemns Libya’s ratification of the Turkey maritime deal, backing Greece and Cyprus and citing international law. </p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/22/eu-mediterranean-commissioner-calls-libya-turkey-deal-invalid/\">EU Mediterranean Commissioner Calls Libya-Turkey Deal Invalid</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-10-21T21:32:32+00:00",
+   "collected": "2026-10-21T23:24:12.823349+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "EU Mediterranean Commissioner Dubravka Šuica condemns Libya’s ratification of the Turkey maritime deal, backing Greece and Cyprus and citing international law. The post EU Mediterranean Commissioner C",
+   "angle": null,
+   "corroborated_by": [
+    "Libya Observer",
+    "Libya Review",
+    "OSINT613"
+   ],
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "492bc4169c4648dd",
+   "title": "Egypt Rejects Libya-Turkey Maritime Deal",
+   "link": "https://www.osint613.com/post/egypt-rejects-libya-turkey-maritime-deal-26004",
+   "summary_raw": "Tensions between Egypt and Turkey are resurfacing over control of the Eastern Mediterranean.\n\nEgypt has formally rejected Libya’s ratification of a maritime agreement with Turkey, declaring it legally invalid and warning that it reserves the right to take necessary measures to protect its maritime interests.\n\nThe disputed 2019 agreement establishes maritime boundaries between Turkey and Libya, potentially affecting competing claims over offshore energy resources.\n\nThe dispute also involves Gr...",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-10-21T21:26:27+00:00",
+   "collected": "2026-10-21T23:24:39.911003+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Tensions between Egypt and Turkey are resurfacing over control of the Eastern Mediterranean. Egypt has formally rejected Libya’s ratification of a maritime agreement with Turkey, declaring it legally ",
+   "angle": null,
+   "corroborated_by": [
+    "Greek City Times",
+    "Libya Observer",
+    "Libya Review"
+   ],
+   "locations": [
+    {
+     "name": "Ανατολική Μεσόγειος",
+     "lat": 34.0,
+     "lon": 30.0
+    }
+   ]
+  },
+  {
+   "id": "f336cac3c53d5525",
+   "title": "Armed Men Storm Libya’s Audit Bureau HQ in Tripoli",
+   "link": "https://libyareview.com/69150/armed-men-storm-libyas-audit-bureau-hq-in-tripoli/",
+   "summary_raw": "<p>Libya’s Audit Bureau has suspended operations until further notice after armed men stormed its headquarters in Tripoli, in what the institution described as an attempt to impose a deputy head without a legal basis. In a statement issued on Wednesday, the bureau condemned the armed incursion, warning that it had put employees’ safety at risk [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/69150/armed-men-storm-libyas-audit-bureau-hq-in-tripoli/\">Armed Men Storm Libya’s Audit Bureau HQ in Tripoli</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-10-21T21:26:00+00:00",
+   "collected": "2026-10-21T23:24:08.542223+00:00",
+   "keywords_hit": [
+    "libya",
+    "tripoli"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Libya’s Audit Bureau has suspended operations until further notice after armed men stormed its headquarters in Tripoli, in what the institution described as an attempt to impose a deputy head without ",
+   "angle": null,
+   "corroborated_by": [
+    "Greek City Times",
+    "Libya Observer",
+    "OSINT613"
+   ],
+   "locations": [
+    {
+     "name": "Τρίπολη",
+     "lat": 32.89,
+     "lon": 13.19
+    }
+   ]
+  },
   {
    "id": "375361ea629ddc00",
    "title": "Yunanistan'da büyük skandal! Federasyon Başkanı gözaltına alındı",
@@ -310,6 +701,25 @@
    ]
   },
   {
+   "id": "de57b8cafcdc6c43",
+   "title": "Ο Νετανιάχου επιθυμεί διακαώς να ξεκινήσει πόλεμος – Ισραηλινά μαχητικά επιχείρησαν να προκαλέσουν το Ιράν",
+   "link": "https://www.in.gr/2026/10/21/world/o-netaniaxou-epithymei-diakaos-na-ksekinisei-polemos-israilina-maxitika-epixeirisan-na-prokalesoun-to-iran/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/10/2026-10-21T160510Z_1857175611_RC2Q7OAP23I9_RTRMADP_5_ISRAEL-MILITARY-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Επιχείρηση πρόκλησης απάντησης από το Ιράν διεξήγαν ισραηλινά μαχητικά. Πέταξαν προς τα σύνορα του Ιράν, την ώρα που ο Νετανιάχου ισχυρίζεται ότι η Τεχεράνη ετοιμάζει πυρηνική βόμβα. Ισραηλινή επίθεση ακυρώθηκε την τελευταία στιγμή, έπειτα από παρέμβαση Τραμπ.</p>\n<p>The post <a href=\"https://www.in.gr/2026/10/21/world/o-netaniaxou-epithymei-diakaos-na-ksekinisei-polemos-israilina-maxitika-epixeirisan-na-prokalesoun-to-iran/\">Ο Νετανιάχου επιθυμεί διακαώς να ξεκινήσει πόλεμος &#8211; Ισραηλινά μαχητικά επιχείρησαν να προκαλέσουν το Ιράν</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-21T19:30:17+00:00",
+   "collected": "2026-10-21T23:24:34.659356+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Επιχείρηση πρόκλησης απάντησης από το Ιράν διεξήγαν ισραηλινά μαχητικά. Πέταξαν προς τα σύνορα του Ιράν, την ώρα που ο Νετανιάχου ισχυρίζεται ότι η Τεχεράνη ετοιμάζει πυρηνική βόμβα. Ισραηλινή επίθεση",
+   "angle": null
+  },
+  {
    "id": "4c2195a322d4d41f",
    "title": "Turkish parliament speaker welcomes Libya's approval of maritime deal with Türkiye",
    "link": "https://www.aa.com.tr/en/politics/turkish-parliament-speaker-welcomes-libyas-approval-of-maritime-deal-with-turkiye/4096440",
@@ -391,6 +801,25 @@
      "lon": 22.0
     }
    ]
+  },
+  {
+   "id": "10b2d2b4eff392fb",
+   "title": "ΗΠΑ: Σε ετοιμότητα για απομάκρυνση προσωπικού από τις πρεσβείες στον Κόλπο",
+   "link": "https://www.kathimerini.gr/world/564538483/ipa-se-etoimotita-gia-apomakrynsi-prosopikoy-apo-tis-presveies-ston-kolpo/",
+   "summary_raw": "Η απόφαση συνδέεται με το ενδεχόμενο επανέναρξης των εχθροπραξιών, ιδίως με τους Χούθι της Υεμένης, οι οποίοι υποστηρίζονται από το Ιράν.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-21T19:22:27+00:00",
+   "collected": "2026-10-21T23:24:34.115319+00:00",
+   "keywords_hit": [
+    "πομάκ"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η απόφαση συνδέεται με το ενδεχόμενο επανέναρξης των εχθροπραξιών, ιδίως με τους Χούθι της Υεμένης, οι οποίοι υποστηρίζονται από το Ιράν.",
+   "angle": null
   },
   {
    "id": "956bcca37c5e5271",
@@ -545,6 +974,28 @@
      "lat": 34.68,
      "lon": 33.04
     }
+   ]
+  },
+  {
+   "id": "971104e556c4a544",
+   "title": "Science magazine’s climate plan is a wealth transfer scheme in disguise - American Enterprise Institute - AEI",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDNGYi1CYm41bFdKUzRZN0lkWXh6TEltUGdld2FldUZBLVZSOUZDdGVNTmZ0ZWFYa3E5a2xBN1JxakxTWWlDOF9QMkt1Sno5RVBsOUNoOVR1dE9vSDI4R1NucEhkUmpMRjdiSm5sUG9LYTBPTnNYbnZIeS1YZjROQnF6TFRhLVJvSlVZcndrZmlrVVRDVXhHbllkVFhDYkZTSWhoLQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDNGYi1CYm41bFdKUzRZN0lkWXh6TEltUGdld2FldUZBLVZSOUZDdGVNTmZ0ZWFYa3E5a2xBN1JxakxTWWlDOF9QMkt1Sno5RVBsOUNoOVR1dE9vSDI4R1NucEhkUmpMRjdiSm5sUG9LYTBPTnNYbnZIeS1YZjROQnF6TFRhLVJvSlVZcndrZmlrVVRDVXhHbllkVFhDYkZTSWhoLQ?oc=5\" target=\"_blank\">Science magazine’s climate plan is a wealth transfer scheme in disguise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Enterprise Institute - AEI</font>",
+   "source": "American Enterprise Institute",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-10-21T18:53:08+00:00",
+   "collected": "2026-10-21T23:24:41.772982+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Science magazine’s climate plan is a wealth transfer scheme in disguise American Enterprise Institute - AEI",
+   "angle": null,
+   "corroborated_by": [
+    "Cato Institute"
    ]
   },
   {
@@ -1095,6 +1546,30 @@
    ]
   },
   {
+   "id": "ae9f883a959282c4",
+   "title": "Turkish Parliament Speaker: Objections to maritime agreement with Libya are meaningless - The Libya Observer",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUd0enVfNml6c2JtR1prZlAtQi1QQXhkN0V4ZDBoVVl2X2k1elhDS25NSmw5MjE5V2tQcTdsWHN0LVRSb2JMS21pRGVhblVIZkFNOFV6bVhnSDVib1Y1NDZQYmltU2p0bkFMeWNDUHRUT2w3SkdnbkxUN1R3YURDRVAwemJXUmo3am9jNjdvV3pweWpVTS1pVk5QNUxaNlRqemViTXU5azVYUzFn?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUd0enVfNml6c2JtR1prZlAtQi1QQXhkN0V4ZDBoVVl2X2k1elhDS25NSmw5MjE5V2tQcTdsWHN0LVRSb2JMS21pRGVhblVIZkFNOFV6bVhnSDVib1Y1NDZQYmltU2p0bkFMeWNDUHRUT2w3SkdnbkxUN1R3YURDRVAwemJXUmo3am9jNjdvV3pweWpVTS1pVk5QNUxaNlRqemViTXU5azVYUzFn?oc=5\" target=\"_blank\">Turkish Parliament Speaker: Objections to maritime agreement with Libya are meaningless</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Libya Observer</font>",
+   "source": "Libya Observer",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-10-21T17:23:28+00:00",
+   "collected": "2026-10-21T23:24:08.994342+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 5,
+   "turkish_narrative": true,
+   "summary_el": "Turkish Parliament Speaker: Objections to maritime agreement with Libya are meaningless The Libya Observer",
+   "angle": null,
+   "corroborated_by": [
+    "Greek City Times",
+    "Libya Review",
+    "OSINT613"
+   ]
+  },
+  {
    "id": "45b25fb04724ffde",
    "title": "ΕΕ: Άκυρο και ανυπόστατο το τουρκολιβυκό μνημόνιο, παραβιάζει κυριαρχικά δικαιώματα",
    "link": "https://www.ertnews.gr/eidiseis/diethni/ee-akyro-kai-anypostato-to-tourkolivyko-mnimonio-paraviazei-kyriarxika-dikaiomata/",
@@ -1467,6 +1942,30 @@
      "lat": 39.0,
      "lon": 25.5
     }
+   ]
+  },
+  {
+   "id": "0ff5aa234ea80eb4",
+   "title": "GNU welcomes parliamentary approval of maritime agreement with Turkey - The Libya Observer",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFhUUElrX0hpeW5WMWhlckpMU3oxUG9zUkxCSEJ4cUNoa2Vjb1pyQjJjYjNmb3FfNmU0YUF5QU0xajhTdzF3dGI4R3AtSzhELTVZZ0o1eWwxUDZpTzZpeE9nQlU1TTN4Q3JHSGhhUFJXS2RjZ2tBbGR4dGNLTWJyX1FxUHNJOU9DOExHLXcyelRXWGMzbUpQaWNn?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFhUUElrX0hpeW5WMWhlckpMU3oxUG9zUkxCSEJ4cUNoa2Vjb1pyQjJjYjNmb3FfNmU0YUF5QU0xajhTdzF3dGI4R3AtSzhELTVZZ0o1eWwxUDZpTzZpeE9nQlU1TTN4Q3JHSGhhUFJXS2RjZ2tBbGR4dGNLTWJyX1FxUHNJOU9DOExHLXcyelRXWGMzbUpQaWNn?oc=5\" target=\"_blank\">GNU welcomes parliamentary approval of maritime agreement with Turkey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Libya Observer</font>",
+   "source": "Libya Observer",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-10-21T16:34:58+00:00",
+   "collected": "2026-10-21T23:24:08.995335+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 5,
+   "turkish_narrative": true,
+   "summary_el": "GNU welcomes parliamentary approval of maritime agreement with Turkey The Libya Observer",
+   "angle": null,
+   "corroborated_by": [
+    "Greek City Times",
+    "Libya Review",
+    "OSINT613"
    ]
   },
   {
@@ -1949,6 +2448,67 @@
    "turkish_narrative": false,
    "summary_el": "Στην τελική ευθεία η πρόσκληση για τα 4,7 GW μπαταριών – Τι σχεδιάζεται για μικρούς παραγωγούς ΑΠΕ B2Green",
    "angle": null
+  },
+  {
+   "id": "22545f6fb1ee664f",
+   "title": "Why does almost every character in children’s books now have a disability?",
+   "link": "https://www.spiked-online.com/2026/10/21/why-does-almost-every-character-in-childrens-books-now-have-a-disability/",
+   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/10/21/why-does-almost-every-character-in-childrens-books-now-have-a-disability/\">Why does almost every character in children’s books now have a disability?</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
+   "source": "Spiked",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-10-21T15:30:29+00:00",
+   "collected": "2026-10-21T23:24:39.338088+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The post Why does almost every character in children’s books now have a disability? appeared first on spiked .",
+   "angle": null
+  },
+  {
+   "id": "74b6e2580dbc6805",
+   "title": "Are Trump’s Rallies MAGA’s Last Gasp? - The Dispatch",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTnU2anBfUEdjbkdOMDNvQTVkX0pzeDExdTBMZUxRM3A2MU8wRTBWXzBfRkI3Sll2WHE2b1Y1c1JEdzRBaDY1bGFDN2o5aG5MUWxDSHhTZ1VFSGxvdS1VMGdVb1lDbnFZUFJEcFQwYlp0VDlDNXV2RnZPd0hVZWRubEN3aDhQX0dUb0tiR0k0YWNqWEF4WmF5a0FwMEo?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPTnU2anBfUEdjbkdOMDNvQTVkX0pzeDExdTBMZUxRM3A2MU8wRTBWXzBfRkI3Sll2WHE2b1Y1c1JEdzRBaDY1bGFDN2o5aG5MUWxDSHhTZ1VFSGxvdS1VMGdVb1lDbnFZUFJEcFQwYlp0VDlDNXV2RnZPd0hVZWRubEN3aDhQX0dUb0tiR0k0YWNqWEF4WmF5a0FwMEo?oc=5\" target=\"_blank\">Are Trump’s Rallies MAGA’s Last Gasp?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dispatch</font>",
+   "source": "The Dispatch",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-10-21T15:29:57+00:00",
+   "collected": "2026-10-21T23:24:49.751706+00:00",
+   "keywords_hit": [
+    "maga",
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Are Trump’s Rallies MAGA’s Last Gasp? The Dispatch",
+   "angle": null,
+   "corroborated_by": [
+    "Cato Institute",
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "bc247a8bd483f3fc",
+   "title": "Cruz on El-Sayed: 'It's Not Complicated — He Hates Israel, He Hates Jews'",
+   "link": "https://www.breitbart.com/clips/2026/10/21/cruz-on-el-sayed-its-not-complicated-he-hates-israel-he-hates-jews/",
+   "summary_raw": "<p>Tuesday, during an appearance on FNC's \"Hannity,\" Sen. Ted Cruz (R-TX) commented on Michigan Democrat U.S. Senate nominee Abdul El-Sayed and his alleged ties to the Muslim Brotherhood.</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/10/21/cruz-on-el-sayed-its-not-complicated-he-hates-israel-he-hates-jews/\" rel=\"nofollow\">Cruz on El-Sayed: &#8216;It&#8217;s Not Complicated — He Hates Israel, He Hates Jews&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-21T15:22:27+00:00",
+   "collected": "2026-10-21T23:24:39.502184+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Tuesday, during an appearance on FNC's \"Hannity,\" Sen. Ted Cruz (R-TX) commented on Michigan Democrat U.S. Senate nominee Abdul El-Sayed and his alleged ties to the Muslim Brotherhood. The post Cruz o",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "9d04a0010c13c91a",
@@ -2539,6 +3099,23 @@
    "corroborated_by": [
     "Philenews"
    ]
+  },
+  {
+   "id": "848fd58c89dda962",
+   "title": "CREED project: how EVs can become power grid assets",
+   "link": "https://www.electrive.com/2026/10/21/creed-project-how-evs-can-become-power-grid-assets/",
+   "summary_raw": "<div><img alt=\"Creed projekt wallbox waermepumpe e auto\" class=\"attachment-medium size-medium wp-post-image\" height=\"267\" src=\"https://www.electrive.com/media/2026/10/creed-projekt-wallbox-waermepumpe-e-auto-2026-400x267.jpg\" style=\"margin-bottom: 15px;\" title=\"creed projekt wallbox waermepumpe e auto 2026\" width=\"400\" /></div>Nine European partners are exploring approaches to intelligently integrate EVs, heat pumps, batteries, and other flexible technologies into the energy system. A central component of the project is the practical testing of these approaches.",
+   "source": "Electrive (EU ηλεκτροκίνηση)",
+   "side": "green_emobility",
+   "lang": "en",
+   "published": "2026-10-21T14:30:00+00:00",
+   "collected": "2026-10-21T23:24:24.768671+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Nine European partners are exploring approaches to intelligently integrate EVs, heat pumps, batteries, and other flexible technologies into the energy system. A central component of the project is the",
+   "angle": null
   },
   {
    "id": "ea9d3fec82547f36",
@@ -8318,6 +8895,29 @@
    "angle": null
   },
   {
+   "id": "a86d81df58637c2b",
+   "title": "Donald Trump’s Diesel Desperation - The Dispatch",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEpaYkF4aGtRQ3lnMkx6THFPTmhYc3d2UTlHRmhyYlg4Z1h4dHVWdUNxTndaMlVWajF6R0dURmZjVG1HUDNhdU4zSjF3SERnZjZQaTVPN2REMjdySzRxUkdKV0ptS2x5NWV0d1hTTzJRZ2RBSmw0YXdINUN2ekFOd250N0NnU2Z2N2VfSFVWUkdHZw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEpaYkF4aGtRQ3lnMkx6THFPTmhYc3d2UTlHRmhyYlg4Z1h4dHVWdUNxTndaMlVWajF6R0dURmZjVG1HUDNhdU4zSjF3SERnZjZQaTVPN2REMjdySzRxUkdKV0ptS2x5NWV0d1hTTzJRZ2RBSmw0YXdINUN2ekFOd250N0NnU2Z2N2VfSFVWUkdHZw?oc=5\" target=\"_blank\">Donald Trump’s Diesel Desperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dispatch</font>",
+   "source": "The Dispatch",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-10-20T20:15:08+00:00",
+   "collected": "2026-10-21T23:24:49.753693+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Donald Trump’s Diesel Desperation The Dispatch",
+   "angle": null,
+   "corroborated_by": [
+    "Cato Institute",
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "64673229247d8312",
    "title": "Libya Ratifies Türkiye Maritime Deal; EU Calls It Null and Void",
    "link": "https://greekcitytimes.com/2026/10/21/libya-turkiye-maritime-deal-eu-null-and-void/",
@@ -11293,6 +11893,25 @@
      "lon": 25.5
     }
    ]
+  },
+  {
+   "id": "32070d781aecf490",
+   "title": "Ασφυξία στην Ιεράπετρα: Δε χωρούν άλλοι μετανάστες στην ΑΓΡΕΞ – Στα κιόσκια της παραλιακής οι νέες αφίξεις - Cretalive",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVg4cjZHWXRLWVJRRFBpZkpMYVdlY2tMaFRFVFlsVEgxdVJnc2ZxY1RYSV9nNUpPamdhSVZxdUtyU1dxSkkwazJMVmhPLVBHdGVfSFUwNU95VU5CYkxEblJXcGxSdkZUZTlucmRMY1BaVkZjMXkxT2JvZWdnYzVnQ1hQRThBeWlNWGwyTkQ1bmdsRTNoTGF1SC1ZcDlVb09RSnc5czRFNjVvM0M1ZklpNXhZRFUza1hLQjBkRUdkRQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVg4cjZHWXRLWVJRRFBpZkpMYVdlY2tMaFRFVFlsVEgxdVJnc2ZxY1RYSV9nNUpPamdhSVZxdUtyU1dxSkkwazJMVmhPLVBHdGVfSFUwNU95VU5CYkxEblJXcGxSdkZUZTlucmRMY1BaVkZjMXkxT2JvZWdnYzVnQ1hQRThBeWlNWGwyTkQ1bmdsRTNoTGF1SC1ZcDlVb09RSnc5czRFNjVvM0M1ZklpNXhZRFUza1hLQjBkRUdkRQ?oc=5\" target=\"_blank\">Ασφυξία στην Ιεράπετρα: Δε χωρούν άλλοι μετανάστες στην ΑΓΡΕΞ – Στα κιόσκια της παραλιακής οι νέες αφίξεις</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cretalive</font>",
+   "source": "Cretalive",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-10-20T14:48:28+00:00",
+   "collected": "2026-10-21T23:24:31.561129+00:00",
+   "keywords_hit": [
+    "αφίξεις"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Ασφυξία στην Ιεράπετρα: Δε χωρούν άλλοι μετανάστες στην ΑΓΡΕΞ – Στα κιόσκια της παραλιακής οι νέες αφίξεις Cretalive",
+   "angle": null
   },
   {
    "id": "b0c7adcc8920c27e",
@@ -16050,6 +16669,27 @@
    ]
   },
   {
+   "id": "db3c4778277ff812",
+   "title": "Study: Data Centers Become Military Targets in Ukraine, Russia, and Middle East",
+   "link": "https://www.breitbart.com/middle-east/2026/10/19/study-data-centers-become-military-targets-in-ukraine-russia-and-middle-east/",
+   "summary_raw": "<p>Data centers are increasingly under attack in the Ukraine-Russia war, as well as Iran’s wanton drone and missile attacks on neighboring states like Bahrain and the United Arab Emirates (UAE), a study revealed this weekend.</p>\n<p>The post <a href=\"https://www.breitbart.com/middle-east/2026/10/19/study-data-centers-become-military-targets-in-ukraine-russia-and-middle-east/\" rel=\"nofollow\">Study: Data Centers Become Military Targets in Ukraine, Russia, and Middle East</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-19T19:39:03+00:00",
+   "collected": "2026-10-21T23:24:39.503169+00:00",
+   "keywords_hit": [],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Data centers are increasingly under attack in the Ukraine-Russia war, as well as Iran’s wanton drone and missile attacks on neighboring states like Bahrain and the United Arab Emirates (UAE), a study ",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
    "id": "68ce8082ca6f05c2",
    "title": "Menfi discusses political developments, stronger ties with new EU ambassador - The Libya Observer",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUN4UlltcTNYNzEwcm8waF9qaGcySG1SNUhJZ3lMYnU4QmVjOXQ5cTNXZloycmhUV0I3Y0RTOVN2cEoxSEJYek5aS1haTFFxaExpczRPSnZpYjN5elUyWHN3VkpwVUlhMjlPMnFaMnhWZmFFOEdJOGJPRTNNRXhBaEd4SnU3bjQ3UkxBaEVHd0YxVlRGNHhkSTlBZjJZRnF2Ymc?oc=5",
@@ -17210,6 +17850,30 @@
    "angle": null,
    "corroborated_by": [
     "UnHerd"
+   ]
+  },
+  {
+   "id": "8ab0d11b72239615",
+   "title": "Inflation Can’t Solve America’s Debt Problem, President Trump - Cato Institute",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhEbmNTWXBkdGVRU2E3eTVBSy1KcjhwS3lfUjc2QUN2anNWUENwZUNDOFFrcVlwa0NLcEZScGYwSUlFMkRFbW9YVXZsOTBxbUlacEk2SUVIOWNHNmNuNjFoQ2NGVDV6aUk0Q2VRMUlVUy0tZGtzX2h1RlVLdmFXYnN1ZGlQakNJa19ZYw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhEbmNTWXBkdGVRU2E3eTVBSy1KcjhwS3lfUjc2QUN2anNWUENwZUNDOFFrcVlwa0NLcEZScGYwSUlFMkRFbW9YVXZsOTBxbUlacEk2SUVIOWNHNmNuNjFoQ2NGVDV6aUk0Q2VRMUlVUy0tZGtzX2h1RlVLdmFXYnN1ZGlQakNJa19ZYw?oc=5\" target=\"_blank\">Inflation Can’t Solve America’s Debt Problem, President Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cato Institute</font>",
+   "source": "Cato Institute",
+   "side": "conservative_lib",
+   "lang": "en",
+   "published": "2026-10-19T15:18:12+00:00",
+   "collected": "2026-10-21T23:24:50.165724+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Inflation Can’t Solve America’s Debt Problem, President Trump Cato Institute",
+   "angle": null,
+   "corroborated_by": [
+    "American Enterprise Institute",
+    "Daily Signal",
+    "The Dispatch"
    ]
   },
   {
@@ -25906,6 +26570,28 @@
      "lat": 41.12,
      "lon": 26.35
     }
+   ]
+  },
+  {
+   "id": "49801ddcf8624c0e",
+   "title": "Our Populist Hissy Fit Needs to Stop | Ruminant - American Enterprise Institute - AEI",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa3h5LV9jR3lEeG1zSGV2dTJNTzVCenFjbW55Y2wzQTI5QWpETG4yR0lBT001SU1tUVROeTdkR3I0bi1IbTVTMGdvVW9EY2VWd3JlV2w2Rm40YnpVamdTV2FSclMzSWFfQjFxSkpPeHNvbXM2OVoyNlFPZjVzak5WNWgtSQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOa3h5LV9jR3lEeG1zSGV2dTJNTzVCenFjbW55Y2wzQTI5QWpETG4yR0lBT001SU1tUVROeTdkR3I0bi1IbTVTMGdvVW9EY2VWd3JlV2w2Rm40YnpVamdTV2FSclMzSWFfQjFxSkpPeHNvbXM2OVoyNlFPZjVzak5WNWgtSQ?oc=5\" target=\"_blank\">Our Populist Hissy Fit Needs to Stop | Ruminant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Enterprise Institute - AEI</font>",
+   "source": "American Enterprise Institute",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-10-17T07:00:00+00:00",
+   "collected": "2026-10-21T23:24:41.771428+00:00",
+   "keywords_hit": [
+    "populist"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Our Populist Hissy Fit Needs to Stop | Ruminant American Enterprise Institute - AEI",
+   "angle": null,
+   "corroborated_by": [
+    "Cato Institute"
    ]
   },
   {
@@ -37215,6 +37901,29 @@
    "angle": null
   },
   {
+   "id": "0af18fe81b95afe5",
+   "title": "Trump’s Trade War Is Helping Mark Carney Transform Canada - The Dispatch",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sNWZJb3lRTmIyN1l3VUtIRDFsNUJuRjZTRV9UNC1XdDQyR2FIeXVUZzZyLUdST0hnR0xXeU9icDhKRmZ4VjFpQkY4ZXlCekJYNWQ5ZWV2emcydzZiVU56UDJWNUd5ajZadmg1X295eWZjenBxV3haLWtkeUlYVHc?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1sNWZJb3lRTmIyN1l3VUtIRDFsNUJuRjZTRV9UNC1XdDQyR2FIeXVUZzZyLUdST0hnR0xXeU9icDhKRmZ4VjFpQkY4ZXlCekJYNWQ5ZWV2emcydzZiVU56UDJWNUd5ajZadmg1X295eWZjenBxV3haLWtkeUlYVHc?oc=5\" target=\"_blank\">Trump’s Trade War Is Helping Mark Carney Transform Canada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dispatch</font>",
+   "source": "The Dispatch",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-10-15T05:01:00+00:00",
+   "collected": "2026-10-21T23:24:49.751345+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Trump’s Trade War Is Helping Mark Carney Transform Canada The Dispatch",
+   "angle": null,
+   "corroborated_by": [
+    "Cato Institute",
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "af191ba06fdea62e",
    "title": "Meloni warns Trump’s Russian diesel deal risks legitimising Moscow",
    "link": "https://brusselssignal.eu/2026/10/meloni-warns-trumps-russian-diesel-deal-risks-legitimising-moscow/",
@@ -37863,467 +38572,6 @@
    "turkish_narrative": false,
    "summary_el": "Funding will form part of an international program coordinated by European Bank for Reconstruction and Development",
    "angle": null
-  },
-  {
-   "id": "8d63b6ed81fe730a",
-   "title": "Trump DOJ Investigates New Jersey Town for Allegations of 'Egregious,' 'Unjust Delays' Issuing Gun Licenses",
-   "link": "https://www.breitbart.com/2nd-amendment/2026/10/14/trump-doj-investigates-new-jersey-town-for-allegations-of-egregious-unjust-delays-issuing-gun-licenses/",
-   "summary_raw": "<p>The Civil Rights Division of President Trump's Department of Justice (DOJ) is investigating \"whether Pennsauken, New Jersey deprives citizens of their right to bear arms\" via \"delays in issuing firearm licenses.\"</p>\n<p>The post <a href=\"https://www.breitbart.com/2nd-amendment/2026/10/14/trump-doj-investigates-new-jersey-town-for-allegations-of-egregious-unjust-delays-issuing-gun-licenses/\" rel=\"nofollow\">Trump DOJ Investigates New Jersey Town for Allegations of &#8216;Egregious,&#8217; &#8216;Unjust Delays&#8217; Issuing Gun Licenses</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-14T23:17:04+00:00",
-   "collected": "2026-10-15T04:47:49.268981+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The Civil Rights Division of President Trump's Department of Justice (DOJ) is investigating \"whether Pennsauken, New Jersey deprives citizens of their right to bear arms\" via \"delays in issuing firear",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "4b6df209fb29bdf2",
-   "title": "Πώς οι μεμονωμένες αποφάσεις για το ντίζελ κατακερματίζουν την παγκόσμια ενεργειακή ασφάλεια",
-   "link": "https://www.in.gr/2026/10/15/economy/diethnis-oikonomia/pos-oi-memonomenes-apofaseis-gia-to-ntizel-katakermatizoun-tin-pagkosmia-energeiaki-asfaleia/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"576\" src=\"https://www.in.gr/wp-content/uploads/2026/10/benjamin-lehman-ALUBtrDWZ_s-unsplash-768x576.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Αυτό που φαίνεται ορθολογικό για τα μεμονωμένα κράτη θα αποδυναμώσει τη συλλογική ασφάλεια περιορίζοντας τη δυνατότητα συλλογικών εναλλακτικών επιλογών</p>\n<p>The post <a href=\"https://www.in.gr/2026/10/15/economy/diethnis-oikonomia/pos-oi-memonomenes-apofaseis-gia-to-ntizel-katakermatizoun-tin-pagkosmia-energeiaki-asfaleia/\">Πώς οι μεμονωμένες αποφάσεις για το ντίζελ κατακερματίζουν την παγκόσμια ενεργειακή ασφάλεια</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-14T23:04:50+00:00",
-   "collected": "2026-10-14T23:57:54.993502+00:00",
-   "keywords_hit": [
-    "ενεργειακή ασφάλεια"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Αυτό που φαίνεται ορθολογικό για τα μεμονωμένα κράτη θα αποδυναμώσει τη συλλογική ασφάλεια περιορίζοντας τη δυνατότητα συλλογικών εναλλακτικών επιλογών The post Πώς οι μεμονωμένες αποφάσεις για το ντί",
-   "angle": null
-  },
-  {
-   "id": "f6054d1c0390d9df",
-   "title": "Surprise! Labour’s Right-wing Budget",
-   "link": "https://unherd.com/2026/10/surprise-britains-right-wing-budget/?edition=us",
-   "summary_raw": "",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-10-14T23:03:34+00:00",
-   "collected": "2026-10-17T13:46:39.885908+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null
-  },
-  {
-   "id": "08b12cb5e695b516",
-   "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
-   "link": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
-   "summary_raw": "Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland&#039;s sovereignty.",
-   "source": "Al Jazeera English",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-10-14T23:03:10+00:00",
-   "collected": "2026-10-15T04:47:17.183013+00:00",
-   "keywords_hit": [
-    "drilling"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland's sovereignty.",
-   "angle": null
-  },
-  {
-   "id": "af8d1d7441e6d686",
-   "title": "Bon courage to the French protesters",
-   "link": "https://unherd.com/2026/10/bon-courage-to-the-french-protesters/?edition=us",
-   "summary_raw": "They can learn from India’s cockroaches",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-10-14T23:02:53+00:00",
-   "collected": "2026-10-20T00:25:08.832711+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "They can learn from India’s cockroaches",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "7cc84152f4bdfffe",
-   "title": "Why are British women going to Turkey for sex?",
-   "link": "https://unherd.com/2026/10/the-british-grannies-going-to-turkey-for-sex/?edition=us",
-   "summary_raw": "Holidaymakers are exploiting foreign men",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-10-14T23:01:10+00:00",
-   "collected": "2026-10-17T19:27:39.949693+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Holidaymakers are exploiting foreign men",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "f831af57483a4c50",
-   "title": "The diplomat dividing Trump World",
-   "link": "https://unherd.com/2026/10/the-diplomat-dividing-trump-world/?edition=us",
-   "summary_raw": "David Milstein is a lightning rod for Israel tensions",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-10-14T23:00:49+00:00",
-   "collected": "2026-10-14T23:57:59.547320+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "David Milstein is a lightning rod for Israel tensions",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "fa69bc5837bdb86f",
-   "title": "Collins Gears Up as Early Voting Commences, Vance Visits Atlanta",
-   "link": "https://www.dailysignal.com/2026/10/14/vance-midterm-collins-voting/",
-   "summary_raw": "ATLANTA-On Wednesday morning, Rep. Mike Collins welcomed a campaign appearance by Vice President J.D. Vance, noting that Vance&#8217;s appearance, along with President Donald Trump&#8217;s upcoming appearance on Friday show that Georgia is &#8220;in play.&#8221; Vance&#8217;s visit comes at a crucial point leading up to the midterm election, where Collins is battling Sen. Jon Ossoff in...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-14T23:00:00+00:00",
-   "collected": "2026-10-15T04:47:49.467003+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "ATLANTA-On Wednesday morning, Rep. Mike Collins welcomed a campaign appearance by Vice President J.D. Vance, noting that Vance’s appearance, along with President Donald Trump’s upcoming appearance on ",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "cec832474f63b3dd",
-   "title": "Greece Considers French Research Vessel For Undersea Surveys",
-   "link": "https://greekcitytimes.com/2026/10/15/greece-considers-french-research-vessel-for-undersea-surveys/",
-   "summary_raw": "<p>Greece is assessing a request to allow the French-flagged VB Abeille Marengo to conduct underwater surveys for the Great Sea Interconnector.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/15/greece-considers-french-research-vessel-for-undersea-surveys/\">Greece Considers French Research Vessel For Undersea Surveys</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-10-14T22:46:06+00:00",
-   "collected": "2026-10-14T23:57:27.789339+00:00",
-   "keywords_hit": [
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Greece is assessing a request to allow the French-flagged VB Abeille Marengo to conduct underwater surveys for the Great Sea Interconnector. The post Greece Considers French Research Vessel For Unders",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "47ff1f78f3c3f527",
-   "title": "Source: Ilhan Omar Investigation Examining Alleged False Statements on Immigration Forms",
-   "link": "https://www.dailysignal.com/2026/10/14/source-ilhan-omar-investigation-examining-alleged-false-statements-on-immigration-forms/",
-   "summary_raw": "A source with knowledge of the federal investigation into Rep. Ilhan Omar, D-Minn., told the Daily Signal that investigators are examining alleged false statements on immigration-related documents in a years-long criminal investigation that resulted in a judicially-authorized search of her residence Monday. Speaking to the Daily Signal in an interview Wednesday, the source disputed reports...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-14T22:40:00+00:00",
-   "collected": "2026-10-15T04:47:49.467132+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A source with knowledge of the federal investigation into Rep. Ilhan Omar, D-Minn., told the Daily Signal that investigators are examining alleged false statements on immigration-related documents in ",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "b0bebe909ce9f90d",
-   "title": "Greece Launches Eastern Europe’s Largest Energy Storage Facility",
-   "link": "https://greekcitytimes.com/2026/10/15/greece-launches-eastern-europes-largest-energy-storage-facility/",
-   "summary_raw": "<p>Greece inaugurates Eastern Europe’s largest standalone energy storage facility in Larissa, with Metlen and the Karatzis Group highlighting renewable energy and energy security.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/15/greece-launches-eastern-europes-largest-energy-storage-facility/\">Greece Launches Eastern Europe’s Largest Energy Storage Facility</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-10-14T22:37:35+00:00",
-   "collected": "2026-10-14T23:57:27.789783+00:00",
-   "keywords_hit": [
-    "energy security",
-    "renewable"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Greece inaugurates Eastern Europe’s largest standalone energy storage facility in Larissa, with Metlen and the Karatzis Group highlighting renewable energy and energy security. The post Greece Launche",
-   "angle": null,
-   "corroborated_by": [
-    "Inside Climate News"
-   ]
-  },
-  {
-   "id": "a0001e73667be016",
-   "title": "US lawsuit details Turkey links in Hamas and Iranian cryptocurrency financing networks - Nordic Monitor",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzdVS1d5NnM3cFUxM3h0OHVGM0FCdnowZjdXV2RSRUdTMTdCSXpBSEk5S0xrZDFxY01RUjVjNHBjSFFCUjRqRE4zSDJ2TnBuOW1mNlNUb1lOeE5aRUo3QWV5VE5RR0ZiTGRQSTRBMGtHMGJmWUZVSi1fOVc5RXJteFl3akQzeHFQN3Q1d0JqOUJwbmp1S1kzRmxHa1hPNldadnJMWGZlOUZ2UWQ0OHFYOFdfZWoxdzduMTBVMjFB?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzdVS1d5NnM3cFUxM3h0OHVGM0FCdnowZjdXV2RSRUdTMTdCSXpBSEk5S0xrZDFxY01RUjVjNHBjSFFCUjRqRE4zSDJ2TnBuOW1mNlNUb1lOeE5aRUo3QWV5VE5RR0ZiTGRQSTRBMGtHMGJmWUZVSi1fOVc5RXJteFl3akQzeHFQN3Q1d0JqOUJwbmp1S1kzRmxHa1hPNldadnJMWGZlOUZ2UWQ0OHFYOFdfZWoxdzduMTBVMjFB?oc=5\" target=\"_blank\">US lawsuit details Turkey links in Hamas and Iranian cryptocurrency financing networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nordic Monitor</font>",
-   "source": "Nordic Monitor",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-10-14T22:36:35+00:00",
-   "collected": "2026-10-15T19:12:06.449210+00:00",
-   "keywords_hit": [],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "US lawsuit details Turkey links in Hamas and Iranian cryptocurrency financing networks Nordic Monitor",
-   "angle": null
-  },
-  {
-   "id": "7ed18ab44efa95c8",
-   "title": "Σύνοδος Κορυφής: Ενέργεια, νέος προϋπολογισμός, μεταναστευτικό και Ουκρανία στο επίκεντρο",
-   "link": "https://www.in.gr/2026/10/15/world/synodos-koryfis-energeia-neos-proypologismos-metanasteytiko-kai-oukrania-sto-epikentro/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"484\" src=\"https://www.in.gr/wp-content/uploads/2026/10/2026-09-29T144623Z_1814424417_RC21ZKA6994M_RTRMADP_5_EU-ENLARGEMENT-SAFEGUARDS-1-768x484.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Ο νέος επταετής προϋπολογισμός της ΕΕ, η Ουκρανία, το μεταναστευτικό και η ενεργειακή κρίση αναμένεται να απασχολήσουν έντονα τους ευρωπαίους ηγέτες κατά την Σύνοδο Κορυφής στις Βρυξέλλες.</p>\n<p>The post <a href=\"https://www.in.gr/2026/10/15/world/synodos-koryfis-energeia-neos-proypologismos-metanasteytiko-kai-oukrania-sto-epikentro/\">Σύνοδος Κορυφής: Ενέργεια, νέος προϋπολογισμός, μεταναστευτικό και Ουκρανία στο επίκεντρο</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-14T22:33:38+00:00",
-   "collected": "2026-10-14T23:57:54.993872+00:00",
-   "keywords_hit": [
-    "μεταναστ",
-    "ενεργειακή κρίση"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο νέος επταετής προϋπολογισμός της ΕΕ, η Ουκρανία, το μεταναστευτικό και η ενεργειακή κρίση αναμένεται να απασχολήσουν έντονα τους ευρωπαίους ηγέτες κατά την Σύνοδο Κορυφής στις Βρυξέλλες. The post Σύ",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Βρυξέλλες",
-     "lat": 50.85,
-     "lon": 4.35
-    }
-   ]
-  },
-  {
-   "id": "1a77c4a43bb64f6f",
-   "title": "Sherrod Brown Taking Heat for Comments on ‘Trump Judges’",
-   "link": "https://www.dailysignal.com/2026/10/14/sherrod-brown-trump-judges/",
-   "summary_raw": "As he seeks a political comeback, former Sen. Sherrod Brown, D-Ohio, is going viral for answering a question of what he&#8217;ll do to help people if elected by saying he&#8217;d block judges nominated by President Donald Trump. &#8220;We&#8217;re not obviously confirming judges that are Trump judges,&#8221; Brown told MS Now&#8217;s Ali Velshi on Tuesday night...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-14T22:20:00+00:00",
-   "collected": "2026-10-15T04:47:49.467264+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "As he seeks a political comeback, former Sen. Sherrod Brown, D-Ohio, is going viral for answering a question of what he’ll do to help people if elected by saying he’d block judges nominated by Preside",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "12ac1e7165dfdd00",
-   "title": "Isaias Made It to Birmingham. The Consequences Were Deadly.",
-   "link": "https://insideclimatenews.org/news/14102026/hurricane-isaias-alabama-death/",
-   "summary_raw": "BIRMINGHAM, Ala.—It’s hard to forget Uncle Bobo.&#160; And on this humid October day, his nephew says it’s hard to remember him, too.&#160; Devolin “Bobo” Webster, 66, died unexpectedly in his home Saturday morning as the remnants of Hurricane Isaias passed through the Magic City, more than 200 miles from where the category 2 storm made [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-10-14T22:02:21+00:00",
-   "collected": "2026-10-15T22:23:54.066199+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "BIRMINGHAM, Ala.—It’s hard to forget Uncle Bobo. And on this humid October day, his nephew says it’s hard to remember him, too. Devolin “Bobo” Webster, 66, died unexpectedly in his home Saturday morni",
-   "angle": null,
-   "corroborated_by": [
-    "Guardian Environment"
-   ]
-  },
-  {
-   "id": "6b0c88ae600ea863",
-   "title": "Turkish foreign minister to participate in Asian security summit in Azerbaijan",
-   "link": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-to-participate-in-asian-security-summit-in-azerbaijan/4089124",
-   "summary_raw": "Hakan Fidan expected to address Gaza, regional connectivity, digital cooperation and climate change at CICA summit in Baku",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-10-14T22:01:27+00:00",
-   "collected": "2026-10-14T23:57:06.847881+00:00",
-   "keywords_hit": [
-    "fidan",
-    "climate"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Hakan Fidan expected to address Gaza, regional connectivity, digital cooperation and climate change at CICA summit in Baku",
-   "angle": null
-  },
-  {
-   "id": "abc0023edcd5d2ae",
-   "title": "5 States Put Transgender Sports, Gender-Medicine Questions Before Voters",
-   "link": "https://www.dailysignal.com/2026/10/14/5-states-put-transgender-sports-gender-medicine-questions-before-voters/",
-   "summary_raw": "When voters go to the polls in five states in November, they can weigh in on whether men who claim to be transgender can compete in women&#8217;s sports and whether minors should be able to undergo controversial transgender medical treatments. Organizers in Arizona, Colorado, Missouri, Nebraska, and Washington succeeded in putting measures on the ballot...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-14T22:00:00+00:00",
-   "collected": "2026-10-15T04:47:49.467388+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "When voters go to the polls in five states in November, they can weigh in on whether men who claim to be transgender can compete in women’s sports and whether minors should be able to undergo controve",
-   "angle": null
-  },
-  {
-   "id": "0ba27c66b1265955",
-   "title": "Thessaloniki Courts Egyptian Travel Agencies to Boost Tourism",
-   "link": "https://greekcitytimes.com/2026/10/15/thessaloniki-courts-egyptian-travel-agencies-to-boost-tourism/",
-   "summary_raw": "<p>Thessaloniki targets Egypt’s tourism market as travel agents visit Greece following the launch of AEGEAN’s direct Cairo–Thessaloniki flight.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/15/thessaloniki-courts-egyptian-travel-agencies-to-boost-tourism/\">Thessaloniki Courts Egyptian Travel Agencies to Boost Tourism</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-10-14T21:54:49+00:00",
-   "collected": "2026-10-14T23:57:27.790636+00:00",
-   "keywords_hit": [
-    "aegean"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Thessaloniki targets Egypt’s tourism market as travel agents visit Greece following the launch of AEGEAN’s direct Cairo–Thessaloniki flight. The post Thessaloniki Courts Egyptian Travel Agencies to Bo",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Θεσσαλονίκη",
-     "lat": 40.64,
-     "lon": 22.94
-    },
-    {
-     "name": "Κάιρο",
-     "lat": 30.04,
-     "lon": 31.24
-    }
-   ]
-  },
-  {
-   "id": "ec6ed09a5cda478e",
-   "title": "Greek Natural Gas Terminal Wins Top European Award",
-   "link": "https://greekcitytimes.com/2026/10/15/greek-natural-gas-terminal-wins-top-european-award/",
-   "summary_raw": "<p>Greece’s Alexandroupolis LNG terminal wins the REGIOSTARS 2026 award for strengthening energy connectivity and security of supply in southeastern Europe.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/15/greek-natural-gas-terminal-wins-top-european-award/\">Greek Natural Gas Terminal Wins Top European Award</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-10-14T21:47:00+00:00",
-   "collected": "2026-10-14T23:57:27.791166+00:00",
-   "keywords_hit": [
-    "lng",
-    "natural gas"
-   ],
-   "category": "Ενέργεια",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Greece’s Alexandroupolis LNG terminal wins the REGIOSTARS 2026 award for strengthening energy connectivity and security of supply in southeastern Europe. The post Greek Natural Gas Terminal Wins Top E",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Αλεξανδρούπολη",
-     "lat": 40.85,
-     "lon": 25.87
-    },
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "8e74091f7793fad3",
-   "title": "Δεξαμενόπλοίο τυλίχθηκε στις φλόγες στα ρουμανικά χωρικά ύδατα – Οι αρχές υποψιάζονται χτύπημα drone",
-   "link": "https://www.in.gr/2026/10/15/world/deksamenoploio-tylixthike-stis-floges-sta-roumanika-xorika-ydata-oi-arxes-ypopsiazontai-xtypima-drone/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"433\" src=\"https://www.in.gr/wp-content/uploads/2026/10/Jmg9NDQwJmhhc2g9YmQ2MTBjZTUyZmI5YTJjYzA0Mjg5NDU1YjAzOTU3OGE.thumb_-768x433.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Ένα δεξαμενόπλοιο πλοίο έπιασε φωτιά στα ρουμανικά χωρικά ύδατα στη Μαύρη Θάλασσα με τις αρχές να θεωρούν αρκετά πιθανό το χτύπημα drone.</p>\n<p>The post <a href=\"https://www.in.gr/2026/10/15/world/deksamenoploio-tylixthike-stis-floges-sta-roumanika-xorika-ydata-oi-arxes-ypopsiazontai-xtypima-drone/\">Δεξαμενόπλοίο τυλίχθηκε στις φλόγες στα ρουμανικά χωρικά ύδατα &#8211; Οι αρχές υποψιάζονται χτύπημα drone</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-14T21:45:55+00:00",
-   "collected": "2026-10-14T23:57:54.995172+00:00",
-   "keywords_hit": [
-    "χωρικά ύδατα"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ένα δεξαμενόπλοιο πλοίο έπιασε φωτιά στα ρουμανικά χωρικά ύδατα στη Μαύρη Θάλασσα με τις αρχές να θεωρούν αρκετά πιθανό το χτύπημα drone. The post Δεξαμενόπλοίο τυλίχθηκε στις φλόγες στα ρουμανικά χωρ",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Μαύρη Θάλασσα",
-     "lat": 43.0,
-     "lon": 34.0
-    }
-   ]
-  },
-  {
-   "id": "dd86fe6755b88526",
-   "title": "Election Records Analysis Asserts 1,827 Removed Noncitizens Cast 7,035 Ballots in Florida Elections",
-   "link": "https://www.dailysignal.com/2026/10/14/election-records-analysis-asserts-1827-removed-noncitizens-cast-7035-ballots-in-florida-elections/",
-   "summary_raw": "FIRST ON DAILY SIGNAL — A report from a coalition of election integrity groups in Florida asserts that noncitizens cast more than 7,000 ballots in the state between 2020 and the second quarter of 2026. The analysis by the Joint Task Force of election integrity groups, which reviewed voting records from all 67 counties, found...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-14T21:30:00+00:00",
-   "collected": "2026-10-14T23:58:00.100049+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "FIRST ON DAILY SIGNAL — A report from a coalition of election integrity groups in Florida asserts that noncitizens cast more than 7,000 ballots in the state between 2020 and the second quarter of 2026",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
   }
  ]
 }
