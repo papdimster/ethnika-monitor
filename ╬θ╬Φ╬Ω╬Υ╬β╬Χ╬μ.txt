@@ -1,0 +1,47 @@
+79 ΝΕΕΣ ΣΥΝΤΗΡΗΤΙΚΕΣ ΠΗΓΕΣ + ΙΔΕΟΛΟΓΙΚΑ KEYWORDS
+
+Τι περιλαμβάνει το πακέτο:
+
+A) config/sources.yaml — 79 νέες πηγές (170 σύνολο)
+   - 27 nat_con (Claremont, MCC, Danube, Ordo Iuris, Patriots for Europe κτλ.)
+   - 19 classical_conservative (Manhattan, City Journal, First Things, 
+     American Conservative, Hillsdale κτλ.)
+   - 17 centre_right (Hoover, AEI, Hudson, FDD, Policy Exchange, 
+     Konrad-Adenauer κτλ.)
+   - 9 libertarian (Cato, Adam Smith, Timbro, Fraser κτλ.)
+   - 7 Substacks (The Upheaval, Rod Dreher, Rufo, Yarvin κτλ.)
+   Όλες με side pattern conservative_* ώστε να πιάνει ο ταξινομητής.
+
+B) config/keywords.yaml — 170 νέα ιδεολογικά keywords
+   Οργανωμένα σε ενότητες: ταυτότητα/έθνος, οικογένεια/δημογραφικό, 
+   θρησκεία, culture war/woke/DEI, παιδεία, μετανάστευση ιδεολογική, 
+   φιλελευθερισμός/οικονομία, ελευθερία λόγου, Ευρωπαϊκοί ηγέτες 
+   (Orban, Meloni, Le Pen, Vox, AfD κτλ.), MAGA/Trump/Vance, 
+   παραδοσιακές αξίες.
+
+C) monitor/collector.py — νέα λογική side-specific keywords
+   Τα νέα keywords ισχύουν ΜΟΝΟ σε πηγές με side conservative_*.
+   Δεν μολύνουν Reuters, Guardian ή άλλες γενικές πηγές.
+   Prefix matching — πιάνει αυτόματα και τις 7 παλιές συντηρητικές 
+   (Remix, Brussels Signal, UnHerd κτλ.), άρα κερδίζουν κι αυτές 
+   αυτόματα την ευρεία ιδεολογική κάλυψη.
+
+Δοκιμάστηκε σε 8 σενάρια — όλα περνάνε:
+  ✓ Orban + traditional family σε nat_con → πιάνει
+  ✓ Post-liberal σε UnHerd → πιάνει (νέο όφελος)
+  ✓ MAGA σε Daily Signal → πιάνει (νέο όφελος)
+  ✓ Hoover + sovereignty → πιάνει
+  ✗ Το ίδιο Orban άρθρο σε Reuters → ΔΕΝ πιάνει (απομόνωση)
+  ✗ Woke article σε Green press → ΔΕΝ πιάνει (απομόνωση)
+  ✗ Lakers σε Daily Signal → απορρίπτεται
+  ✓ Ερντογάν/Αιγαίο σε nat_con → πιάνει (γεωπολιτική διατηρείται)
+
+ΑΝΕΒΑΣΜΑ:
+1. https://github.com/papdimster/ethnika-monitor/upload/main
+2. Σύρε τους φακέλους: config ΚΑΙ monitor → Commit changes
+3. Πιάνει στο επόμενο :20
+
+Στο log θα δεις τις νέες πηγές να φέρνουν 10-50 entries κάθε μία 
+(Google News bridges). Μετά το φίλτρο keywords, θα κρατηθούν μόνο 
+όσες αγγίζουν τα ιδεολογικά keywords που ορίσαμε — δηλαδή πραγματικό 
+συντηρητικό περιεχόμενο, όχι τοπική US πολιτική.

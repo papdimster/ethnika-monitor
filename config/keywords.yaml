@@ -204,3 +204,206 @@ broad_geo_keywords:
   - miçotakis
   - crete
   - κρήτη
+
+# ========================================================================
+# SIDE-SPECIFIC keywords — ισχύουν ΜΟΝΟ στις πηγές του αντίστοιχου side.
+# Μη τα βάζεις στα γενικά `keywords`: θα πιάσουν τυχαία άρθρα σε Reuters,
+# Guardian κ.λπ. και θα γεμίσουν τη ροή με θόρυβο.
+# ========================================================================
+side_keywords:
+  conservative:
+    # --- Ταυτότητα, έθνος, κυριαρχία ---
+    - national sovereignty
+    - sovereignty
+    - nation-state
+    - national identity
+    - western civilization
+    - european civilization
+    - christendom
+    - western heritage
+    - patriot
+    - nationalism
+    - populism
+    - populist
+    - εθνικισμ
+    - πατριωτ
+
+    # --- Οικογένεια, δημογραφικό, γονεϊκότητα ---
+    - family values
+    - traditional family
+    - fertility rate
+    - demographic decline
+    - birth rate
+    - υπογεννητικ
+    - δημογραφικ
+    - parental rights
+    - parent-led
+    - marriage
+    - motherhood
+    - fatherhood
+    - natalism
+    - natalist
+
+    # --- Θρησκεία, χριστιανοσύνη ---
+    - christianity
+    - christian
+    - catholic
+    - orthodox christian
+    - evangelical
+    - faith
+    - church
+    - religious liberty
+    - religious freedom
+    - secularism
+    - secularization
+    - εκκλησ
+    - χριστιαν
+    - ορθόδοξ
+    - θρησκ
+
+    # --- Culture war, woke, DEI, gender ---
+    - woke
+    - wokeness
+    - cancel culture
+    - cancelled
+    - dei
+    - diversity equity inclusion
+    - critical race theory
+    - crt
+    - identity politics
+    - gender ideology
+    - gender theory
+    - trans ideology
+    - transgender
+    - puberty blockers
+    - detransition
+    - radical feminism
+    - 4b movement
+
+    # --- Παιδεία, πανεπιστήμια ---
+    - school choice
+    - homeschool
+    - charter school
+    - academic freedom
+    - university bias
+    - campus politics
+    - liberal arts
+    - classical education
+
+    # --- Μετανάστευση & σύνορα (ιδεολογική οπτική) ---
+    - mass migration
+    - mass immigration
+    - open borders
+    - assimilation
+    - integration failure
+    - demographic replacement
+    - great replacement
+    - border enforcement
+    - illegal immigration
+    - deportation
+    - remigration
+    - λαθρομεταν
+
+    # --- Οικονομία, φιλελευθερισμός, κράτος ---
+    - free market
+    - free enterprise
+    - deregulation
+    - small government
+    - limited government
+    - fiscal conservatism
+    - taxation
+    - tax cut
+    - welfare state
+    - welfare reform
+    - industrial policy
+    - supply-side
+    - austerity
+
+    # --- Ελευθερία λόγου, θεσμοί, δικαιώματα ---
+    - free speech
+    - freedom of speech
+    - censorship
+    - deplatform
+    - big tech
+    - section 230
+    - judicial activism
+    - originalism
+    - constitutional
+    - separation of powers
+    - deep state
+    - administrative state
+    - rule of law
+
+    # --- Ευρωπαϊκή σκληρή δεξιά — ηγέτες & κόμματα ---
+    - orban
+    - viktor orbán
+    - meloni
+    - giorgia meloni
+    - fratelli d'italia
+    - afd
+    - alternative für deutschland
+    - weidel
+    - marine le pen
+    - rassemblement national
+    - zemmour
+    - reconquête
+    - vox
+    - abascal
+    - fidesz
+    - pis
+    - law and justice
+    - chega
+    - ventura
+    - wilders
+    - pvv
+    - fpö
+    - kickl
+    - sweden democrats
+    - sd
+    - brothers of italy
+
+    # --- Αμερικανική συντηρητική σκηνή ---
+    - maga
+    - trump
+    - vance
+    - ron desantis
+    - tucker carlson
+    - jd vance
+    - project 2025
+    - heritage foundation
+    - federalist
+    - new right
+    - national conservative
+
+    # --- Παραδοσιακές αξίες, πολιτισμός, κλασικισμός ---
+    - traditional values
+    - heritage
+    - tradition
+    - classical liberalism
+    - natural law
+    - common good
+    - post-liberal
+    - postliberal
+    - communitarian
+    - localism
+    - subsidiarity
+    - virtue ethics
+
+    # --- Πόλεμος κατά των ελιτών, κριτική φιλελευθερισμού ---
+    - elite capture
+    - managerial class
+    - laptop class
+    - globalism
+    - globalist
+    - sovereigntist
+    - euroscepti
+    - brussels bureaucracy
+    - unelected bureaucrat
+    - technocracy
+
+    # --- EU θεσμικά συντηρητικά ---
+    - european conservatives and reformists
+    - ecr group
+    - patriots for europe
+    - identity and democracy
+    - european parliament right

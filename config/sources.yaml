@@ -1,571 +1,904 @@
-# Πηγές παρακολούθησης
-# feeds: RSS/Atom | telegram: δημόσια κανάλια | html_pages: σελίδες χωρίς RSS
-
 feeds:
-  # --- Τουρκικά ΜΜΕ ---
-  - name: Hurriyet Daily News
-    url: https://www.hurriyetdailynews.com/rss
-    lang: en
-    side: turkish_media
-  - name: Daily Sabah
-    url: https://www.dailysabah.com/rss
-    lang: en
-    side: turkish_media
-  - name: Anadolu Agency (EN)
-    url: https://www.aa.com.tr/en/rss/default?cat=guncel
-    lang: en
-    side: turkish_state
-  - name: TRT World
-    url: https://news.google.com/rss/search?q=site:trtworld.com&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: turkish_state
-  - name: Turkish Minute
-    url: https://news.google.com/rss/search?q=site:turkishminute.com&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: turkish_opposition
-    skip_keywords: true
-  - name: Yeni Safak (EN)
-    url: https://news.google.com/rss/search?q=site:yenisafak.com/en&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: turkish_media
-
-  # --- Ελληνικά ΜΜΕ ---
-  - name: Kathimerini (EN)
-    url: https://feeds.feedburner.com/ekathimerini/sKip
-    lang: en
-    side: greek_media
-    domestic: true
-  - name: Newsbomb
-    url: https://news.google.com/rss/search?q=site:newsbomb.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: greek_media
-    domestic: true
-  - name: ΕΡΤ News
-    url: https://www.ertnews.gr/feed/
-    lang: el
-    side: greek_media
-    domestic: true
-
-  # --- Ελληνικά αμυντικά ---
-  - name: Defence Point
-    url: https://news.google.com/rss/search?q=site:defence-point.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: greek_defense
-    domestic: true
-  - name: Πτήση & Διάστημα
-    url: https://www.ptisidiastima.com/feed/
-    lang: el
-    side: greek_defense
-    domestic: true
-  - name: OnAlert
-    url: https://www.onalert.gr/feed/
-    lang: el
-    side: greek_defense
-    domestic: true
-
-  # --- Θράκη ---
-  - name: Χρόνος (Κομοτηνή)
-    url: https://news.google.com/rss/search?q=site:xronos.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: thrace_greek
-    domestic: true
-  - name: Παρατηρητής της Θράκης
-    url: https://news.google.com/rss/search?q=site:paratiritis-news.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: thrace_greek
-    domestic: true
-  - name: Evros News
-    url: https://evros-news.gr/feed
-    lang: el
-    side: thrace_greek
-    domestic: true
-
-  # --- Κύπρος ---
-  - name: Cyprus Mail
-    url: https://cyprus-mail.com/feed/
-    lang: en
-    side: cypriot_media
-    domestic: true
-  - name: in-cyprus (Philenews)
-    url: https://in-cyprus.philenews.com/feed/
-    lang: en
-    side: cypriot_media
-    domestic: true
-
-  # --- Διεθνή / εξειδικευμένα ---
-  - name: Reuters World
-    url: https://news.google.com/rss/search?q=site:reuters.com/world&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: international
-  - name: Al-Monitor Turkey
-    url: https://news.google.com/rss/search?q=site:al-monitor.com&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: international
-  - name: Nordic Monitor
-    url: https://news.google.com/rss/search?q=site:nordicmonitor.com&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: international
-    skip_keywords: true
-  - name: Naval News
-    url: https://www.navalnews.com/feed/
-    lang: en
-    side: defense_intl
-  - name: The War Zone
-    url: https://www.twz.com/feed
-    lang: en
-    side: defense_intl
-  - name: Breaking Defense
-    url: https://news.google.com/rss/search?q=site:breakingdefense.com&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: defense_intl
-  - name: Middle East Eye
-    url: https://www.middleeasteye.net/rss
-    lang: en
-    side: international
-
-  # --- Μεταναστευτικό ---
-  - name: InfoMigrants
-    url: https://news.google.com/rss/search?q=site:infomigrants.net&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: migration
-  - name: Aegean Boat Report
-    url: https://aegeanboatreport.com/feed
-    lang: en
-    side: migration_ngo
-    skip_keywords: true
-  - name: ECRE (European Council on Refugees)
-    url: https://ecre.org/feed/
-    lang: en
-    side: migration_ngo
-
-  # --- Λιβύη / Βόρεια Αφρική ---
-  - name: Libya Review
-    url: https://libyareview.com/feed/
-    lang: en
-    side: north_africa
-    skip_keywords: true
-  - name: Libya Observer
-    url: https://news.google.com/rss/search?q=site:libyaobserver.ly&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: north_africa
-    skip_keywords: true
-
-  # --- Ευρώπη / Βαλκάνια ---
-  - name: Balkan Insight
-    url: https://balkaninsight.com/feed/
-    lang: en
-    side: balkans
-  - name: Politico Europe
-    url: https://www.politico.eu/feed/
-    lang: en
-    side: europe
-
-  # --- Ελληνικές επίσημες πηγές ---
-  - name: ΓΕΕΘΑ
-    url: https://news.google.com/rss/search?q=site:geetha.mil.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: greek_official
-    skip_keywords: true
-    min_severity: 2
-  - name: Υπουργείο Μετανάστευσης
-    url: https://migration.gov.gr/feed/
-    lang: el
-    side: greek_official
-    skip_keywords: true
-    min_severity: 2
-
-  # --- Ελληνικά γεωπολιτικά / αναλύσεις ---
-  - name: SLpress
-    url: https://news.google.com/rss/search?q=site:slpress.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: greek_analysis
-    domestic: true
-  - name: Πενταπόσταγμα
-    url: https://www.pentapostagma.gr/rss.xml
-    lang: el
-    side: greek_defense
-    domestic: true
-  - name: Greek City Times
-    url: https://greekcitytimes.com/feed/
-    lang: en
-    side: greek_diaspora
-    domestic: true
-
-  # --- Τουρκικά αμυντικά (τουρκόφωνα) ---
-  - name: SavunmaSanayiST
-    url: https://www.savunmasanayist.com/feed/
-    lang: tr
-    side: turkish_defense
-  - name: DefenceTurk
-    url: https://www.defenceturk.net/feed
-    lang: tr
-    side: turkish_defense
-
-  # --- Κύπρος (επιπλέον) ---
-  - name: Philenews
-    url: https://www.philenews.com/feed/
-    lang: el
-    side: cypriot_media
-    domestic: true
-  - name: Yeni Düzen (κατεχόμενα)
-    url: https://news.google.com/rss/search?q=site:yeniduzen.com&hl=en-US&gl=US&ceid=US:en
-    lang: tr
-    side: trnc_media
-
-  # --- Think tanks / αναλύσεις ---
-  - name: ΕΛΙΑΜΕΠ
-    url: https://www.eliamep.gr/feed/
-    lang: el
-    side: greek_thinktank
-    domestic: true
-  - name: SETA (τουρκικό think tank)
-    url: https://news.google.com/rss/search?q=site:setav.org&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: turkish_thinktank
-  - name: War on the Rocks
-    url: https://warontherocks.com/feed/
-    lang: en
-    side: defense_intl
-  - name: Al Jazeera English
-    url: https://www.aljazeera.com/xml/rss/all.xml
-    lang: en
-    side: international
-
-  # --- Κύμα 3 ---
-  - name: Energypress
-    url: https://news.google.com/rss/search?q=site:energypress.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: greek_energy
-    domestic: true
-  - name: The National Herald
-    url: https://www.thenationalherald.com/feed/
-    lang: en
-    side: greek_diaspora
-    domestic: true
-  - name: Kathimerini Cyprus (EN)
-    url: https://news.google.com/rss/search?q=site:knews.kathimerini.com.cy&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: cypriot_media
-    domestic: true
-  - name: Defense News
-    url: https://www.defensenews.com/arc/outboundfeeds/rss/
-    lang: en
-    side: defense_intl
-  - name: Overt Defense
-    url: https://www.overtdefense.com/feed/
-    lang: en
-    side: defense_intl
-  - name: ECFR
-    url: https://ecfr.eu/feed/
-    lang: en
-    side: eu_thinktank
-  - name: Medyascope (τουρκική αντιπολίτευση)
-    url: https://medyascope.tv/feed/
-    lang: tr
-    side: turkish_opposition
-
-# ══════════ ΠΡΑΣΙΝΗ ΡΟΗ ══════════
-# Όλες με skip_keywords (μονοθεματικές) + κατώφλι ΣΟΒ 3.
-# Ο ταξινομητής τις στέλνει στην κατηγορία «Ενέργεια-Περιβάλλον»
-# και βαθμολογεί με κριτήριο τη δημοσιογραφική αξία του θέματος.
-
-  # --- Ελληνικές / επίσημες ---
-  - name: ΥΠΕΝ
-    url: https://news.google.com/rss/search?q=site:ypen.gov.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: green_official
-    skip_keywords: true
-    min_severity: 3
-  - name: B2Green
-    url: https://news.google.com/rss/search?q=site:b2green.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: green_greek
-    skip_keywords: true
-    min_severity: 3
-  - name: Ecopress
-    url: https://news.google.com/rss/search?q=site:ecopress.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: green_greek
-    skip_keywords: true
-    min_severity: 3
-
-  # --- Διεθνή ενεργειακά/κλιματικά ΜΜΕ ---
-  - name: Bloomberg Green
-    url: https://news.google.com/rss/search?q=site:bloomberg.com/green&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: green_intl
-    skip_keywords: true
-    min_severity: 3
-  - name: Reuters Sustainability
-    url: https://news.google.com/rss/search?q=site:reuters.com/sustainability&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: green_intl
-    skip_keywords: true
-    min_severity: 3
-  - name: Euronews Green
-    url: https://news.google.com/rss/search?q=site:euronews.com/green&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: green_intl
-    skip_keywords: true
-    min_severity: 3
-  - name: ESG Today
-    url: https://www.esgtoday.com/feed/
-    lang: en
-    side: green_esg
-    skip_keywords: true
-    min_severity: 3
-  - name: Guardian Environment
-    url: https://www.theguardian.com/environment/rss
-    lang: en
-    side: green_intl
-    skip_keywords: true
-    min_severity: 3
-  - name: Inside Climate News
-    url: https://insideclimatenews.org/feed/
-    lang: en
-    side: green_intl
-    skip_keywords: true
-    min_severity: 3
-  - name: Grist
-    url: https://grist.org/feed/
-    lang: en
-    side: green_intl
-    skip_keywords: true
-    min_severity: 3
-  - name: EcoWatch
-    url: https://www.ecowatch.com/feed
-    lang: en
-    side: green_intl
-    skip_keywords: true
-    min_severity: 3
-
-  # --- Ηλεκτροκίνηση ---
-  - name: Electrive (EU ηλεκτροκίνηση)
-    url: https://www.electrive.com/feed/
-    lang: en
-    side: green_emobility
-    skip_keywords: true
-    min_severity: 3
-
-  # --- Διεθνείς οργανισμοί ---
-  - name: IEA
-    url: https://news.google.com/rss/search?q=site:iea.org&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: green_org
-    skip_keywords: true
-    min_severity: 3
-  - name: European Environment Agency
-    url: https://news.google.com/rss/search?q=site:eea.europa.eu&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: green_org
-    skip_keywords: true
-    min_severity: 3
-  - name: EU Energy (Κομισιόν)
-    url: https://news.google.com/rss/search?q=site:energy.ec.europa.eu&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: green_org
-    skip_keywords: true
-    min_severity: 3
-
-  # --- Μεταναστευτικό: πρωτογενείς τοπικές πηγές ---
-  - name: Στο Νησί (Λέσβος)
-    url: https://news.google.com/rss/search?q=site:stonisi.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: migration_local
-    domestic: true
-  - name: Lesvos News
-    url: https://news.google.com/rss/search?q=site:lesvosnews.net&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: migration_local
-    domestic: true
-  - name: Astraparis (Χίος)
-    url: https://astraparis.gr/feed
-    lang: el
-    side: migration_local
-    domestic: true
-  - name: Samos24
-    url: https://samos24.gr/feed
-    lang: el
-    side: migration_local
-    domestic: true
-  - name: Δημοκρατική Ρόδου
-    url: https://www.dimokratiki.gr/feed
-    lang: el
-    side: migration_local
-    domestic: true
-  - name: Nea Kriti
-    url: https://news.google.com/rss/search?q=site:neakriti.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: migration_local
-    domestic: true
-  - name: Cretalive
-    url: https://news.google.com/rss/search?q=site:cretalive.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: migration_local
-    domestic: true
-  - name: Zarpanews (Χανιά)
-    url: https://www.zarpanews.gr/feed
-    lang: el
-    side: migration_local
-    domestic: true
-  - name: e-Evros
-    url: https://news.google.com/rss/search?q=site:e-evros.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: migration_local
-    domestic: true
-
-  # --- Μεγάλα ελληνικά ΜΜΕ (εθνικά + μεταναστευτικό) ---
-  - name: Πρώτο Θέμα
-    url: https://www.protothema.gr/rss
-    lang: el
-    side: greek_mainstream
-    domestic: true
-  - name: ΣΚΑΪ
-    url: https://www.skai.gr/rss.xml
-    lang: el
-    side: greek_mainstream
-    domestic: true
-  - name: Καθημερινή
-    url: https://feeds.feedburner.com/kathimerini/DJpy
-    lang: el
-    side: greek_mainstream
-    domestic: true
-  - name: in.gr
-    url: https://www.in.gr/feed
-    lang: el
-    side: greek_mainstream
-    domestic: true
-  - name: Τα Νέα
-    url: https://www.tanea.gr/feed
-    lang: el
-    side: greek_mainstream
-    domestic: true
-  - name: iefimerida
-    url: https://news.google.com/rss/search?q=site:iefimerida.gr&hl=el&gl=GR&ceid=GR:el
-    lang: el
-    side: greek_mainstream
-    domestic: true
-  - name: Εφημερίδα των Συντακτών
-    url: https://www.efsyn.gr/rss
-    lang: el
-    side: greek_mainstream
-    domestic: true
-
-# ══════════ ΣΥΝΤΗΡΗΤΙΚΗ ΑΤΖΕΝΤΑ (Ευρώπη/ΗΠΑ) ══════════
-  - name: Remix News
-    url: https://rmx.news/feed/
-    lang: en
-    side: conservative_eu
-    skip_keywords: true
-    min_severity: 3
-  - name: Brussels Signal
-    url: https://brusselssignal.eu/feed/
-    lang: en
-    side: conservative_eu
-    skip_keywords: true
-    min_severity: 3
-  - name: The European Conservative
-    url: https://europeanconservative.com/feed/
-    lang: en
-    side: conservative_eu
-    skip_keywords: true
-    min_severity: 3
-  - name: UnHerd
-    url: https://unherd.com/feed/
-    lang: en
-    side: conservative_uk
-    skip_keywords: true
-    min_severity: 3
-  - name: Spiked
-    url: https://www.spiked-online.com/feed/
-    lang: en
-    side: conservative_uk
-    skip_keywords: true
-    min_severity: 3
-  - name: Breitbart
-    url: https://feeds.feedburner.com/breitbart
-    lang: en
-    side: conservative_us
-    skip_keywords: true
-    min_severity: 3
-  - name: Daily Signal
-    url: https://www.dailysignal.com/feed/
-    lang: en
-    side: conservative_us
-    skip_keywords: true
-    min_severity: 3
-
-  # --- OSINT / Live Intelligence (ευρύ φάσμα — ΚΑΝΟΝΙΚΟ φιλτράρισμα, όχι skip_keywords) ---
-  - name: OSINT613
-    url: https://www.osint613.com/feed
-    lang: en
-    side: osint_middle_east
-  - name: Liveuamap Middle East
-    url: https://news.google.com/rss/search?q=site:liveuamap.com+middle+east&hl=en-US&gl=US&ceid=US:en
-    lang: en
-    side: osint_middle_east
-
-# --- Δημόσια κανάλια Telegram ---
+- name: Hurriyet Daily News
+  url: https://www.hurriyetdailynews.com/rss
+  lang: en
+  side: turkish_media
+- name: Daily Sabah
+  url: https://www.dailysabah.com/rss
+  lang: en
+  side: turkish_media
+- name: Anadolu Agency (EN)
+  url: https://www.aa.com.tr/en/rss/default?cat=guncel
+  lang: en
+  side: turkish_state
+- name: TRT World
+  url: https://news.google.com/rss/search?q=site:trtworld.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: turkish_state
+- name: Turkish Minute
+  url: https://news.google.com/rss/search?q=site:turkishminute.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: turkish_opposition
+  skip_keywords: true
+- name: Yeni Safak (EN)
+  url: https://news.google.com/rss/search?q=site:yenisafak.com/en&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: turkish_media
+- name: Kathimerini (EN)
+  url: https://feeds.feedburner.com/ekathimerini/sKip
+  lang: en
+  side: greek_media
+  domestic: true
+- name: Newsbomb
+  url: https://news.google.com/rss/search?q=site:newsbomb.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: greek_media
+  domestic: true
+- name: ΕΡΤ News
+  url: https://www.ertnews.gr/feed/
+  lang: el
+  side: greek_media
+  domestic: true
+- name: Defence Point
+  url: https://news.google.com/rss/search?q=site:defence-point.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: greek_defense
+  domestic: true
+- name: Πτήση & Διάστημα
+  url: https://www.ptisidiastima.com/feed/
+  lang: el
+  side: greek_defense
+  domestic: true
+- name: OnAlert
+  url: https://www.onalert.gr/feed/
+  lang: el
+  side: greek_defense
+  domestic: true
+- name: Χρόνος (Κομοτηνή)
+  url: https://news.google.com/rss/search?q=site:xronos.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: thrace_greek
+  domestic: true
+- name: Παρατηρητής της Θράκης
+  url: https://news.google.com/rss/search?q=site:paratiritis-news.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: thrace_greek
+  domestic: true
+- name: Evros News
+  url: https://evros-news.gr/feed
+  lang: el
+  side: thrace_greek
+  domestic: true
+- name: Cyprus Mail
+  url: https://cyprus-mail.com/feed/
+  lang: en
+  side: cypriot_media
+  domestic: true
+- name: in-cyprus (Philenews)
+  url: https://in-cyprus.philenews.com/feed/
+  lang: en
+  side: cypriot_media
+  domestic: true
+- name: Reuters World
+  url: https://news.google.com/rss/search?q=site:reuters.com/world&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: international
+- name: Al-Monitor Turkey
+  url: https://news.google.com/rss/search?q=site:al-monitor.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: international
+- name: Nordic Monitor
+  url: https://news.google.com/rss/search?q=site:nordicmonitor.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: international
+  skip_keywords: true
+- name: Naval News
+  url: https://www.navalnews.com/feed/
+  lang: en
+  side: defense_intl
+- name: The War Zone
+  url: https://www.twz.com/feed
+  lang: en
+  side: defense_intl
+- name: Breaking Defense
+  url: https://news.google.com/rss/search?q=site:breakingdefense.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: defense_intl
+- name: Middle East Eye
+  url: https://www.middleeasteye.net/rss
+  lang: en
+  side: international
+- name: InfoMigrants
+  url: https://news.google.com/rss/search?q=site:infomigrants.net&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: migration
+- name: Aegean Boat Report
+  url: https://aegeanboatreport.com/feed
+  lang: en
+  side: migration_ngo
+  skip_keywords: true
+- name: ECRE (European Council on Refugees)
+  url: https://ecre.org/feed/
+  lang: en
+  side: migration_ngo
+- name: Libya Review
+  url: https://libyareview.com/feed/
+  lang: en
+  side: north_africa
+  skip_keywords: true
+- name: Libya Observer
+  url: https://news.google.com/rss/search?q=site:libyaobserver.ly&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: north_africa
+  skip_keywords: true
+- name: Balkan Insight
+  url: https://balkaninsight.com/feed/
+  lang: en
+  side: balkans
+- name: Politico Europe
+  url: https://www.politico.eu/feed/
+  lang: en
+  side: europe
+- name: ΓΕΕΘΑ
+  url: https://news.google.com/rss/search?q=site:geetha.mil.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: greek_official
+  skip_keywords: true
+  min_severity: 2
+- name: Υπουργείο Μετανάστευσης
+  url: https://migration.gov.gr/feed/
+  lang: el
+  side: greek_official
+  skip_keywords: true
+  min_severity: 2
+- name: SLpress
+  url: https://news.google.com/rss/search?q=site:slpress.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: greek_analysis
+  domestic: true
+- name: Πενταπόσταγμα
+  url: https://www.pentapostagma.gr/rss.xml
+  lang: el
+  side: greek_defense
+  domestic: true
+- name: Greek City Times
+  url: https://greekcitytimes.com/feed/
+  lang: en
+  side: greek_diaspora
+  domestic: true
+- name: SavunmaSanayiST
+  url: https://www.savunmasanayist.com/feed/
+  lang: tr
+  side: turkish_defense
+- name: DefenceTurk
+  url: https://www.defenceturk.net/feed
+  lang: tr
+  side: turkish_defense
+- name: Philenews
+  url: https://www.philenews.com/feed/
+  lang: el
+  side: cypriot_media
+  domestic: true
+- name: Yeni Düzen (κατεχόμενα)
+  url: https://news.google.com/rss/search?q=site:yeniduzen.com&hl=en-US&gl=US&ceid=US:en
+  lang: tr
+  side: trnc_media
+- name: ΕΛΙΑΜΕΠ
+  url: https://www.eliamep.gr/feed/
+  lang: el
+  side: greek_thinktank
+  domestic: true
+- name: SETA (τουρκικό think tank)
+  url: https://news.google.com/rss/search?q=site:setav.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: turkish_thinktank
+- name: War on the Rocks
+  url: https://warontherocks.com/feed/
+  lang: en
+  side: defense_intl
+- name: Al Jazeera English
+  url: https://www.aljazeera.com/xml/rss/all.xml
+  lang: en
+  side: international
+- name: Energypress
+  url: https://news.google.com/rss/search?q=site:energypress.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: greek_energy
+  domestic: true
+- name: The National Herald
+  url: https://www.thenationalherald.com/feed/
+  lang: en
+  side: greek_diaspora
+  domestic: true
+- name: Kathimerini Cyprus (EN)
+  url: https://news.google.com/rss/search?q=site:knews.kathimerini.com.cy&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: cypriot_media
+  domestic: true
+- name: Defense News
+  url: https://www.defensenews.com/arc/outboundfeeds/rss/
+  lang: en
+  side: defense_intl
+- name: Overt Defense
+  url: https://www.overtdefense.com/feed/
+  lang: en
+  side: defense_intl
+- name: ECFR
+  url: https://ecfr.eu/feed/
+  lang: en
+  side: eu_thinktank
+- name: Medyascope (τουρκική αντιπολίτευση)
+  url: https://medyascope.tv/feed/
+  lang: tr
+  side: turkish_opposition
+- name: ΥΠΕΝ
+  url: https://news.google.com/rss/search?q=site:ypen.gov.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: green_official
+  skip_keywords: true
+  min_severity: 3
+- name: B2Green
+  url: https://news.google.com/rss/search?q=site:b2green.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: green_greek
+  skip_keywords: true
+  min_severity: 3
+- name: Ecopress
+  url: https://news.google.com/rss/search?q=site:ecopress.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: green_greek
+  skip_keywords: true
+  min_severity: 3
+- name: Bloomberg Green
+  url: https://news.google.com/rss/search?q=site:bloomberg.com/green&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: green_intl
+  skip_keywords: true
+  min_severity: 3
+- name: Reuters Sustainability
+  url: https://news.google.com/rss/search?q=site:reuters.com/sustainability&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: green_intl
+  skip_keywords: true
+  min_severity: 3
+- name: Euronews Green
+  url: https://news.google.com/rss/search?q=site:euronews.com/green&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: green_intl
+  skip_keywords: true
+  min_severity: 3
+- name: ESG Today
+  url: https://www.esgtoday.com/feed/
+  lang: en
+  side: green_esg
+  skip_keywords: true
+  min_severity: 3
+- name: Guardian Environment
+  url: https://www.theguardian.com/environment/rss
+  lang: en
+  side: green_intl
+  skip_keywords: true
+  min_severity: 3
+- name: Inside Climate News
+  url: https://insideclimatenews.org/feed/
+  lang: en
+  side: green_intl
+  skip_keywords: true
+  min_severity: 3
+- name: Grist
+  url: https://grist.org/feed/
+  lang: en
+  side: green_intl
+  skip_keywords: true
+  min_severity: 3
+- name: EcoWatch
+  url: https://www.ecowatch.com/feed
+  lang: en
+  side: green_intl
+  skip_keywords: true
+  min_severity: 3
+- name: Electrive (EU ηλεκτροκίνηση)
+  url: https://www.electrive.com/feed/
+  lang: en
+  side: green_emobility
+  skip_keywords: true
+  min_severity: 3
+- name: IEA
+  url: https://news.google.com/rss/search?q=site:iea.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: green_org
+  skip_keywords: true
+  min_severity: 3
+- name: European Environment Agency
+  url: https://news.google.com/rss/search?q=site:eea.europa.eu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: green_org
+  skip_keywords: true
+  min_severity: 3
+- name: EU Energy (Κομισιόν)
+  url: https://news.google.com/rss/search?q=site:energy.ec.europa.eu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: green_org
+  skip_keywords: true
+  min_severity: 3
+- name: Στο Νησί (Λέσβος)
+  url: https://news.google.com/rss/search?q=site:stonisi.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: migration_local
+  domestic: true
+- name: Lesvos News
+  url: https://news.google.com/rss/search?q=site:lesvosnews.net&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: migration_local
+  domestic: true
+- name: Astraparis (Χίος)
+  url: https://astraparis.gr/feed
+  lang: el
+  side: migration_local
+  domestic: true
+- name: Samos24
+  url: https://samos24.gr/feed
+  lang: el
+  side: migration_local
+  domestic: true
+- name: Δημοκρατική Ρόδου
+  url: https://www.dimokratiki.gr/feed
+  lang: el
+  side: migration_local
+  domestic: true
+- name: Nea Kriti
+  url: https://news.google.com/rss/search?q=site:neakriti.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: migration_local
+  domestic: true
+- name: Cretalive
+  url: https://news.google.com/rss/search?q=site:cretalive.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: migration_local
+  domestic: true
+- name: Zarpanews (Χανιά)
+  url: https://www.zarpanews.gr/feed
+  lang: el
+  side: migration_local
+  domestic: true
+- name: e-Evros
+  url: https://news.google.com/rss/search?q=site:e-evros.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: migration_local
+  domestic: true
+- name: Πρώτο Θέμα
+  url: https://www.protothema.gr/rss
+  lang: el
+  side: greek_mainstream
+  domestic: true
+- name: ΣΚΑΪ
+  url: https://www.skai.gr/rss.xml
+  lang: el
+  side: greek_mainstream
+  domestic: true
+- name: Καθημερινή
+  url: https://feeds.feedburner.com/kathimerini/DJpy
+  lang: el
+  side: greek_mainstream
+  domestic: true
+- name: in.gr
+  url: https://www.in.gr/feed
+  lang: el
+  side: greek_mainstream
+  domestic: true
+- name: Τα Νέα
+  url: https://www.tanea.gr/feed
+  lang: el
+  side: greek_mainstream
+  domestic: true
+- name: iefimerida
+  url: https://news.google.com/rss/search?q=site:iefimerida.gr&hl=el&gl=GR&ceid=GR:el
+  lang: el
+  side: greek_mainstream
+  domestic: true
+- name: Εφημερίδα των Συντακτών
+  url: https://www.efsyn.gr/rss
+  lang: el
+  side: greek_mainstream
+  domestic: true
+- name: Remix News
+  url: https://rmx.news/feed/
+  lang: en
+  side: conservative_eu
+  skip_keywords: true
+  min_severity: 3
+- name: Brussels Signal
+  url: https://brusselssignal.eu/feed/
+  lang: en
+  side: conservative_eu
+  skip_keywords: true
+  min_severity: 3
+- name: The European Conservative
+  url: https://europeanconservative.com/feed/
+  lang: en
+  side: conservative_eu
+  skip_keywords: true
+  min_severity: 3
+- name: UnHerd
+  url: https://unherd.com/feed/
+  lang: en
+  side: conservative_uk
+  skip_keywords: true
+  min_severity: 3
+- name: Spiked
+  url: https://www.spiked-online.com/feed/
+  lang: en
+  side: conservative_uk
+  skip_keywords: true
+  min_severity: 3
+- name: Breitbart
+  url: https://feeds.feedburner.com/breitbart
+  lang: en
+  side: conservative_us
+  skip_keywords: true
+  min_severity: 3
+- name: Daily Signal
+  url: https://www.dailysignal.com/feed/
+  lang: en
+  side: conservative_us
+  skip_keywords: true
+  min_severity: 3
+- name: OSINT613
+  url: https://www.osint613.com/feed
+  lang: en
+  side: osint_middle_east
+- name: Liveuamap Middle East
+  url: https://news.google.com/rss/search?q=site:liveuamap.com+middle+east&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: osint_middle_east
+- name: Hoover Institution
+  url: https://news.google.com/rss/search?q=site:hoover.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: American Enterprise Institute
+  url: https://news.google.com/rss/search?q=site:aei.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Hudson Institute
+  url: https://news.google.com/rss/search?q=site:hudson.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Foundation for Defense of Democracies
+  url: https://news.google.com/rss/search?q=site:fdd.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Henry Jackson Society
+  url: https://news.google.com/rss/search?q=site:henryjacksonsociety.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Macdonald-Laurier Institute
+  url: https://news.google.com/rss/search?q=site:macdonaldlaurier.ca&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Policy Exchange
+  url: https://news.google.com/rss/search?q=site:policyexchange.org.uk&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Centre for Policy Studies
+  url: https://news.google.com/rss/search?q=site:cps.org.uk&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Onward
+  url: https://news.google.com/rss/search?q=site:ukonward.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Prosperity Institute
+  url: https://news.google.com/rss/search?q=site:prosperity.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Wilfried Martens Centre
+  url: https://news.google.com/rss/search?q=site:martenscentre.eu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Konrad-Adenauer-Stiftung
+  url: https://news.google.com/rss/search?q=site:kas.de&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: FAES
+  url: https://news.google.com/rss/search?q=site:fundacionfaes.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Fondapol
+  url: https://news.google.com/rss/search?q=site:fondapol.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: National Affairs
+  url: https://news.google.com/rss/search?q=site:nationalaffairs.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Law & Liberty
+  url: https://news.google.com/rss/search?q=site:lawliberty.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: The Dispatch
+  url: https://news.google.com/rss/search?q=site:thedispatch.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_tt
+  subcategory: centre_right
+- name: Cato Institute
+  url: https://news.google.com/rss/search?q=site:cato.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_lib
+  subcategory: libertarian
+- name: Competitive Enterprise Institute
+  url: https://news.google.com/rss/search?q=site:cei.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_lib
+  subcategory: libertarian
+- name: Institute of Economic Affairs
+  url: https://news.google.com/rss/search?q=site:iea.org.uk&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_lib
+  subcategory: libertarian
+- name: Adam Smith Institute
+  url: https://news.google.com/rss/search?q=site:adamsmith.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_lib
+  subcategory: libertarian
+- name: Timbro
+  url: https://news.google.com/rss/search?q=site:timbro.se&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_lib
+  subcategory: libertarian
+- name: CEPOS
+  url: https://news.google.com/rss/search?q=site:cepos.dk&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_lib
+  subcategory: libertarian
+- name: Istituto Bruno Leoni
+  url: https://news.google.com/rss/search?q=site:brunoleoni.it&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_lib
+  subcategory: libertarian
+- name: Fraser Institute
+  url: https://news.google.com/rss/search?q=site:fraserinstitute.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_lib
+  subcategory: libertarian
+- name: Online Library of Liberty
+  url: https://news.google.com/rss/search?q=site:oll.libertyfund.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_lib
+  subcategory: libertarian
+- name: Manhattan Institute
+  url: https://news.google.com/rss/search?q=site:manhattan.institute&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: City Journal
+  url: https://news.google.com/rss/search?q=site:city-journal.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Ethics and Public Policy Center
+  url: https://news.google.com/rss/search?q=site:eppc.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Institute for Family Studies
+  url: https://news.google.com/rss/search?q=site:ifstudies.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Acton Institute
+  url: https://news.google.com/rss/search?q=site:acton.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Intercollegiate Studies Institute
+  url: https://news.google.com/rss/search?q=site:isi.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Russell Kirk Center
+  url: https://news.google.com/rss/search?q=site:kirkcenter.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Federalist Society
+  url: https://news.google.com/rss/search?q=site:fedsoc.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Hillsdale College
+  url: https://news.google.com/rss/search?q=site:hillsdale.edu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Hanns-Seidel-Stiftung
+  url: https://news.google.com/rss/search?q=site:hss.de&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Bibliothek des Konservatismus
+  url: https://news.google.com/rss/search?q=site:bdk-berlin.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Institut Thomas More
+  url: https://news.google.com/rss/search?q=site:institut-thomas-more.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: iFRAP
+  url: https://news.google.com/rss/search?q=site:ifrap.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Civitas
+  url: https://news.google.com/rss/search?q=site:civitas.org.uk&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Bow Group
+  url: https://news.google.com/rss/search?q=site:bowgroup.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: CEVRO Institut
+  url: https://news.google.com/rss/search?q=site:cevroinstitut.cz&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: First Things
+  url: https://news.google.com/rss/search?q=site:firstthings.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: The American Conservative
+  url: https://news.google.com/rss/search?q=site:theamericanconservative.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: American Affairs
+  url: https://news.google.com/rss/search?q=site:americanaffairsjournal.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_class
+  subcategory: classical_conservative
+- name: Claremont Institute
+  url: https://news.google.com/rss/search?q=site:claremont.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Claremont Review of Books
+  url: https://news.google.com/rss/search?q=site:claremontreviewofbooks.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: The American Mind
+  url: https://news.google.com/rss/search?q=site:americanmind.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: National Conservatism
+  url: https://news.google.com/rss/search?q=site:nationalconservatism.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: American Compass
+  url: https://news.google.com/rss/search?q=site:americancompass.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: America First Policy Institute
+  url: https://news.google.com/rss/search?q=site:americafirstpolicy.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Center for Renewing America
+  url: https://news.google.com/rss/search?q=site:americarenewing.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Center for Security Policy
+  url: https://news.google.com/rss/search?q=site:centerforsecuritypolicy.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: New Direction
+  url: https://news.google.com/rss/search?q=site:newdirection.online&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Patriots for Europe Foundation
+  url: https://news.google.com/rss/search?q=site:pfe-foundation.eu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Desiderius-Erasmus-Stiftung
+  url: https://news.google.com/rss/search?q=site:erasmus-stiftung.de&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Fundación Disenso
+  url: https://news.google.com/rss/search?q=site:fundaciondisenso.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Mathias Corvinus Collegium
+  url: https://news.google.com/rss/search?q=site:mcc.hu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: MCC Brussels
+  url: https://news.google.com/rss/search?q=site:brussels.mcc.hu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Danube Institute
+  url: https://news.google.com/rss/search?q=site:danubeinstitute.hu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Századvég
+  url: https://news.google.com/rss/search?q=site:szazadveg.hu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Center for Fundamental Rights
+  url: https://news.google.com/rss/search?q=site:alapjogokert.hu&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Hungarian Conservative
+  url: https://news.google.com/rss/search?q=site:hungarianconservative.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Ordo Iuris
+  url: https://news.google.com/rss/search?q=site:ordoiuris.pl&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Warsaw Enterprise Institute
+  url: https://news.google.com/rss/search?q=site:wei.org.pl&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Instytut Sobieskiego
+  url: https://news.google.com/rss/search?q=site:sobieski.org.pl&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Institut Václava Klause
+  url: https://news.google.com/rss/search?q=site:institutvk.cz&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Fondazione Farefuturo
+  url: https://news.google.com/rss/search?q=site:farefuturofondazione.it&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Nazione Futura
+  url: https://news.google.com/rss/search?q=site:nazionefutura.it&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Bruges Group
+  url: https://news.google.com/rss/search?q=site:brugesgroup.com&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Institut de Formation Politique
+  url: https://news.google.com/rss/search?q=site:ifpfrance.org&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: Observatoire de l'immigration
+  url: https://news.google.com/rss/search?q=site:observatoire-immigration.fr&hl=en-US&gl=US&ceid=US:en
+  lang: en
+  side: conservative_natcon
+  subcategory: nat_con
+- name: The Upheaval (N.S. Lyons)
+  url: https://theupheaval.substack.com/feed
+  lang: en
+  side: conservative_sub
+  subcategory: substack_conservative
+- name: Rod Dreher's Diary
+  url: https://roddreher.substack.com/feed
+  lang: en
+  side: conservative_sub
+  subcategory: substack_conservative
+- name: Wrong Side of History (Ed West)
+  url: https://edwest.substack.com/feed
+  lang: en
+  side: conservative_sub
+  subcategory: substack_conservative
+- name: Mary Harrington
+  url: https://reactionaryfeminist.substack.com/feed
+  lang: en
+  side: conservative_sub
+  subcategory: substack_conservative
+- name: Christopher Rufo
+  url: https://rufo.substack.com/feed
+  lang: en
+  side: conservative_sub
+  subcategory: substack_hard_right
+- name: Matt Goodwin
+  url: https://mattgoodwin.org/feed
+  lang: en
+  side: conservative_sub
+  subcategory: substack_hard_right
+- name: Gray Mirror (Curtis Yarvin)
+  url: https://graymirror.substack.com/feed
+  lang: en
+  side: conservative_sub
+  subcategory: substack_hard_right
 telegram:
-  - username: clashreport
-    lang: en
-    side: telegram_osint
-  - username: OSINTdefender
-    lang: en
-    side: telegram_osint
-  - username: me_observer_TG
-    lang: en
-    side: telegram_middle_east
-  - username: OSINTLive          # καθρέφτης κορυφαίων OSINT λογαριασμών X
-    lang: en
-    side: telegram_x_mirror
-  - username: AMK_Mapping
-    lang: en
-    side: telegram_middle_east
-
-# --- Σελίδες χωρίς RSS ---
+- username: clashreport
+  lang: en
+  side: telegram_osint
+- username: OSINTdefender
+  lang: en
+  side: telegram_osint
+- username: me_observer_TG
+  lang: en
+  side: telegram_middle_east
+- username: OSINTLive
+  lang: en
+  side: telegram_x_mirror
+- username: AMK_Mapping
+  lang: en
+  side: telegram_middle_east
 html_pages:
-  - name: Millet Gazetesi (Batı Trakya)
-    url: https://www.milletgazetesi.gr/bati-trakya
-    link_pattern: /bati-trakya/
-    lang: tr
-    side: thrace_minority_media
-    skip_keywords: true
-    min_severity: 3
-
-  - name: Millet Gazetesi (Yunanistan)
-    url: https://www.milletgazetesi.gr/yunanistan
-    link_pattern: /yunanistan/
-    lang: tr
-    side: thrace_minority_media
-    skip_keywords: true
-    min_severity: 3
-
-# ==================== X/TWITTER ACCOUNTS ====================
+- name: Millet Gazetesi (Batı Trakya)
+  url: https://www.milletgazetesi.gr/bati-trakya
+  link_pattern: /bati-trakya/
+  lang: tr
+  side: thrace_minority_media
+  skip_keywords: true
+  min_severity: 3
+- name: Millet Gazetesi (Yunanistan)
+  url: https://www.milletgazetesi.gr/yunanistan
+  link_pattern: /yunanistan/
+  lang: tr
+  side: thrace_minority_media
+  skip_keywords: true
+  min_severity: 3
 x_accounts:
-  - name: "Ελληνικά Επίσημα & Αναλυτές"
-    accounts:
-      - "HellenicNavy"
-      - "HellenicAirForce"
-      - "mod_greece"
-      - "GreeceMFA"
-      - "DendiasNikos"
-      - "geoanalyst_gr"
-      - "SpyrosKtenas"
-    min_severity: 3
-
-  - name: "Τουρκικά Επίσημα & Αναλυτές"
-    accounts:
-      - "tcsavunma"
-      - "TC_Disisleri"
-      - "TurkishNavy"
-      - "fahrettinaltun"
-    min_severity: 3
-
-  - name: "Ισραηλινά & OSINT"
-    accounts:
-      - "IDF"
-      - "IsraelMFA"
-      - "Osinttechnical"
-      - "oryxspioenkop"
-    min_severity: 3
+- name: Ελληνικά Επίσημα & Αναλυτές
+  accounts:
+  - HellenicNavy
+  - HellenicAirForce
+  - mod_greece
+  - GreeceMFA
+  - DendiasNikos
+  - geoanalyst_gr
+  - SpyrosKtenas
+  min_severity: 3
+- name: Τουρκικά Επίσημα & Αναλυτές
+  accounts:
+  - tcsavunma
+  - TC_Disisleri
+  - TurkishNavy
+  - fahrettinaltun
+  min_severity: 3
+- name: Ισραηλινά & OSINT
+  accounts:
+  - IDF
+  - IsraelMFA
+  - Osinttechnical
+  - oryxspioenkop
+  min_severity: 3

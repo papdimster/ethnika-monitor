@@ -79,10 +79,22 @@ def collect(sources_path: str, keywords_path: str, known_ids: set[str],
     kw_cfg = load_yaml(keywords_path)
     topics = kw_cfg["keywords"]
     broad = kw_cfg.get("broad_geo_keywords", [])
+    # Side-specific keywords: ισχύουν ΜΟΝΟ στις πηγές του αντίστοιχου side.
+    # Έτσι οι συντηρητικές πηγές πιάνουν ιδεολογικό περιεχόμενο (woke, family,
+    # religious liberty κ.λπ.) χωρίς αυτό το φίλτρο να εφαρμόζεται σε Reuters
+    # ή Guardian, που θα γέμιζαν τη ροή με άσχετα άρθρα.
+    # Το matching γίνεται με prefix: side "conservative" στο keywords.yaml
+    # πιάνει όλα τα sides που αρχίζουν με "conservative_" (eu/uk/us/tt/κ.λπ.).
+    side_kw = kw_cfg.get("side_keywords", {}) or {}
     fresh = []
 
     for src in sources:
         keywords = topics if src.get("domestic") else topics + broad
+        src_side = src.get("side") or ""
+        for prefix, extra_kws in side_kw.items():
+            if extra_kws and (src_side == prefix or src_side.startswith(prefix + "_")):
+                keywords = keywords + extra_kws
+                break
         try:
             parsed = fetch_feed(src["url"])
         except Exception as e:
