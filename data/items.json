@@ -1,7 +1,184 @@
 {
- "updated": "2026-10-24T18:14:00.142847+00:00",
- "count": 1751,
+ "updated": "2026-10-24T20:56:28.551756+00:00",
+ "count": 1762,
  "items": [
+  {
+   "id": "5c446814d546bb57",
+   "title": "⚡️ Iranian embassy in Iraq objects to Iraqi PM adviser's remarks on closing Jathaba crossing  The advisor had linked the closure to alleged smuggling of drugs and counterfeit curre…",
+   "link": "https://t.me/me_observer_TG/1119914",
+   "summary_raw": "⚡️ Iranian embassy in Iraq objects to Iraqi PM adviser's remarks on closing Jathaba crossing  The advisor had linked the closure to alleged smuggling of drugs and counterfeit currency. The embassy demanded that the competent Iraqi authorities take a stand on these allegations.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-10-24T20:51:39+00:00",
+   "collected": "2026-10-24T20:55:38.962974+00:00",
+   "keywords_hit": [
+    "smuggl"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ Iranian embassy in Iraq objects to Iraqi PM adviser's remarks on closing Jathaba crossing The advisor had linked the closure to alleged smuggling of drugs and counterfeit currency. The embassy dema",
+   "angle": null
+  },
+  {
+   "id": "56ae707c1f57f0ec",
+   "title": "Trump on Iran:  Iran would have somehow figured a way to make a nuclear bomb if I left them alone.",
+   "link": "https://t.me/ClashReport/102826",
+   "summary_raw": "Trump on Iran:  Iran would have somehow figured a way to make a nuclear bomb if I left them alone.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-10-24T20:51:06+00:00",
+   "collected": "2026-10-24T20:55:37.547849+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Trump on Iran: Iran would have somehow figured a way to make a nuclear bomb if I left them alone.",
+   "angle": null
+  },
+  {
+   "id": "789b4af3659eded7",
+   "title": "⚡️ Iran: Shams al-Wa'ezin warns US President will push Tehran toward nuclear defense theory if threats double",
+   "link": "https://t.me/me_observer_TG/1119899",
+   "summary_raw": "⚡️ Iran: Shams al-Wa'ezin warns US President will push Tehran toward nuclear defense theory if threats double",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-10-24T20:21:00+00:00",
+   "collected": "2026-10-24T20:55:38.961035+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ Iran: Shams al-Wa'ezin warns US President will push Tehran toward nuclear defense theory if threats double",
+   "angle": null
+  },
+  {
+   "id": "0096c4efc44591c5",
+   "title": "Turkish foreign minister, Qatari counterpart discuss Gulf security, ongoing negotiations",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-qatari-counterpart-discuss-gulf-security-ongoing-negotiations/4099841",
+   "summary_raw": "Hakan Fidan and Sheikh Mohammed bin Abdulrahman Al Thani discuss Gulf security, negotiations in phone call",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-10-24T19:38:36+00:00",
+   "collected": "2026-10-24T20:53:54.891214+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Hakan Fidan and Sheikh Mohammed bin Abdulrahman Al Thani discuss Gulf security, negotiations in phone call",
+   "angle": null
+  },
+  {
+   "id": "43ed6b9f5d752d6f",
+   "title": "ΥΠΕΞ για Θράκη: «Υποκριτικό να παραδίδει η Τουρκία μαθήματα θρησκευτικής ελευθερίας»",
+   "link": "https://www.kathimerini.gr/politics/foreign-policy/564546742/ypex-gia-thraki-ypokritiko-na-paradidei-i-toyrkia-mathimata-thriskeytikis-eleytherias/",
+   "summary_raw": "Το υπουργείο Εξωτερικών απορρίπτει κάθε απόπειρα επαναπροσδιορισμού του χαρακτήρα της μουσουλμανικής μειονότητας και κατηγορεί την Τουρκία για παρέμβαση στις εσωτερικές υποθέσεις της Ελλάδας.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-24T19:31:55+00:00",
+   "collected": "2026-10-24T20:54:49.203934+00:00",
+   "keywords_hit": [
+    "θράκη",
+    "μειονότητα"
+   ],
+   "category": "Θράκη",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Το υπουργείο Εξωτερικών απορρίπτει κάθε απόπειρα επαναπροσδιορισμού του χαρακτήρα της μουσουλμανικής μειονότητας και κατηγορεί την Τουρκία για παρέμβαση στις εσωτερικές υποθέσεις της Ελλάδας.",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "ed69f0e079ab1ee6",
+   "title": "The Spectator Index European Natural Gas price.  1st of January: $28  Now: $93 https://twitter.com/spectatorindex/status/2114071115790495983/photo/1 tweet",
+   "link": "https://t.me/OSINTLive/585291",
+   "summary_raw": "The Spectator Index European Natural Gas price.  1st of January: $28  Now: $93 https://twitter.com/spectatorindex/status/2114071115790495983/photo/1 tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-10-24T19:25:39+00:00",
+   "collected": "2026-10-24T20:55:39.686935+00:00",
+   "keywords_hit": [
+    "natural gas"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The Spectator Index European Natural Gas price. 1st of January: $28 Now: $93 https://twitter.com/spectatorindex/status/2114071115790495983/photo/1 tweet",
+   "angle": null
+  },
+  {
+   "id": "8f103909a5712c2e",
+   "title": "Παραλήρημα Μπάρακ: &quot;Βρείτε τα&quot; Ελλάδα-Τουρκία για την ενέργεια",
+   "link": "https://www.pentapostagma.gr/ethnika-themata/ellinotoyrkika/7395647_paralirima-mparak-breite-ta-ellada-toyrkia-gia-tin-energeia",
+   "summary_raw": "&quot;Γραμμή&quot; Πόντιου Πιλάτου υιοθετούν οι ΗΠΑ για το ηλεκτρικό καλώδιο διασύνδεσης Ισραήλ-Κύπρου-Ελλάδας-ΕΕ και το παράνομο...",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-10-24T19:24:04+00:00",
+   "collected": "2026-10-24T20:54:21.668062+00:00",
+   "keywords_hit": [
+    "διασύνδεση"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "\"Γραμμή\" Πόντιου Πιλάτου υιοθετούν οι ΗΠΑ για το ηλεκτρικό καλώδιο διασύνδεσης Ισραήλ-Κύπρου-Ελλάδας-ΕΕ και το παράνομο...",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "11ffd0b47bd88500",
+   "title": "IDF Holds Multi-Front Defense Drill",
+   "link": "https://www.osint613.com/post/idf-holds-multi-front-defense-drill-26183",
+   "summary_raw": "Increased aircraft activity is expected over northern and central Israel tomorrow and the day after, as the IDF holds a multi-front defense exercise simulating a surprise attack on Israel. The military is on its highest state of alert ahead of Tuesday's elections, with tens of thousands of troops deployed across several fronts. Security officials stress there is no concrete intelligence pointing to a threat, according to Kan News.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-10-24T18:38:12+00:00",
+   "collected": "2026-10-24T20:54:56.617757+00:00",
+   "keywords_hit": [
+    "crete"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Increased aircraft activity is expected over northern and central Israel tomorrow and the day after, as the IDF holds a multi-front defense exercise simulating a surprise attack on Israel. The militar",
+   "angle": null
+  },
   {
    "id": "62cbc83c625bf26f",
    "title": "YDP milletvekiline 200 bin euroluk AB desteği tartışması",
@@ -136,6 +313,26 @@
    "angle": null,
    "corroborated_by": [
     "OSINT613"
+   ]
+  },
+  {
+   "id": "2c07fcc70463da6d",
+   "title": "Clashes Break Out at Protests Across France as Green-Red Demonstrations Continue",
+   "link": "https://www.breitbart.com/europe/2026/10/24/clashes-break-out-at-protests-across-france-as-green-red-demonstrations-continue/",
+   "summary_raw": "<p>Clashes and chaotic scenes have once again broken out in cities across France as the Islamo-Leftist (Green-Red) protest movement continues into its second month.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/10/24/clashes-break-out-at-protests-across-france-as-green-red-demonstrations-continue/\" rel=\"nofollow\">Clashes Break Out at Protests Across France as Green-Red Demonstrations Continue</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-24T17:01:48+00:00",
+   "collected": "2026-10-24T20:54:56.169406+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Clashes and chaotic scenes have once again broken out in cities across France as the Islamo-Leftist (Green-Red) protest movement continues into its second month. The post Clashes Break Out at Protests",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
    ]
   },
   {
@@ -529,6 +726,25 @@
    ]
   },
   {
+   "id": "ca99d52f5cbe06b0",
+   "title": "Libya's Dbeibah says ready to address Egypt's maritime concerns - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmxsRWg3NGtsREw4YWtPYlZUcjJVN0FJcDJkbzY1ZjdycTZzVzNjVFpwajFzTk9pT1V5QW5JdmQyMWNaOTIxU1pGdHRQQ2ZXcnh2UnFFQTJjUUlrSlpTZVBkNHBvaGpVY3JZMjZoSkliSWYxWm44dEpaQTdsNmNrb0RMV1FfX0p5eUpSQWFCYkpQRWE4WXllX1FYTW1IbE01SDk2bjVpNHVLOHI5RnllbE93?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmxsRWg3NGtsREw4YWtPYlZUcjJVN0FJcDJkbzY1ZjdycTZzVzNjVFpwajFzTk9pT1V5QW5JdmQyMWNaOTIxU1pGdHRQQ2ZXcnh2UnFFQTJjUUlrSlpTZVBkNHBvaGpVY3JZMjZoSkliSWYxWm44dEpaQTdsNmNrb0RMV1FfX0p5eUpSQWFCYkpQRWE4WXllX1FYTW1IbE01SDk2bjVpNHVLOHI5RnllbE93?oc=5\" target=\"_blank\">Libya's Dbeibah says ready to address Egypt's maritime concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters World",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-10-24T16:04:09+00:00",
+   "collected": "2026-10-24T20:54:11.046365+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Libya's Dbeibah says ready to address Egypt's maritime concerns Reuters",
+   "angle": null
+  },
+  {
    "id": "ebd34570cf5eb868",
    "title": "Γεραπετρίτης: «Ιστορικής σημασίας η συμφωνία για τη Μονή της Αγίας Αικατερίνης του Όρους Σινά»",
    "link": "https://www.tanea.gr/2026/10/24/politics/gerapetritis-istorikis-simasias-i-symfonia-gia-ti-moni-tis-agias-aikaterinis-tou-orous-sina/",
@@ -569,6 +785,26 @@
    "turkish_narrative": false,
    "summary_el": "Σε μία ΕΕ, παντελώς απροετοίμαστη για όσα η διεθνής ενεργειακή αγορά ήδη με σαφήνεια προέβλεπε από το 2025, ο Κάθετος Ενεργειακός Διάδρομος μπορεί να πρωταγωνιστήσει ως παράγοντας ενεργειακής ασφάλεια",
    "angle": null
+  },
+  {
+   "id": "3709d5904e9b40da",
+   "title": "Maher: Our Socialist Programs 'Out of Whack, Same as in France'",
+   "link": "https://www.breitbart.com/clips/2026/10/24/maher-our-socialist-programs-out-of-whack-same-as-in-france/",
+   "summary_raw": "<p>During his closing monologue on Friday&#8217;s broadcast of HBO&#8217;s &#8220;Real Time,&#8221; host Bill Maher said that, in America, &#8220;the redistribution of wealth has gotten out of whack, same as in France.&#8221; Maher began by saying, &#8220;Now that socialism is having</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/10/24/maher-our-socialist-programs-out-of-whack-same-as-in-france/\" rel=\"nofollow\">Maher: Our Socialist Programs &#8216;Out of Whack, Same as in France&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-24T15:36:48+00:00",
+   "collected": "2026-10-24T20:54:56.170297+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "During his closing monologue on Friday’s broadcast of HBO’s “Real Time,” host Bill Maher said that, in America, “the redistribution of wealth has gotten out of whack, same as in France.” Maher began b",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "68a030f08ecc4a55",
@@ -747,6 +983,26 @@
    ]
   },
   {
+   "id": "9d01f10c63b0f85c",
+   "title": "Macron Forced to Walk Back Claim Trappes Shooting Was First Religious Motivated Terror Attack in France",
+   "link": "https://www.breitbart.com/europe/2026/10/24/macron-forced-to-walk-back-claim-trappes-shooting-was-first-religious-motivated-terror-attack-in-france/",
+   "summary_raw": "<p>French President Emmanuel Macron has been forced to an embarrassing backtrack after falsely claiming that the shootings in Trappes were the first time that the country had experienced a terror attack over race or religion.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/10/24/macron-forced-to-walk-back-claim-trappes-shooting-was-first-religious-motivated-terror-attack-in-france/\" rel=\"nofollow\">Macron Forced to Walk Back Claim Trappes Shooting Was First Religious Motivated Terror Attack in France</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-24T14:07:23+00:00",
+   "collected": "2026-10-24T20:54:56.169863+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "French President Emmanuel Macron has been forced to an embarrassing backtrack after falsely claiming that the shootings in Trappes were the first time that the country had experienced a terror attack ",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "f87226cac9659371",
    "title": "Τηλεφωνική επικοινωνία Χριστοδουλίδη με τον Βασιλιά της Ιορδανίας: Καταδίκασε την τρομοκρατική επίθεση στον ελληνορθόδοξο ναό – «Αμέριστη αλληλεγγύη» της Κύπρου",
    "link": "https://www.philenews.com/kipros/koinonia/article/1786402/tilefoniki-epikinonia-christodoulidi-me-ton-vasilia-tis-iordanias-katadikase-tin-tromokratiki-epithesi-ston-ellinorthodoxo-nao-ameristi-allilengii-tis-kiprou/",
@@ -831,6 +1087,29 @@
    "turkish_narrative": false,
    "summary_el": "Σε δήλωσή του, ο υπουργός Εξωτερικών εκφράζει τις ευχαριστίες του πρόεδρο και τον υπουργό Εξωτερικών της Αιγύπτου για την συμβολή τους στην επίτευξη συμφωνίας για την Μονή της Αγίας Αικατερίνης - Κάνε",
    "angle": null
+  },
+  {
+   "id": "6074183729c74f1e",
+   "title": "November’s Stark Choice: 2 Visions for Justice and the Rule of Law",
+   "link": "https://www.dailysignal.com/2026/10/24/novembers-stark-choice-two-visions-for-justice-and-the-rule-of-law/",
+   "summary_raw": "Summary Democrats, suffering from denial and delusion, tend to think of themselves as the guardians of the rule of law. Back in reality, nothing could be further from the case. Consider Rep. Ilhan Omar, D-Minn., who fancies herself a rule-of-law-championing model immigrant despite the fact that she literally conceded to her fellow Somalis that she...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-24T14:00:00+00:00",
+   "collected": "2026-10-24T20:54:56.420423+00:00",
+   "keywords_hit": [
+    "migrant",
+    "rule of law"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Summary Democrats, suffering from denial and delusion, tend to think of themselves as the guardians of the rule of law. Back in reality, nothing could be further from the case. Consider Rep. Ilhan Oma",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
   },
   {
    "id": "476826539e9ed9d1",
@@ -1029,6 +1308,64 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Δεν είναι ωραίο να σου έχει χωθεί στην ΑΟΖ ο Ερντογάν με την υπότροπο υποστήριξη του Χαλίφη, και να σε σκουντάει η Μεσόγειος με τη λεκάνη της, ντουμ τεκ τεκ. Χάσαμε την επικαιρότητα, stop. Κι ενώ τα π",
+   "angle": null
+  },
+  {
+   "id": "96bd42c2fa09c415",
+   "title": "Christian world condemns Greek Orthodox church attack in Jordan which killed 7 and wounded dozens",
+   "link": "https://en.philenews.com/international/christian-world-condemns-greek-orthodox-church-attack-in-jordan-which-killed-7-and-wounded-dozens/",
+   "summary_raw": "A rare attack on the Christian community in moderate Jordan, a Middle Eastern country of strong religious freedom, has left the Hashemite Kingdom reeling and on red alert from extremist groups, as King Abdullah promised to respond with an iron fist. Christian communities and leaders throughout the world, including the Vatican, the Church of Cyprus [&#8230;]",
+   "source": "in-cyprus (Philenews)",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-10-24T13:02:11+00:00",
+   "collected": "2026-10-24T20:54:10.566563+00:00",
+   "keywords_hit": [
+    "religious freedom"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A rare attack on the Christian community in moderate Jordan, a Middle Eastern country of strong religious freedom, has left the Hashemite Kingdom reeling and on red alert from extremist groups, as Kin",
+   "angle": null
+  },
+  {
+   "id": "3590ea87e6887bda",
+   "title": "People, Place, Principles: What It Means to Be an American",
+   "link": "https://www.dailysignal.com/2026/10/24/america-culture-values-people/",
+   "summary_raw": "The West is in a crucial cultural moment. Protesters burned a 140-year-old town hall in France, a disquieting testament of denigration. Many argue that America has no unique culture, or if it does, it is not one worth preserving.&#160;&#160; Even as America celebrates its 250th birthday, it seems we no longer know—and so don’t understand—what...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-24T13:00:00+00:00",
+   "collected": "2026-10-24T20:54:56.420773+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The West is in a crucial cultural moment. Protesters burned a 140-year-old town hall in France, a disquieting testament of denigration. Many argue that America has no unique culture, or if it does, it",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "45ac27f6a60bdf4d",
+   "title": "For fishermen, Britain’s climate-driven octopus boom is an opportunity, and a threat",
+   "link": "https://cyprus-mail.com/2026/10/24/for-fishermen-britains-climate-driven-octopus-boom-is-an-opportunity-and-a-threat",
+   "summary_raw": "A surge in ​octopus numbers in British waters due to unusually warm seas is presenting fishermen with ‌an interesting new catch — albeit one that’s devouring one of their usual staples. The value of British octopus exports rose to £12.8 million ($17 million) last year from £164,000 a year earlier, with demand driven largely by [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-10-24T12:30:00+00:00",
+   "collected": "2026-10-24T20:54:09.754368+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "A surge in ​octopus numbers in British waters due to unusually warm seas is presenting fishermen with ‌an interesting new catch — albeit one that’s devouring one of their usual staples. The value of B",
    "angle": null
   },
   {
@@ -1799,6 +2136,28 @@
    ]
   },
   {
+   "id": "65755b85decb6c3e",
+   "title": "A Potent Climate Super-Pollutant Is Surging in Beijing",
+   "link": "https://insideclimatenews.org/news/24102026/sf6-climate-super-pollutant-surges-in-beijing/",
+   "summary_raw": "Climate pollutant concentrations in the Beijing region of northern China have plateaued or begun to decline—except for the world’s most potent greenhouse gas, new research concludes. The findings, published in the journal Environmental Science &#38; Technology, suggest a decades-long effort to clean Beijing’s air is beginning to pay off. But while it cites progress, the [&#8230;]",
+   "source": "Inside Climate News",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-10-24T08:55:00+00:00",
+   "collected": "2026-10-24T20:54:34.283366+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Climate pollutant concentrations in the Beijing region of northern China have plateaued or begun to decline—except for the world’s most potent greenhouse gas, new research concludes. The findings, pub",
+   "angle": null,
+   "corroborated_by": [
+    "Electrive (EU ηλεκτροκίνηση)"
+   ]
+  },
+  {
    "id": "341f944b99be9888",
    "title": "Στη Νέα Υόρκη ο Γεραπετρίτης για το Συμβούλιο Ασφαλείας του ΟΗΕ, συνάντηση με Γκουτέρες και συνεδρίαση υπό τον Μητσοτάκη",
    "link": "https://www.protothema.gr/politics/article/1899953/sti-nea-uorki-o-gerapetritis-gia-to-sumvoulio-asfaleias-tou-oie-sunadisi-me-gouteres-kai-sunedriasi-upo-ton-mitsotaki/?utm_source=rss",
@@ -2303,6 +2662,28 @@
    "angle": null
   },
   {
+   "id": "49c8fe7917666ae0",
+   "title": "Trump Says NFL Probably Could Have Postponed' Paris Game Due to Riots",
+   "link": "https://www.breitbart.com/sports/2026/10/23/trump-says-nfl-probably-could-have-postponed-paris-game-due-riots/",
+   "summary_raw": "<p>President Trump says the NFL could have \"postponed\" Sunday's game in Paris as the French capital descends into anarchy.</p>\n<p>The post <a href=\"https://www.breitbart.com/sports/2026/10/23/trump-says-nfl-probably-could-have-postponed-paris-game-due-riots/\" rel=\"nofollow\">Trump Says NFL Probably Could Have Postponed&#8217; Paris Game Due to Riots</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-24T05:15:45+00:00",
+   "collected": "2026-10-24T20:54:56.177875+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "President Trump says the NFL could have \"postponed\" Sunday's game in Paris as the French capital descends into anarchy. The post Trump Says NFL Probably Could Have Postponed’ Paris Game Due to Riots a",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "b92ec25e51d0565e",
    "title": "USAF: 1.509 μαχητικά αεροσκάφη έως το 2035 θέλουν οι ΗΠΑ – Το 60% θα αποτελείται από F-22, F-35 και F-47",
    "link": "https://www.onalert.gr/eksoplismoi/usaf-1-509-maxitika-aeroskafi-eos-to-2035-theloun-oi-ipa-to-60-tha-apoteleitai-apo-f-22-f-35-kai-f-47/828226/",
@@ -2643,6 +3024,28 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "A federal appeals court ruled Friday that illegal immigrants detained inside the United States have no constitutional right to a bond hearing, no matter how long they have lived in the country. The po",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "7290e42b411d03de",
+   "title": "Trump Tells Florida of Plans for USA to Topple Cuban Communist Regime",
+   "link": "https://www.breitbart.com/politics/2026/10/23/trump-tells-florida-plans-usa-topple-cuban-communist-regime/",
+   "summary_raw": "<p>President Donald Trump told a Florida crowd Friday that a U.S. warship could force Cuba’s communist government to surrender after Iran, with Secretary of State Marco Rubio sent to “finish up the deal.”</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/10/23/trump-tells-florida-plans-usa-topple-cuban-communist-regime/\" rel=\"nofollow\">Trump Tells Florida of Plans for USA to Topple Cuban Communist Regime</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-24T01:11:57+00:00",
+   "collected": "2026-10-24T20:54:56.175879+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "President Donald Trump told a Florida crowd Friday that a U.S. warship could force Cuba’s communist government to surrender after Iran, with Secretary of State Marco Rubio sent to “finish up the deal.",
    "angle": null,
    "corroborated_by": [
     "Daily Signal"
@@ -4520,6 +4923,26 @@
    ]
   },
   {
+   "id": "fdc0b13537afa67c",
+   "title": "U.S. Issues Riots Security Alert For France Ahead of Paris NFL Match",
+   "link": "https://www.breitbart.com/europe/2026/10/23/u-s-issues-riots-security-alert-for-france-ahead-of-paris-nfl-match/",
+   "summary_raw": "<p>State Department issued travel warning ahead of a busy weekend in Paris that promises 'act two' riots and a major NFL match in the city. </p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/10/23/u-s-issues-riots-security-alert-for-france-ahead-of-paris-nfl-match/\" rel=\"nofollow\">U.S. Issues Riots Security Alert For France Ahead of Paris NFL Match</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-23T16:33:13+00:00",
+   "collected": "2026-10-24T20:54:56.177539+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "State Department issued travel warning ahead of a busy weekend in Paris that promises 'act two' riots and a major NFL match in the city. The post U.S. Issues Riots Security Alert For France Ahead of P",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "d22b895f7f2c7f5d",
    "title": "Cyprus ‘ready’ to delimit EEZ with Greece",
    "link": "https://cyprus-mail.com/2026/10/23/cyprus-ready-to-delimit-eez-with-greece",
@@ -4740,6 +5163,26 @@
    "turkish_narrative": false,
    "summary_el": "Ceuta: Police find 74 migrants living in 'exploitative conditions,' one arrest InfoMigrants",
    "angle": null
+  },
+  {
+   "id": "555b57abce4d90ce",
+   "title": "Steelers Cancel Fan Event in Paris as Rioting in France Continues, But NFL Says Game is On",
+   "link": "https://www.breitbart.com/sports/2026/10/23/steelers-cancel-fan-event-in-paris-as-rioting-in-france-continues-but-nfl-says-game-is-on/",
+   "summary_raw": "<p>The Pittsburgh Steelers canceled a fan event in Paris ahead of the NFL's big Oct. 25 game at the Stade de France as the country continues to be beset by violent rioting and looting.</p>\n<p>The post <a href=\"https://www.breitbart.com/sports/2026/10/23/steelers-cancel-fan-event-in-paris-as-rioting-in-france-continues-but-nfl-says-game-is-on/\" rel=\"nofollow\">Steelers Cancel Fan Event in Paris as Rioting in France Continues, But NFL Says Game is On</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-23T15:55:47+00:00",
+   "collected": "2026-10-24T20:54:56.177179+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The Pittsburgh Steelers canceled a fan event in Paris ahead of the NFL's big Oct. 25 game at the Stade de France as the country continues to be beset by violent rioting and looting. The post Steelers ",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "b28c266d7f3e93a8",
@@ -41705,218 +42148,6 @@
    "turkish_narrative": false,
    "summary_el": "The French government has accused the far-left of stoking the riots that engulfed the nation on Saturday, resulting in widespread clashes with police, looting of shops, as well as vandalism and arson ",
    "angle": null
-  },
-  {
-   "id": "13364869337c7b13",
-   "title": "Trump Warns California Election Officials of Jail Time if They Let Noncitizens Vote",
-   "link": "https://www.breitbart.com/politics/2026/10/17/trump-warns-california-election-officials-of-jail-time-if-they-let-noncitizens-vote/",
-   "summary_raw": "<p>President Donald Trump promised jail for California officials who don’t heed the Department of Justice’s (DOJ) warning that they will be criminally charged if they include the mail-in ballots of the some 200,000 people reportedly identified as potential noncitizens in their midterm election tallies.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/10/17/trump-warns-california-election-officials-of-jail-time-if-they-let-noncitizens-vote/\" rel=\"nofollow\">Trump Warns California Election Officials of Jail Time if They Let Noncitizens Vote</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-17T19:55:25+00:00",
-   "collected": "2026-10-17T22:23:44.448008+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "President Donald Trump promised jail for California officials who don’t heed the Department of Justice’s (DOJ) warning that they will be criminally charged if they include the mail-in ballots of the s",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "903d544ab42951e6",
-   "title": "⚡️ Enemy Media: Netanyahu says that enemies from abroad are interfering in the Israeli elections, from Mamdani in New York, through Erdogan in Istanbul, and the Ayatollahs in Iran,…",
-   "link": "https://t.me/me_observer_TG/1115493",
-   "summary_raw": "⚡️ Enemy Media: Netanyahu says that enemies from abroad are interfering in the Israeli elections, from Mamdani in New York, through Erdogan in Istanbul, and the Ayatollahs in Iran, and Hezbollah in Lebanon, all the way to Hamas in Gaza.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-10-17T19:25:45+00:00",
-   "collected": "2026-10-17T19:27:44.097932+00:00",
-   "keywords_hit": [
-    "erdogan"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ Enemy Media: Netanyahu says that enemies from abroad are interfering in the Israeli elections, from Mamdani in New York, through Erdogan in Istanbul, and the Ayatollahs in Iran, and Hezbollah in Le",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @clashreport"
-   ],
-   "locations": [
-    {
-     "name": "Κωνσταντινούπολη",
-     "lat": 41.01,
-     "lon": 28.98
-    }
-   ]
-  },
-  {
-   "id": "36faef4a9502f1ae",
-   "title": "Ρουμανικά μαχητικά F-16 κατέρριψαν δύο drones πάνω από τα χωρικά ύδατα",
-   "link": "https://www.in.gr/2026/10/17/world/roumanika-maxitika-f-16-katerripsan-dyo-drones-pano-apo-ta-xorika-ydata/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/10/2026-10-08T102043Z_264541015_RC27YNAJV31O_RTRMADP_5_ROMANIA-DEFENCE-RESERVISTS-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Η Ρουμανία, μέλος του ΝΑΤΟ, μοιράζεται σύνορα μήκους 614 χλμ. με την Ουκρανία και έχει αναφερθεί επανειλημμένα εισβολές ρωσικών μη επανδρωμένων αεροσκαφών στον εναέριο χώρο της </p>\n<p>The post <a href=\"https://www.in.gr/2026/10/17/world/roumanika-maxitika-f-16-katerripsan-dyo-drones-pano-apo-ta-xorika-ydata/\">Ρουμανικά μαχητικά F-16 κατέρριψαν δύο drones πάνω από τα χωρικά ύδατα</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-17T19:15:26+00:00",
-   "collected": "2026-10-17T19:27:34.349317+00:00",
-   "keywords_hit": [
-    "χωρικά ύδατα",
-    "f-16"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Η Ρουμανία, μέλος του ΝΑΤΟ, μοιράζεται σύνορα μήκους 614 χλμ. με την Ουκρανία και έχει αναφερθεί επανειλημμένα εισβολές ρωσικών μη επανδρωμένων αεροσκαφών στον εναέριο χώρο της The post Ρουμανικά μαχη",
-   "angle": null
-  },
-  {
-   "id": "e40ea318f02589ba",
-   "title": "Λευκάδα: Ιστιοφόρο με δύο αλλοδαπούς προσάραξε σε ακτή στο Μεγανήσι – Κινητοποίηση του Λιμενικού - NeaKriti",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVVLRkoxVDJxWFpVWmdFajBhc3JqcE96alMxbXhDbnNKbnZsWHRTTkVOMDhraFhRZHBSbEk3MUJuc2RlaDFRT1Fxa1Jyb3VaNHVkWlVhS3pGR3Q1NnRFNG9QYmhBbDZKbV82NUNFM0ItYVJvNVlDbDBRS2FkaERLVXhSVldCNU9KeGZMYXlZaUsza0RfTkp4TllEaWZtYnVVSGJkcGpuZm1KN1g1WXo3SnQ4ejVBZzZuOWlnStIBwgFBVV95cUxQN1J6eXg2anNEV2xXV1hjOFA3QXBWT1pDb09ibHZHQmdNcDYwQnZLNnJtRlRZVm5yNl91N0VDakFISXVLTmVXOWVtcEFIVHctalhodDlkS2JRSVdHQzRMOFZ3SUQzby05MmwwYjNxeDFtdmFEdU5UMXZIQTFxT3NrMGVHcHFmY0FBRUVkMEZ0RS10TjEtRjE3YUJIejRIT0dTWmJoVDJUNXpKY3hWdUxJTlR1UDFGUnpEWmxlUXdwVmVZZw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVVLRkoxVDJxWFpVWmdFajBhc3JqcE96alMxbXhDbnNKbnZsWHRTTkVOMDhraFhRZHBSbEk3MUJuc2RlaDFRT1Fxa1Jyb3VaNHVkWlVhS3pGR3Q1NnRFNG9QYmhBbDZKbV82NUNFM0ItYVJvNVlDbDBRS2FkaERLVXhSVldCNU9KeGZMYXlZaUsza0RfTkp4TllEaWZtYnVVSGJkcGpuZm1KN1g1WXo3SnQ4ejVBZzZuOWlnStIBwgFBVV95cUxQN1J6eXg2anNEV2xXV1hjOFA3QXBWT1pDb09ibHZHQmdNcDYwQnZLNnJtRlRZVm5yNl91N0VDakFISXVLTmVXOWVtcEFIVHctalhodDlkS2JRSVdHQzRMOFZ3SUQzby05MmwwYjNxeDFtdmFEdU5UMXZIQTFxT3NrMGVHcHFmY0FBRUVkMEZ0RS10TjEtRjE3YUJIejRIT0dTWmJoVDJUNXpKY3hWdUxJTlR1UDFGUnpEWmxlUXdwVmVZZw?oc=5\" target=\"_blank\">Λευκάδα: Ιστιοφόρο με δύο αλλοδαπούς προσάραξε σε ακτή στο Μεγανήσι – Κινητοποίηση του Λιμενικού</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NeaKriti</font>",
-   "source": "Nea Kriti",
-   "side": "migration_local",
-   "lang": "el",
-   "published": "2026-10-17T19:12:25+00:00",
-   "collected": "2026-10-18T20:50:03.281095+00:00",
-   "keywords_hit": [
-    "λιμενικ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Λευκάδα: Ιστιοφόρο με δύο αλλοδαπούς προσάραξε σε ακτή στο Μεγανήσι – Κινητοποίηση του Λιμενικού NeaKriti",
-   "angle": null
-  },
-  {
-   "id": "4eca1e15bc17c8f1",
-   "title": "Μαζί στην Πύλα Χριστοδουλίδης και Έρχιουρμαν, νέο ραντεβού την Τρίτη",
-   "link": "https://www.protothema.gr/greece/article/1896560/mazi-stin-pula-hristodoulidis-kai-erhiourman-neo-radevou-tin-triti/?utm_source=rss",
-   "summary_raw": "Μήνυμα ειρήνης και επανένωσης από τον Κύπριο pρόεδρο στο Δικοινοτικό Φεστιβάλ - Αποκάλυψε ότι απέστειλε νέες προτάσεις στον Γκουτέρες και απάντησε στις επισημάνσεις της απεσταλμένης του ΟΗΕ για το αδιέξοδο στα οδοφράγματα.",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-17T19:09:27+00:00",
-   "collected": "2026-10-17T19:27:32.303379+00:00",
-   "keywords_hit": [
-    "χριστοδουλίδης"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Μήνυμα ειρήνης και επανένωσης από τον Κύπριο pρόεδρο στο Δικοινοτικό Φεστιβάλ - Αποκάλυψε ότι απέστειλε νέες προτάσεις στον Γκουτέρες και απάντησε στις επισημάνσεις της απεσταλμένης του ΟΗΕ για το αδι",
-   "angle": null,
-   "corroborated_by": [
-    "Philenews"
-   ]
-  },
-  {
-   "id": "c9a7026b8ed33532",
-   "title": "⚡️ The idiot Trump: We must ensure that Iran's nuclear capabilities do not return, and this is what we are currently working on. Operations related to Iran will end very soon, and …",
-   "link": "https://t.me/me_observer_TG/1115480",
-   "summary_raw": "⚡️ The idiot Trump: We must ensure that Iran's nuclear capabilities do not return, and this is what we are currently working on. Operations related to Iran will end very soon, and then gasoline prices will decrease.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-10-17T19:00:07+00:00",
-   "collected": "2026-10-17T19:27:44.096387+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "⚡️ The idiot Trump: We must ensure that Iran's nuclear capabilities do not return, and this is what we are currently working on. Operations related to Iran will end very soon, and then gasoline prices",
-   "angle": null
-  },
-  {
-   "id": "a29835aa3cc91318",
-   "title": "Ιωάννης Σπιλάνης στα «ΝΕΑ ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ»: «Οπως εξελίσσεται ο τουρισμός, θα φάει τη σάρκα του»",
-   "link": "https://www.tanea.gr/print/2026/10/17/interviews/opos-ekselissetai-cro-tourismos-tha-faei-ti-sarka-tou/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"640\" src=\"https://www.tanea.gr/wp-content/uploads/2026/10/EFH-XENOY_SKITSO_SPILANHS.jpg\" style=\"margin-bottom: 15px;\" width=\"447\" /></div>Ο ομότιμος καθηγητής του Πανεπιστημίου Αιγαίου και διευθυντής στο Παρατηρητήριο Βιώσιμου Τουρισμού Αιγαίου, μιλάει για το δικαίωμα παραμονής των νέων στα νησιά και προτείνει ένα άλλο μοντέλο απέναντι στον υπερτουρισμό",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-17T19:00:00+00:00",
-   "collected": "2026-10-17T19:27:35.053427+00:00",
-   "keywords_hit": [
-    "αιγαίο"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Ο ομότιμος καθηγητής του Πανεπιστημίου Αιγαίου και διευθυντής στο Παρατηρητήριο Βιώσιμου Τουρισμού Αιγαίου, μιλάει για το δικαίωμα παραμονής των νέων στα νησιά και προτείνει ένα άλλο μοντέλο απέναντι ",
-   "angle": null
-  },
-  {
-   "id": "4dab55d203151310",
-   "title": "Victor Davis Hanson: What Might Have Saved Gaza?",
-   "link": "https://www.dailysignal.com/2026/10/17/israel-hamas-gaza/",
-   "summary_raw": "After October 7, 2023&#160; Could the destruction of Gaza after October 7 have been avoided? The answer is yes—had Hamas so wished.&#160; First, if the Hamas leadership had simply complied with Israeli demands to (a) return the 251 hostages and (b) surrender the architects and perpetrators of the massacre of some 1,200 Israelis, the Israelis...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-17T19:00:00+00:00",
-   "collected": "2026-10-18T01:08:11.108438+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "After October 7, 2023 Could the destruction of Gaza after October 7 have been avoided? The answer is yes—had Hamas so wished. First, if the Hamas leadership had simply complied with Israeli demands to",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "d5851554d9c834db",
-   "title": "Homan: 'We're Doing the Same Thing We Did Under President Obama' on Deportations",
-   "link": "https://www.breitbart.com/clips/2026/10/17/homan-were-doing-the-same-thing-we-did-under-president-obama-on-deportations/",
-   "summary_raw": "<p>On Friday&#8217;s broadcast of Newsmax TV&#8217;s &#8220;Greg Kelly Reports,&#8221; Border Czar Tom Homan said that, when it comes to deportations, &#8220;We&#8217;re doing the same thing we did under President Obama,&#8221; and ICE is just enforcing the laws written by Congress.</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/10/17/homan-were-doing-the-same-thing-we-did-under-president-obama-on-deportations/\" rel=\"nofollow\">Homan: &#8216;We&#8217;re Doing the Same Thing We Did Under President Obama&#8217; on Deportations</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-17T18:28:22+00:00",
-   "collected": "2026-10-17T22:23:44.448943+00:00",
-   "keywords_hit": [
-    "deportation"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "On Friday’s broadcast of Newsmax TV’s “Greg Kelly Reports,” Border Czar Tom Homan said that, when it comes to deportations, “We’re doing the same thing we did under President Obama,” and ICE is just e",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "38ceb665d4943589",
-   "title": "Netanyahu:  The opposition will cancel all our tremendous achievements, establish a Palestinian state, withdraw from all the security zones, give in to every pressure, and certainl…",
-   "link": "https://t.me/ClashReport/101528",
-   "summary_raw": "Netanyahu:  The opposition will cancel all our tremendous achievements, establish a Palestinian state, withdraw from all the security zones, give in to every pressure, and certainly not prevent Iran from acquiring nuclear weapons once and for all.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-10-17T18:27:16+00:00",
-   "collected": "2026-10-17T19:27:42.708141+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Netanyahu: The opposition will cancel all our tremendous achievements, establish a Palestinian state, withdraw from all the security zones, give in to every pressure, and certainly not prevent Iran fr",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @me_observer_TG"
-   ]
   }
  ]
 }
