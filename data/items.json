@@ -1,7 +1,785 @@
 {
- "updated": "2026-10-30T19:32:49.189995+00:00",
- "count": 1494,
+ "updated": "2026-10-30T23:54:04.754492+00:00",
+ "count": 1517,
  "items": [
+  {
+   "id": "929e3f5deefdca2c",
+   "title": "Armed group shuts crude pipeline linking western Libya’s Hamada field to Zawiya refinery",
+   "link": "https://www.aa.com.tr/en/middle-east/armed-group-shuts-crude-pipeline-linking-western-libya-s-hamada-field-to-zawiya-refinery/4107003",
+   "summary_raw": "National Oil Corporation says pumping halted on Hamada-Zawiya line after forced closure caused sharp rise in operating pressure",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-10-30T23:43:06+00:00",
+   "collected": "2026-10-30T23:51:21.753456+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "Ενέργεια",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "National Oil Corporation says pumping halted on Hamada-Zawiya line after forced closure caused sharp rise in operating pressure",
+   "angle": null
+  },
+  {
+   "id": "13e7825967cd2482",
+   "title": "India Confirms Attacks on Two Tankers",
+   "link": "https://www.osint613.com/post/india-confirms-attacks-on-two-tankers-26756",
+   "summary_raw": "India's shipping minister confirms on two vessels attacked earlier today and yesterday. Crude tankers LOUISE 1 and the ARZANAH a Liberia flagged VLCC, she's ADNOC managed. (This strike has likely not been reported by UKMTO). Another LNG tanker the AL MAYEDA may have been just been atacked some hours back in the Persian Gulf. (Unverified and awaiting confirmation.)\n\nContributed by: @live_ais_com",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-10-30T23:39:49+00:00",
+   "collected": "2026-10-30T23:52:18.095582+00:00",
+   "keywords_hit": [
+    "lng"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "India's shipping minister confirms on two vessels attacked earlier today and yesterday. Crude tankers LOUISE 1 and the ARZANAH a Liberia flagged VLCC, she's ADNOC managed. (This strike has likely not ",
+   "angle": null
+  },
+  {
+   "id": "da291fbc29f9c5bd",
+   "title": "United States: Secretary of State approves sale of 500 Patriot missiles to Ukraine",
+   "link": "https://t.me/me_observer_TG/1123636",
+   "summary_raw": "United States: Secretary of State approves sale of 500 Patriot missiles to Ukraine",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-10-30T23:31:03+00:00",
+   "collected": "2026-10-30T23:52:55.629507+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "United States: Secretary of State approves sale of 500 Patriot missiles to Ukraine",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Breaking Defense",
+    "OSINT613"
+   ]
+  },
+  {
+   "id": "5fa3a55b6ab0c7e2",
+   "title": "Συνάντηση Φιντάν – Ρούμπιο: Στο επίκεντρο οι διαπραγματεύσεις ΗΠΑ – Ιράν και οι εξελίξεις στη Μέση Ανατολή",
+   "link": "https://www.ertnews.gr/eidiseis/synantisi-fintan-roumpio-sto-epikentro-oi-diapragmateyseis-ipa-iran-kai-oi-ekselikseis-sti-mesi-anatoli/",
+   "summary_raw": "<img alt=\"fintan\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"666\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/10/fintan.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>Οι διαπραγματεύσεις μεταξύ ΗΠΑ και Ιράν, η κατάσταση στη Γάζα και ο πόλεμος μεταξύ Ρωσίας και Ουκρανίαςβρέθηκαν στο επίκεντρο της συνάντησης του Τούρκου υπουργού Εξωτερικών, Χακάν Φιντάν, με τον Αμερικανό ομόλογό του, Μάρκο Ρούμπιο. Η συνάντηση πραγματοποιήθηκε στο περιθώριο της συνόδου των υπουργών Εξωτερικών της G20 στις ΗΠΑ, σύμφωνα με το τουρκικό κρατικό πρακτορείο ειδήσεων ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/synantisi-fintan-roumpio-sto-epikentro-oi-diapragmateyseis-ipa-iran-kai-oi-ekselikseis-sti-mesi-anatoli/\" title=\"Συνάντηση Φιντάν &#8211; Ρούμπιο: Στο επίκεντρο οι διαπραγματεύσεις ΗΠΑ &#8211; Ιράν και οι εξελίξεις στη Μέση Ανατολή\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-10-30T23:08:00+00:00",
+   "collected": "2026-10-30T23:51:25.517979+00:00",
+   "keywords_hit": [
+    "φιντάν"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Οι διαπραγματεύσεις μεταξύ ΗΠΑ και Ιράν, η κατάσταση στη Γάζα και ο πόλεμος μεταξύ Ρωσίας και Ουκρανίαςβρέθηκαν στο επίκεντρο της συνάντησης του Τούρκου υπουργού Εξωτερικών, Χακάν Φιντάν, με τον Αμερι",
+   "angle": null,
+   "corroborated_by": [
+    "iefimerida"
+   ]
+  },
+  {
+   "id": "b217898d8aae5e20",
+   "title": "BIG: Trump is planning to resume strikes on Iran as early as November 4, the day after the U.S. midterm elections, according to senior Gulf officials.  The administration has warne…",
+   "link": "https://t.me/ClashReport/103687",
+   "summary_raw": "BIG: Trump is planning to resume strikes on Iran as early as November 4, the day after the U.S. midterm elections, according to senior Gulf officials.  The administration has warned Gulf allies to prepare for a short, intense military campaign aimed at forcing Iran into a nuclear deal or destroying its nuclear program.   Gulf states are pushing for de-escalation, fearing Iranian retaliation.  Source: MS NOW",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-10-30T22:59:27+00:00",
+   "collected": "2026-10-30T23:52:54.270976+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "BIG: Trump is planning to resume strikes on Iran as early as November 4, the day after the U.S. midterm elections, according to senior Gulf officials. The administration has warned Gulf allies to prep",
+   "angle": null
+  },
+  {
+   "id": "9cef344d88d43a61",
+   "title": "⚡️ United States: Secretary of State approves sale of 500 Patriot missiles to Ukraine worth $2.1 billion  The sale is meant to enhance Ukraine's air defense system.",
+   "link": "https://t.me/me_observer_TG/1123627",
+   "summary_raw": "⚡️ United States: Secretary of State approves sale of 500 Patriot missiles to Ukraine worth $2.1 billion  The sale is meant to enhance Ukraine's air defense system.",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-10-30T22:37:42+00:00",
+   "collected": "2026-10-30T23:52:55.628893+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ United States: Secretary of State approves sale of 500 Patriot missiles to Ukraine worth $2.1 billion The sale is meant to enhance Ukraine's air defense system.",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Breaking Defense",
+    "OSINT613"
+   ]
+  },
+  {
+   "id": "03075b22ad3b44f9",
+   "title": "Climate Extremes Push Greek Wine Production to Historic Lows",
+   "link": "https://greekcitytimes.com/2026/10/31/climate-extremes-push-greek-wine-production-to-historic-lows/",
+   "summary_raw": "<p>Greek wine production has fallen to its third-lowest level on record as climate change, drought, frost and disease threaten vineyards, prompting calls for urgent reforms.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/31/climate-extremes-push-greek-wine-production-to-historic-lows/\">Climate Extremes Push Greek Wine Production to Historic Lows</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-10-30T22:10:40+00:00",
+   "collected": "2026-10-30T23:51:46.288452+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Greek wine production has fallen to its third-lowest level on record as climate change, drought, frost and disease threaten vineyards, prompting calls for urgent reforms. The post Climate Extremes Pus",
+   "angle": null
+  },
+  {
+   "id": "bbb73f3ae664f6bc",
+   "title": "What One NATO Ally Says Trump Got Right About Europe",
+   "link": "https://www.dailysignal.com/2026/10/30/romania-message-america-lazurca/",
+   "summary_raw": "Summary Romania’s national security adviser visited Washington, D.C., this week with a message to his American counterparts: We’re open for business. Ambassador Marius-Gabriel Lazurca spoke with the Daily Signal shortly after arriving in the nation’s capital and expressed optimism about U.S.-Romania relations. “I’m here to tell my American interlocutors that our strategic relationship has done...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-30T22:00:00+00:00",
+   "collected": "2026-10-30T23:52:17.909912+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Summary Romania’s national security adviser visited Washington, D.C., this week with a message to his American counterparts: We’re open for business. Ambassador Marius-Gabriel Lazurca spoke with the D",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "51bddf885518c4b2",
+   "title": "Nearchos and Kimon to Lead Greece’s New Generation of Warships",
+   "link": "https://greekcitytimes.com/2026/10/31/nearchos-and-kimon-to-lead-greeces-new-generation-of-warships/",
+   "summary_raw": "<p>Defence Minister Nikos Dendias says Greece will upgrade all four FDI frigates to Standard 2+++ by 2030 and operate 10 modern frigates by decade’s end.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/31/nearchos-and-kimon-to-lead-greeces-new-generation-of-warships/\">Nearchos and Kimon to Lead Greece’s New Generation of Warships</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-10-30T21:38:38+00:00",
+   "collected": "2026-10-30T23:51:46.289289+00:00",
+   "keywords_hit": [
+    "fdi",
+    "dendias"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Defence Minister Nikos Dendias says Greece will upgrade all four FDI frigates to Standard 2+++ by 2030 and operate 10 modern frigates by decade’s end. The post Nearchos and Kimon to Lead Greece’s New ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "a060be5a055be5aa",
+   "title": "ΟΗΕ: Ανανέωση της Αποστολής στη Λιβύη με αποχή Ελλάδας και Ρωσίας",
+   "link": "https://www.ertnews.gr/eidiseis/oie-ananeosi-tis-apostolis-sti-livyi-me-apoxi-elladas-kai-rosias/",
+   "summary_raw": "<img alt=\"UN General Assembly AI\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/10/un-security-council-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Το Συμβούλιο Ασφαλείας του ΟΗΕ ενέκρινε την ανανέωση της εντολής της Αποστολής Υποστήριξης των Ηνωμένων Εθνών στη Λιβύη (UNSMIL) για ακόμη έναν χρόνο, έως τις 31 Οκτωβρίου 2027, με την Ελλάδα και τη Ρωσία να δηλώνουν αποχή από την ψηφοφορία. Ανταπόκριση από Ν. Υόρκη: Γεωργία Γαραντζιώτη Τα βασικά καθήκοντα της αποστολής, όπως προβλέπονται στην Απόφαση ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/oie-ananeosi-tis-apostolis-sti-livyi-me-apoxi-elladas-kai-rosias/\" title=\"ΟΗΕ: Ανανέωση της Αποστολής στη Λιβύη με αποχή Ελλάδας και Ρωσίας\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-10-30T21:08:00+00:00",
+   "collected": "2026-10-30T23:51:25.520985+00:00",
+   "keywords_hit": [
+    "λιβύη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Το Συμβούλιο Ασφαλείας του ΟΗΕ ενέκρινε την ανανέωση της εντολής της Αποστολής Υποστήριξης των Ηνωμένων Εθνών στη Λιβύη (UNSMIL) για ακόμη έναν χρόνο, έως τις 31 Οκτωβρίου 2027, με την Ελλάδα και τη Ρ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    }
+   ]
+  },
+  {
+   "id": "b52393d33049e65b",
+   "title": "ΗΠΑ: Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία",
+   "link": "https://www.efsyn.gr/kosmos/1500108/ipa-to-steit-ntipartment-enekrine-tin-polisi-pyraylon-patriot-stin-oykrania/",
+   "summary_raw": "Η Ουκρανία θα χρηματοδοτήσει την αγορά των αμυντικών πυραύλων μέσω συνεισφορών από τον Καναδά, τη Γερμανία και τη Νορβηγία",
+   "source": "Εφημερίδα των Συντακτών",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T21:00:27+00:00",
+   "collected": "2026-10-30T23:52:14.237481+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η Ουκρανία θα χρηματοδοτήσει την αγορά των αμυντικών πυραύλων μέσω συνεισφορών από τον Καναδά, τη Γερμανία και τη Νορβηγία",
+   "angle": null,
+   "corroborated_by": [
+    "OnAlert",
+    "iefimerida",
+    "in.gr",
+    "ΕΡΤ News",
+    "Καθημερινή",
+    "Πρώτο Θέμα",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "9b31631c4a1ec8c3",
+   "title": "Turkish foreign minister, US secretary of state discuss Iran talks, Gaza, Ukraine war",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-us-secretary-of-state-discuss-iran-talks-gaza-ukraine-war/4106963",
+   "summary_raw": "Hakan Fidan, Marco Rubio meet on sidelines of G20 meeting in US city of Atlanta",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-10-30T20:58:14+00:00",
+   "collected": "2026-10-30T23:51:21.754226+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Hakan Fidan, Marco Rubio meet on sidelines of G20 meeting in US city of Atlanta",
+   "angle": null
+  },
+  {
+   "id": "be805fbe2bb65d0b",
+   "title": "Somalia Repatriates 169 Citizens from Libyan Prisons",
+   "link": "https://libyareview.com/69334/somalia-repatriates-169-citizens-from-libyan-prisons/",
+   "summary_raw": "<p>Somalia has repatriated 169 of its citizens from prisons in Libya through an EU-backed humanitarian return programme, according to the Somali Ministry of Foreign Affairs. The returnees arrived in Somalia through the Voluntary Humanitarian Return programme, with 140 landing in Mogadishu and another 29 travelling to Hargeisa. The programme is supported by the European Union [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/69334/somalia-repatriates-169-citizens-from-libyan-prisons/\">Somalia Repatriates 169 Citizens from Libyan Prisons</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-10-30T20:58:13+00:00",
+   "collected": "2026-10-30T23:51:41.986854+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Somalia has repatriated 169 of its citizens from prisons in Libya through an EU-backed humanitarian return programme, according to the Somali Ministry of Foreign Affairs. The returnees arrived in Soma",
+   "angle": null
+  },
+  {
+   "id": "194e6935f5dc0a14",
+   "title": "Πολωνία: Επεισόδια και καταγγελίες για «πραξικόπημα» στο Συνταγματικό Δικαστήριο",
+   "link": "https://www.kathimerini.gr/world/564558751/polonia-politiki-sygkroysi-me-epikentro-to-syntagmatiko-dikastirio/",
+   "summary_raw": "Ο πρόεδρος Κάρολ Ναβρότσκι διέκοψε το ταξίδι του στη Σενεγάλη και επέστρεψε εσπευσμένα στη χώρα μετά την επέμβαση της αστυνομίας στο δικαστήριο και την απομάκρυνση του επικεφαλής του από τα καθήκοντά του.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T20:56:57+00:00",
+   "collected": "2026-10-30T23:52:11.553820+00:00",
+   "keywords_hit": [
+    "πομάκ"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Ο πρόεδρος Κάρολ Ναβρότσκι διέκοψε το ταξίδι του στη Σενεγάλη και επέστρεψε εσπευσμένα στη χώρα μετά την επέμβαση της αστυνομίας στο δικαστήριο και την απομάκρυνση του επικεφαλής του από τα καθήκοντά ",
+   "angle": null
+  },
+  {
+   "id": "3da421c3b8e136a4",
+   "title": "Συμβούλιο Ασφαλείας: Ανανεώθηκε η αποστολή του ΟΗΕ στη Λιβύη - Απείχαν Ελλάδα και Ρωσία",
+   "link": "https://www.protothema.gr/politics/article/1903320/sumvoulio-asfaleias-ananeothike-i-apostoli-tou-oie-sti-livui-apeihan-ellada-kai-rosia/?utm_source=rss",
+   "summary_raw": "Η Αθήνα ζήτησε να περιληφθεί στο προοίμιο  της απόφασης αναφορά στον σεβασμό των αρχών καλής γειτονίας του Διεθνούς Δικαίου και του Δικαίου της Θάλασσας - Αντέδρασαν τρία αφρικανικά κράτη και η Κίνα",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T20:55:00+00:00",
+   "collected": "2026-10-30T23:52:10.290053+00:00",
+   "keywords_hit": [
+    "λιβύη"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η Αθήνα ζήτησε να περιληφθεί στο προοίμιο της απόφασης αναφορά στον σεβασμό των αρχών καλής γειτονίας του Διεθνούς Δικαίου και του Δικαίου της Θάλασσας - Αντέδρασαν τρία αφρικανικά κράτη και η Κίνα",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    }
+   ]
+  },
+  {
+   "id": "2eb6462fbcf01e23",
+   "title": "UN Security Council renews Libya mission, Western Sahara resolution fails after Russian veto",
+   "link": "https://www.aa.com.tr/en/world/un-security-council-renews-libya-mission-western-sahara-resolution-fails-after-russian-veto/4106958",
+   "summary_raw": "Resolution on Western Sahara gets 11 votes in favor, 3 abstentions, and 1 against with Russia's veto",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-10-30T20:52:34+00:00",
+   "collected": "2026-10-30T23:51:21.754304+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Resolution on Western Sahara gets 11 votes in favor, 3 abstentions, and 1 against with Russia's veto",
+   "angle": null
+  },
+  {
+   "id": "7bfe9cd17853c8d9",
+   "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies - Breaking Defense",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVl2RER4aEUzU1doMXJGNlN6dDlVN3g2YmFENWp1Qm9PRkMzRmRkd2ZpOGVOYmY0aW5qRGRIS2tWU2pqVVBodmVVSEZla1VIaVpIbTJBMmZ4cHFKNVVuTUM3LWRoU1ZUM1U1X28za0V4aUN3djVVaFJFOUpfWTA5WWpNMkwyRUdSRjFJSlRNeEFyUEtSalpCeVNrUnYtQ3RHWUxvYTY3QmRldFBwcEQ0RHBFODNXXzZBV3FHOGYwNA?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVl2RER4aEUzU1doMXJGNlN6dDlVN3g2YmFENWp1Qm9PRkMzRmRkd2ZpOGVOYmY0aW5qRGRIS2tWU2pqVVBodmVVSEZla1VIaVpIbTJBMmZ4cHFKNVVuTUM3LWRoU1ZUM1U1X28za0V4aUN3djVVaFJFOUpfWTA5WWpNMkwyRUdSRjFJSlRNeEFyUEtSalpCeVNrUnYtQ3RHWUxvYTY3QmRldFBwcEQ0RHBFODNXXzZBV3FHOGYwNA?oc=5\" target=\"_blank\">US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Breaking Defense</font>",
+   "source": "Breaking Defense",
+   "side": "defense_intl",
+   "lang": "en",
+   "published": "2026-10-30T20:36:14+00:00",
+   "collected": "2026-10-30T23:51:39.086030+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies Breaking Defense",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "OSINT613",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "ff29320aa86b6bb7",
+   "title": "Ο Ζελένσκι ανακοίνωσε «σημαντικές συνομιλίες» στην Τουρκία – Το Σάββατο συνάντηση με τον Ερντογάν",
+   "link": "https://www.in.gr/2026/10/30/world/o-zelenski-anakoinose-simantikes-synomilies-stin-tourkia-to-savvato-synantisi-me-ton-erntogan/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/10/2026-10-28T150931Z_1011949314_RC2FCOAJ2UUT_RTRMADP_5_UKRAINE-CRISIS-NETHERLANDS-ZELENSKIY-768x512.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>«Σημαντικές διαπραγματεύσεις θα πραγματοποιηθούν στην Τουρκία. Παράλληλα, εργαζόμαστε ώστε να αξιοποιηθούν όλες οι διαθέσιμες διπλωματικές δυνατότητες», δήλωσε ο Ζελένσκι.</p>\n<p>The post <a href=\"https://www.in.gr/2026/10/30/world/o-zelenski-anakoinose-simantikes-synomilies-stin-tourkia-to-savvato-synantisi-me-ton-erntogan/\">Ο Ζελένσκι ανακοίνωσε «σημαντικές συνομιλίες» στην Τουρκία – Το Σάββατο συνάντηση με τον Ερντογάν</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T20:30:20+00:00",
+   "collected": "2026-10-30T23:52:12.100210+00:00",
+   "keywords_hit": [
+    "ερντογάν"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "«Σημαντικές διαπραγματεύσεις θα πραγματοποιηθούν στην Τουρκία. Παράλληλα, εργαζόμαστε ώστε να αξιοποιηθούν όλες οι διαθέσιμες διπλωματικές δυνατότητες», δήλωσε ο Ζελένσκι. The post Ο Ζελένσκι ανακοίνω",
+   "angle": null,
+   "corroborated_by": [
+    "iefimerida"
+   ]
+  },
+  {
+   "id": "d0b647693573e8ba",
+   "title": "ΗΠΑ: Εγκρίθηκε η πώληση Patriot στην Ουκρανία",
+   "link": "https://www.kathimerini.gr/world/564558100/ipa-egkrithike-i-polisi-patriot-stin-oykrania/",
+   "summary_raw": "Οι ΗΠΑ ενέκριναν την πώληση 500 πυραύλων Patriot PAC-3 στην Ουκρανία, συνολικής εκτιμώμενης αξίας 2,1 δισ. δολαρίων, με τη χρηματοδότηση να προέρχεται από ευρωπαϊκές συνεισφορές και πόρους της Ε.Ε.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T20:27:25+00:00",
+   "collected": "2026-10-30T23:52:11.554093+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Οι ΗΠΑ ενέκριναν την πώληση 500 πυραύλων Patriot PAC-3 στην Ουκρανία, συνολικής εκτιμώμενης αξίας 2,1 δισ. δολαρίων, με τη χρηματοδότηση να προέρχεται από ευρωπαϊκές συνεισφορές και πόρους της Ε.Ε.",
+   "angle": null,
+   "corroborated_by": [
+    "OnAlert",
+    "iefimerida",
+    "in.gr",
+    "ΕΡΤ News",
+    "Εφημερίδα των Συντακτών",
+    "Πρώτο Θέμα",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "a697686d3d45b51a",
+   "title": "Meet the woman feeding 100s of Ceuta's migrants - InfoMigrants",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeU1yc1I5NzVVdzA1dGZmNnJXSDVWanAwYUJlV3VISWpZZlhMV09sUlVDWnB1S2l1WVF2bUkyQUI4bG9maWtpcWl0VWJ2WHliODM0SjdXUVFjMHRvb2ppYzczei1xU2txWEc4ekJSR1c2dHh3V05hdFZQTmFxUVJOb0RBY005X2xFMmE5c1lnNF8wT3BQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeU1yc1I5NzVVdzA1dGZmNnJXSDVWanAwYUJlV3VISWpZZlhMV09sUlVDWnB1S2l1WVF2bUkyQUI4bG9maWtpcWl0VWJ2WHliODM0SjdXUVFjMHRvb2ppYzczei1xU2txWEc4ekJSR1c2dHh3V05hdFZQTmFxUVJOb0RBY005X2xFMmE5c1lnNF8wT3BQ?oc=5\" target=\"_blank\">Meet the woman feeding 100s of Ceuta's migrants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoMigrants</font>",
+   "source": "InfoMigrants",
+   "side": "migration",
+   "lang": "en",
+   "published": "2026-10-30T20:21:41+00:00",
+   "collected": "2026-10-30T23:51:39.831573+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Meet the woman feeding 100s of Ceuta's migrants InfoMigrants",
+   "angle": null
+  },
+  {
+   "id": "884fe150506f0911",
+   "title": "Κλιματική κρίση και ενέργεια: Πράσινη ενέργεια made in China",
+   "link": "https://www.kathimerini.gr/visual/infographics/564555442/klimatiki-krisi-kai-energeia-prasini-energeia-made-in-china/",
+   "summary_raw": "Η ευρωπαϊκή εξάρτηση από την Κίνα είναι εμφανής. Το 2025, η Ευρωπαϊκή Ενωση εισήγαγε προϊόντα πράσινης ενέργειας συνολικής αξίας 11,4 δισ. ευρώ.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T20:16:01+00:00",
+   "collected": "2026-10-30T23:52:11.554178+00:00",
+   "keywords_hit": [
+    "κλιματικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Η ευρωπαϊκή εξάρτηση από την Κίνα είναι εμφανής. Το 2025, η Ευρωπαϊκή Ενωση εισήγαγε προϊόντα πράσινης ενέργειας συνολικής αξίας 11,4 δισ. ευρώ.",
+   "angle": null
+  },
+  {
+   "id": "96a00b596368811c",
+   "title": "ΗΠΑ: Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία",
+   "link": "https://www.ertnews.gr/eidiseis/ipa-to-steit-ntipartment-enekrine-tin-polisi-pyraylon-patriot-stin-oukrania/",
+   "summary_raw": "<img alt=\"patriot-768x432\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"432\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/10/patriot-768x432-3.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>Το Στέιτ Ντιπάρτμεντ ανακοίνωσε την Παρασκευή (30/10) ότι ενέκρινε την πιθανή πώληση πυραύλων PATRIOT Advanced Capability-3 Missile Segment Enhancement στην Ουκρανία, εκτιμώμενης αξίας 2,1 δισεκατομμυρίων δολαρίων. Κύριος ανάδοχος θα είναι η Lockheed Martin, ανέφερε το υπουργείο Εξωτερικών των ΗΠΑ. Την προηγούμενη Δευτέρα (26/10) ο πρόεδρος της Ουκρανίας Βολοντίμιρ Ζελένσκι είχε δηλώσει ότι η Ουκρανία περιμένει ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ipa-to-steit-ntipartment-enekrine-tin-polisi-pyraylon-patriot-stin-oukrania/\" title=\"ΗΠΑ: Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-10-30T20:16:00+00:00",
+   "collected": "2026-10-30T23:51:25.522206+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Το Στέιτ Ντιπάρτμεντ ανακοίνωσε την Παρασκευή (30/10) ότι ενέκρινε την πιθανή πώληση πυραύλων PATRIOT Advanced Capability-3 Missile Segment Enhancement στην Ουκρανία, εκτιμώμενης αξίας 2,1 δισεκατομμυ",
+   "angle": null,
+   "corroborated_by": [
+    "OnAlert",
+    "iefimerida",
+    "in.gr",
+    "Εφημερίδα των Συντακτών",
+    "Καθημερινή",
+    "Πρώτο Θέμα",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "05feaf0c5d087f5b",
+   "title": "Exclusive – ICE Deports Accused Child Rapist Biden Administration Gave Green Card",
+   "link": "https://www.breitbart.com/politics/2026/10/30/exclusive-ice-deports-accused-child-rapist-biden-administration-gave-green-card/",
+   "summary_raw": "<p>Immigration and Customs Enforcement (ICE) has deported an illegal alien accused of raping a child in Mexico to whom former President Joe Biden's administration had given a two-year green card, Breitbart News has learned.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/10/30/exclusive-ice-deports-accused-child-rapist-biden-administration-gave-green-card/\" rel=\"nofollow\">Exclusive – ICE Deports Accused Child Rapist Biden Administration Gave Green Card</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-30T20:09:18+00:00",
+   "collected": "2026-10-30T23:52:17.680936+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Immigration and Customs Enforcement (ICE) has deported an illegal alien accused of raping a child in Mexico to whom former President Joe Biden's administration had given a two-year green card, Breitba",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "cef34d9ce872ac9f",
+   "title": "US Approves $2.1B Patriot Sale to Ukraine",
+   "link": "https://www.osint613.com/post/us-approves-patriot-sale-ukraine-26750",
+   "summary_raw": "The U.S. State Department has approved a potential $2.1 billion sale of Patriot Advanced Capability-3 missiles and related equipment to Ukraine, with the cost to be funded entirely by partner countries and allies.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-10-30T20:06:50+00:00",
+   "collected": "2026-10-30T23:52:18.096434+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "The U.S. State Department has approved a potential $2.1 billion sale of Patriot Advanced Capability-3 missiles and related equipment to Ukraine, with the cost to be funded entirely by partner countrie",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Breaking Defense",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "d3ac63574de3b22a",
+   "title": "Εκδήλωση στη Κομοτηνή για το δημογραφικό πρόβλημα και τις προκλήσεις για τον Ελληνισμό - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnREWWstLS1TeTBPb1dUUndXV2N2alg3TzJGc3RSa3hGTGFKLXpMN0V1bVUzUEt2YkRvZlpLMlE1TlZDY2FIMjJ1TGx1eUtGQjR0RTN6eEp5bjRVOWFHajRpOHg3SWtPTWx2OU1mMTc2MXhGckQwTWZ3SjhIYl92Z1N0X3VVR3hHbjF4a3F4cGZKUDlkdFJSMFNpSUZrWnlBQ0pGWlF4Wm0tT1d1Z3pwT1haaVZJRThlUTAxUDBTSWdyWXhxZjJF?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnREWWstLS1TeTBPb1dUUndXV2N2alg3TzJGc3RSa3hGTGFKLXpMN0V1bVUzUEt2YkRvZlpLMlE1TlZDY2FIMjJ1TGx1eUtGQjR0RTN6eEp5bjRVOWFHajRpOHg3SWtPTWx2OU1mMTc2MXhGckQwTWZ3SjhIYl92Z1N0X3VVR3hHbjF4a3F4cGZKUDlkdFJSMFNpSUZrWnlBQ0pGWlF4Wm0tT1d1Z3pwT1haaVZJRThlUTAxUDBTSWdyWXhxZjJF?oc=5\" target=\"_blank\">Εκδήλωση στη Κομοτηνή για το δημογραφικό πρόβλημα και τις προκλήσεις για τον Ελληνισμό</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-10-30T20:00:00+00:00",
+   "collected": "2026-10-30T23:51:29.013331+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Εκδήλωση στη Κομοτηνή για το δημογραφικό πρόβλημα και τις προκλήσεις για τον Ελληνισμό Παρατηρητής της Θράκης",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κομοτηνή",
+     "lat": 41.12,
+     "lon": 25.41
+    },
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "c630be6bfae2e0b0",
+   "title": "Patriot: Το Στέιτ Ντιπάρτμεντ έδωσε το «πράσινο φως» για την πώληση 500 πυραύλων PAC-3 στην Ουκρανία",
+   "link": "https://www.onalert.gr/kosmos/patriot-to-steit-ntipartment-edose-to-prasino-fos-gia-tin-polisi-500-pyraylon-pac-3-stin-oukrania/830226/",
+   "summary_raw": "Η πιθανή πώληση έχει ύψος 2,1 δισεκατομμύρια δολάρια και χρηματοδοτείται από τους συμμάχους της Ουκρανίας",
+   "source": "OnAlert",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-10-30T19:52:54+00:00",
+   "collected": "2026-10-30T23:51:28.053605+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η πιθανή πώληση έχει ύψος 2,1 δισεκατομμύρια δολάρια και χρηματοδοτείται από τους συμμάχους της Ουκρανίας",
+   "angle": null,
+   "corroborated_by": [
+    "iefimerida",
+    "in.gr",
+    "ΕΡΤ News",
+    "Εφημερίδα των Συντακτών",
+    "Καθημερινή",
+    "Πρώτο Θέμα",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "768bc70e9332f1d9",
+   "title": "Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία",
+   "link": "https://www.in.gr/2026/10/30/world/to-steit-ntipartment-enekrine-tin-polisi-pyraylon-patriot-stin-oukrania/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"603\" src=\"https://www.in.gr/wp-content/uploads/2026/10/h0323435-768x603.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Κύριος ανάδοχος θα είναι η Lockheed Martin.</p>\n<p>The post <a href=\"https://www.in.gr/2026/10/30/world/to-steit-ntipartment-enekrine-tin-polisi-pyraylon-patriot-stin-oukrania/\">Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T19:50:09+00:00",
+   "collected": "2026-10-30T23:52:12.101698+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Κύριος ανάδοχος θα είναι η Lockheed Martin. The post Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία appeared first on in.gr .",
+   "angle": null,
+   "corroborated_by": [
+    "OnAlert",
+    "iefimerida",
+    "ΕΡΤ News",
+    "Εφημερίδα των Συντακτών",
+    "Καθημερινή",
+    "Πρώτο Θέμα",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "2341b66e1f1a81c5",
+   "title": "ΗΠΑ: Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNck9QWU1jNTRBMkpVMERkS3ZtMThtSWREVFlMUjdvVklRU3NJVW9BNk54V3FOZ2VNdU1Cczc5OTZfYzRjczBEbmdXQlR2ejE1LTljclIwUzRWZHlBVXFxa3MtNy02RnZjMFZHQkloVDZvSG9HVWptVlAyMk5kMUJZM0pPcGZxajhzcF84?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNck9QWU1jNTRBMkpVMERkS3ZtMThtSWREVFlMUjdvVklRU3NJVW9BNk54V3FOZ2VNdU1Cczc5OTZfYzRjczBEbmdXQlR2ejE1LTljclIwUzRWZHlBVXFxa3MtNy02RnZjMFZHQkloVDZvSG9HVWptVlAyMk5kMUJZM0pPcGZxajhzcF84?oc=5\" target=\"_blank\">ΗΠΑ: Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T19:44:46+00:00",
+   "collected": "2026-10-30T23:52:13.441408+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "ΗΠΑ: Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία iefimerida.gr",
+   "angle": null,
+   "corroborated_by": [
+    "OnAlert",
+    "in.gr",
+    "ΕΡΤ News",
+    "Εφημερίδα των Συντακτών",
+    "Καθημερινή",
+    "Πρώτο Θέμα",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "938be5741f7337ff",
+   "title": "US Immigrant Share Growing at the Slowest Pace Since the 1960s - Cato Institute",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uajNJWS1seGQzaGZ2RzJUVDJsZ2VEZ1NnWGxiTElCUUhKT3l6bXR5QnZtNlBBaU5yR1Q0RHpDUDlMa214Z3Fucm1CSVkwRUhUWG92YU1DbFkwQmtqd1djZWxWVmV6aHp2TTZtNHJLUkx2NWFoV1hCUERqOA?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5uajNJWS1seGQzaGZ2RzJUVDJsZ2VEZ1NnWGxiTElCUUhKT3l6bXR5QnZtNlBBaU5yR1Q0RHpDUDlMa214Z3Fucm1CSVkwRUhUWG92YU1DbFkwQmtqd1djZWxWVmV6aHp2TTZtNHJLUkx2NWFoV1hCUERqOA?oc=5\" target=\"_blank\">US Immigrant Share Growing at the Slowest Pace Since the 1960s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cato Institute</font>",
+   "source": "Cato Institute",
+   "side": "conservative_lib",
+   "lang": "en",
+   "published": "2026-10-30T19:41:27+00:00",
+   "collected": "2026-10-30T23:52:30.242133+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "US Immigrant Share Growing at the Slowest Pace Since the 1960s Cato Institute",
+   "angle": null,
+   "corroborated_by": [
+    "Acton Institute",
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "b84ed82d47cbeae3",
+   "title": "Frontex’s new powers: more returns, less oversight? - InfoMigrants",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT09ORFlhOTN0SURkZEQ1dEtZYlBXVmEzQ1ZqUDRXOV9TWWtjRmZGZU9BTWRzTmVsanhELU9CQllHdmlqZzJOWll4Q2swYmNwX0liREJfU09Ec1E4SGE4ZWJhUUNkc0VlSmdZOXZ0ZUh2TGNYTlpEb0Fib3hock1iUjdySjhmQkMwNWs4UlFibjZLc2Ft?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOT09ORFlhOTN0SURkZEQ1dEtZYlBXVmEzQ1ZqUDRXOV9TWWtjRmZGZU9BTWRzTmVsanhELU9CQllHdmlqZzJOWll4Q2swYmNwX0liREJfU09Ec1E4SGE4ZWJhUUNkc0VlSmdZOXZ0ZUh2TGNYTlpEb0Fib3hock1iUjdySjhmQkMwNWs4UlFibjZLc2Ft?oc=5\" target=\"_blank\">Frontex’s new powers: more returns, less oversight?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoMigrants</font>",
+   "source": "InfoMigrants",
+   "side": "migration",
+   "lang": "en",
+   "published": "2026-10-30T19:40:21+00:00",
+   "collected": "2026-10-30T23:51:39.831435+00:00",
+   "keywords_hit": [
+    "migrant",
+    "frontex"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Frontex’s new powers: more returns, less oversight? InfoMigrants",
+   "angle": null
+  },
+  {
+   "id": "c43919d44a760af4",
+   "title": "US approves $2.1B Patriot missile sale to Ukraine",
+   "link": "https://www.aa.com.tr/en/world/us-approves-21b-patriot-missile-sale-to-ukraine/4106902",
+   "summary_raw": "Kyiv to buy 500 PAC-3 MSE missiles with funding from partners, allies, says US State Department",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-10-30T19:28:00+00:00",
+   "collected": "2026-10-30T23:51:21.755053+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Kyiv to buy 500 PAC-3 MSE missiles with funding from partners, allies, says US State Department",
+   "angle": null,
+   "corroborated_by": [
+    "Breaking Defense",
+    "OSINT613",
+    "Telegram @me_observer_TG"
+   ]
+  },
+  {
+   "id": "a5eff045a5653182",
+   "title": "Πράσινο φως από το Στέιτ Ντιπάρτμεντ για την πώληση Patriot στην Ουκρανία, στα 2,1 δισ. δολάρια η συμφωνία",
+   "link": "https://www.protothema.gr/world/article/1903289/prasino-fos-apo-to-steit-dipartmed-gia-tin-polisi-patriot-stin-oukrania-sta-21-dis-dolaria-i-sumfonia/?utm_source=rss",
+   "summary_raw": "Σύμφωνα με ανακοίνωση του αμερικανικού υπουργείου, η πιθανή συμφωνία αφορά πυραύλους τύπου Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE), οι οποίοι αποτελούν προηγμένη έκδοση του συστήματος Patriot",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T19:28:00+00:00",
+   "collected": "2026-10-30T23:52:10.291748+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Σύμφωνα με ανακοίνωση του αμερικανικού υπουργείου, η πιθανή συμφωνία αφορά πυραύλους τύπου Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE), οι οποίοι αποτελούν προηγμένη έκδοση τ",
+   "angle": null,
+   "corroborated_by": [
+    "OnAlert",
+    "iefimerida",
+    "in.gr",
+    "ΕΡΤ News",
+    "Εφημερίδα των Συντακτών",
+    "Καθημερινή",
+    "Τα Νέα"
+   ]
+  },
+  {
+   "id": "594fc4a707475646",
+   "title": "ΗΠΑ: Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση πυραύλων Patriot στην Ουκρανία",
+   "link": "https://www.tanea.gr/2026/10/30/world/ipa-to-steit-ntipartment-enekrine-tin-polisi-pyraylon-patriot-stin-oykrania/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"400\" src=\"https://www.tanea.gr/wp-content/uploads/2026/10/Patriot-ellada-ape.jpg\" style=\"margin-bottom: 15px;\" width=\"640\" /></div>Το Στέιτ Ντιπάρτμεντ γνωστοποίησε ότι ενέκρινε την πιθανή πώληση πυραύλων Patriot Advanced Capability-3 Missile Segment Enhancement στην Ουκρανία, με εκτιμώμενη αξία που φτάνει τα 2,1 δισεκατομμύρια δολάρια. Σύμφωνα με το υπουργείο Εξωτερικών των ΗΠΑ, κύριος ανάδοχος του έργου θα είναι η Lockheed Martin. Νωρίτερα μέσα στην εβδομάδα, ο πρόεδρος της Ουκρανίας Βολοντίμιρ Ζελένσκι είχε δηλώσει [&#8230;]",
+   "source": "Τα Νέα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T19:26:57+00:00",
+   "collected": "2026-10-30T23:52:12.905760+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Το Στέιτ Ντιπάρτμεντ γνωστοποίησε ότι ενέκρινε την πιθανή πώληση πυραύλων Patriot Advanced Capability-3 Missile Segment Enhancement στην Ουκρανία, με εκτιμώμενη αξία που φτάνει τα 2,1 δισεκατομμύρια δ",
+   "angle": null,
+   "corroborated_by": [
+    "OnAlert",
+    "iefimerida",
+    "in.gr",
+    "ΕΡΤ News",
+    "Εφημερίδα των Συντακτών",
+    "Καθημερινή",
+    "Πρώτο Θέμα"
+   ]
+  },
   {
    "id": "45adbcaaa28a8ab2",
    "title": "BREAKING: The U.S. has approved the sale of 500 Patriot PAC-3 missiles to Ukraine for $2.1 billion.   The purchase will be funded by Canada, Germany, Norway and EU-backed Ukrainian…",
@@ -312,6 +1090,55 @@
    ]
   },
   {
+   "id": "c3cff21eb67a1d5f",
+   "title": "Erdogan meets Erhurman, stresses importance of Turkish Cypriots’ rights",
+   "link": "https://cyprus-mail.com/2026/10/30/erdogan-meets-erhurman-stresses-importance-of-turkish-cypriots-rights",
+   "summary_raw": "Turkish President Recep Tayyip Erdogan on Friday welcomed Turkish Cypriot leader Tufan Erhurman to Bestepe, Turkey’s presidential palace, and stressed the importance of Turkish Cypriots rights in any solution to the Cyprus problem. According to Turkey’s presidential communications directorate, “bilateral relations between Turkey and the TRNC, as well as regional issues, were discussed during the [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-10-30T18:02:00+00:00",
+   "collected": "2026-10-30T23:51:34.201536+00:00",
+   "keywords_hit": [
+    "trnc",
+    "erdogan"
+   ],
+   "category": "Κυπριακό",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Turkish President Recep Tayyip Erdogan on Friday welcomed Turkish Cypriot leader Tufan Erhurman to Bestepe, Turkey’s presidential palace, and stressed the importance of Turkish Cypriots rights in any ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "d4123f0ea650c2c9",
+   "title": "Pretending the Justice Department Was Never Partisan Under Democrats",
+   "link": "https://www.dailysignal.com/2026/10/30/pretending-justice-department-never-partisan-democrats/",
+   "summary_raw": "The most obnoxious lie that erupts routinely in the &#8220;independent media&#8221; is that President Donald Trump&#8217;s Department of Justice is weaponized in a way that no Democrat has ever contemplated. It&#8217;s like they all observed everything that the Biden Justice Department did to put Trump and his allies in jail and considered it to be...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-30T18:00:00+00:00",
+   "collected": "2026-10-30T23:52:17.911196+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The most obnoxious lie that erupts routinely in the “independent media” is that President Donald Trump’s Department of Justice is weaponized in a way that no Democrat has ever contemplated. It’s like ",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "344235d6596fef5d",
    "title": "Greek navy takes delivery of second French-built Belharra frigate",
    "link": "https://www.ekathimerini.com/politics/foreign-policy/1319826/greek-navy-takes-delivery-of-second-french-built-belharra-frigate/",
@@ -360,6 +1187,58 @@
    "angle": null,
    "corroborated_by": [
     "Breitbart"
+   ]
+  },
+  {
+   "id": "ddc520e41824db0f",
+   "title": "WATCH: Megan Rapinoe Defends Men in Women's Sports Because Sports Were Not Meant to Be Fair",
+   "link": "https://www.breitbart.com/sports/2026/10/30/watch-megan-rapinoe-defends-men-in-womens-sports-because-sports-were-not-meant-fair/",
+   "summary_raw": "<p>Former U.S. women's soccer star Megan Rapinoe is once again out stumping for men to be allowed to play on women's teams.</p>\n<p>The post <a href=\"https://www.breitbart.com/sports/2026/10/30/watch-megan-rapinoe-defends-men-in-womens-sports-because-sports-were-not-meant-fair/\" rel=\"nofollow\">WATCH: Megan Rapinoe Defends Men in Women&#8217;s Sports Because Sports Were Not Meant to Be Fair</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-30T17:43:45+00:00",
+   "collected": "2026-10-30T23:52:17.681470+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Former U.S. women's soccer star Megan Rapinoe is once again out stumping for men to be allowed to play on women's teams. The post WATCH: Megan Rapinoe Defends Men in Women’s Sports Because Sports Were",
+   "angle": null
+  },
+  {
+   "id": "c420604aab410488",
+   "title": "Κωνσταντινούπολη: Συνάντηση Ζελένσκι - Ερντογάν για Ουκρανία και ασφάλεια στη Μαύρη Θάλασσα - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSjd1NlF4NXVVbExkVUFJeGI2T3FXM3paOHpUOVBHazRBMjI2ZlBlT0hKSU5RTVd5el9BZFJSNUE3OHZCT3lZQ2dYMUx2bC1qTGpqUW5vUU5JOXcxMlNWbUprbl9GaUhPalVRV0NBMG5pSmgtX0ZWdkpReWVQMkt0SFNB?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSjd1NlF4NXVVbExkVUFJeGI2T3FXM3paOHpUOVBHazRBMjI2ZlBlT0hKSU5RTVd5el9BZFJSNUE3OHZCT3lZQ2dYMUx2bC1qTGpqUW5vUU5JOXcxMlNWbUprbl9GaUhPalVRV0NBMG5pSmgtX0ZWdkpReWVQMkt0SFNB?oc=5\" target=\"_blank\">Κωνσταντινούπολη: Συνάντηση Ζελένσκι - Ερντογάν για Ουκρανία και ασφάλεια στη Μαύρη Θάλασσα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T17:42:37+00:00",
+   "collected": "2026-10-30T23:52:13.443338+00:00",
+   "keywords_hit": [
+    "ερντογάν"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Κωνσταντινούπολη: Συνάντηση Ζελένσκι - Ερντογάν για Ουκρανία και ασφάλεια στη Μαύρη Θάλασσα iefimerida.gr",
+   "angle": null,
+   "corroborated_by": [
+    "in.gr",
+    "ΕΡΤ News"
+   ],
+   "locations": [
+    {
+     "name": "Κωνσταντινούπολη",
+     "lat": 41.01,
+     "lon": 28.98
+    },
+    {
+     "name": "Μαύρη Θάλασσα",
+     "lat": 43.0,
+     "lon": 34.0
+    }
    ]
   },
   {
@@ -425,6 +1304,49 @@
    "corroborated_by": [
     "Greek City Times",
     "Kathimerini (EN)"
+   ]
+  },
+  {
+   "id": "97fbeae24ea74c8b",
+   "title": "WATCH: State Official Tells Minnesota Somalis They Can Show Up to Vote Without Proof of Citizenship",
+   "link": "https://www.breitbart.com/politics/2026/10/30/watch-state-official-tells-minnesota-somalis-they-can-show-up-to-vote-without-proof-of-citizenship/",
+   "summary_raw": "<p>A video of a Minnesota official telling Somali residents they can show up to vote in Tuesday’s election without being registered has prompted concerns about election integrity in the North Star State.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/10/30/watch-state-official-tells-minnesota-somalis-they-can-show-up-to-vote-without-proof-of-citizenship/\" rel=\"nofollow\">WATCH: State Official Tells Minnesota Somalis They Can Show Up to Vote Without Proof of Citizenship</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-30T17:34:16+00:00",
+   "collected": "2026-10-30T23:52:17.678990+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A video of a Minnesota official telling Somali residents they can show up to vote in Tuesday’s election without being registered has prompted concerns about election integrity in the North Star State.",
+   "angle": null,
+   "corroborated_by": [
+    "Brussels Signal",
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "3236147de1caba71",
+   "title": "Musk Warns Democrats Will Make D.C., Puerto Rico States, Court-Pack, and Open Borders If They Get Trifecta in 2028",
+   "link": "https://www.breitbart.com/politics/2026/10/30/musk-warns-democrats-will-make-d-c-puerto-rico-states-court-pack-open-borders-if-they-get-trifecta-2028/",
+   "summary_raw": "<p>Elon Musk warned if Democrats get a trifecta in 2028, they'll make Washington, DC, and Puerto Rico states and expand the Supreme Court.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/10/30/musk-warns-democrats-will-make-d-c-puerto-rico-states-court-pack-open-borders-if-they-get-trifecta-2028/\" rel=\"nofollow\">Musk Warns Democrats Will Make D.C., Puerto Rico States, Court-Pack, and Open Borders If They Get Trifecta in 2028</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-30T17:30:45+00:00",
+   "collected": "2026-10-30T23:52:17.679297+00:00",
+   "keywords_hit": [
+    "open borders"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Elon Musk warned if Democrats get a trifecta in 2028, they'll make Washington, DC, and Puerto Rico states and expand the Supreme Court. The post Musk Warns Democrats Will Make D.C., Puerto Rico States",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
    ]
   },
   {
@@ -638,6 +1560,25 @@
    ]
   },
   {
+   "id": "a2073dcf23a236cc",
+   "title": "Δημήτρης Καμπισιούλης: «Η Ελλάδα σιγά σιγά μετατρέπεται σε ένα ορεινό χωριό που δεν μπορεί να αναπαραχθεί - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVUk1QzNFYWRyYjktdnZkYkZzMWZsTlpPWHdITXJYbE0xNVY4dm83SHJ2VVc3SmF2R2xYNjJDVHprRmVjS2g2NGZONjd3U0RKSmMzVW9EaG1iV1E4YWlNVFBNWXdXY3kxcmRxTDNDM0ZpYm9pREo4YzAwZjdrblNTYThhbmpHWU4wVUpDWl90d2wwU3pVYlA1OVBxTEV6bVdUNDRsVWRjeXBjVW8yNmdsMWVHejJkU3JRc1RaM2dVRzV4RWxpQm5OTUpzWkgycXJBUW0tYnV4eGdEN3gyRnl3?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVUk1QzNFYWRyYjktdnZkYkZzMWZsTlpPWHdITXJYbE0xNVY4dm83SHJ2VVc3SmF2R2xYNjJDVHprRmVjS2g2NGZONjd3U0RKSmMzVW9EaG1iV1E4YWlNVFBNWXdXY3kxcmRxTDNDM0ZpYm9pREo4YzAwZjdrblNTYThhbmpHWU4wVUpDWl90d2wwU3pVYlA1OVBxTEV6bVdUNDRsVWRjeXBjVW8yNmdsMWVHejJkU3JRc1RaM2dVRzV4RWxpQm5OTUpzWkgycXJBUW0tYnV4eGdEN3gyRnl3?oc=5\" target=\"_blank\">Δημήτρης Καμπισιούλης: «Η Ελλάδα σιγά σιγά μετατρέπεται σε ένα ορεινό χωριό που δεν μπορεί να αναπαραχθεί</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-10-30T17:00:00+00:00",
+   "collected": "2026-10-30T23:51:29.015479+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Δημήτρης Καμπισιούλης: «Η Ελλάδα σιγά σιγά μετατρέπεται σε ένα ορεινό χωριό που δεν μπορεί να αναπαραχθεί Παρατηρητής της Θράκης",
+   "angle": null
+  },
+  {
    "id": "b7e7686c00640f9d",
    "title": "Putin Warns Russia is Ready For War With Europe, Would Turn Baltic Sea Into Second Strait of Hormuz",
    "link": "https://www.breitbart.com/europe/2026/10/30/putin-warns-russia-is-ready-for-war-with-europe/",
@@ -775,6 +1716,23 @@
      "lon": 22.0
     }
    ]
+  },
+  {
+   "id": "8eeb3827c38a4b09",
+   "title": "Το τέλος της μονοκρατορίας των πράσινων τιμολογίων: Πού στρέφονται 2 εκατομμύρια μετρητές ρεύματος - B2Green",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FSmY3NmtVVW9SeHJZY3FxX3FBbEMwbW9YMzU1ZVJ3b21NeDVNYXlmZnZ2RTczZnVKLTlfbFdGNWI3TXBha1ptdnhpN0Z4MERZeGEwZG9CX3NLUU9reHk4ZFFlQzZLRFNrR3VOV3QySjE3Z2Nr?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5FSmY3NmtVVW9SeHJZY3FxX3FBbEMwbW9YMzU1ZVJ3b21NeDVNYXlmZnZ2RTczZnVKLTlfbFdGNWI3TXBha1ptdnhpN0Z4MERZeGEwZG9CX3NLUU9reHk4ZFFlQzZLRFNrR3VOV3QySjE3Z2Nr?oc=5\" target=\"_blank\">Το τέλος της μονοκρατορίας των πράσινων τιμολογίων: Πού στρέφονται 2 εκατομμύρια μετρητές ρεύματος</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B2Green</font>",
+   "source": "B2Green",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-10-30T16:45:28+00:00",
+   "collected": "2026-10-30T23:51:55.367347+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Το τέλος της μονοκρατορίας των πράσινων τιμολογίων: Πού στρέφονται 2 εκατομμύρια μετρητές ρεύματος B2Green",
+   "angle": null
   },
   {
    "id": "820f467947dfeb8b",
@@ -1942,6 +2900,26 @@
    "angle": null
   },
   {
+   "id": "bb54104275349563",
+   "title": "Υψώθηκε η ελληνική σημαία στη δεύτερη φρεγάτα Belharra, «Νέαρχος» -Δένδιας: Το καλύτερο πλοίο στην κατηγορία του στον πλανήτη - iefimerida.gr",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUlSRUgxdWJHZWFhSkJmdVdjOUhBV0xDS1RGMTc1QlRWaWFNSEtaVGZZWUNLYWl5ckxUblpla1FLdTZPSEtfMlpReC1qRjdwNG5NQWNSSHRPR0FoYUdZYWljZmxwdzRYUnNVc2kxRVdtcWF5d1ZycE9QTWhOMWJxT09qTjF2Zw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUlSRUgxdWJHZWFhSkJmdVdjOUhBV0xDS1RGMTc1QlRWaWFNSEtaVGZZWUNLYWl5ckxUblpla1FLdTZPSEtfMlpReC1qRjdwNG5NQWNSSHRPR0FoYUdZYWljZmxwdzRYUnNVc2kxRVdtcWF5d1ZycE9QTWhOMWJxT09qTjF2Zw?oc=5\" target=\"_blank\">Υψώθηκε η ελληνική σημαία στη δεύτερη φρεγάτα Belharra, «Νέαρχος» -Δένδιας: Το καλύτερο πλοίο στην κατηγορία του στον πλανήτη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iefimerida.gr</font>",
+   "source": "iefimerida",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-10-30T12:39:37+00:00",
+   "collected": "2026-10-30T23:52:13.438116+00:00",
+   "keywords_hit": [
+    "belharra",
+    "δένδιας"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Υψώθηκε η ελληνική σημαία στη δεύτερη φρεγάτα Belharra, «Νέαρχος» -Δένδιας: Το καλύτερο πλοίο στην κατηγορία του στον πλανήτη iefimerida.gr",
+   "angle": null
+  },
+  {
    "id": "3bed4c88ee8c9ace",
    "title": "Turkish President Erdogan stresses importance of enhancing ties with Turkmenistan",
    "link": "https://www.aa.com.tr/en/turkiye/turkish-president-erdogan-stresses-importance-of-enhancing-ties-with-turkmenistan-/4106422",
@@ -2008,6 +2986,38 @@
      "name": "Κερύνεια",
      "lat": 35.34,
      "lon": 33.32
+    }
+   ]
+  },
+  {
+   "id": "46e65ed60644675b",
+   "title": "Τέσσερις συλλήψεις διακινητών σε Έβρο και Ροδόπη - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2ptT2NjWmI0T2pCZVI1eUhBLTNPX2ctSEVVUVNkSFVZc2lBUnZ1T25Ld0kybVpKd0VReEpNblg4Sm95QmptdmVTQmdxQ1Y2M3pPdWxuVlVkQW5yMklFTTZVRkU1YkRFZXE2MTZJVC1ib25iZWZyT1hWdF9UZ3FSb0lMbnoyOWJodXo1SmMyWUtmSlk2ZGxVZw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2ptT2NjWmI0T2pCZVI1eUhBLTNPX2ctSEVVUVNkSFVZc2lBUnZ1T25Ld0kybVpKd0VReEpNblg4Sm95QmptdmVTQmdxQ1Y2M3pPdWxuVlVkQW5yMklFTTZVRkU1YkRFZXE2MTZJVC1ib25iZWZyT1hWdF9UZ3FSb0lMbnoyOWJodXo1SmMyWUtmSlk2ZGxVZw?oc=5\" target=\"_blank\">Τέσσερις συλλήψεις διακινητών σε Έβρο και Ροδόπη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-10-30T12:27:12+00:00",
+   "collected": "2026-10-30T23:51:29.014454+00:00",
+   "keywords_hit": [
+    "θράκη",
+    "διακινητ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Τέσσερις συλλήψεις διακινητών σε Έβρο και Ροδόπη Παρατηρητής της Θράκης",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Έβρος",
+     "lat": 41.12,
+     "lon": 26.35
+    },
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
     }
    ]
   },
@@ -2134,6 +3144,23 @@
      "lon": 25.5
     }
    ]
+  },
+  {
+   "id": "01625bdd27538b17",
+   "title": "EU funding for Spanish rail safety under scrutiny after latest high-speed crash",
+   "link": "https://brusselssignal.eu/2026/10/eu-funding-for-spanish-rail-safety-under-scrutiny-after-latest-high-speed-crash/",
+   "summary_raw": "The recent high-speed train crash in Toledo, which killed 69, has raised questions about Spain's use of EU recovery funds for rail safety modernization amid political fallout.\n<p><a href=\"https://brusselssignal.eu/2026/10/eu-funding-for-spanish-rail-safety-under-scrutiny-after-latest-high-speed-crash/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-10-30T12:14:10+00:00",
+   "collected": "2026-10-30T23:52:15.457669+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The recent high-speed train crash in Toledo, which killed 69, has raised questions about Spain's use of EU recovery funds for rail safety modernization amid political fallout. Source",
+   "angle": null
   },
   {
    "id": "6de0573cd5e9f09e",
@@ -2614,6 +3641,26 @@
    ]
   },
   {
+   "id": "17e7d7bf460a4819",
+   "title": "North Korean hackers steal €5.85 billion from Binance",
+   "link": "https://brusselssignal.eu/2026/10/north-korean-hackers-steal-e5-85-billion-from-binance/",
+   "summary_raw": "North Korean hackers have stolen €5.85 billion from Binance, marking the largest theft in digital asset history, with the operation executed in just 20 minutes.\n<p><a href=\"https://brusselssignal.eu/2026/10/north-korean-hackers-steal-e5-85-billion-from-binance/\" rel=\"nofollow\">Source</a></p>",
+   "source": "Brussels Signal",
+   "side": "conservative_eu",
+   "lang": "en",
+   "published": "2026-10-30T10:21:47+00:00",
+   "collected": "2026-10-30T23:52:15.457900+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "North Korean hackers have stolen €5.85 billion from Binance, marking the largest theft in digital asset history, with the operation executed in just 20 minutes. Source",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "e20e35ac2bc5c9c0",
    "title": "Mediators Discuss Iran Nuclear Access",
    "link": "https://www.osint613.com/post/mediators-discuss-iran-nuclear-access-26718",
@@ -2703,6 +3750,25 @@
    ]
   },
   {
+   "id": "36a9fa57589b8dfe",
+   "title": "Αστυνομικό Δελτίο της 30ης Οκτώβρη 2026 - E-evros",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3psaTdnb1RfZ3duV1lmQ2FZR3NnMWFZb3hoWllxSS0yOG1jSHNXOFVMNVJZZ3VjMVQ5dTVmTThabUxQSHN0Q1RvMDE2eG5NZWdoMlF2Zk5aeEJiQUhJTUM0ZFIzMkJqRWJoUzVEM2VsSmdtZlVBcmk1OUU1dlRYTXY1ckptRlFZSzh3SGlxMA?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3psaTdnb1RfZ3duV1lmQ2FZR3NnMWFZb3hoWllxSS0yOG1jSHNXOFVMNVJZZ3VjMVQ5dTVmTThabUxQSHN0Q1RvMDE2eG5NZWdoMlF2Zk5aeEJiQUhJTUM0ZFIzMkJqRWJoUzVEM2VsSmdtZlVBcmk1OUU1dlRYTXY1ckptRlFZSzh3SGlxMA?oc=5\" target=\"_blank\">Αστυνομικό Δελτίο της 30ης Οκτώβρη 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-evros</font>",
+   "source": "e-Evros",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-10-30T09:42:00+00:00",
+   "collected": "2026-10-30T23:52:09.266350+00:00",
+   "keywords_hit": [
+    "evros"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Αστυνομικό Δελτίο της 30ης Οκτώβρη 2026 E-evros",
+   "angle": null
+  },
+  {
    "id": "f357741eb529f9ee",
    "title": "Le Pen pledges to bring back oil exploration in France",
    "link": "https://brusselssignal.eu/2026/10/le-pen-pledges-to-bring-back-oil-exploration-in-france/",
@@ -2724,6 +3790,25 @@
     "Breitbart",
     "Daily Signal"
    ]
+  },
+  {
+   "id": "e0115ff10f1978e3",
+   "title": "COP 31: Διεθνής διάσκεψη για την κλιματική αλλαγή και το περιβάλλον. Άραγε πανηγύρι ή ρέκβιεμ; - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlFIaXFta0EyaTZHa3d5MmdVUk9jSVAtY3dOWGJEWnlIaWloOEN3aE9KSFAwaWFDYmZVV0o3S3M5MWNseGhlNjFfcjBoVDhnMl9ZZzJ5b3VWRnRiQ3hISEZBS3ByenVRdndLV2VDUFptalVUUGplM0w2QVBGMEstYXNZYWh5eW9XdlR3U2N6VE11MXV5a1doRENyMEV5X3NoZzBJakNhbjR4YjRTTGpQbVQ4VVUwQ2FvX0E?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlFIaXFta0EyaTZHa3d5MmdVUk9jSVAtY3dOWGJEWnlIaWloOEN3aE9KSFAwaWFDYmZVV0o3S3M5MWNseGhlNjFfcjBoVDhnMl9ZZzJ5b3VWRnRiQ3hISEZBS3ByenVRdndLV2VDUFptalVUUGplM0w2QVBGMEstYXNZYWh5eW9XdlR3U2N6VE11MXV5a1doRENyMEV5X3NoZzBJakNhbjR4YjRTTGpQbVQ4VVUwQ2FvX0E?oc=5\" target=\"_blank\">COP 31: Διεθνής διάσκεψη για την κλιματική αλλαγή και το περιβάλλον. Άραγε πανηγύρι ή ρέκβιεμ;</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-10-30T09:39:02+00:00",
+   "collected": "2026-10-30T23:51:50.266875+00:00",
+   "keywords_hit": [
+    "κλιματικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "COP 31: Διεθνής διάσκεψη για την κλιματική αλλαγή και το περιβάλλον. Άραγε πανηγύρι ή ρέκβιεμ; Energypress",
+   "angle": null
   },
   {
    "id": "30b860c0e4fe419e",
@@ -3726,6 +4811,25 @@
    "angle": null
   },
   {
+   "id": "234a227eef046d85",
+   "title": "Εγκύκλιος: οι νέες απαιτήσεις πυροπροστασίας για τα αιολικά πάρκα - ecopress",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MLXB5dXFNS2JscGVmREFWZ0MwRTJJaGxZUGswaDRxV1VNTFM0d01JWHFCVTB0ZTl6Mk1haGViY09qNDlLVDQ0bXltbVpBRnhSTTFNVWIxSG53cnEteGE4dHh4S3Q2d1lK?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MLXB5dXFNS2JscGVmREFWZ0MwRTJJaGxZUGswaDRxV1VNTFM0d01JWHFCVTB0ZTl6Mk1haGViY09qNDlLVDQ0bXltbVpBRnhSTTFNVWIxSG53cnEteGE4dHh4S3Q2d1lK?oc=5\" target=\"_blank\">Εγκύκλιος: οι νέες απαιτήσεις πυροπροστασίας για τα αιολικά πάρκα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
+   "source": "Ecopress",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-10-29T22:26:16+00:00",
+   "collected": "2026-10-30T23:51:55.879208+00:00",
+   "keywords_hit": [
+    "αιολικ"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Εγκύκλιος: οι νέες απαιτήσεις πυροπροστασίας για τα αιολικά πάρκα ecopress",
+   "angle": null
+  },
+  {
    "id": "538d356d3ea999c5",
    "title": "EUROPE WANTS FRONTEX TO WATCH THE INTERNET. WHO WILL WATCH FRONTEX?",
    "link": "https://aegeanboatreport.com/2026/10/29/europe-wants-frontex-to-watch-the-internet-who-will-watch-frontex/",
@@ -3744,6 +4848,26 @@
    "turkish_narrative": false,
    "summary_el": "An agency whose conduct we scrutinise could gain a privileged channel for flagging our reporting to social-media platforms. At the same time, the European Commission’s proposed reform would narrow the",
    "angle": null
+  },
+  {
+   "id": "5387cb33bd523e82",
+   "title": "This Federal Department Just Ranked No. 1 With Americans",
+   "link": "https://www.dailysignal.com/2026/10/29/state-department-highest-rated/",
+   "summary_raw": "FIRST ON THE DAILY SIGNAL—A new report found that the State Department, under Secretary Marco Rubio, is the most highly rated agency by American citizens who interact with the federal government for services. While satisfaction with federal government services fell for the first time in five years, satisfaction with the State Department increased, thanks to...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-29T22:10:08+00:00",
+   "collected": "2026-10-30T23:52:17.913927+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "FIRST ON THE DAILY SIGNAL—A new report found that the State Department, under Secretary Marco Rubio, is the most highly rated agency by American citizens who interact with the federal government for s",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
   },
   {
    "id": "c65d5e3ce2b07499",
@@ -5423,6 +6547,26 @@
    "turkish_narrative": false,
    "summary_el": "Ηydrogen Europe: Η ευρωπαϊκή βιομηχανία υδρογόνου προσεγγίζει το 1 GW εγκατεστημένης ισχύος Energypress",
    "angle": null
+  },
+  {
+   "id": "2096d9466114d0a8",
+   "title": "Judge Overseeing Nicolas Maduro Drug Trafficking Case Dies at 92",
+   "link": "https://www.breitbart.com/latin-america/2026/10/29/judge-overseeing-nicolas-maduro-drug-trafficking-case-passed-away-at-92/",
+   "summary_raw": "<p>U.S. District Judge Alvin Hellerstein, who was overseeing the case against Venezuela's deposed socialist dictator Nicolás Maduro in Manhattan, died on Wednesday, Chief Judge Laura Taylor Swain announced.</p>\n<p>The post <a href=\"https://www.breitbart.com/latin-america/2026/10/29/judge-overseeing-nicolas-maduro-drug-trafficking-case-passed-away-at-92/\" rel=\"nofollow\">Judge Overseeing Nicolás Maduro Drug Trafficking Case Dies at 92</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-10-29T17:20:10+00:00",
+   "collected": "2026-10-30T23:52:17.689188+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "U.S. District Judge Alvin Hellerstein, who was overseeing the case against Venezuela's deposed socialist dictator Nicolás Maduro in Manhattan, died on Wednesday, Chief Judge Laura Taylor Swain announc",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "87758ff20ed8b526",
@@ -7668,6 +8812,23 @@
    ]
   },
   {
+   "id": "3e24a3938e29ac27",
+   "title": "The new Cold War comes to Kodiak",
+   "link": "https://grist.org/politics/alaska-golden-dome-spaceport-arctic-dominance-military-trump/",
+   "summary_raw": "",
+   "source": "Grist",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-10-29T08:30:00+00:00",
+   "collected": "2026-10-30T23:51:57.976728+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null
+  },
+  {
    "id": "3ee8a486e94dcfcb",
    "title": "India and Europe accelerate trade ties but investment remains the big unknown",
    "link": "https://brusselssignal.eu/2026/10/india-and-europe-accelerate-trade-ties-but-investment-remains-the-big-unknown/",
@@ -8005,6 +9166,23 @@
      "lon": 25.5
     }
    ]
+  },
+  {
+   "id": "7594b9053712b686",
+   "title": "Μπαταρίες στις επιχειρήσεις: Γιατί το ΥΠΕΝ θα δώσει δίμηνη παράταση σε 209 επενδύσεις - B2Green",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16S2M3dmRlQ2VTMTNWQ2RGdU1jc2FWYWRWZHdWNEVKemFsSmZkU0FxNF9NT2VSbWNjS0VCRVBjZE1TTVRaUVB2bnE1Q3JiVEY5cVhYQ3A0TFluaVVRdks2TGZ5RjRNajcxRW52NGFBX20zLWxT?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE16S2M3dmRlQ2VTMTNWQ2RGdU1jc2FWYWRWZHdWNEVKemFsSmZkU0FxNF9NT2VSbWNjS0VCRVBjZE1TTVRaUVB2bnE1Q3JiVEY5cVhYQ3A0TFluaVVRdks2TGZ5RjRNajcxRW52NGFBX20zLWxT?oc=5\" target=\"_blank\">Μπαταρίες στις επιχειρήσεις: Γιατί το ΥΠΕΝ θα δώσει δίμηνη παράταση σε 209 επενδύσεις</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B2Green</font>",
+   "source": "B2Green",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-10-29T06:35:17+00:00",
+   "collected": "2026-10-30T23:51:55.368409+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Μπαταρίες στις επιχειρήσεις: Γιατί το ΥΠΕΝ θα δώσει δίμηνη παράταση σε 209 επενδύσεις B2Green",
+   "angle": null
   },
   {
    "id": "e1c6f37ee1db872c",
@@ -12149,6 +13327,33 @@
    "angle": null
   },
   {
+   "id": "4a0b4fe2d61c96da",
+   "title": "Sea drones struck a Greek-owned, Liberian-flagged container ship in Bulgaria&039;s Black Sea exclusive economic zone, Defence Minister Dimitar Stoyanov said. The attackers have not been identified. A maritime security source said the crew had been evac - Liveuamap",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnE0bjJSVHF4VGNwejlPUTY4Y3VSQjNLSk9WV3BuTkRWYllsT3QxT200cmJ0S2pubGxYODN4ZHY4dkdUU3ZqTDdRcFhidDBrSm4wVWFMNS0xUkJuOHgzOE90cGhoOTltSkRxVWl3dXR5Njh3eXpyY3dVRml3YjM2ODI4UkM2dUNOWHQ0Tk45WDdhUnJ0b3Ew?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnE0bjJSVHF4VGNwejlPUTY4Y3VSQjNLSk9WV3BuTkRWYllsT3QxT200cmJ0S2pubGxYODN4ZHY4dkdUU3ZqTDdRcFhidDBrSm4wVWFMNS0xUkJuOHgzOE90cGhoOTltSkRxVWl3dXR5Njh3eXpyY3dVRml3YjM2ODI4UkM2dUNOWHQ0Tk45WDdhUnJ0b3Ew?oc=5\" target=\"_blank\">Sea drones struck a Greek-owned, Liberian-flagged container ship in Bulgaria&039;s Black Sea exclusive economic zone, Defence Minister Dimitar Stoyanov said. The attackers have not been identified. A maritime security source said the crew had been evac</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Liveuamap</font>",
+   "source": "Liveuamap Middle East",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-10-28T13:20:32+00:00",
+   "collected": "2026-10-30T23:52:18.777575+00:00",
+   "keywords_hit": [
+    "exclusive economic zone",
+    "greek"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Sea drones struck a Greek-owned, Liberian-flagged container ship in Bulgaria&039;s Black Sea exclusive economic zone, Defence Minister Dimitar Stoyanov said. The attackers have not been identified. A ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Μαύρη Θάλασσα",
+     "lat": 43.0,
+     "lon": 34.0
+    }
+   ]
+  },
+  {
    "id": "7245cd93eec1d6d9",
    "title": "ΕΕ: Δύσκολος ο φετινός χειμώνας – Καθοριστικός ο εφοδιασμός των ενόπλων δυνάμεων με καύσιμα",
    "link": "https://www.in.gr/2026/10/28/world/ee-dyskolos-o-fetinos-xeimonas-kathoristikos-o-efodiasmos-ton-enoplon-dynameon-me-kaysima/",
@@ -13753,6 +14958,30 @@
    "angle": null
   },
   {
+   "id": "318144af873cba4d",
+   "title": "Acton on Tap: Business for the Common Good - Acton Institute",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYOGVSZnlkTXViM0dQVFBndWJ5NFJOcU12WXVDLTNBenlWZW9KbTZDT0xCdk1tOFZMRVRNRHhMdWdTckFsYlRWUUp3VHFfOFJDLTRadVRuNWxXaGdGZm9BVDB6WmkzMWRYOEsySTcyRQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBYOGVSZnlkTXViM0dQVFBndWJ5NFJOcU12WXVDLTNBenlWZW9KbTZDT0xCdk1tOFZMRVRNRHhMdWdTckFsYlRWUUp3VHFfOFJDLTRadVRuNWxXaGdGZm9BVDB6WmkzMWRYOEsySTcyRQ?oc=5\" target=\"_blank\">Acton on Tap: Business for the Common Good</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Acton Institute</font>",
+   "source": "Acton Institute",
+   "side": "conservative_class",
+   "lang": "en",
+   "published": "2026-10-28T07:00:00+00:00",
+   "collected": "2026-10-30T23:52:36.575576+00:00",
+   "keywords_hit": [
+    "common good"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Acton on Tap: Business for the Common Good Acton Institute",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "Cato Institute",
+    "UnHerd"
+   ]
+  },
+  {
    "id": "a029104a2bd7ada6",
    "title": "#USA #EU  The U.S. government, in partnership with Lockheed Martin and European allies, selected Poland to host a new PAC-3® Missile Maintenance Facility, which will provide mainte…",
    "link": "https://t.me/OSINTdefender/20621",
@@ -14198,6 +15427,26 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Gap between Marriage and Fertility Desires in Korea Institute for Family Studies",
+   "angle": null
+  },
+  {
+   "id": "e7b7950977013cef",
+   "title": "Vance Reopens Iran Diplomacy as Trump Weighs Renewed Strikes - Hudson Institute",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc0ctY3BRcXU0ekJWb3F2VzFPZ0RsNGROQWFhZkdlOUY4aE9qMDBFRDByZDR3dmg3TG9Kc01CdmFaWGg5dS1vNDN4Rm1JRUVhcFVfT3ZBNFdPbmpzS2owQ1BncnNmeVlONXhNOWl5dWI2VGNDRWctTEl3QnNJVm1EZDFpeDJZSGlOaWlXZVV6LUxTNkdwTDVndVdCNkczc1hEeTJibUpjVU9HQVY1elo2RXpCOUo4VEFmdWREZk1mYXJkY0k?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc0ctY3BRcXU0ekJWb3F2VzFPZ0RsNGROQWFhZkdlOUY4aE9qMDBFRDByZDR3dmg3TG9Kc01CdmFaWGg5dS1vNDN4Rm1JRUVhcFVfT3ZBNFdPbmpzS2owQ1BncnNmeVlONXhNOWl5dWI2VGNDRWctTEl3QnNJVm1EZDFpeDJZSGlOaWlXZVV6LUxTNkdwTDVndVdCNkczc1hEeTJibUpjVU9HQVY1elo2RXpCOUo4VEFmdWREZk1mYXJkY0k?oc=5\" target=\"_blank\">Vance Reopens Iran Diplomacy as Trump Weighs Renewed Strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hudson Institute</font>",
+   "source": "Hudson Institute",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-10-28T04:00:00+00:00",
+   "collected": "2026-10-30T23:52:20.831941+00:00",
+   "keywords_hit": [
+    "trump",
+    "vance"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Vance Reopens Iran Diplomacy as Trump Weighs Renewed Strikes Hudson Institute",
    "angle": null
   },
   {
@@ -17986,6 +19235,23 @@
    ]
   },
   {
+   "id": "e084c62e3afad596",
+   "title": "Turkey detains 85 in raids on gang suspected in Poland Starlink sabotage - Turkish Minute",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnB1UWU4aDZCOW5LNF9scFY1WUZuSzdZWFBCTlplZjRObmNUZ0Z0TGFOMUFIR3NLZGdBRVAxenZDMkNjaEdEZDRMdzZqMUlDYXo4Y1NGc01iYkxlNEw5UUhza0NGSmgwTTBaWTR2dVRJSHhQQ1p4NC1FMzg0LVgtWjRJSHBwM0pSSmx6eWxyR1g5aVNmaEpaY0Jiaks5bEZ6UTZSc19rWWpjVXFZZlFYUWdTamfSAboBQVVfeXFMTUhFdk9CWXNsQXVBbk4wenhBVl92Q2JrMDl2TXlPOURXVHVpUUE0VzNqM2ludFFzaGJaRkdBOGcxZUNWVGtQdlRDQm5zR1BHMFEtcDdwVzdSNXozUHN6amR4c2ltN201a0U3T2MwS1NvMVpsLWxoY1k5R09nbXFzRldPZkhDWFhqdEs2QzZtRWw5NFFyVFRmMmE3SW5wb1puR1BDZllYcmxUYnk3bHpyTFZiQTI2M2dxZUR3?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnB1UWU4aDZCOW5LNF9scFY1WUZuSzdZWFBCTlplZjRObmNUZ0Z0TGFOMUFIR3NLZGdBRVAxenZDMkNjaEdEZDRMdzZqMUlDYXo4Y1NGc01iYkxlNEw5UUhza0NGSmgwTTBaWTR2dVRJSHhQQ1p4NC1FMzg0LVgtWjRJSHBwM0pSSmx6eWxyR1g5aVNmaEpaY0Jiaks5bEZ6UTZSc19rWWpjVXFZZlFYUWdTamfSAboBQVVfeXFMTUhFdk9CWXNsQXVBbk4wenhBVl92Q2JrMDl2TXlPOURXVHVpUUE0VzNqM2ludFFzaGJaRkdBOGcxZUNWVGtQdlRDQm5zR1BHMFEtcDdwVzdSNXozUHN6amR4c2ltN201a0U3T2MwS1NvMVpsLWxoY1k5R09nbXFzRldPZkhDWFhqdEs2QzZtRWw5NFFyVFRmMmE3SW5wb1puR1BDZllYcmxUYnk3bHpyTFZiQTI2M2dxZUR3?oc=5\" target=\"_blank\">Turkey detains 85 in raids on gang suspected in Poland Starlink sabotage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Turkish Minute</font>",
+   "source": "Turkish Minute",
+   "side": "turkish_opposition",
+   "lang": "en",
+   "published": "2026-10-27T12:06:57+00:00",
+   "collected": "2026-10-30T23:51:23.130556+00:00",
+   "keywords_hit": [],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Turkey detains 85 in raids on gang suspected in Poland Starlink sabotage Turkish Minute",
+   "angle": null
+  },
+  {
    "id": "6607202b1f7b593a",
    "title": "Finnish and Norwegian leaders hold direct call with Putin, prompting unease among allies",
    "link": "https://brusselssignal.eu/2026/10/finnish-and-norwegian-leaders-hold-direct-call-with-putin-prompting-unease-among-allies/",
@@ -20176,6 +21442,26 @@
    "corroborated_by": [
     "Brussels Signal",
     "UnHerd"
+   ]
+  },
+  {
+   "id": "4a48a46ab59058b7",
+   "title": "Why Lula won",
+   "link": "https://unherd.com/2026/10/why-lula-won/?edition=us",
+   "summary_raw": "Class warriors can thwart Big Business",
+   "source": "UnHerd",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-10-27T00:04:46+00:00",
+   "collected": "2026-10-30T23:52:17.177354+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Class warriors can thwart Big Business",
+   "angle": null,
+   "corroborated_by": [
+    "Acton Institute"
    ]
   },
   {
@@ -34872,764 +36158,6 @@
    "turkish_narrative": false,
    "summary_el": "Ο πρόεδρος του Ιράν, Μασούντ Πεζεσκιάν, αναμένεται να μεταβεί στη Μόσχα στις 27 Οκτωβρίου, προκειμένου να συμμετάσχει στο όγδοο Φόρουμ Χωρών Εξαγωγής Φυσικού Αερίου, σύμφωνα με το ιρανικό πρακτορείο ε",
    "angle": null
-  },
-  {
-   "id": "734e0e1e907e70cd",
-   "title": "Visioner RT @NSTRIKE1231: 🇷🇺🇪🇺☢️‼️ Sergey Karaganov, an influential Kremlin-aligned foreign policy ideologue, has warned that Russia is prepared to launch nuclear strikes against k…",
-   "link": "https://t.me/OSINTLive/585085",
-   "summary_raw": "Visioner RT @NSTRIKE1231: 🇷🇺🇪🇺☢️‼️ Sergey Karaganov, an influential Kremlin-aligned foreign policy ideologue, has warned that Russia is prepared to launch nuclear strikes against key European countries under what he describes as circumstances of extreme necessity.  Karaganov, honorary chairman of the Presidium of Russia’s Council on Foreign and Defense Policy, claimed that Moscow’s military doctrine provides for such action against European states that, in his words, fuel “anti-Russian hysteria” and support Ukraine in the war.  “Our restraint and peacefulness over recent decades have proved counterproductive. They have encouraged the revival of the worst aspects of European political culture. Europe needs to face strict deterrence,” he declared.  🔥 Karaganov’s warning reflects an increasingly aggressive strand of Russian nuclear rhetoric aimed at European governments supporting Ukraine.  By presenting potential nuclear strikes as a response to European political and military support for Kyiv, he is attempting to raise the perceived cost of continued assistance and reinforce Moscow’s deterrence messaging.  Karaganov does not speak on behalf of Russia’s military command, and his rema",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-10-23T23:15:12+00:00",
-   "collected": "2026-10-24T00:46:58.609406+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Visioner RT @NSTRIKE1231: 🇷🇺🇪🇺☢️‼️ Sergey Karaganov, an influential Kremlin-aligned foreign policy ideologue, has warned that Russia is prepared to launch nuclear strikes against key European countrie",
-   "angle": null
-  },
-  {
-   "id": "2f82443147a5944c",
-   "title": "What JD Vance sees in the French riots",
-   "link": "https://unherd.com/2026/10/france-and-the-future-of-the-american-right/?edition=us",
-   "summary_raw": "Fear of disorder could ease his path to power",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-10-23T23:10:57+00:00",
-   "collected": "2026-10-24T00:46:22.224106+00:00",
-   "keywords_hit": [
-    "vance",
-    "jd vance"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Fear of disorder could ease his path to power",
-   "angle": null
-  },
-  {
-   "id": "8a3f30b0db50e882",
-   "title": "France and the future of the American Right",
-   "link": "https://unherd.com/2026/10/france-and-the-future-of-the-american-right/",
-   "summary_raw": "Fear of disorder could ease Vance’s path to power",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-10-23T23:10:57+00:00",
-   "collected": "2026-10-24T23:20:04.617195+00:00",
-   "keywords_hit": [
-    "vance"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Fear of disorder could ease Vance’s path to power",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "1d1c925dc6f7f7eb",
-   "title": "Paris Louvre Museum and Others to Close on Saturday in Anticipation of Violence",
-   "link": "https://www.breitbart.com/europe/2026/10/23/paris-louvre-museum-and-others-to-close-on-saturday-in-anticipation-of-violence/",
-   "summary_raw": "<p>The Louvre and several other major Paris museums will be closed on Saturday over concerns about potential violence.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/10/23/paris-louvre-museum-and-others-to-close-on-saturday-in-anticipation-of-violence/\" rel=\"nofollow\">Paris Louvre Museum and Others to Close on Saturday in Anticipation of Violence</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T23:02:31+00:00",
-   "collected": "2026-10-24T05:58:09.464921+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The Louvre and several other major Paris museums will be closed on Saturday over concerns about potential violence. The post Paris Louvre Museum and Others to Close on Saturday in Anticipation of Viol",
-   "angle": null,
-   "corroborated_by": [
-    "Brussels Signal"
-   ]
-  },
-  {
-   "id": "6373f874ac6158c4",
-   "title": "Greece and Egypt Move To Expand Maritime Economic Zones",
-   "link": "https://greekcitytimes.com/2026/10/24/greece-and-egypt-move-to-expand-maritime-economic-zones/",
-   "summary_raw": "<p>Greece and Egypt agree to resume talks on extending their 2020 maritime agreement amid tensions over Libya’s ratification of the Turkey-Libya memorandum.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/10/24/greece-and-egypt-move-to-expand-maritime-economic-zones/\">Greece and Egypt Move To Expand Maritime Economic Zones</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-10-23T22:42:08+00:00",
-   "collected": "2026-10-24T00:45:55.375499+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "Αιγαίο-ΑΟΖ",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Greece and Egypt agree to resume talks on extending their 2020 maritime agreement amid tensions over Libya’s ratification of the Turkey-Libya memorandum. The post Greece and Egypt Move To Expand Marit",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "7e4fd780165783de",
-   "title": "Gender Fluidity Fuels James Transarico",
-   "link": "https://www.dailysignal.com/2026/10/23/gender-fluidity-fuels-james-transarico/",
-   "summary_raw": "What five-letter word starts with a T, ends with an S, and motivates Democrat Senate hopeful James Talarico? Texas is one correct answer. So is Trans. The recently AWOL, now resurfaced, candidate is so obsessed with transgenderism, he should rechristen himself James Transarico. “Defending trans Texans is something we have to do every day at...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T22:19:27+00:00",
-   "collected": "2026-10-24T23:20:06.119488+00:00",
-   "keywords_hit": [
-    "transgender"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "What five-letter word starts with a T, ends with an S, and motivates Democrat Senate hopeful James Talarico? Texas is one correct answer. So is Trans. The recently AWOL, now resurfaced, candidate is s",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "277eadae066e5a66",
-   "title": "At Least Seven Killed in Church Shooting in Southern Jordan",
-   "link": "https://www.breitbart.com/middle-east/2026/10/23/at-least-seven-killed-in-church-shooting-in-southern-jordan/",
-   "summary_raw": "<p>The interior ministry of Jordan said on Friday that a group of “extremists” attacked St. George’s Greek Orthodox church in the southern al-Karak governorate, killing at least seven people and wounding 34 others.</p>\n<p>The post <a href=\"https://www.breitbart.com/middle-east/2026/10/23/at-least-seven-killed-in-church-shooting-in-southern-jordan/\" rel=\"nofollow\">At Least Seven Killed in Church Shooting in Southern Jordan</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T22:06:42+00:00",
-   "collected": "2026-10-24T00:46:22.839912+00:00",
-   "keywords_hit": [
-    "greek",
-    "church"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The interior ministry of Jordan said on Friday that a group of “extremists” attacked St. George’s Greek Orthodox church in the southern al-Karak governorate, killing at least seven people and wounding",
-   "angle": null
-  },
-  {
-   "id": "6709f2c6e19f841b",
-   "title": "Only Trump Can Do Trump - The Dispatch",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUpJUWlRMVlLcE96WEFIRW14VENTem9RbXlVNlJIdE5QbkNPZGlnS3NBUHhod25SbWtCSjA1d1U3OHRjMGpnTHpkaEF2TEpkcEhtdFgtTUZxaWhkTmhaSE9OeWw3RlNjMEdGZnh4N1BTX01zWWhzcjVqSFRSNF9MOE40MnBKZw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUpJUWlRMVlLcE96WEFIRW14VENTem9RbXlVNlJIdE5QbkNPZGlnS3NBUHhod25SbWtCSjA1d1U3OHRjMGpnTHpkaEF2TEpkcEhtdFgtTUZxaWhkTmhaSE9OeWw3RlNjMEdGZnh4N1BTX01zWWhzcjVqSFRSNF9MOE40MnBKZw?oc=5\" target=\"_blank\">Only Trump Can Do Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dispatch</font>",
-   "source": "The Dispatch",
-   "side": "conservative_tt",
-   "lang": "en",
-   "published": "2026-10-23T21:57:08+00:00",
-   "collected": "2026-10-24T00:46:32.237899+00:00",
-   "keywords_hit": [
-    "trump"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Only Trump Can Do Trump The Dispatch",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "10988274ea4bc6c3",
-   "title": "China Uses Djibouti Outpost to Assert Itself on Houthi Attacks",
-   "link": "https://www.breitbart.com/africa/2026/10/23/china-uses-djibouti-outpost-to-assert-itself-on-houthi-attacks/",
-   "summary_raw": "<p>China and Djibouti released a joint communique on Thursday supporting freedom of navigation in the Red Sea and Bab el-Mandeb Strait, which are currently under threat from the Iran-backed Houthi insurgents of Yemen.</p>\n<p>The post <a href=\"https://www.breitbart.com/africa/2026/10/23/china-uses-djibouti-outpost-to-assert-itself-on-houthi-attacks/\" rel=\"nofollow\">China Uses Djibouti Outpost to Assert Itself on Houthi Attacks</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T21:39:48+00:00",
-   "collected": "2026-10-24T00:46:22.841236+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "China and Djibouti released a joint communique on Thursday supporting freedom of navigation in the Red Sea and Bab el-Mandeb Strait, which are currently under threat from the Iran-backed Houthi insurg",
-   "angle": null,
-   "corroborated_by": [
-    "Brussels Signal"
-   ]
-  },
-  {
-   "id": "5a86e569539e6f31",
-   "title": "Video: 'Translators' Openly Direct Somali Migrants Voting in Maine",
-   "link": "https://www.breitbart.com/immigration/2026/10/23/video-translators-openly-direct-somali-migrants-voting-in-maine/",
-   "summary_raw": "<p>Somali \"translators\" were recorded apparently guiding elderly Somali immigrant voters on how to vote inside election booths in Maine</p>\n<p>The post <a href=\"https://www.breitbart.com/immigration/2026/10/23/video-translators-openly-direct-somali-migrants-voting-in-maine/\" rel=\"nofollow\">Video: &#8216;Translators&#8217; Openly Direct Somali Migrants Voting in Maine</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T21:36:11+00:00",
-   "collected": "2026-10-24T00:46:22.841603+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Somali \"translators\" were recorded apparently guiding elderly Somali immigrant voters on how to vote inside election booths in Maine The post Video: ‘Translators’ Openly Direct Somali Migrants Voting ",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "788821348efc4570",
-   "title": "No to the “Common Good” Economy - City Journal",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0eDNka1g3RDdYSUxyRTF1RTZjYWFVcW9id3ZsWExwVzJsajd0UjNwVnVuYlJHNmI5MnBpOEllUmYteE5TNlpndVJWRGk3V0NPUFZIVjQzem1MZVF3YkQ5dWhBMDJLdDdsNV9HRFV5UFZyNUQ3Z1RwQWVyT0tNeTQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA0eDNka1g3RDdYSUxyRTF1RTZjYWFVcW9id3ZsWExwVzJsajd0UjNwVnVuYlJHNmI5MnBpOEllUmYteE5TNlpndVJWRGk3V0NPUFZIVjQzem1MZVF3YkQ5dWhBMDJLdDdsNV9HRFV5UFZyNUQ3Z1RwQWVyT0tNeTQ?oc=5\" target=\"_blank\">No to the “Common Good” Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City Journal</font>",
-   "source": "City Journal",
-   "side": "conservative_class",
-   "lang": "en",
-   "published": "2026-10-23T21:17:00+00:00",
-   "collected": "2026-10-25T06:15:48.977724+00:00",
-   "keywords_hit": [
-    "common good"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "No to the “Common Good” Economy City Journal",
-   "angle": null
-  },
-  {
-   "id": "413dff1138d9d767",
-   "title": "Ρουμανία: Ο Νικούσορ Νταν κατηγορεί την Ρωσία για την βύθιση πλοίου 1 μίλι έξω από τα χωρικά ύδατα",
-   "link": "https://www.in.gr/2026/10/24/world/roumania-o-nikousor-ntan-katigorei-tin-rosia-gia-tin-vythisi-ploiou-1-mili-ekso-apo-ta-xorika-ydata/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"432\" src=\"https://www.in.gr/wp-content/uploads/2026/10/2026-10-23T110829Z_1865932501_RC2Z8OA78DRT_RTRMADP_3_UKRAINE-CRISIS-ROMANIA-BLACK-SEA-768x432.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Ο πρόεδρος της Ρουμανίας κατηγόρησε την Ρωσία για τη βύθιση πλοίου σε περιοχή ρουμανικής SAR, έξω από τα χωρικά ύδατα ακριβώς στα 13 ναυτικά μίλια</p>\n<p>The post <a href=\"https://www.in.gr/2026/10/24/world/roumania-o-nikousor-ntan-katigorei-tin-rosia-gia-tin-vythisi-ploiou-1-mili-ekso-apo-ta-xorika-ydata/\">Ρουμανία: Ο Νικούσορ Νταν κατηγορεί την Ρωσία για την βύθιση πλοίου 1 μίλι έξω από τα χωρικά ύδατα</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
-   "source": "in.gr",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-23T21:15:58+00:00",
-   "collected": "2026-10-24T00:46:17.613945+00:00",
-   "keywords_hit": [
-    "χωρικά ύδατα"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ο πρόεδρος της Ρουμανίας κατηγόρησε την Ρωσία για τη βύθιση πλοίου σε περιοχή ρουμανικής SAR, έξω από τα χωρικά ύδατα ακριβώς στα 13 ναυτικά μίλια The post Ρουμανία: Ο Νικούσορ Νταν κατηγορεί την Ρωσί",
-   "angle": null
-  },
-  {
-   "id": "77f6191cba473b48",
-   "title": "Venezuelan Anti-Socialists Hold Nationwide Peaceful Protests Demanding Elections",
-   "link": "https://www.breitbart.com/latin-america/2026/10/23/venezuelans-demand-socialists-set-election-date-in-new-round-of-peaceful-protests/",
-   "summary_raw": "<p>Thousands of Venezuelans marched through the streets of Caracas and other cities on Thursday against the nation's socialist regime to demand presidential elections and the safe return of anti-socialist opposition leader María Corina Machado to the country.</p>\n<p>The post <a href=\"https://www.breitbart.com/latin-america/2026/10/23/venezuelans-demand-socialists-set-election-date-in-new-round-of-peaceful-protests/\" rel=\"nofollow\">Venezuelan Anti-Socialists Hold Nationwide Peaceful Protests Demanding Elections</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T21:15:08+00:00",
-   "collected": "2026-10-24T05:58:09.466085+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Thousands of Venezuelans marched through the streets of Caracas and other cities on Thursday against the nation's socialist regime to demand presidential elections and the safe return of anti-socialis",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "d9b42ab0056bc5e3",
-   "title": "Rubio Urges Cubans to Work With CIA",
-   "link": "https://www.osint613.com/post/rubio-urges-cubans-to-work-with-cia-26163",
-   "summary_raw": "U.S. Secretary of State Marco Rubio:\n\n\"To those who seek to create positive change in Cuba - now is the time. \n\nThe disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete partnership with the CIA.\"",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-10-23T21:06:15+00:00",
-   "collected": "2026-10-24T00:46:23.158561+00:00",
-   "keywords_hit": [
-    "crete"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "U.S. Secretary of State Marco Rubio: \"To those who seek to create positive change in Cuba - now is the time. The disappointment of failed promises, corruption, and the privileged lives of only a few; ",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @clashreport"
-   ]
-  },
-  {
-   "id": "8c7502e6aeb6331c",
-   "title": "Φιντάν: Πρόταση για συνομιλίες Τουρκίας, Ιταλίας και Αιγύπτου, Λιβύης – Εκτός Ελλάδα και Κύπρος",
-   "link": "https://www.tanea.gr/2026/10/23/world/fintan-gia-toyrkolivyko-mnimonio/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"427\" src=\"https://www.tanea.gr/wp-content/uploads/2026/01/fid-1024x683-1.jpg\" style=\"margin-bottom: 15px;\" width=\"640\" /></div>«Πολιτικό θόρυβο» χαρακτήρισε τις αντιδράσεις για το τουρκολιβυκό μνημόνιο - Τι είπε για τις κινήσεις της Ελλάδας στην ΕΕ",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-23T20:59:38+00:00",
-   "collected": "2026-10-23T22:15:41.869426+00:00",
-   "keywords_hit": [
-    "φιντάν",
-    "λιβύη"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 5,
-   "turkish_narrative": true,
-   "summary_el": "«Πολιτικό θόρυβο» χαρακτήρισε τις αντιδράσεις για το τουρκολιβυκό μνημόνιο - Τι είπε για τις κινήσεις της Ελλάδας στην ΕΕ",
-   "angle": null,
-   "corroborated_by": [
-    "Καθημερινή"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "d2cfd8ca824706f0",
-   "title": "Zelensky:  You can't just impose sanctions and then lift them because winter is difficult.  You sanction oil but not gas, natural gas but not LNG, petrol but not diesel.  Then you …",
-   "link": "https://t.me/ClashReport/102752",
-   "summary_raw": "Zelensky:  You can't just impose sanctions and then lift them because winter is difficult.  You sanction oil but not gas, natural gas but not LNG, petrol but not diesel.  Then you sanction diesel and lift the sanctions. You sanction chemicals, then say it's difficult for farmers without fertilizers.  You freeze assets, then lift sanctions on parts of the banking system.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-10-23T20:59:12+00:00",
-   "collected": "2026-10-23T22:16:19.804690+00:00",
-   "keywords_hit": [
-    "lng",
-    "natural gas"
-   ],
-   "category": "Ενέργεια",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Zelensky: You can't just impose sanctions and then lift them because winter is difficult. You sanction oil but not gas, natural gas but not LNG, petrol but not diesel. Then you sanction diesel and lif",
-   "angle": null
-  },
-  {
-   "id": "95113a796d391614",
-   "title": "Κλιματική κρίση και ενέργεια: Ποια χώρα είναι πιο «σπάταλη»;",
-   "link": "https://www.kathimerini.gr/visual/infographics/564541462/klimatiki-krisi-kai-energeia-poia-chora-einai-pio-spatali/",
-   "summary_raw": "Η Ημέρα Υπέρβασης της Γης δείχνει πότε θα εξαντλούνταν οι φυσικοί πόροι που μπορεί να ανανεώσει η Γη σε ένα έτος, εάν όλοι ζούσαν όπως οι κάτοικοι μιας συγκεκριμένης χώρας.",
-   "source": "Καθημερινή",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-23T20:52:56+00:00",
-   "collected": "2026-10-23T22:15:40.305357+00:00",
-   "keywords_hit": [
-    "κλιματικ"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Η Ημέρα Υπέρβασης της Γης δείχνει πότε θα εξαντλούνταν οι φυσικοί πόροι που μπορεί να ανανεώσει η Γη σε ένα έτος, εάν όλοι ζούσαν όπως οι κάτοικοι μιας συγκεκριμένης χώρας.",
-   "angle": null
-  },
-  {
-   "id": "01a6301df53e7a1a",
-   "title": "Marco Rubio:  To those who seek to create positive change in Cuba - now is the time.  The disappointment of failed promises, corruption, and the privileged lives of only a few; sei…",
-   "link": "https://t.me/ClashReport/102747",
-   "summary_raw": "Marco Rubio:  To those who seek to create positive change in Cuba - now is the time.  The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete partnership with the CIA.",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-10-23T20:47:32+00:00",
-   "collected": "2026-10-24T00:46:57.032604+00:00",
-   "keywords_hit": [
-    "crete"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Marco Rubio: To those who seek to create positive change in Cuba - now is the time. The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to",
-   "angle": null,
-   "corroborated_by": [
-    "OSINT613"
-   ]
-  },
-  {
-   "id": "b0f0a07ee98f9ccd",
-   "title": "Έντι Ζεμενίδης: Ζητά από τον Ρούμπιο να καταδικάσει δημόσια το τουρκολιβυκό μνημόνιο",
-   "link": "https://www.protothema.gr/world/article/1899803/edi-zemenidis-zita-apo-ton-roubio-na-katadikasei-dimosia-to-tourkolivuko-mnimonio/?utm_source=rss",
-   "summary_raw": "Η Τουρκία και η Λιβύη δεν πρέπει να αφεθούν να δημιουργήσουν τετελεσμένα εις βάρος ενός συμμάχου στο ΝΑΤΟ, των αμερικανικών συμφερόντων ασφαλείας και των αμερικανικών εταιρειών που δραστηριοποιούνται νόμιμα στα ελληνικά ύδατα, τονίζει το HALC",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-23T20:40:02+00:00",
-   "collected": "2026-10-23T22:15:38.736711+00:00",
-   "keywords_hit": [
-    "λιβύη"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Η Τουρκία και η Λιβύη δεν πρέπει να αφεθούν να δημιουργήσουν τετελεσμένα εις βάρος ενός συμμάχου στο ΝΑΤΟ, των αμερικανικών συμφερόντων ασφαλείας και των αμερικανικών εταιρειών που δραστηριοποιούνται ",
-   "angle": null,
-   "corroborated_by": [
-    "SLpress"
-   ]
-  },
-  {
-   "id": "f81fc8bfb010c6e3",
-   "title": "Mark Carney Insists Bringing Canada Closer to Islamist, Anti-LGBTQA2+ Turkey Fits 'Values-Based Realism'",
-   "link": "https://www.breitbart.com/middle-east/2026/10/23/mark-carney-insists-bringing-canada-closer-islamist-anti-lgbtqa2-turkey-fits-values-based-realism/",
-   "summary_raw": "<p>Leftist Canadian Prime Minister Mark Carney said doing business with Turkey does not legitimize President Recep Tayyip Erdogan.</p>\n<p>The post <a href=\"https://www.breitbart.com/middle-east/2026/10/23/mark-carney-insists-bringing-canada-closer-islamist-anti-lgbtqa2-turkey-fits-values-based-realism/\" rel=\"nofollow\">Mark Carney Insists Bringing Canada Closer to Islamist, Anti-LGBTQA2+ Turkey Fits &#8216;Values-Based Realism&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T20:25:49+00:00",
-   "collected": "2026-10-24T00:46:22.838221+00:00",
-   "keywords_hit": [
-    "erdogan"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Leftist Canadian Prime Minister Mark Carney said doing business with Turkey does not legitimize President Recep Tayyip Erdogan. The post Mark Carney Insists Bringing Canada Closer to Islamist, Anti-LG",
-   "angle": null
-  },
-  {
-   "id": "ee3933b362881e78",
-   "title": "Türkiye’s foreign minister vows Ankara will continue taking responsibility for resolving regional issues",
-   "link": "https://www.aa.com.tr/en/turkiye/turkiye-s-foreign-minister-vows-ankara-will-continue-taking-responsibility-for-resolving-regional-issues/4099068",
-   "summary_raw": "‘We hope that this initiative, which we have spearheaded, will become a lasting mechanism and contribute to peace and stability in our region and beyond,’ Hakan Fidan says",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-10-23T20:24:29+00:00",
-   "collected": "2026-10-23T22:14:43.669696+00:00",
-   "keywords_hit": [
-    "fidan"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": true,
-   "summary_el": "‘We hope that this initiative, which we have spearheaded, will become a lasting mechanism and contribute to peace and stability in our region and beyond,’ Hakan Fidan says",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Άγκυρα",
-     "lat": 39.93,
-     "lon": 32.86
-    }
-   ]
-  },
-  {
-   "id": "9cc319148f6d7c18",
-   "title": "UNSMIL Urges Protection of Libya’s Central Bank Independence",
-   "link": "https://libyareview.com/69196/unsmil-urges-protection-of-libyas-central-bank-independence/",
-   "summary_raw": "<p>The United Nations Support Mission in Libya (UNSMIL) has stressed the importance of safeguarding the integrity and independence of the Central Bank of Libya (CBL) amid developments concerning its leadership. In a statement, UNSMIL said it had taken note of the House of Representatives Presidency’s decision regarding the bank’s leadership, stressing that its operational independence, [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/69196/unsmil-urges-protection-of-libyas-central-bank-independence/\">UNSMIL Urges Protection of Libya’s Central Bank Independence</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-10-23T20:22:34+00:00",
-   "collected": "2026-10-24T00:45:51.676654+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "The United Nations Support Mission in Libya (UNSMIL) has stressed the importance of safeguarding the integrity and independence of the Central Bank of Libya (CBL) amid developments concerning its lead",
-   "angle": null
-  },
-  {
-   "id": "1587a74626f50990",
-   "title": "Ηλεκτρική διασύνδεση Ελλάδας-Κύπρου: Αντίστροφη μέτρηση για τις έρευνες – Απέπλευσε από τη Νάπολη το γαλλικό ερευνητικό σκάφος",
-   "link": "https://www.tanea.gr/2026/10/23/world/ilektriki-diasyndesi-elladas-kyprou-antistrofi-metrisi-gia-tis-ereynes-apepleyse-apo-ti-napoli-to-galliko-ereynitiko-skafos/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"567\" src=\"https://www.tanea.gr/wp-content/uploads/2026/10/Screenshot-2026-10-23-231554.jpg\" style=\"margin-bottom: 15px;\" width=\"1019\" /></div>Αντίστροφα μετρά ο χρόνος για την έναρξη των ερευνών για το καλώδιο ηλεκτρικής διασύνδεσης",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-23T20:18:41+00:00",
-   "collected": "2026-10-23T22:15:41.871098+00:00",
-   "keywords_hit": [
-    "διασύνδεση"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Αντίστροφα μετρά ο χρόνος για την έναρξη των ερευνών για το καλώδιο ηλεκτρικής διασύνδεσης",
-   "angle": null,
-   "corroborated_by": [
-    "Zarpanews (Χανιά)",
-    "iefimerida",
-    "ΕΡΤ News",
-    "Καθημερινή"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "a67323f8c5093211",
-   "title": "Ιράν: Γερμανία, Γαλλία και Βρετανία δηλώνουν έτοιμες για συνομιλίες – Στόχος να μην αποκτήσει πυρηνικά η Τεχεράνη",
-   "link": "https://www.efsyn.gr/kosmos/1495511/iran-germania-gallia-kai-vretania-dilonoyn-etoimes-gia-synomilies-stohos-na-min-apoktisei-pyrinika-i-teherani/",
-   "summary_raw": "Ο Φιντάν δήλωσε ότι μια νέα επίθεση στο Ιράν θα επέκτεινε τη σύγκρουση, υποστηρίζοντας ότι ο μοναδικός τρόπος για να τερματιστεί ο πόλεμος είναι μέσω της διπλωματίας.",
-   "source": "Εφημερίδα των Συντακτών",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-23T20:12:37+00:00",
-   "collected": "2026-10-23T22:15:43.189732+00:00",
-   "keywords_hit": [
-    "φιντάν",
-    "πυρηνικ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο Φιντάν δήλωσε ότι μια νέα επίθεση στο Ιράν θα επέκτεινε τη σύγκρουση, υποστηρίζοντας ότι ο μοναδικός τρόπος για να τερματιστεί ο πόλεμος είναι μέσω της διπλωματίας.",
-   "angle": null,
-   "corroborated_by": [
-    "Τα Νέα"
-   ]
-  },
-  {
-   "id": "0505aaf79cb0bba3",
-   "title": "Zohran Mamdani Instructs Illegal Migrants How to Dodge ICE",
-   "link": "https://www.breitbart.com/immigration/2026/10/23/zohran-mamdani-instructs-illegal-migrants-how-to-dodge-ice/",
-   "summary_raw": "<p>New York City's (NYC) socialist Mayor Zohran Mamdani advised illegal aliens on how to dodge U.S. Immigration and Customs Enforcement (ICE) agents and instructed them on their rights.</p>\n<p>The post <a href=\"https://www.breitbart.com/immigration/2026/10/23/zohran-mamdani-instructs-illegal-migrants-how-to-dodge-ice/\" rel=\"nofollow\">Zohran Mamdani Instructs Illegal Migrants How to Dodge ICE</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T20:11:29+00:00",
-   "collected": "2026-10-24T00:46:22.836337+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "New York City's (NYC) socialist Mayor Zohran Mamdani advised illegal aliens on how to dodge U.S. Immigration and Customs Enforcement (ICE) agents and instructed them on their rights. The post Zohran M",
-   "angle": null,
-   "corroborated_by": [
-    "UnHerd"
-   ]
-  },
-  {
-   "id": "c35140a6d6316695",
-   "title": "IAEA chief says agency ‘ready’ to verify Iran’s nuclear activities, urges diplomatic agreement",
-   "link": "https://www.aa.com.tr/en/americas/iaea-chief-says-agency-ready-to-verify-iran-s-nuclear-activities-urges-diplomatic-agreement/4099058",
-   "summary_raw": "‘Most of the technical work, which is required to ensure an adequate verification of the activities in Iran has been done,’ says Rafael Grossi",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-10-23T20:11:03+00:00",
-   "collected": "2026-10-24T00:45:34.564048+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "‘Most of the technical work, which is required to ensure an adequate verification of the activities in Iran has been done,’ says Rafael Grossi",
-   "angle": null
-  },
-  {
-   "id": "2d74a27e88cc3f6b",
-   "title": "Victor Davis Hanson: France’s Left Learns Rioters Don’t Check Voting Records",
-   "link": "https://www.dailysignal.com/2026/10/23/hanson-thanks-united-states-stinks/",
-   "summary_raw": "Editor’s note: This is a lightly edited transcript of a segment from today’s edition of “Victor Davis Hanson: In His Own Words” from Daily Signal senior contributor Victor Davis Hanson. Subscribe to Hanson&#8217;s own&#160;YouTube channel&#160;to watch past episodes.&#160; Jack Fowler: Victor, two things I came across today, and I don&#8217;t know if it&#8217;s apocryphal, one...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T20:01:07+00:00",
-   "collected": "2026-10-23T22:15:47.328534+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Editor’s note: This is a lightly edited transcript of a segment from today’s edition of “Victor Davis Hanson: In His Own Words” from Daily Signal senior contributor Victor Davis Hanson. Subscribe to H",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "dcb8c7c199ea4501",
-   "title": "Trump Equity Portfolio Hits 40—Democrats Have Plans for It - Cato Institute",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlFaX0dQZV8zQVRlSHdNSXFVbXZyWThjVkJqQVQ0Z2tLY01VWTUxR0NwNDR6MXlhOXlEdzJCZnZuZWdPd3Q1WXFIai1malh4aW5Td01PXzEzZlZtVmV0Q3k0Q0c0Z2dFWVdCRjZ6aVlOdWhiRW45T0JRaHdJSlB2YWZ0QUpNQ0k?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlFaX0dQZV8zQVRlSHdNSXFVbXZyWThjVkJqQVQ0Z2tLY01VWTUxR0NwNDR6MXlhOXlEdzJCZnZuZWdPd3Q1WXFIai1malh4aW5Td01PXzEzZlZtVmV0Q3k0Q0c0Z2dFWVdCRjZ6aVlOdWhiRW45T0JRaHdJSlB2YWZ0QUpNQ0k?oc=5\" target=\"_blank\">Trump Equity Portfolio Hits 40—Democrats Have Plans for It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cato Institute</font>",
-   "source": "Cato Institute",
-   "side": "conservative_lib",
-   "lang": "en",
-   "published": "2026-10-23T19:47:11+00:00",
-   "collected": "2026-10-23T22:15:57.049490+00:00",
-   "keywords_hit": [
-    "trump"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Trump Equity Portfolio Hits 40—Democrats Have Plans for It Cato Institute",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal",
-    "The Dispatch"
-   ]
-  },
-  {
-   "id": "be6a61dddcd22639",
-   "title": "Benjamin Netanyahu Signals Massive West Bank Operation After Hebron Attack — Days Before Election",
-   "link": "https://www.breitbart.com/politics/2026/10/23/benjamin-netanyahu-signals-massive-west-bank-operation-after-hebron-attack-days-before-election/",
-   "summary_raw": "<p>Israeli Prime Minister Benjamin Netanyahu announced Friday that Israel is preparing a massive military operation in Judea and Samaria, also known as the West Bank, on a scale not seen since the 1967 Six-Day War, after Palestinian terrorists killed two Israeli soldiers near Hebron, just four days before Israel's national election.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/10/23/benjamin-netanyahu-signals-massive-west-bank-operation-after-hebron-attack-days-before-election/\" rel=\"nofollow\">Benjamin Netanyahu Signals Massive West Bank Operation After Hebron Attack — Days Before Election</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-10-23T19:45:30+00:00",
-   "collected": "2026-10-24T00:46:22.837307+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Israeli Prime Minister Benjamin Netanyahu announced Friday that Israel is preparing a massive military operation in Judea and Samaria, also known as the West Bank, on a scale not seen since the 1967 S",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "7ebe4085f3461e76",
-   "title": "Βάντεφουλ: Γερμανία, Γαλλία και Βρετανία είναι έτοιμες για συνομιλίες με την Τεχεράνη",
-   "link": "https://www.tanea.gr/2026/10/23/world/vantefoul-germania-gallia-kai-vretania-einai-etoimes-gia-synomilies-me-tin-texerani/",
-   "summary_raw": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://www.tanea.gr/wp-content/uploads/2026/10/Vantefoul-1024x683.jpg\" style=\"margin-bottom: 15px;\" width=\"1024\" /></div>Ο υπουργός Εξωτερικών της Γερμανίας Γιόχαν Βάντεφουλ δήλωσε ότι η χώρα του, σε συνεργασία με τη Γαλλία και τη Βρετανία, είναι έτοιμη να διαπραγματευθεί με το Ιράν, προκειμένου να αποκλειστεί το ενδεχόμενο απόκτησης πυρηνικών όπλων από την Τεχεράνη. Ο Τούρκος ομόλογός του Χακάν Φιντάν, υπογράμμισε ότι μια νέα επίθεση στο Ιράν θα ενέτεινε τις πιέσεις [&#8230;]",
-   "source": "Τα Νέα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-23T19:45:28+00:00",
-   "collected": "2026-10-23T22:15:41.872342+00:00",
-   "keywords_hit": [
-    "φιντάν",
-    "πυρηνικ"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο υπουργός Εξωτερικών της Γερμανίας Γιόχαν Βάντεφουλ δήλωσε ότι η χώρα του, σε συνεργασία με τη Γαλλία και τη Βρετανία, είναι έτοιμη να διαπραγματευθεί με το Ιράν, προκειμένου να αποκλειστεί το ενδεχό",
-   "angle": null,
-   "corroborated_by": [
-    "Εφημερίδα των Συντακτών"
-   ]
-  },
-  {
-   "id": "30bbd8e47faddad9",
-   "title": "&quot;Ψήνεται &quot; θερμό επεισόδιο ΝΑΤΟ-Ρωσίας στη Μαύρη θάλασσα",
-   "link": "https://www.pentapostagma.gr/kosmos/enoples-syrraxeis/7395484_psinetai-thermo-epeisodio-nato-rosias-sti-mayri-thalassa",
-   "summary_raw": "Αίσθηση προκαλεί η στάση του Ερντογάν και των ΜΜΕ των &quot;γειτόνων μας&quot; την ώρα που η Μαύρη θάλασσα &quot;βράζει&quot;,...",
-   "source": "Πενταπόσταγμα",
-   "side": "greek_defense",
-   "lang": "el",
-   "published": "2026-10-23T19:43:09+00:00",
-   "collected": "2026-10-23T22:15:08.656958+00:00",
-   "keywords_hit": [
-    "ερντογάν"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Αίσθηση προκαλεί η στάση του Ερντογάν και των ΜΜΕ των \"γειτόνων μας\" την ώρα που η Μαύρη θάλασσα \"βράζει\",...",
-   "angle": null
-  },
-  {
-   "id": "75ab18eda8aa6c55",
-   "title": "Takala backs Fawzi Abu Khzam for interim Central Bank Governor role - The Libya Observer",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGQ5RFlDeUJrR1NTOWRrYXRGMDM0Zjg2b05GU2U3TkNqU0FXMWpkZjFSMUVlWlNIMUZRU0pfVlVsdlFUQ0kwbUFaUUJKd3YteG1iNzBQdkRERTA4VDR2NFFpaEMweWJFNUR6Yy1DR2VEZl90Ty1LeXNCcEU1Ui1sQldoTGtfN1hjZ01neW5hSXViZkl2SUkycm4yRDM?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGQ5RFlDeUJrR1NTOWRrYXRGMDM0Zjg2b05GU2U3TkNqU0FXMWpkZjFSMUVlWlNIMUZRU0pfVlVsdlFUQ0kwbUFaUUJKd3YteG1iNzBQdkRERTA4VDR2NFFpaEMweWJFNUR6Yy1DR2VEZl90Ty1LeXNCcEU1Ui1sQldoTGtfN1hjZ01neW5hSXViZkl2SUkycm4yRDM?oc=5\" target=\"_blank\">Takala backs Fawzi Abu Khzam for interim Central Bank Governor role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Libya Observer</font>",
-   "source": "Libya Observer",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-10-23T19:42:31+00:00",
-   "collected": "2026-10-28T01:25:56.397284+00:00",
-   "keywords_hit": [
-    "libya"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Takala backs Fawzi Abu Khzam for interim Central Bank Governor role The Libya Observer",
-   "angle": null
-  },
-  {
-   "id": "9f82b1bb87bad2cf",
-   "title": "Επιστολή Κύπρου στον ΟΗΕ για τουρκολιβυκό μνημόνιο: Δεν συνάδει με το διεθνές δίκαιο, δεν παράγει έννομα αποτελέσματα για τρίτα κράτη",
-   "link": "https://www.protothema.gr/greece/article/1899788/epistoli-kuprou-ston-oie-gia-tourkolivuko-mnimonio-den-sunadei-me-to-/?utm_source=rss",
-   "summary_raw": "«Η ανεξαρτησία, η κυριαρχία και η εδαφική ακεραιότητα της Λιβύης, δεν πρέπει να υποτάσσονται στις γεωπολιτικές επιδιώξεις και φιλοδοξίες τρίτων κρατών», υπογραμμίζει η Μόνιμη Αντιπρόσωπος της Κύπρου στον Οργανισμό",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-10-23T19:37:00+00:00",
-   "collected": "2026-10-23T22:15:38.737691+00:00",
-   "keywords_hit": [
-    "λιβύη"
-   ],
-   "category": "Κυπριακό",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "«Η ανεξαρτησία, η κυριαρχία και η εδαφική ακεραιότητα της Λιβύης, δεν πρέπει να υποτάσσονται στις γεωπολιτικές επιδιώξεις και φιλοδοξίες τρίτων κρατών», υπογραμμίζει η Μόνιμη Αντιπρόσωπος της Κύπρου σ",
-   "angle": null,
-   "corroborated_by": [
-    "ΕΡΤ News"
-   ],
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "d3b7e88a6fcecd62",
-   "title": "Turkish president receives foreign ministers following R4+E3 meeting",
-   "link": "https://www.aa.com.tr/en/turkiye/turkish-president-receives-foreign-ministers-following-r4-e3-meeting/4099028",
-   "summary_raw": "Recep Tayyip Erdogan meets visiting delegates at Dolmabahce Palace in Istanbul",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-10-23T19:31:42+00:00",
-   "collected": "2026-10-23T22:14:43.670683+00:00",
-   "keywords_hit": [
-    "erdogan"
-   ],
-   "category": "Διπλωματία",
-   "severity": 2,
-   "turkish_narrative": true,
-   "summary_el": "Recep Tayyip Erdogan meets visiting delegates at Dolmabahce Palace in Istanbul",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κωνσταντινούπολη",
-     "lat": 41.01,
-     "lon": 28.98
-    }
-   ]
   }
  ]
 }
