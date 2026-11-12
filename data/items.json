@@ -1,7 +1,418 @@
 {
- "updated": "2026-11-11T22:03:54.287702+00:00",
- "count": 1698,
+ "updated": "2026-11-12T03:06:08.936167+00:00",
+ "count": 1692,
  "items": [
+  {
+   "id": "3691c5d15df401a1",
+   "title": "Balkan leaders call for fair energy transition and stronger protection of nature at COP31",
+   "link": "https://www.aa.com.tr/en/turkiye/balkan-leaders-call-for-fair-energy-transition-and-stronger-protection-of-nature-at-cop31/4121561",
+   "summary_raw": "Montenegro outlines green transition plans as Bosnia calls for greater climate responsibility towards future generations",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-12T02:20:07+00:00",
+   "collected": "2026-11-12T03:03:59.847265+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Montenegro outlines green transition plans as Bosnia calls for greater climate responsibility towards future generations",
+   "angle": null
+  },
+  {
+   "id": "22e4c81b38119277",
+   "title": "Ex-minister sees interests behind delays in Cyprus",
+   "link": "https://www.ekathimerini.com/economy/energy/1321071/ex-minister-sees-interests-behind-delays-in-cyprus/",
+   "summary_raw": "The Vasiliko terminal is designed to let Cyprus import liquefied natural gas for power generation.",
+   "source": "Kathimerini (EN)",
+   "side": "greek_media",
+   "lang": "en",
+   "published": "2026-11-12T02:00:13+00:00",
+   "collected": "2026-11-12T03:04:01.318015+00:00",
+   "keywords_hit": [
+    "natural gas"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The Vasiliko terminal is designed to let Cyprus import liquefied natural gas for power generation.",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "62787deeec1db96c",
+   "title": "⚡️ Poland: Orlen ends long-term LNG deal with QatarEnergy, which cannot meet obligations due to war on Iran",
+   "link": "https://t.me/me_observer_TG/1130243",
+   "summary_raw": "⚡️ Poland: Orlen ends long-term LNG deal with QatarEnergy, which cannot meet obligations due to war on Iran",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-11-12T02:00:07+00:00",
+   "collected": "2026-11-12T03:05:14.980916+00:00",
+   "keywords_hit": [
+    "lng"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ Poland: Orlen ends long-term LNG deal with QatarEnergy, which cannot meet obligations due to war on Iran",
+   "angle": null
+  },
+  {
+   "id": "53ad147fe2806dfb",
+   "title": "OPEC crude production rises by nearly 2 million bpd in October",
+   "link": "https://www.aa.com.tr/en/economy/opec-crude-production-rises-by-nearly-2-million-bpd-in-october/4121560",
+   "summary_raw": "Saudi Arabia and Iraq lead output gains with 1.18 million bpd and 496,000 bpd, respectively",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-12T01:55:12+00:00",
+   "collected": "2026-11-12T03:03:59.847368+00:00",
+   "keywords_hit": [
+    "opec"
+   ],
+   "category": "Ενέργεια",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Saudi Arabia and Iraq lead output gains with 1.18 million bpd and 496,000 bpd, respectively",
+   "angle": null
+  },
+  {
+   "id": "f96fafeaef29fc53",
+   "title": "Greece To Raise Turkey-Libya Maritime Deal At EU Leaders’ Summit",
+   "link": "https://libyareview.com/69613/greece-to-raise-turkey-libya-maritime-deal-at-eu-leaders-summit/",
+   "summary_raw": "<p>Greek Prime Minister Kyriakos Mitsotakis plans to raise the disputed Turkey-Libya maritime agreement at an informal European Union leaders&#8217; summit in Dublin on Friday, 13 November 2026, as Athens seeks stronger European backing against the deal. According to Politico, a senior Greek official, speaking anonymously, confirmed that Mitsotakis would discuss the agreement despite the summit&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/69613/greece-to-raise-turkey-libya-maritime-deal-at-eu-leaders-summit/\">Greece To Raise Turkey-Libya Maritime Deal At EU Leaders&#8217; Summit</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-11-12T00:58:22+00:00",
+   "collected": "2026-11-12T03:04:15.480839+00:00",
+   "keywords_hit": [
+    "libya",
+    "greece",
+    "greek",
+    "mitsotakis"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Greek Prime Minister Kyriakos Mitsotakis plans to raise the disputed Turkey-Libya maritime agreement at an informal European Union leaders’ summit in Dublin on Friday, 13 November 2026, as Athens seek",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Αθήνα",
+     "lat": 37.98,
+     "lon": 23.73
+    }
+   ]
+  },
+  {
+   "id": "d1b0585abb1e6dff",
+   "title": "Egypt Helps Saudi Arabia Defend ‘Sensitive Sites’ Against Houthi Attacks",
+   "link": "https://www.breitbart.com/middle-east/2026/11/11/egypt-helps-saudi-arabia-defend-sensitive-sites-against-houthi-attacks/",
+   "summary_raw": "<p>Egyptian Foreign Minister Badr Abdelatty said on Tuesday that Egyptian forces have been deployed to Saudi Arabia for “defensive objectives to defend sensitive sites, including holy sites and others.”</p>\n<p>The post <a href=\"https://www.breitbart.com/middle-east/2026/11/11/egypt-helps-saudi-arabia-defend-sensitive-sites-against-houthi-attacks/\" rel=\"nofollow\">Egypt Helps Saudi Arabia Defend ‘Sensitive Sites’ Against Houthi Attacks</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-12T00:41:56+00:00",
+   "collected": "2026-11-12T03:04:45.771154+00:00",
+   "keywords_hit": [],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Egyptian Foreign Minister Badr Abdelatty said on Tuesday that Egyptian forces have been deployed to Saudi Arabia for “defensive objectives to defend sensitive sites, including holy sites and others.” ",
+   "angle": null
+  },
+  {
+   "id": "3ac2ca6544411608",
+   "title": "King Charles urges COP31 delegates to turn climate commitments into action",
+   "link": "https://www.aa.com.tr/en/europe/king-charles-urges-cop31-delegates-to-turn-climate-commitments-into-action/4121553",
+   "summary_raw": "Charles calls for urgent action to eliminate unnecessary methane emissions and leakages from oil and gas sector by 2030",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-12T00:22:58+00:00",
+   "collected": "2026-11-12T03:03:59.848100+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Charles calls for urgent action to eliminate unnecessary methane emissions and leakages from oil and gas sector by 2030",
+   "angle": null
+  },
+  {
+   "id": "369be551f94c73cb",
+   "title": "Nuclear Power Plant Could Generate €4.5 Billion for Greece",
+   "link": "https://greekcitytimes.com/2026/11/12/nuclear-power-plant-could-generate-e4-5-billion-for-greece/",
+   "summary_raw": "<p>A proposed 1,600 MW nuclear power plant could add €4.5 billion to Greek GDP and support 12,000 jobs, according to a new study.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/11/12/nuclear-power-plant-could-generate-e4-5-billion-for-greece/\">Nuclear Power Plant Could Generate €4.5 Billion for Greece</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-11-12T00:22:08+00:00",
+   "collected": "2026-11-12T03:04:19.303434+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A proposed 1,600 MW nuclear power plant could add €4.5 billion to Greek GDP and support 12,000 jobs, according to a new study. The post Nuclear Power Plant Could Generate €4.5 Billion for Greece appea",
+   "angle": null
+  },
+  {
+   "id": "22cc9db112a92cfc",
+   "title": "The New Right Can’t Run Away from Trump - The Dispatch",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVlLNC1SRzNmMkhZc1phQzZmXzFhdWpCTjJVeFczbEVNZFVZUWFqMjBoRWp6cGQyTXBnVEtLU01HT2lNU2FkZnFmU1E2S21qcmNEa0ZVdmk2U2xkTWFTb0RPSDRvMFV6UzkzUUpoeXp2M2VJd2kxbEx4OU9aSndLRUtFckNGX28?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVlLNC1SRzNmMkhZc1phQzZmXzFhdWpCTjJVeFczbEVNZFVZUWFqMjBoRWp6cGQyTXBnVEtLU01HT2lNU2FkZnFmU1E2S21qcmNEa0ZVdmk2U2xkTWFTb0RPSDRvMFV6UzkzUUpoeXp2M2VJd2kxbEx4OU9aSndLRUtFckNGX28?oc=5\" target=\"_blank\">The New Right Can’t Run Away from Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dispatch</font>",
+   "source": "The Dispatch",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-11-12T00:20:23+00:00",
+   "collected": "2026-11-12T03:04:53.746796+00:00",
+   "keywords_hit": [
+    "trump",
+    "new right"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The New Right Can’t Run Away from Trump The Dispatch",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "Daily Signal"
+   ]
+  },
+  {
+   "id": "2758eb270376279e",
+   "title": "The war against Michel Houellebecq",
+   "link": "https://unherd.com/2026/11/the-war-against-michel-houellebecq/?edition=us",
+   "summary_raw": "The French take their freedom for granted",
+   "source": "UnHerd",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-11-12T00:03:04+00:00",
+   "collected": "2026-11-12T03:04:45.383917+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The French take their freedom for granted",
+   "angle": null
+  },
+  {
+   "id": "f583f2293a409778",
+   "title": "Anthony Albanese’s Ministry of Truth",
+   "link": "https://www.spiked-online.com/2026/11/11/anthony-albaneses-ministry-of-truth/",
+   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/11/11/anthony-albaneses-ministry-of-truth/\">Anthony Albanese’s Ministry of Truth</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
+   "source": "Spiked",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-11-11T23:55:03+00:00",
+   "collected": "2026-11-12T03:04:45.604214+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The post Anthony Albanese’s Ministry of Truth appeared first on spiked .",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
+   "id": "df2bd474b1eea672",
+   "title": "Pakistan’s prime minister underscores his country’s commitment to expanding clean energy",
+   "link": "https://www.aa.com.tr/en/asia-pacific/pakistan-s-prime-minister-underscores-his-country-s-commitment-to-expanding-clean-energy/4121547",
+   "summary_raw": "'Let us resolve to power our economies without impoverishing our people and light up our homes without darkening our planet,' Shehbaz Sharif says on sidelines of COP31",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-11T23:40:53+00:00",
+   "collected": "2026-11-12T03:03:59.848376+00:00",
+   "keywords_hit": [
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "'Let us resolve to power our economies without impoverishing our people and light up our homes without darkening our planet,' Shehbaz Sharif says on sidelines of COP31",
+   "angle": null
+  },
+  {
+   "id": "c761feb405a6a20a",
+   "title": "Türkiye's COP31 chief calls for fairer global climate framework protecting developing nations",
+   "link": "https://www.aa.com.tr/en/turkiye/turkiyes-cop31-chief-calls-for-fairer-global-climate-framework-protecting-developing-nations/4121543",
+   "summary_raw": "Turkish Environment Minister Murat Kurum says climate action must respect developing countries' right to development",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-11T23:16:08+00:00",
+   "collected": "2026-11-12T03:03:59.848598+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkish Environment Minister Murat Kurum says climate action must respect developing countries' right to development",
+   "angle": null
+  },
+  {
+   "id": "cf2fd38bc164b1ef",
+   "title": "Britain names Madeleine Alessandri climate security envoy - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3BqcUlaY1UwNGpMUTk5T0staFZNdS1CV085WEFST0dybzZDZHFmWW5BRUI5UlByMDI2ZFc2R0VWN0lNZmlMZ2xRU3Fyb3Fxb2hLV0o3WVZZQ0xwaS1fLTJtWDB1NVNrVTFwN1dzM3dadWVaWVhxYzh0bkVtcm5XOTFBTE1nTkJaRWkxRXlPYWJyVkU3MFdNYXEyQWc3LTcycE9DYy1aOExuRkFlUWhGMkpn?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3BqcUlaY1UwNGpMUTk5T0staFZNdS1CV085WEFST0dybzZDZHFmWW5BRUI5UlByMDI2ZFc2R0VWN0lNZmlMZ2xRU3Fyb3Fxb2hLV0o3WVZZQ0xwaS1fLTJtWDB1NVNrVTFwN1dzM3dadWVaWVhxYzh0bkVtcm5XOTFBTE1nTkJaRWkxRXlPYWJyVkU3MFdNYXEyQWc3LTcycE9DYy1aOExuRkFlUWhGMkpn?oc=5\" target=\"_blank\">Britain names Madeleine Alessandri climate security envoy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters Sustainability",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-11-11T23:02:32+00:00",
+   "collected": "2026-11-12T03:04:27.764834+00:00",
+   "keywords_hit": [
+    "climate"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Britain names Madeleine Alessandri climate security envoy Reuters",
+   "angle": null
+  },
+  {
+   "id": "f8602706706635b2",
+   "title": "UN climate change summit puts Türkiye at center of international diplomacy: Communications director",
+   "link": "https://www.aa.com.tr/en/politics/un-climate-change-summit-puts-turkiye-at-center-of-international-diplomacy-communications-director/4121537",
+   "summary_raw": "World leaders praise Türkiye's efforts to host COP31 in Antalya, where climate justice and implementation of commitments are among key priorities, says Burhanettin Duran",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-11T22:53:34+00:00",
+   "collected": "2026-11-12T03:03:59.848842+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "World leaders praise Türkiye's efforts to host COP31 in Antalya, where climate justice and implementation of commitments are among key priorities, says Burhanettin Duran",
+   "angle": null
+  },
+  {
+   "id": "8120093cef589a1c",
+   "title": "Βενιζέλος στο ΕΡΤnews: Στην εξωτερική πολιτική της χώρας κυριαρχεί το σύνδρομο Ζυρίχης-Λονδίνου – Νόμιμο τίτλο αποκτάς με την οριοθέτηση",
+   "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/venizelos-sto-ertnews-stin-eksoteriki-politiki-tis-xoras-kyriarxei-to-syndromo-zyrixis-londinou-nomimo-titlo-apoktas-me-tin-oriothetisi/",
+   "summary_raw": "<img alt=\"benizelos2\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1080\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/11/benizelos2.jpeg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1920\" /><p>Ο πρώην πρόεδρος του ΠΑΣΟΚ, Ευάγγελος Βενιζέλος μίλησε στην εκπομπή «Στο Κέντρο» του ΕΡΤnews και τον Γιώργο Κουβαρά και αναφέρθηκε στις εξελίξεις με την ηλεκτρική διασύνδεση Ελλάδας-Κύπρου, αλλά και στο τι χρειάζεται στο μέλλον η χώρα για να κυβερνηθεί. Ο κ. Βενιζέλος υποστήριξε ότι η χώρα στην εξωτερική της κυριαρχείται από αυτό που αποκάλεσε ως ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/ellada/politiki/venizelos-sto-ertnews-stin-eksoteriki-politiki-tis-xoras-kyriarxei-to-syndromo-zyrixis-londinou-nomimo-titlo-apoktas-me-tin-oriothetisi/\" title=\"Βενιζέλος στο ΕΡΤnews: Στην εξωτερική πολιτική της χώρας κυριαρχεί το σύνδρομο Ζυρίχης-Λονδίνου &#8211; Νόμιμο τίτλο αποκτάς με την οριοθέτηση\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-11-11T22:35:42+00:00",
+   "collected": "2026-11-12T03:04:02.709522+00:00",
+   "keywords_hit": [
+    "διασύνδεση"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "Ο πρώην πρόεδρος του ΠΑΣΟΚ, Ευάγγελος Βενιζέλος μίλησε στην εκπομπή «Στο Κέντρο» του ΕΡΤnews και τον Γιώργο Κουβαρά και αναφέρθηκε στις εξελίξεις με την ηλεκτρική διασύνδεση Ελλάδας-Κύπρου, αλλά και σ",
+   "angle": null,
+   "corroborated_by": [
+    "Πρώτο Θέμα"
+   ],
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "097eb61665464208",
+   "title": "Βενιζέλος: «Δεν λύνονται τα ελληνοτουρκικά με NAVTEX και παρεμβάσεις τρίτων» – Η μακρά σχέση με Μητσοτάκη και το «θέλω να συνομιλώ με όλους»",
+   "link": "https://www.protothema.gr/politics/article/1909460/venizelos-den-lunodai-ta-ellinotourkika-me-navtex-kai-paremvaseis-triton-i-makra-shesi-me-mitsotaki/?utm_source=rss",
+   "summary_raw": "«Ο ερασιτεχνισμός είναι επικίνδυνος» είπε για το καλώδιο, ενώ έκρινε ότι οι κυβερνητικοί χειρισμοί θα αξιολογηθούν από το αποτέλεσμα – Οι αιχμές για την εθνική στρατηγική και τις κυβερνήσεις συνεργασίας",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-11-11T22:29:00+00:00",
+   "collected": "2026-11-12T03:04:38.103934+00:00",
+   "keywords_hit": [
+    "navtex"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "«Ο ερασιτεχνισμός είναι επικίνδυνος» είπε για το καλώδιο, ενώ έκρινε ότι οι κυβερνητικοί χειρισμοί θα αξιολογηθούν από το αποτέλεσμα – Οι αιχμές για την εθνική στρατηγική και τις κυβερνήσεις συνεργασί",
+   "angle": null,
+   "corroborated_by": [
+    "ΕΡΤ News"
+   ]
+  },
+  {
+   "id": "3c88ba51fbd2c324",
+   "title": "Turkish first lady launches global zero waste initiative at COP31 Climate Change Conference",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-first-lady-launches-global-zero-waste-initiative-at-cop31-climate-change-conference/4121509",
+   "summary_raw": "Emine Erdogan calls for lasting international partnerships to tackle waste, promote circular economy and turn environmental commitments into concrete action",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-11T22:19:24+00:00",
+   "collected": "2026-11-12T03:03:59.849196+00:00",
+   "keywords_hit": [
+    "erdogan",
+    "climate",
+    "cop31",
+    "crete"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": true,
+   "summary_el": "Emine Erdogan calls for lasting international partnerships to tackle waste, promote circular economy and turn environmental commitments into concrete action",
+   "angle": null
+  },
+  {
+   "id": "dcb41c4304588687",
+   "title": "Kazakhstan proposes UN-backed international water organization at COP31",
+   "link": "https://www.aa.com.tr/en/turkiye/kazakhstan-proposes-un-backed-international-water-organization-at-cop31/4121501",
+   "summary_raw": "Kazakhstan, Kyrgyzstan and Moldova call for stronger climate cooperation at UN climate conference in Antalya",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-11T22:03:13+00:00",
+   "collected": "2026-11-12T03:03:59.849298+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Kazakhstan, Kyrgyzstan and Moldova call for stronger climate cooperation at UN climate conference in Antalya",
+   "angle": null
+  },
   {
    "id": "ab5a17dcc05098e5",
    "title": "Gazi Mustafa Kemal Atatürk Atina’da düzenlenen törenle anıldı",
@@ -151,6 +562,33 @@
    "angle": null,
    "corroborated_by": [
     "Libya Observer"
+   ]
+  },
+  {
+   "id": "db968ba4e031f500",
+   "title": "Libya’s NOC Chief to Brief Parliament on Fuel Crisis",
+   "link": "https://libyareview.com/69615/libyas-noc-chief-to-brief-parliament-on-fuel-crisis/",
+   "summary_raw": "<p>Libya’s National Oil Corporation (NOC) Chairman Masoud Suleiman is expected to brief the House of Representatives on the country’s fuel supply crisis following a meeting with parliament’s leadership in Benghazi on Wednesday. The meeting brought together House Speaker Al-Salheen Abdel-Nabi, Second Deputy Speaker Mesbah Douma and Suleiman at the parliament’s headquarters. Discussions focused on the [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/69615/libyas-noc-chief-to-brief-parliament-on-fuel-crisis/\">Libya’s NOC Chief to Brief Parliament on Fuel Crisis</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-11-11T21:40:23+00:00",
+   "collected": "2026-11-12T03:04:15.481150+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Libya’s National Oil Corporation (NOC) Chairman Masoud Suleiman is expected to brief the House of Representatives on the country’s fuel supply crisis following a meeting with parliament’s leadership i",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
    ]
   },
   {
@@ -404,6 +842,26 @@
    "turkish_narrative": false,
    "summary_el": "WarTranslated \"I hope that this winter we will test the first European anti-ballistic defense system.\" - Zelenskyy stated during a meeting in Denmark. According to the President, Ukraine and Europe mu",
    "angle": null
+  },
+  {
+   "id": "69f3ef7163cde8fd",
+   "title": "North Carolina Vows to Hold Chemours Accountable for Contamination ‘No Matter How Long It Takes’",
+   "link": "https://insideclimatenews.org/news/11112026/north-carolina-chemours-pfas-pollution-accountability/",
+   "summary_raw": "FAYETTEVILLE, N.C.— North Carolina environmental regulators this week sent a scathing critique to Chemours, which is responsible for contaminating at least 10 counties with toxic “forever chemicals,” arguing that the company’s cleanup proposal violates the terms of a consent order. The state Department of Environmental Quality detailed multiple inadequacies in the company’s plan to remediate [&#8230;]",
+   "source": "Inside Climate News",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-11-11T20:32:47+00:00",
+   "collected": "2026-11-12T03:04:28.481746+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "FAYETTEVILLE, N.C.— North Carolina environmental regulators this week sent a scathing critique to Chemours, which is responsible for contaminating at least 10 counties with toxic “forever chemicals,” ",
+   "angle": null,
+   "corroborated_by": [
+    "Electrive (EU ηλεκτροκίνηση)"
+   ]
   },
   {
    "id": "f5650d1bbe287a4d",
@@ -747,6 +1205,25 @@
    "severity": 2,
    "turkish_narrative": false,
    "summary_el": "Migrants trek north through Mexico, buoyed by US election result Reuters",
+   "angle": null
+  },
+  {
+   "id": "276b23c7e1a4c3ae",
+   "title": "Christodoulides leads all presidential election scenarios in new poll",
+   "link": "https://cyprus-mail.com/2026/11/11/christodoulides-leads-all-presidential-election-scenarios-in-new-poll",
+   "summary_raw": "President Nikos Christodoulides leads all five hypothetical first-round scenarios for the 2028 presidential election, securing between 26 and 30 per cent, according to a new RAI Consultants poll presented on Alpha on Wednesday. Former presidential candidate Andreas Mavroyiannis ranks second in every scenario, polling between 22 and 24 per cent, while support for other potential [&#8230;]",
+   "source": "Cyprus Mail",
+   "side": "cypriot_media",
+   "lang": "en",
+   "published": "2026-11-11T19:13:32+00:00",
+   "collected": "2026-11-12T03:04:09.531099+00:00",
+   "keywords_hit": [
+    "christodoulides"
+   ],
+   "category": "Κυπριακό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "President Nikos Christodoulides leads all five hypothetical first-round scenarios for the 2028 presidential election, securing between 26 and 30 per cent, according to a new RAI Consultants poll prese",
    "angle": null
   },
   {
@@ -1283,6 +1760,30 @@
     "Guardian Environment",
     "Reuters Sustainability",
     "in-cyprus (Philenews)"
+   ]
+  },
+  {
+   "id": "50a69338c3336ee4",
+   "title": "Vance Seeks Trump’s Mantle Without Trump’s Baggage - The Dispatch",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX05DajJ2c2pRajlvN1J1dnRJaEdoUGxtblFSZlV0UmZnUFkyR1hlUXFEeDFkbmVSY3JvUWZCWUl6d2xUbDBfVV9velR3QzBFUFRNZXByRXBZR2Z3bmJhdlNVa0VBcnJhU1N6WmpLMEY2bWxsc0lwOU5Ic1BVOGVMWkhIVGVzS3lSanBUSklPTXdDUFpv?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPX05DajJ2c2pRajlvN1J1dnRJaEdoUGxtblFSZlV0UmZnUFkyR1hlUXFEeDFkbmVSY3JvUWZCWUl6d2xUbDBfVV9velR3QzBFUFRNZXByRXBZR2Z3bmJhdlNVa0VBcnJhU1N6WmpLMEY2bWxsc0lwOU5Ic1BVOGVMWkhIVGVzS3lSanBUSklPTXdDUFpv?oc=5\" target=\"_blank\">Vance Seeks Trump’s Mantle Without Trump’s Baggage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dispatch</font>",
+   "source": "The Dispatch",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-11-11T16:30:21+00:00",
+   "collected": "2026-11-12T03:04:53.751283+00:00",
+   "keywords_hit": [
+    "trump",
+    "vance"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Vance Seeks Trump’s Mantle Without Trump’s Baggage The Dispatch",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "Daily Signal"
    ]
   },
   {
@@ -1857,6 +2358,26 @@
     "Breitbart",
     "ESG Today",
     "Greek City Times"
+   ]
+  },
+  {
+   "id": "866c8f8cb9a3cd8f",
+   "title": "BMW i3 completes North Cape to Tarifa journey with less than three hours of charging time",
+   "link": "https://www.electrive.com/2026/11/11/bmw-i3-completes-north-cape-to-tarifa-journey-with-less-than-three-hours-of-charging-time/",
+   "summary_raw": "<div><img alt=\"Der BMW i3 50 xDrive fährt 5.886,7 Kilometer vom Nordkap nach Tarifa und benötigt laut BMW nur 2 Stunden und 46 Minuten Ladezeit.\" class=\"attachment-medium size-medium wp-post-image\" height=\"267\" src=\"https://www.electrive.com/media/2026/11/202611-bmw-i-3-rekordfahrt-nordkap-tarifa-05-400x267.jpg\" style=\"margin-bottom: 15px;\" title=\"202611 bmw i 3 rekordfahrt nordkap tarifa 05\" width=\"400\" /></div>BMW completed a nearly 5,900-kilometer journey from the North Cape to Tarifa with the new i3 50 xDrive. According to the manufacturer, the electric 3-series required a total of only 2 hours and 46 minutes for recharging.",
+   "source": "Electrive (EU ηλεκτροκίνηση)",
+   "side": "green_emobility",
+   "lang": "en",
+   "published": "2026-11-11T15:00:00+00:00",
+   "collected": "2026-11-12T03:04:29.148742+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "BMW completed a nearly 5,900-kilometer journey from the North Cape to Tarifa with the new i3 50 xDrive. According to the manufacturer, the electric 3-series required a total of only 2 hours and 46 min",
+   "angle": null,
+   "corroborated_by": [
+    "Inside Climate News"
    ]
   },
   {
@@ -5308,6 +5829,30 @@
    "turkish_narrative": false,
    "summary_el": "The transition to electric vehicles should be moving apace, but it is not. And why? Incompetence, expedience and cowardice This is how it works. An industry puts tremendous effort into resisting chang",
    "angle": null
+  },
+  {
+   "id": "8056a0fbeee01837",
+   "title": "Report: ‘Advanced-Stage’ Iranian Threats Force Bessent, Architect of Trump’s Economic Warfare, into Military Housing",
+   "link": "https://www.breitbart.com/politics/2026/11/10/report-advanced-stage-iranian-threats-force-bessent-military-housing/",
+   "summary_raw": "<p>Treasury Secretary Scott Bessent has relocated with his family from his private residence to a military base after Iranian threats against his life escalated beyond an “advanced stage,” according to reports Tuesday.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/11/10/report-advanced-stage-iranian-threats-force-bessent-military-housing/\" rel=\"nofollow\">Report: ‘Advanced-Stage’ Iranian Threats Force Bessent, Architect of Trump’s Economic Warfare, into Military Housing</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-11T05:42:44+00:00",
+   "collected": "2026-11-12T03:04:45.783132+00:00",
+   "keywords_hit": [
+    "trump",
+    "vance"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Treasury Secretary Scott Bessent has relocated with his family from his private residence to a military base after Iranian threats against his life escalated beyond an “advanced stage,” according to r",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal",
+    "The Dispatch"
+   ]
   },
   {
    "id": "10a0814c561fa45a",
@@ -9346,6 +9891,28 @@
    "angle": null
   },
   {
+   "id": "9950bb41a637a27e",
+   "title": "Johan Norberg discusses populism and its consequences on a unSILOed Podcast with Greg LaBlanc YouTube Short - Cato Institute",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnZBTjFTT21WSkpEZVVNdDlsUUFJOFJlbC1EM2o2ZjNpZTlvaVlzdzI1ZDFfZlFQRmtGUzRYZzRsaVp3RFhNWVg5OTBYMGN6WHJuVi1fSzRZV3VnZFlBM3luc2w5SHBSSW4wUHVMRXpHb1loU2F4eWRwdGRhWk1IX0NFVUNiMFp2cGRfVHFiRUwzUmZmaUFKTUF1aG1sX0NfanZJdFZsSWVvZzFVZ09UdUdJQXFUVXFHWVE?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnZBTjFTT21WSkpEZVVNdDlsUUFJOFJlbC1EM2o2ZjNpZTlvaVlzdzI1ZDFfZlFQRmtGUzRYZzRsaVp3RFhNWVg5OTBYMGN6WHJuVi1fSzRZV3VnZFlBM3luc2w5SHBSSW4wUHVMRXpHb1loU2F4eWRwdGRhWk1IX0NFVUNiMFp2cGRfVHFiRUwzUmZmaUFKTUF1aG1sX0NfanZJdFZsSWVvZzFVZ09UdUdJQXFUVXFHWVE?oc=5\" target=\"_blank\">Johan Norberg discusses populism and its consequences on a unSILOed Podcast with Greg LaBlanc YouTube Short</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cato Institute</font>",
+   "source": "Cato Institute",
+   "side": "conservative_lib",
+   "lang": "en",
+   "published": "2026-11-10T17:37:14+00:00",
+   "collected": "2026-11-12T03:04:54.119126+00:00",
+   "keywords_hit": [
+    "populism"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Johan Norberg discusses populism and its consequences on a unSILOed Podcast with Greg LaBlanc YouTube Short Cato Institute",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "290d60341af15e79",
    "title": "Turkish president meets Bangladesh's prime minister on sidelines of COP31 climate conference in Antalya",
    "link": "https://www.aa.com.tr/en/turkiye/turkish-president-meets-bangladeshs-prime-minister-on-sidelines-of-cop31-climate-conference-in-antalya/4119395",
@@ -10930,6 +11497,26 @@
    ]
   },
   {
+   "id": "cb7422f141f16dbb",
+   "title": "Υπέρβαση του 1,5°C: Η COP31 πρέπει να βάλει τέλος στα ορυκτά καύσιμα - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGdHS1JMX0JQbm5SelEtdTlieGlhMUhfTXBMMWt3UHhCVFVYVmh1T3F4VjdNbHBFbVkyRWk3dGd3VDU5QXA3UHVJV2hMZDJ1WXNFZDk3N1hBNGdVSVE1b1hSd0o5d3h5TzRwR0FEZ1haNmw0QnQweWkwaUZ3aUg0Q3ZPS1c2REVvUDk3bzBnSlQxeUJEWWp2WXN6dlg1ZHgtTENwNDhnNWlSOWs?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGdHS1JMX0JQbm5SelEtdTlieGlhMUhfTXBMMWt3UHhCVFVYVmh1T3F4VjdNbHBFbVkyRWk3dGd3VDU5QXA3UHVJV2hMZDJ1WXNFZDk3N1hBNGdVSVE1b1hSd0o5d3h5TzRwR0FEZ1haNmw0QnQweWkwaUZ3aUg0Q3ZPS1c2REVvUDk3bzBnSlQxeUJEWWp2WXN6dlg1ZHgtTENwNDhnNWlSOWs?oc=5\" target=\"_blank\">Υπέρβαση του 1,5°C: Η COP31 πρέπει να βάλει τέλος στα ορυκτά καύσιμα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-11-10T14:37:26+00:00",
+   "collected": "2026-11-12T03:04:05.839581+00:00",
+   "keywords_hit": [
+    "θράκη",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Υπέρβαση του 1,5°C: Η COP31 πρέπει να βάλει τέλος στα ορυκτά καύσιμα Παρατηρητής της Θράκης",
+   "angle": null
+  },
+  {
    "id": "a0927a15c010769c",
    "title": "Απελάθηκαν από την Κύπρο δύο αδέλφια ποδοσφαιριστές – Διαπιστώθηκε ότι διέμεναν παράνομα",
    "link": "https://www.philenews.com/athlitika/article/1793743/apelathikan-apo-tin-kipro-dio-adelfia-podosferistes-diapistothike-oti-diemenan-paranoma/",
@@ -11168,6 +11755,26 @@
    "severity": 4,
    "turkish_narrative": false,
    "summary_el": "The European Union has extended its naval and aerial Operation Irini mandate until 31 March 2029, maintaining its role in monitoring the arms embargo on Libya while expanding its responsibilities to i",
+   "angle": null
+  },
+  {
+   "id": "e4981dc5cc58204c",
+   "title": "An international operation targeting migrant-smuggling networks across the Mediterranean Sea and the West African Atlantic route resulted in 262 arrests and 434 new investigations. Over four days, authorities identified 41 organized criminal groups, checked - Liveuamap",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnI0aGw4V2k1aGRwcktrXzdHd0NMQ1cyTnB6cFlpRlR4VkFVeVB3eGdublZSNHBIZzVyZnU3VWVpSWYwR2xfaHRHSzZna2dVdnkwd1RPb3J0cjZVTDViYkZ3Ylo1R3otUnhCb3dOSXRSYjFJQ3FxdDhCX3hhc1R1Sk5sVlg5VWJ6QVNQWGkwc0ZTY1BDRmxXQw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnI0aGw4V2k1aGRwcktrXzdHd0NMQ1cyTnB6cFlpRlR4VkFVeVB3eGdublZSNHBIZzVyZnU3VWVpSWYwR2xfaHRHSzZna2dVdnkwd1RPb3J0cjZVTDViYkZ3Ylo1R3otUnhCb3dOSXRSYjFJQ3FxdDhCX3hhc1R1Sk5sVlg5VWJ6QVNQWGkwc0ZTY1BDRmxXQw?oc=5\" target=\"_blank\">An international operation targeting migrant-smuggling networks across the Mediterranean Sea and the West African Atlantic route resulted in 262 arrests and 434 new investigations. Over four days, authorities identified 41 organized criminal groups, checked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Liveuamap</font>",
+   "source": "Liveuamap Middle East",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-11-10T13:18:51+00:00",
+   "collected": "2026-11-12T03:04:46.871924+00:00",
+   "keywords_hit": [
+    "migrant",
+    "smuggl"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "An international operation targeting migrant-smuggling networks across the Mediterranean Sea and the West African Atlantic route resulted in 262 arrests and 434 new investigations. Over four days, aut",
    "angle": null
   },
   {
@@ -16318,6 +16925,25 @@
    ]
   },
   {
+   "id": "ec3c6172f4978936",
+   "title": "Όσες συζητήσεις και να γίνουν \"δύο κράτη\" (θα) ζητάει ο Ερντογάν… - Defence-point.gr",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckdVd1V1SlZ5dHhmSXo3MVJpbXpFbUYwaFhxMFd2aE4yX2J2ZnJUbGFaaTJ4MWFGc1NOeEFaOGxERGU1cjd1TTB0MldkSUd2c2tXZXlqbHFoTkdYZFpEUlpISHNzMUtsVXZ2azFjdFdMRVhhaWdkV0ZlVkJFOHM2U3N4MXo3RGxnTTU5bzJ5S3I2X2h5eVZvZDlxQ3BLY3J4U0E?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOckdVd1V1SlZ5dHhmSXo3MVJpbXpFbUYwaFhxMFd2aE4yX2J2ZnJUbGFaaTJ4MWFGc1NOeEFaOGxERGU1cjd1TTB0MldkSUd2c2tXZXlqbHFoTkdYZFpEUlpISHNzMUtsVXZ2azFjdFdMRVhhaWdkV0ZlVkJFOHM2U3N4MXo3RGxnTTU5bzJ5S3I2X2h5eVZvZDlxQ3BLY3J4U0E?oc=5\" target=\"_blank\">Όσες συζητήσεις και να γίνουν \"δύο κράτη\" (θα) ζητάει ο Ερντογάν…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defence-point.gr</font>",
+   "source": "Defence Point",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-11-09T15:55:29+00:00",
+   "collected": "2026-11-12T03:04:03.165110+00:00",
+   "keywords_hit": [
+    "ερντογάν"
+   ],
+   "category": "Κυπριακό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Όσες συζητήσεις και να γίνουν \"δύο κράτη\" (θα) ζητάει ο Ερντογάν… Defence-point.gr",
+   "angle": null
+  },
+  {
    "id": "05b69ba1ac6127aa",
    "title": "Takala, Al-Lafi discuss political deadlock and preparations for elections - The Libya Observer",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWHR6WDZVZ1N3SFA1dzBGbC0tb3kwWVhjSkZsUVFDU1ZycUY4anBVdVpKQU5lWDdWRUtVTkM4dEZLY25MV05DdkdlNkZ2VVBLNDZrNHk1Y3czVGRXNDhYMnNiaHk0UzIwS1Awc1M4V3RqZmJTVFAxU0hUWktVZ3NHaDZDRmVKRjlhU1h5QVp4ZHJIeHpKUXFya0VBLWZIcWdSaXhv?oc=5",
@@ -20420,6 +21046,23 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "ΤΕΕ: νέο σύστημα αυτόματης ανίχνευσης πολεοδομικών παραβάσεων ecopress",
+   "angle": null
+  },
+  {
+   "id": "48275d6afe77acf9",
+   "title": "Επτά έργα αλλάζουν το χάρτη των εμπορευματικών μεταφορών - ecopress",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TZGxORTV2S1ZyMldmMWNJV1V3QVdzMTlmSWdScVB2SDYwUU1KY0dBaEE5VDRwUS1Deklmd0xPT253NzJ6aXlJQzNSOUF5M2wwYy01aDhFOTFpNWJleVFNWHR6UkNUYjJKU2tR?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1TZGxORTV2S1ZyMldmMWNJV1V3QVdzMTlmSWdScVB2SDYwUU1KY0dBaEE5VDRwUS1Deklmd0xPT253NzJ6aXlJQzNSOUF5M2wwYy01aDhFOTFpNWJleVFNWHR6UkNUYjJKU2tR?oc=5\" target=\"_blank\">Επτά έργα αλλάζουν το χάρτη των εμπορευματικών μεταφορών</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
+   "source": "Ecopress",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-11-09T01:38:29+00:00",
+   "collected": "2026-11-12T03:04:26.968554+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Επτά έργα αλλάζουν το χάρτη των εμπορευματικών μεταφορών ecopress",
    "angle": null
   },
   {
@@ -35651,6 +36294,23 @@
    ]
   },
   {
+   "id": "738afb9f6199614b",
+   "title": "Πώς η αξιοποίηση δημοτικών ακινήτων μπορεί να μειώσει το κόστος στέγασης και τα ενοίκια - B2Green",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvWGJlbnpSM2FFajlGZVlUcnBxTkRTR09CY3RBbDdJbFZFekJUNnBIcU1sMV92YTBiSERfalRmM3RkR0l4OTJUd0tZWFREanNhVFNGRm40V1Y5TlQ0VEhxRHZkejE2WnBqQjhkUmNyQV9Ia1VYbXc?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBvWGJlbnpSM2FFajlGZVlUcnBxTkRTR09CY3RBbDdJbFZFekJUNnBIcU1sMV92YTBiSERfalRmM3RkR0l4OTJUd0tZWFREanNhVFNGRm40V1Y5TlQ0VEhxRHZkejE2WnBqQjhkUmNyQV9Ia1VYbXc?oc=5\" target=\"_blank\">Πώς η αξιοποίηση δημοτικών ακινήτων μπορεί να μειώσει το κόστος στέγασης και τα ενοίκια</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B2Green</font>",
+   "source": "B2Green",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-11-06T07:16:58+00:00",
+   "collected": "2026-11-12T03:04:26.595619+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Πώς η αξιοποίηση δημοτικών ακινήτων μπορεί να μειώσει το κόστος στέγασης και τα ενοίκια B2Green",
+   "angle": null
+  },
+  {
    "id": "709ee54306d6791e",
    "title": "Ανατροπή στα τιμολόγια ρεύματος: Πώς τα Μπλε «έσωσαν» τους λογαριασμούς το φθινόπωρο - B2Green",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00N3d0bTFLd1Y1OVdJTFRVeXY3LTEtTWRoXy1HYm9tX18xMmRKbTlQc1ZiMlFGelBWRDdQcFVXYlJaU0xXaEFMVngyLWpjVGk4TXFlUElCTUFOZkg0bTBsaUxfTXNlVnBiekQtd1BBVQ?oc=5",
@@ -41757,781 +42417,6 @@
    "angle": null,
    "corroborated_by": [
     "Καθημερινή"
-   ]
-  },
-  {
-   "id": "ad355b54456a437d",
-   "title": "Ζελένσκι σε συνομιλίες με Γουίτκοφ και Κούσνερ πριν από τη νέα τριμερή συνάντηση με τη Ρωσία: Οι όροι της Ουκρανίας",
-   "link": "https://www.protothema.gr/world/article/1905890/zelenski-se-sunomilies-me-gouitkof-kai-kousner-prin-apo-ti-nea-trimeri-sunadisi-me-ti-rosia-oi-oroi-tis-oukranias/?utm_source=rss",
-   "summary_raw": "Στο επίκεντρο οι εγγυήσεις ασφαλείας, η ενίσχυση της αεράμυνας με πυραύλους Patriot και η μεταπολεμική ανοικοδόμηση της χώρας",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-11-05T02:58:33+00:00",
-   "collected": "2026-11-05T06:54:56.398419+00:00",
-   "keywords_hit": [
-    "patriot"
-   ],
-   "category": "Διπλωματία",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Στο επίκεντρο οι εγγυήσεις ασφαλείας, η ενίσχυση της αεράμυνας με πυραύλους Patriot και η μεταπολεμική ανοικοδόμηση της χώρας",
-   "angle": null
-  },
-  {
-   "id": "c3cc92e242e4ec6d",
-   "title": "Ανακαίνιση Κατοικίας: οδηγός για επιδότηση, άδειες και εργασίες - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QVko2VjVlUDZTejFsM1hHV3VJdVc5NjAwUFU3RlNoclBUaEwwQ29UTzJDb3NHNGxSWlM2VFR3UzFlM1VRSUZXbUI0ZFlDOGI0ZXBpZW4waktsbFJVY3VTZEVqUHRlTlpz?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QVko2VjVlUDZTejFsM1hHV3VJdVc5NjAwUFU3RlNoclBUaEwwQ29UTzJDb3NHNGxSWlM2VFR3UzFlM1VRSUZXbUI0ZFlDOGI0ZXBpZW4waktsbFJVY3VTZEVqUHRlTlpz?oc=5\" target=\"_blank\">Ανακαίνιση Κατοικίας: οδηγός για επιδότηση, άδειες και εργασίες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-05T02:37:40+00:00",
-   "collected": "2026-11-05T22:04:22.920653+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ανακαίνιση Κατοικίας: οδηγός για επιδότηση, άδειες και εργασίες ecopress",
-   "angle": null,
-   "corroborated_by": [
-    "B2Green"
-   ]
-  },
-  {
-   "id": "16cceefd08ba5e49",
-   "title": "Constitutional crisis in Poland: The long and toxic shadow of the European Union",
-   "link": "https://brusselssignal.eu/2026/11/constitutional-crisis-in-poland-the-long-and-toxic-shadow-of-the-european-union/",
-   "summary_raw": "Poland faces a constitutional crisis amid accusations of EU overreach, as a clash between national sovereignty and European authority intensifies, raising concerns over judicial independence.\n<p><a href=\"https://brusselssignal.eu/2026/11/constitutional-crisis-in-poland-the-long-and-toxic-shadow-of-the-european-union/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-11-05T02:30:25+00:00",
-   "collected": "2026-11-05T15:32:16.980993+00:00",
-   "keywords_hit": [
-    "national sovereignty",
-    "sovereignty",
-    "constitutional"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Poland faces a constitutional crisis amid accusations of EU overreach, as a clash between national sovereignty and European authority intensifies, raising concerns over judicial independence. Source",
-   "angle": null,
-   "corroborated_by": [
-    "Remix News"
-   ]
-  },
-  {
-   "id": "d1ab6e63bafd4db1",
-   "title": "Με ορίζοντα το 2030 η παραγωγή στο κοίτασμα Ε του Πρίνου - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HOFFPc1lGbl9FaEw4bVdJZUlsd25vSURpTEF1bmlKcEtDT3BSak9xNWV4RDhpLUtzU1VuWXo1dEEtUlU2dDlZNnR2V1NVNW9KN2JNN0RfYkpjUDN4a3c1aGtQa3AtMHhwXzlhYUVieW8?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9HOFFPc1lGbl9FaEw4bVdJZUlsd25vSURpTEF1bmlKcEtDT3BSak9xNWV4RDhpLUtzU1VuWXo1dEEtUlU2dDlZNnR2V1NVNW9KN2JNN0RfYkpjUDN4a3c1aGtQa3AtMHhwXzlhYUVieW8?oc=5\" target=\"_blank\">Με ορίζοντα το 2030 η παραγωγή στο κοίτασμα Ε του Πρίνου</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-05T02:25:12+00:00",
-   "collected": "2026-11-05T06:54:45.009676+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Με ορίζοντα το 2030 η παραγωγή στο κοίτασμα Ε του Πρίνου ecopress",
-   "angle": null
-  },
-  {
-   "id": "2c8303bd523feace",
-   "title": "Ευρωπαϊκό Ταμείο Καινοτομίας - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTUctaTVRdVVWZmJFc0VBWVotWlJicHY4NFNXUUxiVmFzalNCbHJRTzI3NTBZOTlMX2NhZUhYMkJ2TEJpeHIwTkx0akItdTg5Um9OczJCeEJQQ3RsZmE0VjlBT0lUdllKeTRjckpkNlhUc2dqYVJOdkI1SXJBM1NDWXZCUU5uSmd0ZzlhMGlyMFpVbC1QUnVZMjEtNkFEVnhYdW1tZ3huVmF0R3hGc3ZHcjYzSnZCZmVOYjFTWDdKWVFubVh2b1QyZF9NaWNaSk13WDg3aU1IcjBubHZ5YTN4UmpBN1pPU0dBQmlpaUgxN3R1N25lNmpaMExLOUJwY2tVdW8yV1JoU1REbjZqdmpJRg?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPTUctaTVRdVVWZmJFc0VBWVotWlJicHY4NFNXUUxiVmFzalNCbHJRTzI3NTBZOTlMX2NhZUhYMkJ2TEJpeHIwTkx0akItdTg5Um9OczJCeEJQQ3RsZmE0VjlBT0lUdllKeTRjckpkNlhUc2dqYVJOdkI1SXJBM1NDWXZCUU5uSmd0ZzlhMGlyMFpVbC1QUnVZMjEtNkFEVnhYdW1tZ3huVmF0R3hGc3ZHcjYzSnZCZmVOYjFTWDdKWVFubVh2b1QyZF9NaWNaSk13WDg3aU1IcjBubHZ5YTN4UmpBN1pPU0dBQmlpaUgxN3R1N25lNmpaMExLOUJwY2tVdW8yV1JoU1REbjZqdmpJRg?oc=5\" target=\"_blank\">Ευρωπαϊκό Ταμείο Καινοτομίας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-05T02:24:09+00:00",
-   "collected": "2026-11-06T18:01:57.884337+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ευρωπαϊκό Ταμείο Καινοτομίας ecopress",
-   "angle": null
-  },
-  {
-   "id": "b980c222f72a7880",
-   "title": "Energean: Το Ιόνιο μπορεί να αλλάξει τον ενεργειακό χάρτη - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZ1IxaHhZWmJWMV9yZERjQ0RTaWRpWlc0T0d4VmZTOHFjc3hZbExaQzcxbHllM2N4N09nMjNndmd5Rl80QkUyNWVWSElaOFg5TDNuQVdzNURaQ2ZGVnFkT3paMGpyRGVnZGtuZmVoNkxaNk0?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZ1IxaHhZWmJWMV9yZERjQ0RTaWRpWlc0T0d4VmZTOHFjc3hZbExaQzcxbHllM2N4N09nMjNndmd5Rl80QkUyNWVWSElaOFg5TDNuQVdzNURaQ2ZGVnFkT3paMGpyRGVnZGtuZmVoNkxaNk0?oc=5\" target=\"_blank\">Energean: Το Ιόνιο μπορεί να αλλάξει τον ενεργειακό χάρτη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-05T02:05:13+00:00",
-   "collected": "2026-11-05T06:54:45.006911+00:00",
-   "keywords_hit": [],
-   "category": "Ενέργεια",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Energean: Το Ιόνιο μπορεί να αλλάξει τον ενεργειακό χάρτη ecopress",
-   "angle": null
-  },
-  {
-   "id": "3438b365b5cab53b",
-   "title": "Vance blames Iran war for Republican midterm rout",
-   "link": "https://brusselssignal.eu/2026/11/vance-blames-iran-war-for-republican-midterm-rout/",
-   "summary_raw": "Vice President JD Vance attributed the Republican Party's midterm losses to the ongoing war with Iran, highlighting its impact on voter sentiment and fuel prices.\n<p><a href=\"https://brusselssignal.eu/2026/11/vance-blames-iran-war-for-republican-midterm-rout/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-11-05T02:00:25+00:00",
-   "collected": "2026-11-05T15:32:16.981258+00:00",
-   "keywords_hit": [
-    "vance",
-    "jd vance"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Vice President JD Vance attributed the Republican Party's midterm losses to the ongoing war with Iran, highlighting its impact on voter sentiment and fuel prices. Source",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal",
-    "The American Conservative"
-   ]
-  },
-  {
-   "id": "55b7006b4a2fa3df",
-   "title": "DNC Chair Ken Martin: 'No,' Woke Is Not Coming Back",
-   "link": "https://www.breitbart.com/clips/2026/11/04/dnc-chair-ken-martin-no-woke-is-not-coming-back/",
-   "summary_raw": "<p>Wednesday on Fox News Channel&#8217;s &#8220;Special Report,&#8221; Democratic National Committee chairman Ken Martin said &#8220;no,&#8221; woke is not coming back when asked by host Bret Baier. Baier asked, &#8220;Is woke coming back? That was not something we saw in the poll</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/11/04/dnc-chair-ken-martin-no-woke-is-not-coming-back/\" rel=\"nofollow\">DNC Chair Ken Martin: &#8216;No,&#8217; Woke Is Not Coming Back</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-05T01:57:02+00:00",
-   "collected": "2026-11-05T06:55:03.630152+00:00",
-   "keywords_hit": [
-    "woke"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Wednesday on Fox News Channel’s “Special Report,” Democratic National Committee chairman Ken Martin said “no,” woke is not coming back when asked by host Bret Baier. Baier asked, “Is woke coming back?",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal",
-    "UnHerd"
-   ]
-  },
-  {
-   "id": "52e9201d6522d864",
-   "title": "Κτηματολόγιο: Πώς κατοχυρώνονται κληρονομικά ακίνητα, τι ισχύει για αυθαίρετα - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WUtZSkxOazZyeGVwWFlXbFI1bFdaZ2QwODJYSDl6Y3MyT1Jnenk2MjR6Z3dMZ2R3bjZqd0doNWdzWnotVGF6bTFRanpJdTlUb3ZiUnpORkFXYUtKOXJvczZ0OGVRYjFt?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WUtZSkxOazZyeGVwWFlXbFI1bFdaZ2QwODJYSDl6Y3MyT1Jnenk2MjR6Z3dMZ2R3bjZqd0doNWdzWnotVGF6bTFRanpJdTlUb3ZiUnpORkFXYUtKOXJvczZ0OGVRYjFt?oc=5\" target=\"_blank\">Κτηματολόγιο: Πώς κατοχυρώνονται κληρονομικά ακίνητα, τι ισχύει για αυθαίρετα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-05T01:33:56+00:00",
-   "collected": "2026-11-10T17:54:33.894617+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Κτηματολόγιο: Πώς κατοχυρώνονται κληρονομικά ακίνητα, τι ισχύει για αυθαίρετα ecopress",
-   "angle": null,
-   "corroborated_by": [
-    "B2Green"
-   ]
-  },
-  {
-   "id": "f5eee16083a2cc9c",
-   "title": "Voters Reject Industry-Backed Ballot Measures With Big Environmental Stakes",
-   "link": "https://insideclimatenews.org/news/04112026/california-voters-reject-industry-energy-measures/",
-   "summary_raw": "As a blue wave washed over Election Day, ballot measures across the country showed voters strongly support environmental protection, with notable early outcomes in California and Colorado.&#160; Democrats swept Congress on Tuesday, winning control of both houses with notable victories in Ohio, South Carolina, Texas, Michigan and Maine.&#160; Results, which are still being tallied Wednesday, [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-11-05T01:33:11+00:00",
-   "collected": "2026-11-05T15:32:01.747496+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "As a blue wave washed over Election Day, ballot measures across the country showed voters strongly support environmental protection, with notable early outcomes in California and Colorado. Democrats s",
-   "angle": null,
-   "corroborated_by": [
-    "Guardian Environment"
-   ]
-  },
-  {
-   "id": "10341dbc32bd7e79",
-   "title": "Alabama Power Routinely Bills Ratepayers for Ads Promoting Its Goods and Services. State Regulators Want That Stopped.",
-   "link": "https://insideclimatenews.org/news/04112026/alabama-power-advertising-regulation/",
-   "summary_raw": "On a busy election day, the Alabama Public Service Commission requested that Alabama Power voluntarily stop billing customers, effective immediately, for television commercials and other ads it buys to promote various aspects of its business. Alabama Power is the largest electricity provider in Alabama, with territory covering about two-thirds of the state. Though it is [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-11-05T01:03:23+00:00",
-   "collected": "2026-11-05T22:04:24.274321+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "On a busy election day, the Alabama Public Service Commission requested that Alabama Power voluntarily stop billing customers, effective immediately, for television commercials and other ads it buys t",
-   "angle": null,
-   "corroborated_by": [
-    "Anadolu Agency (EN)"
-   ]
-  },
-  {
-   "id": "a4a621dc6a0875cb",
-   "title": "Rescue Operation Underway After Migrant Boat Sinks Off Crete",
-   "link": "https://greekcitytimes.com/2026/11/05/migrant-boat-sinks-chrysi-ierapetra-crete/",
-   "summary_raw": "<p>A search and rescue operation is underway south of Ierapetra after a migrant boat sank near the island of Chrysi, with the number of people missing still unknown.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/11/05/migrant-boat-sinks-chrysi-ierapetra-crete/\">Rescue Operation Underway After Migrant Boat Sinks Off Crete</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-11-05T01:02:04+00:00",
-   "collected": "2026-11-05T06:54:37.407947+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "A search and rescue operation is underway south of Ierapetra after a migrant boat sank near the island of Chrysi, with the number of people missing still unknown. The post Rescue Operation Underway Af",
-   "angle": null,
-   "corroborated_by": [
-    "Kathimerini (EN)"
-   ],
-   "locations": [
-    {
-     "name": "Κρήτη",
-     "lat": 35.24,
-     "lon": 24.81
-    }
-   ]
-  },
-  {
-   "id": "ec09fb245b8be3a9",
-   "title": "Δικαστικό «φρένο» σε κατασχέσεις κατοικιών για πολεοδομικά πρόστιμα - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySkdfOHNZZGJrR1FzazdxZy1JU2lobk1kYUJyaG5Pc29PVHRYVVNCamR3STdEbHRhT29SSUk1ZnFpcmt5ejlFdlRaVXpudGxFWkdzd2huamczNWxXYTJDZDI3ekZOTEE?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySkdfOHNZZGJrR1FzazdxZy1JU2lobk1kYUJyaG5Pc29PVHRYVVNCamR3STdEbHRhT29SSUk1ZnFpcmt5ejlFdlRaVXpudGxFWkdzd2huamczNWxXYTJDZDI3ekZOTEE?oc=5\" target=\"_blank\">Δικαστικό «φρένο» σε κατασχέσεις κατοικιών για πολεοδομικά πρόστιμα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-05T00:52:55+00:00",
-   "collected": "2026-11-05T06:54:45.007845+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Δικαστικό «φρένο» σε κατασχέσεις κατοικιών για πολεοδομικά πρόστιμα ecopress",
-   "angle": null
-  },
-  {
-   "id": "2b7f8191c8c480c9",
-   "title": "ΓΕΚ ΤΕΡΝΑ: Τρία επείγοντα έργα για το κυκλοφοριακό της Αττικής - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41NlR3Z0xMSzBHZXN2UE5DcTM1VW1NajdBajZQYTRmOWVUZzhNWW1zTDR4eVpvS2FMcHFsdjgya28xUWlsZkVpM0FtUC1aQkhpb0tUU2ZPUW4yX184NmV2NDBnTjRtTGprTzlKcQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE41NlR3Z0xMSzBHZXN2UE5DcTM1VW1NajdBajZQYTRmOWVUZzhNWW1zTDR4eVpvS2FMcHFsdjgya28xUWlsZkVpM0FtUC1aQkhpb0tUU2ZPUW4yX184NmV2NDBnTjRtTGprTzlKcQ?oc=5\" target=\"_blank\">ΓΕΚ ΤΕΡΝΑ: Τρία επείγοντα έργα για το κυκλοφοριακό της Αττικής</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-05T00:38:05+00:00",
-   "collected": "2026-11-05T15:32:00.241762+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "ΓΕΚ ΤΕΡΝΑ: Τρία επείγοντα έργα για το κυκλοφοριακό της Αττικής ecopress",
-   "angle": null
-  },
-  {
-   "id": "9aee6fc8ed6d0a48",
-   "title": "ΑΝΑΚΕΜ: Δίκτυο 250 μονάδων για την κυκλική οικονομία στις κατασκευές - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rWWZmVDU4ei1OVGNJbzc5dTZ0YlFybllsY28yc3hscUtyNGU2N3MyaFRsNVR0b2pXZFdNYTNOUWZBZld3c2xZcS12NHZTOXpOaUgwQVl3djJ5eWxaR052RlZxSTlVVk5TaGdoaWpR?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5rWWZmVDU4ei1OVGNJbzc5dTZ0YlFybllsY28yc3hscUtyNGU2N3MyaFRsNVR0b2pXZFdNYTNOUWZBZld3c2xZcS12NHZTOXpOaUgwQVl3djJ5eWxaR052RlZxSTlVVk5TaGdoaWpR?oc=5\" target=\"_blank\">ΑΝΑΚΕΜ: Δίκτυο 250 μονάδων για την κυκλική οικονομία στις κατασκευές</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-05T00:21:26+00:00",
-   "collected": "2026-11-05T15:32:00.240907+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "ΑΝΑΚΕΜ: Δίκτυο 250 μονάδων για την κυκλική οικονομία στις κατασκευές ecopress",
-   "angle": null
-  },
-  {
-   "id": "14bb0d1713beafd0",
-   "title": "Τρύπα σε νομιμοποιήσεις αυθαιρέτων δείχνει η υπόθεση της ΥΔΟΜ Κατερίνης - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByQkJpUVE4OFRyc0dDVmd1eWhBaThzRExfOFpfN2xhdlZHb1FuVHZVeVVNWFBpTWRzcVZWaXRNMDNRQ2ltMVNaYktlZXpoanozZjNhaVpuSlVUTDB2ZkVmejdBWkY3Yml0NkE?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFByQkJpUVE4OFRyc0dDVmd1eWhBaThzRExfOFpfN2xhdlZHb1FuVHZVeVVNWFBpTWRzcVZWaXRNMDNRQ2ltMVNaYktlZXpoanozZjNhaVpuSlVUTDB2ZkVmejdBWkY3Yml0NkE?oc=5\" target=\"_blank\">Τρύπα σε νομιμοποιήσεις αυθαιρέτων δείχνει η υπόθεση της ΥΔΟΜ Κατερίνης</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-05T00:06:59+00:00",
-   "collected": "2026-11-05T22:04:22.920817+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Τρύπα σε νομιμοποιήσεις αυθαιρέτων δείχνει η υπόθεση της ΥΔΟΜ Κατερίνης ecopress",
-   "angle": null,
-   "corroborated_by": [
-    "B2Green"
-   ]
-  },
-  {
-   "id": "e21859479b7e58d6",
-   "title": "Inflation is never coming down",
-   "link": "https://unherd.com/2026/11/inflation-is-never-coming-down/?edition=us",
-   "summary_raw": "The Iran war is not the only problem",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-11-05T00:05:47+00:00",
-   "collected": "2026-11-06T18:02:14.848546+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The Iran war is not the only problem",
-   "angle": null
-  },
-  {
-   "id": "dc150ee8dc1ca0d7",
-   "title": "Would you hire an AI lawyer?",
-   "link": "https://unherd.com/2026/11/would-you-hire-an-ai-lawyer/?edition=us",
-   "summary_raw": "The art of advocacy remains stubbornly human",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-11-05T00:02:44+00:00",
-   "collected": "2026-11-06T18:02:14.848694+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The art of advocacy remains stubbornly human",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "96bcca0b378975bf",
-   "title": "Get ready for Left populism",
-   "link": "https://unherd.com/2026/11/get-ready-for-left-populism/?edition=us",
-   "summary_raw": "Democratic centrism just died",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-11-05T00:00:15+00:00",
-   "collected": "2026-11-05T06:55:02.942277+00:00",
-   "keywords_hit": [
-    "populism"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Democratic centrism just died",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "7684495a60399674",
-   "title": "Conley’s Victory in New York’s Lower Hudson Valley Opens Door to Renewed Climate Action",
-   "link": "https://insideclimatenews.org/news/04112026/new-york-cait-conley-congress-victory-energy-development/",
-   "summary_raw": "NY-17: Last in a series on the environmental stakes behind one of the nation’s most fiercely contested congressional races. Before midnight, and before any official body had called the race, Republican incumbent Mike Lawler conceded to Democratic challenger Cait Conley in New York’s 17th Congressional District. Conley flipped the closely watched toss-up seat, denying Lawler [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-11-04T23:56:45+00:00",
-   "collected": "2026-11-06T10:59:38.938950+00:00",
-   "keywords_hit": [
-    "climate"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "NY-17: Last in a series on the environmental stakes behind one of the nation’s most fiercely contested congressional races. Before midnight, and before any official body had called the race, Republica",
-   "angle": null,
-   "corroborated_by": [
-    "ESG Today"
-   ]
-  },
-  {
-   "id": "441d15640f4ccb69",
-   "title": "Video: Trans Rights Mob Protest Outside 'Harry Potter' Store in London",
-   "link": "https://www.breitbart.com/entertainment/2026/11/04/video-trans-rights-mob-protest-outside-harry-potter-store-in-london/",
-   "summary_raw": "<p>Transgender rights protesters gathered outside a new \"Harry Potter\" store in London, where they chanted about their so-called struggles.</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/11/04/video-trans-rights-mob-protest-outside-harry-potter-store-in-london/\" rel=\"nofollow\">Video: Trans Rights Mob Protest Outside &#8216;Harry Potter&#8217; Store in London</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-04T23:43:14+00:00",
-   "collected": "2026-11-05T06:55:03.623697+00:00",
-   "keywords_hit": [
-    "transgender"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Transgender rights protesters gathered outside a new \"Harry Potter\" store in London, where they chanted about their so-called struggles. The post Video: Trans Rights Mob Protest Outside ‘Harry Potter’",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "e0cdca264cf1c13b",
-   "title": "Στην Αθήνα ο Επίτροπος Χούκστρα για κλίμα, ενέργεια και νέες επενδύσεις - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vamhNWWpzZzlsTndVcU5UZGZiNTU3M19WeXgtT1hVYW5RWVJ3b0VUQkpWRjQxblJHbGFNaUxqdUJTZmxGMTFfWDRORnJsaWI2NHJOWmwwSjV5TjN4ZmctWkdZUWRiWmJjUWVzZ1pn?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9vamhNWWpzZzlsTndVcU5UZGZiNTU3M19WeXgtT1hVYW5RWVJ3b0VUQkpWRjQxblJHbGFNaUxqdUJTZmxGMTFfWDRORnJsaWI2NHJOWmwwSjV5TjN4ZmctWkdZUWRiWmJjUWVzZ1pn?oc=5\" target=\"_blank\">Στην Αθήνα ο Επίτροπος Χούκστρα για κλίμα, ενέργεια και νέες επενδύσεις</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-04T23:38:56+00:00",
-   "collected": "2026-11-04T23:44:12.233828+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Στην Αθήνα ο Επίτροπος Χούκστρα για κλίμα, ενέργεια και νέες επενδύσεις ecopress",
-   "angle": null
-  },
-  {
-   "id": "f83444ef45bd74c0",
-   "title": "Επίδομα θέρμανσης: πως κλειδώνουν πληρωμές για κατοικίες και πολυκατοικίες - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZVFdRX1lrVWpvM0lGbjlqQ0hNNmx5cWZEcU5DMGRCbGd4Xzk3RW51NlpFZkllVFJfWThlWDhxMmw5eTRfVElud3Y2TEtpZi1tSDdFQnltNDFxUEFHWlJ2Yy1qY2kzRW80NVE?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZVFdRX1lrVWpvM0lGbjlqQ0hNNmx5cWZEcU5DMGRCbGd4Xzk3RW51NlpFZkllVFJfWThlWDhxMmw5eTRfVElud3Y2TEtpZi1tSDdFQnltNDFxUEFHWlJ2Yy1qY2kzRW80NVE?oc=5\" target=\"_blank\">Επίδομα θέρμανσης: πως κλειδώνουν πληρωμές για κατοικίες και πολυκατοικίες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-04T23:30:40+00:00",
-   "collected": "2026-11-07T16:31:50.064884+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Επίδομα θέρμανσης: πως κλειδώνουν πληρωμές για κατοικίες και πολυκατοικίες ecopress",
-   "angle": null
-  },
-  {
-   "id": "0c70ba040621e2c5",
-   "title": "No one voted for a ‘woke wave’",
-   "link": "https://www.spiked-online.com/2026/11/04/no-one-voted-for-a-woke-wave/",
-   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/11/04/no-one-voted-for-a-woke-wave/\">No one voted for a ‘woke wave’</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
-   "source": "Spiked",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-11-04T23:26:41+00:00",
-   "collected": "2026-11-04T23:44:33.116839+00:00",
-   "keywords_hit": [
-    "woke"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The post No one voted for a ‘woke wave’ appeared first on spiked .",
-   "angle": null
-  },
-  {
-   "id": "ab7747d396bb2ac8",
-   "title": "Democrats’ Victory in Texas Raises Potential for Environmental Reform",
-   "link": "https://insideclimatenews.org/news/04112026/texas-blue-wave-data-centers/",
-   "summary_raw": "Democrats’ historic sweep of Texas on Tuesday raises new possibilities of environmental reform after more than 30 years of Republican rule in the home of the nation’s oil and gas industry. That includes opportunities to cement safeguards for data center development, lower energy costs and, over time, appoint new commissioners to the state’s regulatory agencies [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-11-04T23:06:22+00:00",
-   "collected": "2026-11-04T23:44:13.996015+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Democrats’ historic sweep of Texas on Tuesday raises new possibilities of environmental reform after more than 30 years of Republican rule in the home of the nation’s oil and gas industry. That includ",
-   "angle": null,
-   "corroborated_by": [
-    "Guardian Environment",
-    "Telegram @clashreport"
-   ]
-  },
-  {
-   "id": "2ab7da9dc9f67a2d",
-   "title": "Erdogan’s ties to Turkey’s stock market scandal raise prospect of lawsuits in US - Nordic Monitor",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV255andlX3Q1SVZic2FmQ1ZxUl9DWnRvMmd3TC1yN0RTcHA4VE8tQm4ySEFPUHozUlNiNjM4LXRidGN2QVNBVjhIdG1Dc3MzR3NuZVYxakg4NmZIWHpkZ2NENTRzZEs0a093a2xZdEdXQ3VSMktVMVlYRUJGRGx6a2hFZy0yRWxuOEtNU2ZlOUE0ZjNOZkdONW9sX1BqNk1UX3JUZS1SWTVXS2prQUtqRVh5cw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV255andlX3Q1SVZic2FmQ1ZxUl9DWnRvMmd3TC1yN0RTcHA4VE8tQm4ySEFPUHozUlNiNjM4LXRidGN2QVNBVjhIdG1Dc3MzR3NuZVYxakg4NmZIWHpkZ2NENTRzZEs0a093a2xZdEdXQ3VSMktVMVlYRUJGRGx6a2hFZy0yRWxuOEtNU2ZlOUE0ZjNOZkdONW9sX1BqNk1UX3JUZS1SWTVXS2prQUtqRVh5cw?oc=5\" target=\"_blank\">Erdogan’s ties to Turkey’s stock market scandal raise prospect of lawsuits in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nordic Monitor</font>",
-   "source": "Nordic Monitor",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-11-04T23:02:22+00:00",
-   "collected": "2026-11-06T10:59:19.046885+00:00",
-   "keywords_hit": [
-    "erdogan"
-   ],
-   "category": "Ελληνοτουρκικά",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Erdogan’s ties to Turkey’s stock market scandal raise prospect of lawsuits in US Nordic Monitor",
-   "angle": null
-  },
-  {
-   "id": "358f283551a51f25",
-   "title": "International Coalition of Lawyers and Advocacy Groups Accuses JBS of Money Laundering",
-   "link": "https://insideclimatenews.org/news/04112026/meat-company-sued-for-money-laundering/",
-   "summary_raw": "An international team of lawyers on Wednesday filed a coordinated battery of lawsuits against JBS, the world’s largest meat company, and its financiers, accusing them of money laundering in connection with the destruction of the Amazon rainforest. The 14 legal actions, filed in four European jurisdictions, accuse JBS and its affiliated banks, asset managers, accountants [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-11-04T23:01:00+00:00",
-   "collected": "2026-11-05T06:54:46.316123+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "An international team of lawyers on Wednesday filed a coordinated battery of lawsuits against JBS, the world’s largest meat company, and its financiers, accusing them of money laundering in connection",
-   "angle": null,
-   "corroborated_by": [
-    "IEA"
-   ]
-  },
-  {
-   "id": "09fa499c203d8434",
-   "title": "Trump: Iran War Will End 'Whenever I Want It To'",
-   "link": "https://www.breitbart.com/politics/2026/11/04/trump-iran-war-will-end-whenever-i-want-it-to/",
-   "summary_raw": "<p>President Donald Trump said Wednesday that the Iran war will end when he decides, while fielding questions from the White House press corps for the first time since Democrats' resounding midterm election victories. </p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/11/04/trump-iran-war-will-end-whenever-i-want-it-to/\" rel=\"nofollow\">Trump: Iran War Will End &#8216;Whenever I Want It To&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-04T22:55:44+00:00",
-   "collected": "2026-11-05T06:55:03.624540+00:00",
-   "keywords_hit": [
-    "trump"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "President Donald Trump said Wednesday that the Iran war will end when he decides, while fielding questions from the White House press corps for the first time since Democrats' resounding midterm elect",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "ce834693b1c5beff",
-   "title": "‘Dirty white!’ – After attack on young French Catholics, Marine Le Pen slams near total TV media blackout of the incident",
-   "link": "https://rmx.news/article/dirty-white-after-attack-on-young-french-catholics-marine-le-pen-slams-near-total-tv-media-blackout-of-the-incident/",
-   "summary_raw": "<p>“Whatever one may think of it, fortunately CNEWS exists to talk about the assault on young Catholics in Rouen to the cries of ‘dirty white’ and ‘dirty fascist,'\" wrote Marine Le Pen.</p>\n<p>The post <a href=\"https://rmx.news/article/dirty-white-after-attack-on-young-french-catholics-marine-le-pen-slams-near-total-tv-media-blackout-of-the-incident/\">&#8216;Dirty white!&#8217; – After attack on young French Catholics, Marine Le Pen slams near total TV media blackout of the incident</a> appeared first on <a href=\"https://rmx.news\">Remix News</a>.</p>",
-   "source": "Remix News",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-11-04T22:55:04+00:00",
-   "collected": "2026-11-05T15:32:16.351277+00:00",
-   "keywords_hit": [
-    "catholic",
-    "marine le pen"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "“Whatever one may think of it, fortunately CNEWS exists to talk about the assault on young Catholics in Rouen to the cries of ‘dirty white’ and ‘dirty fascist,'\" wrote Marine Le Pen. The post ‘Dirty w",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "7fa259d3670f1a9b",
-   "title": "China Gloats After U.S. Midterms: The World Is Tired of Democracy",
-   "link": "https://www.breitbart.com/asia/2026/11/04/china-gloats-after-u-s-midterms-the-world-is-tired-of-democracy/",
-   "summary_raw": "<p>China’s state-run Global Times wrote in the wake of the U.S. midterms that “the ‘myth’ of Western-style democracy is losing its appeal, even in the West.”</p>\n<p>The post <a href=\"https://www.breitbart.com/asia/2026/11/04/china-gloats-after-u-s-midterms-the-world-is-tired-of-democracy/\" rel=\"nofollow\">China Gloats After U.S. Midterms: The World Is Tired of Democracy</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-04T22:47:58+00:00",
-   "collected": "2026-11-05T15:32:19.090208+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "China’s state-run Global Times wrote in the wake of the U.S. midterms that “the ‘myth’ of Western-style democracy is losing its appeal, even in the West.” The post China Gloats After U.S. Midterms: Th",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal",
-    "Remix News",
-    "The American Conservative"
-   ]
-  },
-  {
-   "id": "f2d1a8fef3c75d39",
-   "title": "Democrats Win Control of Georgia’s Energy Regulator",
-   "link": "https://insideclimatenews.org/news/04112026/georgia-public-service-commission-democrat-majority/",
-   "summary_raw": "Georgia voters have broken the Republican grip on the state’s energy regulator, giving Democrats control of the Public Service Commission for the first time in 30 years.&#160; Their victories come amid growing frustration over rising electricity bills, a data center buildout and calls for greater accountability from Georgia Power. On Tuesday, Democrat Peter Hubbard was [&#8230;]",
-   "source": "Inside Climate News",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-11-04T22:40:34+00:00",
-   "collected": "2026-11-04T23:44:13.996446+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Georgia voters have broken the Republican grip on the state’s energy regulator, giving Democrats control of the Public Service Commission for the first time in 30 years. Their victories come amid grow",
-   "angle": null,
-   "corroborated_by": [
-    "ESG Today",
-    "Guardian Environment"
-   ]
-  },
-  {
-   "id": "535e55f477981ab5",
-   "title": "Referendum or Turnout Problem? GOP Insiders Split Over Who’s to Blame for Midterm Losses",
-   "link": "https://www.dailysignal.com/2026/11/04/referendum-or-turnout-problem-gop-insiders-split-over-whos-to-blame-for-midterm-losses/",
-   "summary_raw": "Republicans lost Congress on Tuesday because voters felt the administration and the GOP stopped caring about them, several insiders told the Daily Signal. &#8220;This is a middle finger,&#8221; one former senior administration official said of the midterm election results. “I think it comes down to affordability and the war, and Americans feeling like the administration...",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-04T22:40:00+00:00",
-   "collected": "2026-11-06T02:31:25.419198+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Republicans lost Congress on Tuesday because voters felt the administration and the GOP stopped caring about them, several insiders told the Daily Signal. “This is a middle finger,” one former senior ",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart"
-   ]
-  },
-  {
-   "id": "083abad471a7a402",
-   "title": "Evros Delta Among World’s Top Wintering Sites for Bewick Swans",
-   "link": "https://greekcitytimes.com/2026/11/05/evros-delta-among-worlds-top-wintering-sites-for-bewick-swans/",
-   "summary_raw": "<p>The Evros Delta has become a major global wintering site for Bewick’s swans, with numbers rising from 30 in 2005 to a record 11,000 in 2022.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/11/05/evros-delta-among-worlds-top-wintering-sites-for-bewick-swans/\">Evros Delta Among World’s Top Wintering Sites for Bewick Swans</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-11-04T22:34:56+00:00",
-   "collected": "2026-11-04T23:44:02.291708+00:00",
-   "keywords_hit": [
-    "evros"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The Evros Delta has become a major global wintering site for Bewick’s swans, with numbers rising from 30 in 2005 to a record 11,000 in 2022. The post Evros Delta Among World’s Top Wintering Sites for ",
-   "angle": null,
-   "corroborated_by": [
-    "TRT World"
-   ]
-  },
-  {
-   "id": "994911f97d67a692",
-   "title": "PINK-AND-BLUE WAVE? The Role of Transgenderism in the Midterms",
-   "link": "https://www.dailysignal.com/2026/11/04/no-hrc-midterms-were-not-win-for-transgenderism/",
-   "summary_raw": "Transgender activist groups are getting out ahead of their skis when they interpret Democrat midterm victories as an endorsement of transgender ideology. The Human Rights Campaign touted its efforts boosting Democrats and portrayed the election results as vindication for candidates who resisted Republican attacks on transgender issues. The results, however, tell a more complicated story....",
-   "source": "Daily Signal",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-04T22:20:00+00:00",
-   "collected": "2026-11-05T15:32:19.350103+00:00",
-   "keywords_hit": [
-    "gender ideology",
-    "transgender"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Transgender activist groups are getting out ahead of their skis when they interpret Democrat midterm victories as an endorsement of transgender ideology. The Human Rights Campaign touted its efforts b",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "The American Conservative"
-   ]
-  },
-  {
-   "id": "5336cf90ab2f88f9",
-   "title": "Trump Admits Iran War Cost Republicans Votes, Insists: ‘I’d Do It Again’",
-   "link": "https://www.breitbart.com/midterm-election/2026/11/04/trump-admits-iran-war-cost-republicans-votes-insists-id-do-it-again/",
-   "summary_raw": "<p>President Donald Trump acknowledged Wednesday that the conflict with Iran cost Republicans votes in the midterm elections but insisted he would launch the military operation again, arguing that preventing Tehran from acquiring nuclear weapons outweighed the political consequences.</p>\n<p>The post <a href=\"https://www.breitbart.com/midterm-election/2026/11/04/trump-admits-iran-war-cost-republicans-votes-insists-id-do-it-again/\" rel=\"nofollow\">Trump Admits Iran War Cost Republicans Votes, Insists: ‘I’d Do It Again’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-04T22:15:27+00:00",
-   "collected": "2026-11-05T06:55:03.624180+00:00",
-   "keywords_hit": [
-    "nuclear",
-    "trump"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "President Donald Trump acknowledged Wednesday that the conflict with Iran cost Republicans votes in the midterm elections but insisted he would launch the military operation again, arguing that preven",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "8eed6639f74b119b",
-   "title": "Open Source Intel At ADIPEC, UAE Minister Sultan Al Jaber warned of Hormuz energy disruptions:  • Nearly 1 billion barrels drawn from reserves. • Diesel stocks at 35 year seasonal …",
-   "link": "https://t.me/OSINTLive/589289",
-   "summary_raw": "Open Source Intel At ADIPEC, UAE Minister Sultan Al Jaber warned of Hormuz energy disruptions:  • Nearly 1 billion barrels drawn from reserves. • Diesel stocks at 35 year seasonal lows in some markets. • 600 billion cubic feet of LNG supply shortfall. • Oil logistics costs surged from under 5% to over 30% per barrel.  He urged diplomacy, preparedness, strategic reserves and alternative supply routes.  Al Jaber also announced that ADNOC will become the first energy company to deploy OpenAI Frontier across field development, well management and commercial operations. tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-11-04T22:14:35+00:00",
-   "collected": "2026-11-04T23:45:10.584658+00:00",
-   "keywords_hit": [
-    "lng"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Open Source Intel At ADIPEC, UAE Minister Sultan Al Jaber warned of Hormuz energy disruptions: • Nearly 1 billion barrels drawn from reserves. • Diesel stocks at 35 year seasonal lows in some markets.",
-   "angle": null,
-   "corroborated_by": [
-    "OSINT613"
-   ],
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
-   ]
-  },
-  {
-   "id": "0ae044d73ff20b3c",
-   "title": "UAE Warns of Hormuz Energy Disruption",
-   "link": "https://www.osint613.com/post/uae-warns-hormuz-energy-disruption-27142",
-   "summary_raw": "At ADIPEC, UAE Minister Sultan Al Jaber warned of Hormuz energy disruptions:\n\n• Nearly 1 billion barrels drawn from reserves.\n• Diesel stocks at 35 year seasonal lows in some markets.\n• 600 billion cubic feet of LNG supply shortfall.\n• Oil logistics costs surged from under 5% to over 30% per barrel.\n\nHe urged diplomacy, preparedness, strategic reserves and alternative supply routes.\n\nAl Jaber also announced that ADNOC will become the first energy company to deploy OpenAI Frontier across field...",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-11-04T22:03:21+00:00",
-   "collected": "2026-11-04T23:44:33.873269+00:00",
-   "keywords_hit": [
-    "lng"
-   ],
-   "category": "Ενέργεια",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "At ADIPEC, UAE Minister Sultan Al Jaber warned of Hormuz energy disruptions: • Nearly 1 billion barrels drawn from reserves. • Diesel stocks at 35 year seasonal lows in some markets. • 600 billion cub",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @OSINTLive"
-   ],
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
    ]
   }
  ]
