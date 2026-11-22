@@ -1,7 +1,651 @@
 {
- "updated": "2026-11-21T23:26:03.923892+00:00",
- "count": 1376,
+ "updated": "2026-11-22T06:59:18.040401+00:00",
+ "count": 1406,
  "items": [
+  {
+   "id": "2eb11e239475c02b",
+   "title": "Samaras yeni parti için harekete geçti: Teşkilatlanma ve milletvekili aday listeleri hazırlanıyor",
+   "link": "https://www.milletgazetesi.gr/yunanistan/samaras-yeni-parti-icin-harekete-gecti-teskilatlanma-ve-milletvekili-aday-listeleri-hazirlaniyor",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Yunanistan)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-11-22T06:58:24.101976+00:00",
+   "collected": "2026-11-22T06:58:24.101978+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null
+  },
+  {
+   "id": "98e8fa3007f59e42",
+   "title": "Dimetoka'daki Bayezid Camii 2026 sonunda ziyarete açılacak",
+   "link": "https://www.milletgazetesi.gr/bati-trakya/dimetokadaki-bayezid-camii-2026-sonunda-ziyarete-acilacak",
+   "summary_raw": "",
+   "source": "Millet Gazetesi (Batı Trakya)",
+   "side": "thrace_minority_media",
+   "lang": "tr",
+   "published": "2026-11-22T06:58:22.828809+00:00",
+   "collected": "2026-11-22T06:58:22.828824+00:00",
+   "keywords_hit": [],
+   "category": "Θράκη",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "",
+   "angle": null
+  },
+  {
+   "id": "1a534c1f7f074398",
+   "title": "Cop31 live: A new draft deal on the table as talks go into final hours",
+   "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "summary_raw": "<p>A third version of the draft text was published overnight, and negotiators have now been called in for what organisers say will be the final plenary</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels\"><strong>Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout</strong></a></p></li></ul><p>The new cover text arrived early this morning, shortly after 2am, for parties to consider ahead of a scheduled 9am plenary, which subsequently slipped to an 11am scheduled start that still looks wobbly. The Guardian understands that many members of the “progressive coalition” are unhappy with the new text, which makes only an oblique reference to the transition away from fossil fuels, leaves in CCs and fails to significantly strengthen the commitment to a tripling of adaptation finance for poor countries.</p><p>A diplomat from the High Ambition Coaltion told the Guardian: “From the very beginning there was a sense that there was a stitch up between the presidency and Saudi Arabia. The one getting the electrification target and the other getting t",
+   "source": "Guardian Environment",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-11-22T06:42:08+00:00",
+   "collected": "2026-11-22T06:57:29.481504+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "A third version of the draft text was published overnight, and negotiators have now been called in for what organisers say will be the final plenary Full report: Climate talks stall as countries mull ",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "Anadolu Agency (EN)",
+    "Reuters Sustainability"
+   ]
+  },
+  {
+   "id": "1dd54282b83782ef",
+   "title": "Οι πιλότοι των βομβαρδιστικών B-2 περιγράφουν την επίθεση στα πυρηνικά του Ιράν",
+   "link": "https://www.pentapostagma.gr/kosmos/mesi-anatoli/7399814_oi-pilotoi-ton-bombardistikon-b-2-perigrafoyn-tin-epithesi-sta-pyrinika",
+   "summary_raw": "Δεκαπέντε χρόνια προετοιμασίας, αλλαγές της τελευταίας στιγμής και 37 ώρες στον αέρα",
+   "source": "Πενταπόσταγμα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-11-22T06:25:27+00:00",
+   "collected": "2026-11-22T06:57:21.624542+00:00",
+   "keywords_hit": [
+    "πυρηνικ"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Δεκαπέντε χρόνια προετοιμασίας, αλλαγές της τελευταίας στιγμής και 37 ώρες στον αέρα",
+   "angle": null
+  },
+  {
+   "id": "d0cf1b2c22064e68",
+   "title": "Νείλος Χοσάδας: Ήρθε η ώρα να επεκτείνουμε τα χωρικά μας ύδατα στα 12 ναυτικά μίλια",
+   "link": "https://www.dimokratiki.gr/22-11-2026/nilos-chosadas-irthe-i-ora-na-epektinoume-ta-chorika-mas-ydata-sta-12-naftika-milia/?utm_source=rss&utm_medium=rss&utm_campaign=nilos-chosadas-irthe-i-ora-na-epektinoume-ta-chorika-mas-ydata-sta-12-naftika-milia",
+   "summary_raw": "<p>Στις κρίσιμες γεωπολιτικές εξελίξεις στην Ανατολική Μεσόγειο, στις ελληνοτουρκικές σχέσεις και στις προκλήσεις που διαμορφώνουν το νέο περιβάλλον ασφάλειας στην περιοχή επικεντρώνεται η συνέντευξή μας με τον αντιστράτηγο ε.α. Νείλο Χοσάδα. Με αφορμή την ηλεκτρική διασύνδεση Ελλάδας-Κύπρου και τη γαλλική ρηματική διακοίνωση, ο έμπειρος αξιωματικός καταθέτει την εκτίμησή του για τις τουρκικές διεκδικήσεις, το δόγμα...&#160; <a class=\"excerpt-read-more\" href=\"https://www.dimokratiki.gr/22-11-2026/nilos-chosadas-irthe-i-ora-na-epektinoume-ta-chorika-mas-ydata-sta-12-naftika-milia/\" style=\"font-size: 12px;\" title=\"Νείλος Χοσάδας: Ήρθε η ώρα να επεκτείνουμε τα χωρικά μας ύδατα στα 12 ναυτικά μίλια\"><i class=\"icon-arrow-right-square-fill\"></i></a></p>\n<p><a href=\"https://www.dimokratiki.gr/22-11-2026/nilos-chosadas-irthe-i-ora-na-epektinoume-ta-chorika-mas-ydata-sta-12-naftika-milia/\">Νείλος Χοσάδας: Ήρθε η ώρα να επεκτείνουμε τα χωρικά μας ύδατα στα 12 ναυτικά μίλια</a></p>",
+   "source": "Δημοκρατική Ρόδου",
+   "side": "migration_local",
+   "lang": "el",
+   "published": "2026-11-22T06:06:11+00:00",
+   "collected": "2026-11-22T06:57:37.792095+00:00",
+   "keywords_hit": [
+    "διασύνδεση"
+   ],
+   "category": "Αιγαίο-ΑΟΖ",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Στις κρίσιμες γεωπολιτικές εξελίξεις στην Ανατολική Μεσόγειο, στις ελληνοτουρκικές σχέσεις και στις προκλήσεις που διαμορφώνουν το νέο περιβάλλον ασφάλειας στην περιοχή επικεντρώνεται η συνέντευξή μας",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    },
+    {
+     "name": "Ανατολική Μεσόγειος",
+     "lat": 34.0,
+     "lon": 30.0
+    }
+   ]
+  },
+  {
+   "id": "cabafecd84e2c0f9",
+   "title": "Patroller: Πρώτη πτήση για το UAV της Αεροπορίας Στρατού στην Αλεξάνδρεια – Αποκλειστικές εικόνες του OnAlert",
+   "link": "https://www.onalert.gr/enoples-dynameis/patroller-proti-ptisi-gia-to-uav-tis-aeroporias-stratou-stin-aleksandreia-apokleistikes-eikones-tou-onalert/835315/",
+   "summary_raw": "Στη Χρυσούπολη η μελλοντική βάση για τις αποστολές σε Θράκη και ανατολικό Αιγαίο",
+   "source": "OnAlert",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-11-22T06:04:00+00:00",
+   "collected": "2026-11-22T06:57:03.779156+00:00",
+   "keywords_hit": [
+    "αιγαίο",
+    "θράκη"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Στη Χρυσούπολη η μελλοντική βάση για τις αποστολές σε Θράκη και ανατολικό Αιγαίο",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    },
+    {
+     "name": "Αιγαίο",
+     "lat": 39.0,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
+   "id": "d11d14bb13e7d931",
+   "title": "Πέτρος Λιάκουρας στο in για το καλώδιο Ελλάδας – Κύπρου: Η γαλλική ενημέρωση στην Τουρκία δεν προκαλεί έννομες συνέπειες για την Ελλάδα",
+   "link": "https://www.in.gr/2026/11/22/politics/petros-liakouras-sto-in-gia-to-kalodio-elladas-kyprou-i-galliki-enimerosi-stin-tourkia-den-prokalei-ennomes-synepeies-gia-tin-ellada/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"512\" src=\"https://www.in.gr/wp-content/uploads/2026/11/DOC.20261110.32601927.IMG_1001-2-768x512.jpeg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Ο Πέτρος Λιάκουρας, καθηγητής διεθνούς δικαίου, μιλά στο in για το καλώδιο ηλεκτρικής διασύνδεσης Ελλάδας - Κύπρου και υπογραμμίζει ότι για την πόντιση καλωδίων δεν απαιτείται άδεια, ή συναίνεση από παράκτιο κράτος, ούτε ενημέρωσή του</p>\n<p>The post <a href=\"https://www.in.gr/2026/11/22/politics/petros-liakouras-sto-in-gia-to-kalodio-elladas-kyprou-i-galliki-enimerosi-stin-tourkia-den-prokalei-ennomes-synepeies-gia-tin-ellada/\">Πέτρος Λιάκουρας στο in για το καλώδιο Ελλάδας &#8211; Κύπρου: Η γαλλική ενημέρωση στην Τουρκία δεν προκαλεί έννομες συνέπειες για την Ελλάδα</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-11-22T06:03:07+00:00",
+   "collected": "2026-11-22T06:57:44.085418+00:00",
+   "keywords_hit": [
+    "διασύνδεση"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ο Πέτρος Λιάκουρας, καθηγητής διεθνούς δικαίου, μιλά στο in για το καλώδιο ηλεκτρικής διασύνδεσης Ελλάδας - Κύπρου και υπογραμμίζει ότι για την πόντιση καλωδίων δεν απαιτείται άδεια, ή συναίνεση από π",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ελλάδα",
+     "lat": 39.0,
+     "lon": 22.0
+    },
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "729e064a957d357f",
+   "title": "Τουρκία: Φταίει το ελληνικό και το εβραϊκό Λόμπι… F-35 γιοκ - Defence-point.gr",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3JKdWRaaldJR3NnOUVwdVk1NjA5eHlOeE0tUWxwN2hjekdELVhBeFVvMzBRUkpkOGNYbHUyVVNiN0dFX2dXQ3IyZl9BWWNzSExyVVRkeVA0cmNNbnJrTFJrZ2VYWjhteERaMlN4Qk9xRWFRaFpPVDlrLUpRV2NmcjRaQWFfdjdfWnNRR1ZmZw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3JKdWRaaldJR3NnOUVwdVk1NjA5eHlOeE0tUWxwN2hjekdELVhBeFVvMzBRUkpkOGNYbHUyVVNiN0dFX2dXQ3IyZl9BWWNzSExyVVRkeVA0cmNNbnJrTFJrZ2VYWjhteERaMlN4Qk9xRWFRaFpPVDlrLUpRV2NmcjRaQWFfdjdfWnNRR1ZmZw?oc=5\" target=\"_blank\">Τουρκία: Φταίει το ελληνικό και το εβραϊκό Λόμπι… F-35 γιοκ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defence-point.gr</font>",
+   "source": "Defence Point",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-11-22T06:00:51+00:00",
+   "collected": "2026-11-22T06:57:01.114673+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Τουρκία: Φταίει το ελληνικό και το εβραϊκό Λόμπι… F-35 γιοκ Defence-point.gr",
+   "angle": null
+  },
+  {
+   "id": "25792400b951f99b",
+   "title": "Γαλλικά Rafale για πρώτη φορά σε φινλανδικό αυτοκινητόδρομο – Συμμετοχή στην άσκηση Protective Fence 26",
+   "link": "https://flight.com.gr/french-rafale-jets-on-a-finnish-highway-for-the-first-time-participation-in-the-protective-fence-exercise-26/?utm_source=rss&utm_medium=rss&utm_campaign=french-rafale-jets-on-a-finnish-highway-for-the-first-time-participation-in-the-protective-fence-exercise-26",
+   "summary_raw": "<p>Γαλλικά μαχητικά Rafale πραγματοποίησαν για πρώτη φορά προσέγγιση και επαφή με διάδρομο προσγείωσης διαμορφωμένο σε φινλανδικό οδικό άξονα, στο πλαίσιο της άσκησης Protective Fence 26. Τα αεροσκάφη, που επιχειρούν από την αεροπορική βάση του Ροβανιέμι, εκτέλεσαν διαδικασίες προσγείωσης και άμεσης απογείωσης (touch&#8211;and&#8211;go) στο εναλλακτικό πεδίο προσγείωσης Jännevirta. Η δραστηριότητα αποτελεί ορόσημο για τη συνεργασία των [&#8230;]<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/french-rafale-jets-on-a-finnish-highway-for-the-first-time-participation-in-the-protective-fence-exercise-26/\">Γαλλικά Rafale για πρώτη φορά σε φινλανδικό αυτοκινητόδρομο – Συμμετοχή στην άσκηση Protective Fence 26</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-11-22T06:00:00+00:00",
+   "collected": "2026-11-22T06:57:02.328831+00:00",
+   "keywords_hit": [
+    "rafale"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Γαλλικά μαχητικά Rafale πραγματοποίησαν για πρώτη φορά προσέγγιση και επαφή με διάδρομο προσγείωσης διαμορφωμένο σε φινλανδικό οδικό άξονα, στο πλαίσιο της άσκησης Protective Fence 26. Τα αεροσκάφη, π",
+   "angle": null
+  },
+  {
+   "id": "519df8ca6b693d65",
+   "title": "Ο Φιντάν και ο επικεφαλής της ΜΙΤ συναντήθηκαν με τον πρωθυπουργό της Λιβύης",
+   "link": "https://flight.com.gr/fidan-kalin-libya/?utm_source=rss&utm_medium=rss&utm_campaign=fidan-kalin-libya",
+   "summary_raw": "<p>Ο Λίβυος πρωθυπουργός συναντήθηκε στην Κωνσταντινούπολη με τον υπουργό Εξωτερικών της Τουρκίας και τον επικεφαλής της ΜΙΤ. Παρών ήταν και ο σύμβουλός του για θέματα εθνικής ασφάλειας.<br />\n</p>\n<p>Το άρθρο <a href=\"https://flight.com.gr/fidan-kalin-libya/\">Ο Φιντάν και ο επικεφαλής της ΜΙΤ συναντήθηκαν με τον πρωθυπουργό της Λιβύης</a> εμφανίστηκε πρώτα στο <a href=\"https://flight.com.gr\">ΠΤΗΣΗ</a>.</p>",
+   "source": "Πτήση & Διάστημα",
+   "side": "greek_defense",
+   "lang": "el",
+   "published": "2026-11-22T05:40:00+00:00",
+   "collected": "2026-11-22T06:57:02.329012+00:00",
+   "keywords_hit": [
+    "fidan",
+    "φιντάν",
+    "libya",
+    "λιβύη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Ο Λίβυος πρωθυπουργός συναντήθηκε στην Κωνσταντινούπολη με τον υπουργό Εξωτερικών της Τουρκίας και τον επικεφαλής της ΜΙΤ. Παρών ήταν και ο σύμβουλός του για θέματα εθνικής ασφάλειας. Το άρθρο Ο Φιντά",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κωνσταντινούπολη",
+     "lat": 41.01,
+     "lon": 28.98
+    }
+   ]
+  },
+  {
+   "id": "fb9948255f333e1d",
+   "title": "Ο μαύρος στόλος των διανομέων",
+   "link": "https://www.kathimerini.gr/society/564604609/o-mayros-stolos-ton-dianomeon/",
+   "summary_raw": "Γύρω από την πλατεία Βικτωρίας η «Κ» εντόπισε αποθήκες με δεκάδες μηχανάκια. Είναι οι έδρες των μεσαζόντων που «νοικιάζουν» ντελίβερι στις πλατφόρμες. Χωρίς δίπλωμα. Χωρίς χαρτιά. Υπό τον φόβο της απέλασης.",
+   "source": "Καθημερινή",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-11-22T05:39:44+00:00",
+   "collected": "2026-11-22T06:57:43.254228+00:00",
+   "keywords_hit": [
+    "απέλαση"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Γύρω από την πλατεία Βικτωρίας η «Κ» εντόπισε αποθήκες με δεκάδες μηχανάκια. Είναι οι έδρες των μεσαζόντων που «νοικιάζουν» ντελίβερι στις πλατφόρμες. Χωρίς δίπλωμα. Χωρίς χαρτιά. Υπό τον φόβο της απέ",
+   "angle": null
+  },
+  {
+   "id": "883adbb3ceb0a1f6",
+   "title": "WarMonitor RT @DI313_: ⚡ BREAKING: A U.S. F-35 declared an emergency over the Strait of Hormuz, squawking 7700 before diverting to the UAE and reportedly landing at Al Dhafra Air B…",
+   "link": "https://t.me/OSINTLive/595600",
+   "summary_raw": "WarMonitor RT @DI313_: ⚡ BREAKING: A U.S. F-35 declared an emergency over the Strait of Hormuz, squawking 7700 before diverting to the UAE and reportedly landing at Al Dhafra Air Base. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-11-22T05:01:54+00:00",
+   "collected": "2026-11-22T06:58:20.369023+00:00",
+   "keywords_hit": [
+    "f-35"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "WarMonitor RT @DI313_: ⚡ BREAKING: A U.S. F-35 declared an emergency over the Strait of Hormuz, squawking 7700 before diverting to the UAE and reportedly landing at Al Dhafra Air Base. tweet",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ορμούζ",
+     "lat": 26.57,
+     "lon": 56.25
+    }
+   ]
+  },
+  {
+   "id": "0c2fdcaea77fd437",
+   "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
+   "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+   "summary_raw": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-11-22T04:51:35+00:00",
+   "collected": "2026-11-22T06:57:24.240931+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)",
+    "Guardian Environment",
+    "Reuters Sustainability"
+   ]
+  },
+  {
+   "id": "ba72f34b0c59fde0",
+   "title": "Report: Trump Favors Economic Stranglehold on Iran Over Renewed Major Strikes",
+   "link": "https://www.breitbart.com/politics/2026/11/21/report-trump-favors-economic-stranglehold-on-iran-over-renewed-major-strikes/",
+   "summary_raw": "<p>President Donald Trump reportedly favors intensifying the economic campaign against Iran over renewed major military strikes, with Washington seeking to choke off the regime’s remaining oil-export routes as Tehran struggles under the weight of the American blockade.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/11/21/report-trump-favors-economic-stranglehold-on-iran-over-renewed-major-strikes/\" rel=\"nofollow\">Report: Trump Favors Economic Stranglehold on Iran Over Renewed Major Strikes</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-22T04:18:22+00:00",
+   "collected": "2026-11-22T06:57:51.007711+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "President Donald Trump reportedly favors intensifying the economic campaign against Iran over renewed major military strikes, with Washington seeking to choke off the regime’s remaining oil-export rou",
+   "angle": null,
+   "corroborated_by": [
+    "Cato Institute",
+    "Daily Signal",
+    "Foundation for Defense of Democracies",
+    "Spiked"
+   ]
+  },
+  {
+   "id": "12de071f8741adcb",
+   "title": "Explosion hits ammunition depot at Libya's Benghazi naval base",
+   "link": "https://www.aa.com.tr/en/middle-east/explosion-hits-ammunition-depot-at-libyas-benghazi-naval-base/4133300",
+   "summary_raw": "Firefighters work to contain blaze and urge residents to avoid area",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-22T04:16:14+00:00",
+   "collected": "2026-11-22T06:56:57.320360+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Firefighters work to contain blaze and urge residents to avoid area",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "d2681cb48c682aae",
+   "title": "Turkey says Israel could use Druze support to launch Syria operation",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-israel-could-use-druze-support-launch-syria-operation",
+   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-israel-could-use-druze-support-launch-syria-operation\" rel=\"bookmark\">\n<span class=\"field field-title\">Turkey says Israel could use Druze support to launch Syria operation</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Israeli could use its support of the Druze&nbsp;to launch an operation in Syria, Turkish Foreign Minister Hakan Fidan has said, warning that such an attack could lead to a wider conflict in the region.</p>\n\n<p>In an interview with Turkish media, Fidan said Israel is providing military equipment and support to a Druze tribe in Syria, and may use that support to provoke the Syrian army and launch an attack.</p>\n\n<p>Fidan said Turkey has discussed such the possibility of this operation with European and American officials.</p>\n\n<p>The violence last year in Druze-majority Sweida - which began with clashes between Druze factions and Bedouin fighters in the southern province - left more than 2,000 people dead, including 789 Druze civilians, according to t",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-11-22T03:56:04+00:00",
+   "collected": "2026-11-22T06:57:12.482403+00:00",
+   "keywords_hit": [
+    "minority",
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Turkey says Israel could use Druze support to launch Syria operation Israeli could use its support of the Druze to launch an operation in Syria, Turkish Foreign Minister Hakan Fidan has said, warning ",
+   "angle": null
+  },
+  {
+   "id": "23a7a9375e66c498",
+   "title": "COP31: Νέο προσχέδιο απόφασης χωρίς ρητή αναφορά στα ορυκτά καύσιμα",
+   "link": "https://www.ertnews.gr/eidiseis/cop31-neo-prosxedio-apofasis-xoris-riti-anafora-sta-orykta-kaysima/",
+   "summary_raw": "<img alt=\"TURKEY-AUSTRALIA-UN-CLIMATE-COP31\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/11/000-d89k3g3-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Νέο προσχέδιο της τελικής απόφασης της COP31 για το κλίμα, το οποίο δόθηκε στη δημοσιότητα τη νύχτα του Σαββάτου προς την Κυριακή στην Αττάλεια, εξακολουθεί να μην περιλαμβάνει ρητή αναφορά στα ορυκτά καύσιμα. Ωστόσο, στο κείμενο περιλαμβάνεται προτροπή για τη συνέχιση του εξηλεκτρισμού. Το προσχέδιο, που καταρτίστηκε από την τουρκική και την αυστραλιανή προεδρία της ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/cop31-neo-prosxedio-apofasis-xoris-riti-anafora-sta-orykta-kaysima/\" title=\"COP31: Νέο προσχέδιο απόφασης χωρίς ρητή αναφορά στα ορυκτά καύσιμα\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-11-22T03:54:00+00:00",
+   "collected": "2026-11-22T06:57:00.580345+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Νέο προσχέδιο της τελικής απόφασης της COP31 για το κλίμα, το οποίο δόθηκε στη δημοσιότητα τη νύχτα του Σαββάτου προς την Κυριακή στην Αττάλεια, εξακολουθεί να μην περιλαμβάνει ρητή αναφορά στα ορυκτά",
+   "angle": null,
+   "corroborated_by": [
+    "Energypress"
+   ]
+  },
+  {
+   "id": "5817ca69f7c31e93",
+   "title": "Turkish foreign minister says Iran war fallout threatening global markets",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-foreign-minister-says-iran-war-fallout-threatening-global",
+   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/turkish-foreign-minister-says-iran-war-fallout-threatening-global\" rel=\"bookmark\">\n<span class=\"field field-title\">Turkish foreign minister says Iran war fallout threatening global markets</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Turkish Foreign Minister Hakan Fidan has said the economic burden brought by the US-Israel war is getting harder for many countries, while emphasising a&nbsp;ceasefire was needed to reverse global financial crises.</p>\n\n<p>Speaking to Turkish broadcaster TGRT Haber on Saturday, Fidan warned that the fallout from the conflict is threatening international markets.</p>\n\n<p>“It is heading toward having very destructive effects,” he said.</p>\n\n<p>Fidan said diplomatic efforts to re-open the Strait of Hormuz remain active, even though the process appears to be deadlocked, citing his recent discussion with&nbsp;Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani.</p>\n\n<p>He also said&nbsp;that Ankara was keeping the humanitarian ",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-11-22T03:18:23+00:00",
+   "collected": "2026-11-22T06:57:12.482827+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": true,
+   "summary_el": "Turkish foreign minister says Iran war fallout threatening global markets Turkish Foreign Minister Hakan Fidan has said the economic burden brought by the US-Israel war is getting harder for many coun",
+   "angle": null
+  },
+  {
+   "id": "bb5c9489afc0fe56",
+   "title": "Turkish foreign minister says Ankara keeps Gaza on global radar despite other crises",
+   "link": "https://www.aa.com.tr/en/politics/turkish-foreign-minister-says-ankara-keeps-gaza-on-global-radar-despite-other-crises/4133298",
+   "summary_raw": "Hakan Fidan criticizes Israel for blocking relief containers entering Gaza ahead of winter",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-22T02:15:50+00:00",
+   "collected": "2026-11-22T06:56:57.320448+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 2,
+   "turkish_narrative": true,
+   "summary_el": "Hakan Fidan criticizes Israel for blocking relief containers entering Gaza ahead of winter",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "c5a367c2d1319914",
+   "title": "Oil pipeline blockade so far cost Libya nearly $31M: National Oil Corporation",
+   "link": "https://www.aa.com.tr/en/middle-east/oil-pipeline-blockade-so-far-cost-libya-nearly-31m-national-oil-corporation/4133295",
+   "summary_raw": "Hamada-Zawiya pipeline shut for more than 20 days, with over 302,000 barrels of output lost, says NOC",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-22T02:02:30+00:00",
+   "collected": "2026-11-22T06:56:57.320608+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "Ενέργεια",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Hamada-Zawiya pipeline shut for more than 20 days, with over 302,000 barrels of output lost, says NOC",
+   "angle": null,
+   "corroborated_by": [
+    "Libya Review"
+   ]
+  },
+  {
+   "id": "748c50194861a89f",
+   "title": "WarMonitor RT @jaketapper: An actual post from the president about Putin, who:  * helps Tehran target U.S. servicemembers and assets in the Middle East;  * launched Europe's deadli…",
+   "link": "https://t.me/OSINTLive/595590",
+   "summary_raw": "WarMonitor RT @jaketapper: An actual post from the president about Putin, who:  * helps Tehran target U.S. servicemembers and assets in the Middle East;  * launched Europe's deadliest war since WWII, resulting in hundreds of thousands killed, the unlawful deportation of Ukrainian children, & systematic torture;  * launched the Chechen War, destroying  Grozny & killing thousands of civilians;   * supported Assad;  * kills critics such as Navalny, Litvinenko, Skripal, Nemtsov, Politkovskaya;  * downed MH17, killing 298 people;   * dismantled democracy in Russia;  * and so much more. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-11-22T01:30:50+00:00",
+   "collected": "2026-11-22T06:58:20.367997+00:00",
+   "keywords_hit": [
+    "deportation"
+   ],
+   "category": "Διπλωματία",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "WarMonitor RT @jaketapper: An actual post from the president about Putin, who: * helps Tehran target U.S. servicemembers and assets in the Middle East; * launched Europe's deadliest war since WWII, re",
+   "angle": null
+  },
+  {
+   "id": "d889d813cb03a5c8",
+   "title": "Turkey says Israel blocking thousands of container homes from entering Gaza",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-israel-blocking-thousands-container-homes-entering-gaza",
+   "summary_raw": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-israel-blocking-thousands-container-homes-entering-gaza\" rel=\"bookmark\">\n<span class=\"field field-title\">Turkey says Israel blocking thousands of container homes from entering Gaza</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Turkish Foreign Minister Hakan Fidan has said Israel is blocking thousands of container homes destined for Gaza, adding that Israeli authorities argue Hamas could use the metal structures&nbsp;&nbsp;for manufacturing weapons.</p>\n\n<p>Fidan told Turkish broadcaster TGRT Haber on Saturday that President Recep Tayyip Erdogan had ordered the temporary housing units, which Turkey used during the earthquake,&nbsp;to be sent to the Palestinian enclave.</p>\n\n<p>He said Israeli restrictions were leaving displaced Palestinians dependent on fabric tents, exposing them to flooding, storms and cold weather.</p>\n\n<p>“When floods, storms or cold weather come, they cause a disaster at least as devastating as hunger, if not more so,” he said.</p>\n</div>\n   ",
+   "source": "Middle East Eye",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-11-22T01:04:57+00:00",
+   "collected": "2026-11-22T06:57:12.484828+00:00",
+   "keywords_hit": [
+    "erdogan",
+    "fidan"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": true,
+   "summary_el": "Turkey says Israel blocking thousands of container homes from entering Gaza Turkish Foreign Minister Hakan Fidan has said Israel is blocking thousands of container homes destined for Gaza, adding that",
+   "angle": null
+  },
+  {
+   "id": "b4b70ec1ab53d6cb",
+   "title": "Turkish policy under Mecca Alliance focuses on Saudi defense, no decision on Yemen troop deployment: Foreign minister",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-policy-under-mecca-alliance-focuses-on-saudi-defense-no-decision-on-yemen-troop-deployment-foreign-minister/4133291",
+   "summary_raw": "Hakan Fidan outlines Mecca Defense Alliance rules, announces possible R4+E4 meeting in Berlin next month",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-22T01:02:45+00:00",
+   "collected": "2026-11-22T06:56:57.320985+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Hakan Fidan outlines Mecca Defense Alliance rules, announces possible R4+E4 meeting in Berlin next month",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βερολίνο",
+     "lat": 52.52,
+     "lon": 13.4
+    }
+   ]
+  },
+  {
+   "id": "8a7c94668bd80a6c",
+   "title": "Head of COP31 UN Climate Change Conference says gap narrowing on final text",
+   "link": "https://www.aa.com.tr/en/turkiye/head-of-cop31-un-climate-change-conference-says-gap-narrowing-on-final-text/4133290",
+   "summary_raw": "Turkish Environment, Urbanization and Climate Change Minister Murat Kurum says draft decision addresses fossil fuels, adaptation finance among 196 nations meeting in Antalya",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-22T01:01:39+00:00",
+   "collected": "2026-11-22T06:56:57.321079+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Turkish Environment, Urbanization and Climate Change Minister Murat Kurum says draft decision addresses fossil fuels, adaptation finance among 196 nations meeting in Antalya",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "ESG Today",
+    "Guardian Environment",
+    "Reuters Sustainability"
+   ]
+  },
+  {
+   "id": "c7d86142283e7e80",
+   "title": "Trump, Xi and Putin make a spectacle of Europe’s irrelevance",
+   "link": "https://www.spiked-online.com/2026/11/22/trump-xi-and-putin-make-a-spectacle-of-europes-irrelevance/",
+   "summary_raw": "<p>The post <a href=\"https://www.spiked-online.com/2026/11/22/trump-xi-and-putin-make-a-spectacle-of-europes-irrelevance/\">Trump, Xi and Putin make a spectacle of Europe&#8217;s irrelevance</a> appeared first on <a href=\"https://www.spiked-online.com\">spiked</a>.</p>",
+   "source": "Spiked",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-11-22T00:00:56+00:00",
+   "collected": "2026-11-22T06:57:50.622223+00:00",
+   "keywords_hit": [
+    "trump",
+    "vance"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "The post Trump, Xi and Putin make a spectacle of Europe’s irrelevance appeared first on spiked .",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "Cato Institute",
+    "Daily Signal",
+    "Foundation for Defense of Democracies"
+   ]
+  },
+  {
+   "id": "17acea54575bde9a",
+   "title": "COP31 climate talks close to final deal, says summit president - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3FQanMtV3N5N3NtMFp4WmVBTHpwMlo4empMNlhGaGprWFJFZ1VDSFFxcUhUVnQzcUJNVFB5dDNEeUgwY19WaXRGcnhYNEpfaE53T0dzbGJKSGhSSmhfdkY2eW04aW13NEZtYnpOVnpLZ3dIV0RlY3VCQU0yZnlVWkp4aWk0YlA3NTdDUjRFZzRWMmhSdUtBbDBhT1ZfdmhZMDRlNlZ2V3hrdkxrSnFNTXBOTQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3FQanMtV3N5N3NtMFp4WmVBTHpwMlo4empMNlhGaGprWFJFZ1VDSFFxcUhUVnQzcUJNVFB5dDNEeUgwY19WaXRGcnhYNEpfaE53T0dzbGJKSGhSSmhfdkY2eW04aW13NEZtYnpOVnpLZ3dIV0RlY3VCQU0yZnlVWkp4aWk0YlA3NTdDUjRFZzRWMmhSdUtBbDBhT1ZfdmhZMDRlNlZ2V3hrdkxrSnFNTXBOTQ?oc=5\" target=\"_blank\">COP31 climate talks close to final deal, says summit president</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters Sustainability",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-11-21T23:40:00+00:00",
+   "collected": "2026-11-22T06:57:29.099253+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "COP31 climate talks close to final deal, says summit president Reuters",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "Anadolu Agency (EN)",
+    "Guardian Environment"
+   ]
+  },
+  {
+   "id": "8b9888dd58ccfdf5",
+   "title": "Turkish foreign minister says political will exists to solve US defense disputes, but Congress limits maneuvering room",
+   "link": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-says-political-will-exists-to-solve-us-defense-disputes-but-congress-limits-maneuvering-room/4133284",
+   "summary_raw": "Hakan Fidan says Washington lifted delays on ammunition purchases while pointing to CAATSA hurdles, lobbying pressures",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-21T23:36:17+00:00",
+   "collected": "2026-11-22T06:56:57.321245+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Hakan Fidan says Washington lifted delays on ammunition purchases while pointing to CAATSA hurdles, lobbying pressures",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Ουάσιγκτον",
+     "lat": 38.91,
+     "lon": -77.04
+    }
+   ]
+  },
   {
    "id": "31301381c4abcc71",
    "title": "Şahin imamı “Türküm” dedi, Yunan basını ortalığı ayağa kaldırdı",
@@ -18,6 +662,31 @@
    "turkish_narrative": true,
    "summary_el": "",
    "angle": null
+  },
+  {
+   "id": "13b4b008e0dd4682",
+   "title": "EXCLUSIVE: Trump Permitting Chief Says House Will Pass Bill Curbing Green Lawsuits",
+   "link": "https://www.breitbart.com/politics/2026/11/21/exclusive-trump-permitting-chief-says-house-will-pass-bill-curbing-green-lawsuits/",
+   "summary_raw": "<p>Permitting Council Director Emily Domenech says she is confident the House will pass the Senate's permitting bill curbing environmental lawsuits.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/11/21/exclusive-trump-permitting-chief-says-house-will-pass-bill-curbing-green-lawsuits/\" rel=\"nofollow\">EXCLUSIVE: Trump Permitting Chief Says House Will Pass Bill Curbing Green Lawsuits</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-21T22:50:35+00:00",
+   "collected": "2026-11-22T06:57:51.010429+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Permitting Council Director Emily Domenech says she is confident the House will pass the Senate's permitting bill curbing environmental lawsuits. The post EXCLUSIVE: Trump Permitting Chief Says House ",
+   "angle": null,
+   "corroborated_by": [
+    "Cato Institute",
+    "Daily Signal",
+    "Foundation for Defense of Democracies",
+    "Spiked"
+   ]
   },
   {
    "id": "212c7aa049c8b1d1",
@@ -442,6 +1111,31 @@
    ]
   },
   {
+   "id": "be7ba8dfde8a9141",
+   "title": "First Lady Melania Trump Calls for Peace Amid Wars in Ukraine, Iran: ‘Peace Is Rational’",
+   "link": "https://www.breitbart.com/entertainment/2026/11/21/first-lady-melania-trump-calls-for-peace-amid-wars-in-ukraine-iran-peace-is-rational/",
+   "summary_raw": "<p>Amid wars in Ukraine and Iran, First Lady Melania Trump made a heartfelt pitch for peace at the New York City premiere of her Amazon series \"Melania, The Series.\"</p>\n<p>The post <a href=\"https://www.breitbart.com/entertainment/2026/11/21/first-lady-melania-trump-calls-for-peace-amid-wars-in-ukraine-iran-peace-is-rational/\" rel=\"nofollow\">First Lady Melania Trump Calls for Peace Amid Wars in Ukraine, Iran: ‘Peace Is Rational’</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-21T20:28:15+00:00",
+   "collected": "2026-11-22T06:57:51.008505+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Amid wars in Ukraine and Iran, First Lady Melania Trump made a heartfelt pitch for peace at the New York City premiere of her Amazon series \"Melania, The Series.\" The post First Lady Melania Trump Cal",
+   "angle": null,
+   "corroborated_by": [
+    "Cato Institute",
+    "Daily Signal",
+    "Foundation for Defense of Democracies",
+    "Spiked"
+   ]
+  },
+  {
    "id": "61ace3424c8adbbb",
    "title": "IRGC Claims Strikes on Bahrain Bases",
    "link": "https://www.osint613.com/post/irgc-claims-strikes-on-bahrain-bases-28568",
@@ -477,6 +1171,25 @@
    "severity": 3,
    "turkish_narrative": false,
    "summary_el": "Πληροφορίες αναφέρουν ότι ο πυρηνικός σταθμός μείωσε την παραγωγή του λόγω «στρατιωτικής δραστηριότητας»",
+   "angle": null
+  },
+  {
+   "id": "826c148756ee09a7",
+   "title": "Iran’s IRGC says it targeted two U.S. Patriot air defense radars at military bases in Bahrain with missiles and drones.",
+   "link": "https://t.me/ClashReport/107214",
+   "summary_raw": "Iran’s IRGC says it targeted two U.S. Patriot air defense radars at military bases in Bahrain with missiles and drones.",
+   "source": "Telegram @clashreport",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-11-21T20:17:11+00:00",
+   "collected": "2026-11-22T06:58:17.538427+00:00",
+   "keywords_hit": [
+    "patriot"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Iran’s IRGC says it targeted two U.S. Patriot air defense radars at military bases in Bahrain with missiles and drones.",
    "angle": null
   },
   {
@@ -734,6 +1447,25 @@
    ]
   },
   {
+   "id": "d4925cfa16f75c36",
+   "title": "Vance Says US Must Block Iran Nuke",
+   "link": "https://www.osint613.com/post/vance-says-us-must-block-iran-nuke-28540",
+   "summary_raw": "Vice President JD Vance on Iran:\n\n\"The goal of keeping Iran from getting a nuclear weapon is absolutely what we need to be doing. It's the biggest state sponsored terrorism. If they had a nuclear weapon, they would use it as leverage or God forbid they would attack and kill thousands, hundreds of thousands potentially, of innocent people. The president is the one who makes the decision and the president has said he would do it again. And my view is that my goal is and my job is to support the...",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-11-21T18:27:47+00:00",
+   "collected": "2026-11-22T06:57:51.370977+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Διπλωματία",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Vice President JD Vance on Iran: \"The goal of keeping Iran from getting a nuclear weapon is absolutely what we need to be doing. It's the biggest state sponsored terrorism. If they had a nuclear weapo",
+   "angle": null
+  },
+  {
    "id": "28d0b380df3b0af7",
    "title": "Turkish Foreign Minister Hakan Fidan on Syria:  The Druze are divided into three major tribes in Syria.  Two of them genuinely support the Syrian government and are anti-Israel.  B…",
    "link": "https://t.me/ClashReport/107210",
@@ -877,6 +1609,23 @@
    ]
   },
   {
+   "id": "267a5f288ffc1a9d",
+   "title": "Google’s Al Jazeera AI News Partnership Raises Concerns About Islamist Bias, Foreign Influence",
+   "link": "https://www.dailysignal.com/2026/11/21/googles-al-jazeera-ai-news-partnership-raises-concerns-about-islamist-bias-foreign-influence/",
+   "summary_raw": "The Qatar-funded news outlet Al Jazeera is partnering with Google on artificial intelligence tools for news, raising concerns that the collaboration could amplify Islamist bias and foreign influence in AI. The first phase of The Core, an AI-integrated news model using Google Cloud, launched this month. Al Jazeera hired public relations professionals who registered as...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-21T18:00:06+00:00",
+   "collected": "2026-11-22T06:57:51.159901+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The Qatar-funded news outlet Al Jazeera is partnering with Google on artificial intelligence tools for news, raising concerns that the collaboration could amplify Islamist bias and foreign influence i",
+   "angle": null
+  },
+  {
    "id": "c8513de5133594e5",
    "title": "Βρετανία και Γαλλία σχεδιάζουν τον διάδοχό του Meteor",
    "link": "https://flight.com.gr/britain-and-france-are-planning-the-successor-to-the-meteor/?utm_source=rss&utm_medium=rss&utm_campaign=britain-and-france-are-planning-the-successor-to-the-meteor",
@@ -894,6 +1643,45 @@
    "turkish_narrative": false,
    "summary_el": "Η Βρετανία και η Γαλλία προχωρούν στον σχεδιασμό του διαδόχου του Meteor, του ευρωπαϊκού πυραύλου αέρος-αέρος μεγάλου βεληνεκούς, με την πρώτη κοινή μελέτη να ολοκληρώνεται το καλοκαίρι του 2027. Η εξ",
    "angle": null
+  },
+  {
+   "id": "e0c9e56539888c7b",
+   "title": "Tetteh stresses need for stronger coordination between international and regional efforts in Libya - The Libya Observer",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDZfSlFuS3pEN3dzZzBkNDFvUnY1Y0N6Q18wOU03UDdpaldXUTZNa29FUVdzMGdUWXdTVGkxazdjQ2JPWlB0eF8tTGZmc2NPX2c1TzNnd2FRWHRsVjZWU3ZOSTRTREROaXJRTU1iWlRWaTdKblJNR2VYazMwLUl2bHo2YlctSTBKeU1XU0w2SWtwT3BOQlVSM0pmR1g1dUU0NV9TNi1yWG9wNGh0Z3RTRXJhSkZSYkNEaVE1eThR?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDZfSlFuS3pEN3dzZzBkNDFvUnY1Y0N6Q18wOU03UDdpaldXUTZNa29FUVdzMGdUWXdTVGkxazdjQ2JPWlB0eF8tTGZmc2NPX2c1TzNnd2FRWHRsVjZWU3ZOSTRTREROaXJRTU1iWlRWaTdKblJNR2VYazMwLUl2bHo2YlctSTBKeU1XU0w2SWtwT3BOQlVSM0pmR1g1dUU0NV9TNi1yWG9wNGh0Z3RTRXJhSkZSYkNEaVE1eThR?oc=5\" target=\"_blank\">Tetteh stresses need for stronger coordination between international and regional efforts in Libya</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Libya Observer</font>",
+   "source": "Libya Observer",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-11-21T17:57:39+00:00",
+   "collected": "2026-11-22T06:57:17.965251+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "Διπλωματία",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Tetteh stresses need for stronger coordination between international and regional efforts in Libya The Libya Observer",
+   "angle": null
+  },
+  {
+   "id": "24055fefa160d543",
+   "title": "Report: Senators Sound Bipartisan Alarm Over Threats to Cybersecurity",
+   "link": "https://www.breitbart.com/politics/2026/11/21/report-senators-sound-bipartisan-alarm-threats-cybersecurity/",
+   "summary_raw": "<p>Both Democratic and Republican lawmakers are expressing concern over possible threats to America's critical infrastructure in the wake of a 10-day wave of tech outages and glitches affecting major industries and government databases.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/11/21/report-senators-sound-bipartisan-alarm-threats-cybersecurity/\" rel=\"nofollow\">Report: Senators Sound Bipartisan Alarm Over Threats to Cybersecurity</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-21T17:56:43+00:00",
+   "collected": "2026-11-22T06:57:51.012731+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Both Democratic and Republican lawmakers are expressing concern over possible threats to America's critical infrastructure in the wake of a 10-day wave of tech outages and glitches affecting major ind",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "e1d7681f28711776",
@@ -1732,6 +2520,32 @@
    ]
   },
   {
+   "id": "6b46231a3acafb30",
+   "title": "Στα χέρια της αστυνομίας τρεις υπεύθυνοι για κλοπές - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0NQUnJmWFI5eDNudlI1dUphVXZOZGNwWHNLcGdDVVd5LUpnZTNoY010ZHVQTVlEQklwUGZ2bG9ISVR4RlQxU25OMWlzMV9raWdwcVBrYlNHX2FqcmVVVThkbnNzbjhpcDR0T1VZTHhrZWRjQy1nZGFRV0hzTGVmWVdUSFBpX3B6by1leDlDQjEzX3hHdks4ZGRDcw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0NQUnJmWFI5eDNudlI1dUphVXZOZGNwWHNLcGdDVVd5LUpnZTNoY010ZHVQTVlEQklwUGZ2bG9ISVR4RlQxU25OMWlzMV9raWdwcVBrYlNHX2FqcmVVVThkbnNzbjhpcDR0T1VZTHhrZWRjQy1nZGFRV0hzTGVmWVdUSFBpX3B6by1leDlDQjEzX3hHdks4ZGRDcw?oc=5\" target=\"_blank\">Στα χέρια της αστυνομίας τρεις υπεύθυνοι για κλοπές</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-11-21T10:41:04+00:00",
+   "collected": "2026-11-22T06:57:04.520491+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Στα χέρια της αστυνομίας τρεις υπεύθυνοι για κλοπές Παρατηρητής της Θράκης",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
    "id": "22c4d568a4ed718d",
    "title": "Εξαρθρώθηκε κύκλωμα που έκλεβε πολυτελή αυτοκίνητα: Πάνω από 5 εκατομμύρια η αξία των οχημάτων που εντοπίστηκαν στην Ελλάδα | Photos",
    "link": "https://www.zarpanews.gr/exarthrothike-kykloma-poy-ekleve-polyteli-aytokinita-pano-apo-5-ekatommyria-i-axia-ton-ochimaton-poy-entopistikan-stin-ellada-photos/",
@@ -2161,6 +2975,32 @@
      "name": "Κρήτη",
      "lat": 35.24,
      "lon": 24.81
+    }
+   ]
+  },
+  {
+   "id": "8495244eb2c3667e",
+   "title": "Αρχίζουν να οργανώνονται οι Αγρότες της ΑΜΘ - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGNyblhYYVFKelpjV3pjYjZlVHhIZmlybWdiOVotZEZISF9NZVpjQUpfSFNQWWdTV2Y3Y3BuMGM2QWx4WER1M3lwZkxBLXc3RjNfemlIMHp4ZEYwdnU1UTNQbGhaVS1TT1Q4bzNyZmVzUU5PTGNZS1hvMXZ4MnNKeS1XQmhCOUZVVmFjcHpzNDVLQQ?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGNyblhYYVFKelpjV3pjYjZlVHhIZmlybWdiOVotZEZISF9NZVpjQUpfSFNQWWdTV2Y3Y3BuMGM2QWx4WER1M3lwZkxBLXc3RjNfemlIMHp4ZEYwdnU1UTNQbGhaVS1TT1Q4bzNyZmVzUU5PTGNZS1hvMXZ4MnNKeS1XQmhCOUZVVmFjcHpzNDVLQQ?oc=5\" target=\"_blank\">Αρχίζουν να οργανώνονται οι Αγρότες της ΑΜΘ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-11-21T07:51:43+00:00",
+   "collected": "2026-11-22T06:57:04.521763+00:00",
+   "keywords_hit": [
+    "θράκη"
+   ],
+   "category": "Θράκη",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Αρχίζουν να οργανώνονται οι Αγρότες της ΑΜΘ Παρατηρητής της Θράκης",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
     }
    ]
   },
@@ -3333,6 +4173,31 @@
    "angle": null
   },
   {
+   "id": "e0fc1ddfcaeaad26",
+   "title": "Trump Reveals Outcome of Discussions With Xi on AI",
+   "link": "https://www.dailysignal.com/2026/11/20/trump-reveals-outcome-of-discussions-with-xi-on-ai/",
+   "summary_raw": "President Donald Trump said he and Chinese leader Xi Jinping agreed to establish &#8220;joint guardrails&#8221; on artificial intelligence during his trip to China this week. &#8220;There really is no no third place, and we are leading, and they&#8217;re second,&#8221; Trump said at a Friday press conference, &#8220;and there&#8217;s nobody even close after that. I don&#8217;t...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-20T19:33:46+00:00",
+   "collected": "2026-11-22T06:57:51.161677+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "President Donald Trump said he and Chinese leader Xi Jinping agreed to establish “joint guardrails” on artificial intelligence during his trip to China this week. “There really is no no third place, a",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "Cato Institute",
+    "Foundation for Defense of Democracies",
+    "Spiked"
+   ]
+  },
+  {
    "id": "a45ee673d19794bd",
    "title": "Freshly 'Not MAGA' Elon Musk Sells Americans on Tourism to China",
    "link": "https://www.breitbart.com/tech/2026/11/20/freshly-not-maga-elon-musk-sells-americans-on-tourism-to-china/",
@@ -3394,6 +4259,25 @@
    "corroborated_by": [
     "Daily Signal"
    ]
+  },
+  {
+   "id": "93c69b7478e039e4",
+   "title": "Farage: 'Out of Touch Globalist' Burnham Has No Mandate to Take Britain Back Into the EU Single Market",
+   "link": "https://www.breitbart.com/europe/2026/11/20/farage-no-mandate-for-out-of-touch-globalist-pm-to-go-back-into-eu/",
+   "summary_raw": "<p>\"Out of date\" Burnham is taking Britain back into the Single Market by stealth, the first step towards re-joining the EU, warns Nigel Farage.</p>\n<p>The post <a href=\"https://www.breitbart.com/europe/2026/11/20/farage-no-mandate-for-out-of-touch-globalist-pm-to-go-back-into-eu/\" rel=\"nofollow\">Farage: &#8216;Out of Touch Globalist&#8217; Burnham Has No Mandate to Take Britain Back Into the EU Single Market</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-20T18:54:54+00:00",
+   "collected": "2026-11-22T06:57:51.015037+00:00",
+   "keywords_hit": [
+    "globalist"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "\"Out of date\" Burnham is taking Britain back into the Single Market by stealth, the first step towards re-joining the EU, warns Nigel Farage. The post Farage: ‘Out of Touch Globalist’ Burnham Has No M",
+   "angle": null
   },
   {
    "id": "88c4f627b69525b3",
@@ -4079,6 +4963,26 @@
    ]
   },
   {
+   "id": "051014e4d60f9c09",
+   "title": "Republicans Wanted a Fighter. They Got Jim Jordan.",
+   "link": "https://www.dailysignal.com/2026/11/20/gop-fighter-jim-jordan-leader/",
+   "summary_raw": "House Republicans who survived this month&#8217;s midterm losses want one thing from their new leader: a fight. Rep. Jim Jordan of Ohio is the leader they picked for that battle. Republicans close to Jordan expect him to confront Democrats the way he did as chairman of the House Judiciary Committee. But they also describe a...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-20T16:34:48+00:00",
+   "collected": "2026-11-22T06:57:51.162362+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "House Republicans who survived this month’s midterm losses want one thing from their new leader: a fight. Rep. Jim Jordan of Ohio is the leader they picked for that battle. Republicans close to Jordan",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "cbf460cf51f71121",
    "title": "Cop31 draft agreement ‘the worst ever', campaigners warn",
    "link": "https://www.middleeasteye.net/news/cop31-draft-agreement-worst-history-campaigners-warn",
@@ -4128,6 +5032,28 @@
    "angle": null,
    "corroborated_by": [
     "Reuters Sustainability"
+   ]
+  },
+  {
+   "id": "21b94d398cb745a0",
+   "title": "COP31: Ο υπουργός του Παναμά στράφηκε κατά των ορυκτών καυσίμων μιλώντας για “υποκριτές και μαφία” - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDFxTjQ2cDZMTUQ0aDFqQWZoZDA5ME9Jby1QT3dRVHdSSE5QNjRkZmg2MnVNTmlCbG1JREVib0hHWWprSXZlckZzUVc4VTgxMXlXeG44YVVJX1NuaUJBYjVUUXhaZVdMR0RYcEhGamFOdjNRWDF1VmIxeUk4M2IwQUpEMlM3ano0UGNJSk50NnJMSUN2eVg2OF9HbTBLZlpZeldVX013TXo5WXhWMkM1eU9SWXp1QUdE?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDFxTjQ2cDZMTUQ0aDFqQWZoZDA5ME9Jby1QT3dRVHdSSE5QNjRkZmg2MnVNTmlCbG1JREVib0hHWWprSXZlckZzUVc4VTgxMXlXeG44YVVJX1NuaUJBYjVUUXhaZVdMR0RYcEhGamFOdjNRWDF1VmIxeUk4M2IwQUpEMlM3ano0UGNJSk50NnJMSUN2eVg2OF9HbTBLZlpZeldVX013TXo5WXhWMkM1eU9SWXp1QUdE?oc=5\" target=\"_blank\">COP31: Ο υπουργός του Παναμά στράφηκε κατά των ορυκτών καυσίμων μιλώντας για “υποκριτές και μαφία”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-11-20T16:26:13+00:00",
+   "collected": "2026-11-22T06:57:24.735699+00:00",
+   "keywords_hit": [
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "COP31: Ο υπουργός του Παναμά στράφηκε κατά των ορυκτών καυσίμων μιλώντας για “υποκριτές και μαφία” Energypress",
+   "angle": null,
+   "corroborated_by": [
+    "ΕΡΤ News"
    ]
   },
   {
@@ -4508,6 +5434,26 @@
    ]
   },
   {
+   "id": "e154c1e9178ebeda",
+   "title": "Just How Political Is America’s Largest Nurses Union? Follow the Money",
+   "link": "https://www.dailysignal.com/2026/11/20/just-how-political-is-americas-largest-nurses-union-follow-the-money/",
+   "summary_raw": "FIRST ON THE DAILY SIGNAL—A conservative pro-worker group is accusing America’s largest nurses union of putting politics ahead of members, as federal records show National Nurses United gave directly to the Democratic Socialists of America. The conservative Coalition to Protect American Workers is launching a six-figure ad campaign with the website National Nurses United Exposed,...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-20T15:29:16+00:00",
+   "collected": "2026-11-22T06:57:51.162634+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "FIRST ON THE DAILY SIGNAL—A conservative pro-worker group is accusing America’s largest nurses union of putting politics ahead of members, as federal records show National Nurses United gave directly ",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart"
+   ]
+  },
+  {
    "id": "bd590579942dac86",
    "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels - Reuters",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemxCMzdZQVhrN293eFVPNTNrdHFZblZJNkJFQzluUFhMMG8xQUI1SG80YjdUWWgzdElKWmtiVVRmOFhKS2toWWZLZ2ttZ1ZOVDl3dFVEcGlpSG9DSy1ZbW1TVEY0VFpPbzhJck9sYjJHRDkzakFBTlJ4MFhOcEZfVTF3M2lIUGo2aWQ4VUdfaDJFaklfUzlVTWlCWlNHeEp3RnZ6NWI4UmpQVzlrd1I2My1tTDNsXzJDRHRIWHRXR0ZZbXZGanpz?oc=5",
@@ -4681,6 +5627,28 @@
    "turkish_narrative": false,
    "summary_el": "Summary In May 2021, my vulnerable 12-year-old daughter walked into what she believed was an innocent after-school art club at her public middle school in Colorado. What happened inside that classroom",
    "angle": null
+  },
+  {
+   "id": "9c3de743f46fd270",
+   "title": "Libya’s NOC Trains 206 Employees Across 4 Locations",
+   "link": "https://libyareview.com/69851/libyas-noc-trains-206-employees-across-4-locations/",
+   "summary_raw": "<p>Libya’s National Oil Corporation (NOC) has completed 15 training programmes and workshops involving 206 employees from the corporation and its subsidiaries across four locations, as part of its 2026 workforce development plan. The programmes were organised by the NOC’s General Department of Human Resources Development through its Technical and Administrative Development Centre. Training sessions took [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/69851/libyas-noc-trains-206-employees-across-4-locations/\">Libya’s NOC Trains 206 Employees Across 4 Locations</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-11-20T14:51:56+00:00",
+   "collected": "2026-11-22T06:57:17.740585+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "Ενέργεια",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Libya’s National Oil Corporation (NOC) has completed 15 training programmes and workshops involving 206 employees from the corporation and its subsidiaries across four locations, as part of its 2026 w",
+   "angle": null,
+   "corroborated_by": [
+    "Anadolu Agency (EN)"
+   ]
   },
   {
    "id": "fb9f7123019f3803",
@@ -5744,6 +6712,33 @@
    ]
   },
   {
+   "id": "87ffdc13f31d008e",
+   "title": "Τρεις συλλήψεις διακινητών στη Ροδόπη - Παρατηρητής της Θράκης",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjFJTjk0MmNDb3hOWEtpaTliTEFSVFpoQlZsVzBoRGE5d0lORko5UDZmWTJBeUZsNnNXLVhnYWNJRkNFajJmQmltbFVVcnQwd2dhelB6VVl6aFBHRE9hZ0ZFRXAxekRTVUs0VFVfMndESE85OEJvckpueU5CRFdsdXZFSlNxeklFM0E?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjFJTjk0MmNDb3hOWEtpaTliTEFSVFpoQlZsVzBoRGE5d0lORko5UDZmWTJBeUZsNnNXLVhnYWNJRkNFajJmQmltbFVVcnQwd2dhelB6VVl6aFBHRE9hZ0ZFRXAxekRTVUs0VFVfMndESE85OEJvckpueU5CRFdsdXZFSlNxeklFM0E?oc=5\" target=\"_blank\">Τρεις συλλήψεις διακινητών στη Ροδόπη</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
+   "source": "Παρατηρητής της Θράκης",
+   "side": "thrace_greek",
+   "lang": "el",
+   "published": "2026-11-20T11:24:08+00:00",
+   "collected": "2026-11-22T06:57:04.522491+00:00",
+   "keywords_hit": [
+    "θράκη",
+    "διακινητ"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Τρεις συλλήψεις διακινητών στη Ροδόπη Παρατηρητής της Θράκης",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Θράκη",
+     "lat": 41.1,
+     "lon": 25.5
+    }
+   ]
+  },
+  {
    "id": "7542f64c590172a3",
    "title": "Germany: Magdeburg Christmas market reopens surrounded by 500 concrete blocks and metal barriers costing €2.5 million",
    "link": "https://rmx.news/germany/germany-magdeburg-christmas-market-reopens-surrounded-by-500-concrete-blocks-and-metal-barriers-costing-e2-5-million/",
@@ -6336,6 +7331,23 @@
    ]
   },
   {
+   "id": "02a58fa0e87f5168",
+   "title": "Data centers’ electricity use is soaring — especially in these states",
+   "link": "https://grist.org/energy/data-centers-use-2-of-us-electricity-in-some-states-the-share-is-far-higher/",
+   "summary_raw": "",
+   "source": "Grist",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-11-20T09:45:00+00:00",
+   "collected": "2026-11-22T06:57:29.878794+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null
+  },
+  {
    "id": "7cd08f040162142c",
    "title": "Solar panel, battery recycling offers $15B investment potential over 5 years: Int’l Solar Alliance chief",
    "link": "https://www.aa.com.tr/en/economy/solar-panel-battery-recycling-offers-15b-investment-potential-over-5-years-int-l-solar-alliance-chief/4131942",
@@ -6701,6 +7713,23 @@
     "ΓΕΕΘΑ",
     "Πενταπόσταγμα"
    ]
+  },
+  {
+   "id": "6bb406fcfb61c0f1",
+   "title": "Γιατί οι μπαταρίες δεν φέρνουν αυτομάτως φθηνότερο ρεύμα: Το γερμανικό «τεστ» των 20 GW - B2Green",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN04xaWpJRWpxelZwbXZLWkFOWGhGc0JGaGpmZzlFWXVoZUk1RlJqaS0xZDdBYm1wbjFGWEZIdlBFWUhsa3pmeWcxOVhWU0lBZlBKcVZYTy11M2RzdW1WQTJDU3JTVnJoN2VuR3gzUlZBOGI5cnpwcy1nSElVT0ZtcjhB?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQN04xaWpJRWpxelZwbXZLWkFOWGhGc0JGaGpmZzlFWXVoZUk1RlJqaS0xZDdBYm1wbjFGWEZIdlBFWUhsa3pmeWcxOVhWU0lBZlBKcVZYTy11M2RzdW1WQTJDU3JTVnJoN2VuR3gzUlZBOGI5cnpwcy1nSElVT0ZtcjhB?oc=5\" target=\"_blank\">Γιατί οι μπαταρίες δεν φέρνουν αυτομάτως φθηνότερο ρεύμα: Το γερμανικό «τεστ» των 20 GW</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B2Green</font>",
+   "source": "B2Green",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-11-20T07:13:22+00:00",
+   "collected": "2026-11-22T06:57:28.196429+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Γιατί οι μπαταρίες δεν φέρνουν αυτομάτως φθηνότερο ρεύμα: Το γερμανικό «τεστ» των 20 GW B2Green",
+   "angle": null
   },
   {
    "id": "5c321f3b4f89cb3e",
@@ -8303,6 +9332,26 @@
      "lon": 22.0
     }
    ]
+  },
+  {
+   "id": "c9aafb7e1c11fa51",
+   "title": "Türkiye's Kizilelma unmanned fighter jet joins military inventory: Erdogan - TRT World",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1leTY2bWhFQVk5a1F6WjA5YXpWMUg3Q2lMWFBXWFE5aDlNS2xUSFlHWm8wVjE1MzVVQ2pjc1lPM3hqZ3lnWUN1ektfNmVCb0ZKT2VTNG1Pb0o?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1leTY2bWhFQVk5a1F6WjA5YXpWMUg3Q2lMWFBXWFE5aDlNS2xUSFlHWm8wVjE1MzVVQ2pjc1lPM3hqZ3lnWUN1ektfNmVCb0ZKT2VTNG1Pb0o?oc=5\" target=\"_blank\">Türkiye's Kizilelma unmanned fighter jet joins military inventory: Erdogan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font>",
+   "source": "TRT World",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-19T19:14:46+00:00",
+   "collected": "2026-11-22T06:56:57.737104+00:00",
+   "keywords_hit": [
+    "kizilelma",
+    "erdogan"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": true,
+   "summary_el": "Türkiye's Kizilelma unmanned fighter jet joins military inventory: Erdogan TRT World",
+   "angle": null
   },
   {
    "id": "d508fa57cbe40145",
@@ -9986,6 +11035,25 @@
    ]
   },
   {
+   "id": "ea66710a238df6e4",
+   "title": "The Left: Best Friends Of ‘Race Realists’",
+   "link": "https://roddreher.substack.com/p/the-left-best-friends-of-race-realists",
+   "summary_raw": "And: Catholic Trads; Priest: &#8216;Jews, Out!&#8217;; Tuna Of The Gods; Orthodox Chants",
+   "source": "Rod Dreher's Diary",
+   "side": "conservative_sub",
+   "lang": "en",
+   "published": "2026-11-19T13:29:09+00:00",
+   "collected": "2026-11-22T06:58:15.442712+00:00",
+   "keywords_hit": [
+    "catholic"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "And: Catholic Trads; Priest: ‘Jews, Out!’; Tuna Of The Gods; Orthodox Chants",
+   "angle": null
+  },
+  {
    "id": "92c1b4bf32e3fb03",
    "title": "BAKEŞ Genel Müdürü Pervin Hayrullah MHP Genel Merkezinde ağırlandı",
    "link": "https://www.milletgazetesi.gr/bati-trakya/bakes-genel-muduru-pervin-hayrullah-mhp-genel-merkezinde-agirlandi",
@@ -11240,6 +12308,23 @@
    "angle": null
   },
   {
+   "id": "778c2f5ac1c50e51",
+   "title": "Even the ‘good guys’ of AI are locking in fossil fuels",
+   "link": "https://grist.org/accountability/anthropic-alignment-ai-fossil-fuels-climate-change/",
+   "summary_raw": "",
+   "source": "Grist",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-11-19T09:45:00+00:00",
+   "collected": "2026-11-22T06:57:29.878934+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "",
+   "angle": null
+  },
+  {
    "id": "632eb868a49cb1b0",
    "title": "Xi Calls for Nuclear Weapons Ban",
    "link": "https://www.osint613.com/post/xi-calls-for-nuclear-weapons-ban-28357",
@@ -11806,6 +12891,31 @@
     "Breitbart",
     "Daily Signal",
     "Hudson Institute"
+   ]
+  },
+  {
+   "id": "b1d474e642f3339d",
+   "title": "Historic first: Trump, Xi, and Putin meet in China - Foundation for Defense of Democracies",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQjZZMFhmb0IwNDdGNjRLLThoUmpmWFMwNnhwbUE2TUdZX2dzM2pHSHpvYzhYdmJmSG9GSHBmb0l1T253WGozUkc3UWFmUzVVWWtsczNuMHFPQUY1N1pBbjl0Vi1wN3BVVzQzdHBmbnJzSW15MXpLMnBvRzNzdmFoVGJleWVEcVU?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQjZZMFhmb0IwNDdGNjRLLThoUmpmWFMwNnhwbUE2TUdZX2dzM2pHSHpvYzhYdmJmSG9GSHBmb0l1T253WGozUkc3UWFmUzVVWWtsczNuMHFPQUY1N1pBbjl0Vi1wN3BVVzQzdHBmbnJzSW15MXpLMnBvRzNzdmFoVGJleWVEcVU?oc=5\" target=\"_blank\">Historic first: Trump, Xi, and Putin meet in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foundation for Defense of Democracies</font>",
+   "source": "Foundation for Defense of Democracies",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-11-19T08:00:00+00:00",
+   "collected": "2026-11-22T06:57:53.543252+00:00",
+   "keywords_hit": [
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Historic first: Trump, Xi, and Putin meet in China Foundation for Defense of Democracies",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "Cato Institute",
+    "Daily Signal",
+    "Spiked"
    ]
   },
   {
@@ -25537,6 +26647,29 @@
    ]
   },
   {
+   "id": "dbe79031a70b4b3c",
+   "title": "How Jews Taught Me To Be A Better Christian",
+   "link": "https://roddreher.substack.com/p/how-jews-taught-me-to-be-a-better",
+   "summary_raw": "And Also A Better, More Hopeful American",
+   "source": "Rod Dreher's Diary",
+   "side": "conservative_sub",
+   "lang": "en",
+   "published": "2026-11-16T16:10:23+00:00",
+   "collected": "2026-11-22T06:58:15.443054+00:00",
+   "keywords_hit": [
+    "christian"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "And Also A Better, More Hopeful American",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "Daily Signal"
+   ]
+  },
+  {
    "id": "dff41c38a4e0c818",
    "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
    "link": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
@@ -30115,6 +31248,32 @@
    ]
   },
   {
+   "id": "b72c6a4168056641",
+   "title": "Emily Ekins’ public opinion brief, “Religious Trump Voters: How Faith Moderates Attitudes about Immigration, Race, and Identity,”is cited on The Godcast podcast - Cato Institute",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHM0Wk5fbHhWbnUzTEcwR241aDl4ZVNPUlNHSDhjaE5qRzctR1Z0bVNnb25wZFA3RU5FeVZhczduRmFBMF9vX2FuWElwNnNpQjE4Nnc3cjhJM1pwd0ttbWhVSV81M044eW11Qzk4R0t1ajZHaHdJY1JHY0FiNE1KSFBYNk16LVNkVlY2LTUtX3lOT0ZYbkdYQ3ZWRm16NWdEamNpdHMwdmtGbnpyQUVUZ09ldlNxRzBMazVlMA?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHM0Wk5fbHhWbnUzTEcwR241aDl4ZVNPUlNHSDhjaE5qRzctR1Z0bVNnb25wZFA3RU5FeVZhczduRmFBMF9vX2FuWElwNnNpQjE4Nnc3cjhJM1pwd0ttbWhVSV81M044eW11Qzk4R0t1ajZHaHdJY1JHY0FiNE1KSFBYNk16LVNkVlY2LTUtX3lOT0ZYbkdYQ3ZWRm16NWdEamNpdHMwdmtGbnpyQUVUZ09ldlNxRzBMazVlMA?oc=5\" target=\"_blank\">Emily Ekins’ public opinion brief, “Religious Trump Voters: How Faith Moderates Attitudes about Immigration, Race, and Identity,”is cited on The Godcast podcast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cato Institute</font>",
+   "source": "Cato Institute",
+   "side": "conservative_lib",
+   "lang": "en",
+   "published": "2026-11-15T14:09:17+00:00",
+   "collected": "2026-11-22T06:57:58.620585+00:00",
+   "keywords_hit": [
+    "faith",
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Emily Ekins’ public opinion brief, “Religious Trump Voters: How Faith Moderates Attitudes about Immigration, Race, and Identity,”is cited on The Godcast podcast Cato Institute",
+   "angle": null,
+   "corroborated_by": [
+    "Breitbart",
+    "Daily Signal",
+    "Foundation for Defense of Democracies",
+    "Spiked"
+   ]
+  },
+  {
    "id": "4a1ba6d4b15eb68c",
    "title": "Trump Moves to Expose Secret Chinese Funding for US Colleges",
    "link": "https://www.dailysignal.com/2026/11/15/trump-moves-to-expose-secret-chinese-funding-for-us-colleges/",
@@ -31643,536 +32802,6 @@
      "lon": 25.5
     }
    ]
-  },
-  {
-   "id": "a6e7504080b843bb",
-   "title": "Πενθεί το πυροσβεστικό σώμα για τους δύο νεκρούς κατά την κατάσβεση πυρκαγιάς - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQODh1SjJyN1prSzFWVk10ckk5Mmo1OWE2MjZseE9DZmJOajdSWVkxaXBnQzR5ODd4c3ljaTd1Rk1HeWJmQVUzcHNMbkJITWdjMHYybGZTYWVadTI0NmxzUm8zbjkyYUZHcDFCR0JQTjhIRm1YbG9sN0NWTHBZSTMzZmw1UURVQlBlbDdMdnhiOW5hRUxwbnNqa2tvamdLRy1ZMHdhV29XbFMwdDdsbnFpWWdaanFPVHQyTGZ5Yw?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQODh1SjJyN1prSzFWVk10ckk5Mmo1OWE2MjZseE9DZmJOajdSWVkxaXBnQzR5ODd4c3ljaTd1Rk1HeWJmQVUzcHNMbkJITWdjMHYybGZTYWVadTI0NmxzUm8zbjkyYUZHcDFCR0JQTjhIRm1YbG9sN0NWTHBZSTMzZmw1UURVQlBlbDdMdnhiOW5hRUxwbnNqa2tvamdLRy1ZMHdhV29XbFMwdDdsbnFpWWdaanFPVHQyTGZ5Yw?oc=5\" target=\"_blank\">Πενθεί το πυροσβεστικό σώμα για τους δύο νεκρούς κατά την κατάσβεση πυρκαγιάς</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-11-15T06:50:55+00:00",
-   "collected": "2026-11-18T14:05:47.704535+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Πενθεί το πυροσβεστικό σώμα για τους δύο νεκρούς κατά την κατάσβεση πυρκαγιάς Παρατηρητής της Θράκης",
-   "angle": null,
-   "corroborated_by": [
-    "Evros News"
-   ],
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "c262404ce0146bbd",
-   "title": "The GSI, the EU’s Turkey challenge, and Cyprus’ growing role in the East Med",
-   "link": "https://www.ekathimerini.com/multimedia/podcasts/1321418/the-gsi-the-eus-turkey-challenge-and-cyprus-growing-role-in-the-east-med/",
-   "summary_raw": "Nektaria Stamouli, Vassilis Nedos, Marc Pierini, Alan Makovsky and Jonah Brody join Thanos Davelis this week as we look into the latest developments on the Great Sea Interconnector.",
-   "source": "Kathimerini (EN)",
-   "side": "greek_media",
-   "lang": "en",
-   "published": "2026-11-15T06:48:00+00:00",
-   "collected": "2026-11-15T11:01:31.412353+00:00",
-   "keywords_hit": [
-    "east med",
-    "interconnector"
-   ],
-   "category": "Ενέργεια",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Nektaria Stamouli, Vassilis Nedos, Marc Pierini, Alan Makovsky and Jonah Brody join Thanos Davelis this week as we look into the latest developments on the Great Sea Interconnector.",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "73aae539d2da4c6f",
-   "title": "Επίσκεψη στον Κόμβο Κομοτηνής του Europe Direct ΑΜΘ - Παρατηρητής της Θράκης",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZjgzQW01eURuYU5WQU8teTNzRVJKbi1vV2c1aDFQMTFOblkxdk9FR0xlRFJDZ3I5Y3VRMlNReVNXX2RoLWx4RVZvMkNLbnpldmJlemFzamlLMXBCXzh5d1RUdVZ3N2JxU015dmlwQlZGUlJpTXpLVTZYeXU4Ylh2N2FfM0Y2SUQ2SXlqSEUzeWVNTnJuZ3Axdzc0WQ?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZjgzQW01eURuYU5WQU8teTNzRVJKbi1vV2c1aDFQMTFOblkxdk9FR0xlRFJDZ3I5Y3VRMlNReVNXX2RoLWx4RVZvMkNLbnpldmJlemFzamlLMXBCXzh5d1RUdVZ3N2JxU015dmlwQlZGUlJpTXpLVTZYeXU4Ylh2N2FfM0Y2SUQ2SXlqSEUzeWVNTnJuZ3Axdzc0WQ?oc=5\" target=\"_blank\">Επίσκεψη στον Κόμβο Κομοτηνής του Europe Direct ΑΜΘ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Παρατηρητής της Θράκης</font>",
-   "source": "Παρατηρητής της Θράκης",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-11-15T06:18:00+00:00",
-   "collected": "2026-11-15T17:45:59.884420+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Επίσκεψη στον Κόμβο Κομοτηνής του Europe Direct ΑΜΘ Παρατηρητής της Θράκης",
-   "angle": null,
-   "corroborated_by": [
-    "Evros News"
-   ],
-   "locations": [
-    {
-     "name": "Κομοτηνή",
-     "lat": 41.12,
-     "lon": 25.41
-    },
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "ebbc0e2ff56d640d",
-   "title": "The Midterms Opened a Door for Faith That Crosses the Aisle - The Dispatch",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZbGpFOHR1aWh0TFJaek9keWdCdTFYRzRpTEU5ekhvOEpobm5hWno0MWFlZ0FKbjc4RWZqd1Z3SnVTVlYwNVl0Y1djLXVQalc2ak5zYzlUVmhDd3FWekxITTNTNnA5T3FwRTlleWFDM0U3Z3BIeWNMeERqbG5LaFk?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBZbGpFOHR1aWh0TFJaek9keWdCdTFYRzRpTEU5ekhvOEpobm5hWno0MWFlZ0FKbjc4RWZqd1Z3SnVTVlYwNVl0Y1djLXVQalc2ak5zYzlUVmhDd3FWekxITTNTNnA5T3FwRTlleWFDM0U3Z3BIeWNMeERqbG5LaFk?oc=5\" target=\"_blank\">The Midterms Opened a Door for Faith That Crosses the Aisle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dispatch</font>",
-   "source": "The Dispatch",
-   "side": "conservative_tt",
-   "lang": "en",
-   "published": "2026-11-15T06:03:58+00:00",
-   "collected": "2026-11-17T22:56:58.739590+00:00",
-   "keywords_hit": [
-    "faith"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "The Midterms Opened a Door for Faith That Crosses the Aisle The Dispatch",
-   "angle": null
-  },
-  {
-   "id": "06d3d785d8a892ea",
-   "title": "Η Ανατολική Μακεδονία και Θράκη φέρνει τα μέλια της στο 17ο Φεστιβάλ Ελληνικού Μελιού - xronos.gr",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjlTTTB5YTZJRWhjSzRTdDA3UUpzNHRyRkZoQkd3WkVrSFozbzcyTGR2aDBVTkV4ck9Wby13U2owMVc0SlRTXzFYQnBMejF5dkRNb2NfV1RqY1pyX3kwYUtrcjRJZ29rakFSdndLbWp5RkNmV2N0UlphMkxWMEVvWGViZHVJVWZ0a3haN1pZcGFoQnU2RUdrRWhZSEVvN0tzN0c3eUZVY282TEdZMFBrMTB3NUk?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjlTTTB5YTZJRWhjSzRTdDA3UUpzNHRyRkZoQkd3WkVrSFozbzcyTGR2aDBVTkV4ck9Wby13U2owMVc0SlRTXzFYQnBMejF5dkRNb2NfV1RqY1pyX3kwYUtrcjRJZ29rakFSdndLbWp5RkNmV2N0UlphMkxWMEVvWGViZHVJVWZ0a3haN1pZcGFoQnU2RUdrRWhZSEVvN0tzN0c3eUZVY282TEdZMFBrMTB3NUk?oc=5\" target=\"_blank\">Η Ανατολική Μακεδονία και Θράκη φέρνει τα μέλια της στο 17ο Φεστιβάλ Ελληνικού Μελιού</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xronos.gr</font>",
-   "source": "Χρόνος (Κομοτηνή)",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-11-15T06:02:48+00:00",
-   "collected": "2026-11-16T11:31:49.781678+00:00",
-   "keywords_hit": [
-    "θράκη"
-   ],
-   "category": "Θράκη",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Η Ανατολική Μακεδονία και Θράκη φέρνει τα μέλια της στο 17ο Φεστιβάλ Ελληνικού Μελιού xronos.gr",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "a5e0315ecc94a83b",
-   "title": "Τζιτζικώστας: «Game changer στα Βαλκάνια ο νέος σιδηροδρομικός άξονας για Αλεξανδρούπολη»",
-   "link": "https://www.evros-news.gr/2026/11/15/tzitzikostas-game-changer-sta-valkania-o-neos-sidirodromikos-axonas-gia-alexandroupoli/",
-   "summary_raw": "Ο Έβρος μπορεί να συνεχίζει χρόνια τώρα να είναι αποκομμένος σιδηροδρομικά από την Θεσσαλονίκη και κατ&#8217; επέκταση όλη την Ελλάδα, αλλά ο Έλληνας Ευρωπαίος Επίτροπος [&#8230;]",
-   "source": "Evros News",
-   "side": "thrace_greek",
-   "lang": "el",
-   "published": "2026-11-15T06:00:45+00:00",
-   "collected": "2026-11-15T11:01:41.836273+00:00",
-   "keywords_hit": [
-    "έβρος"
-   ],
-   "category": "Θράκη",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Ο Έβρος μπορεί να συνεχίζει χρόνια τώρα να είναι αποκομμένος σιδηροδρομικά από την Θεσσαλονίκη και κατ’ επέκταση όλη την Ελλάδα, αλλά ο Έλληνας Ευρωπαίος Επίτροπος […]",
-   "angle": null,
-   "corroborated_by": [
-    "e-Evros"
-   ],
-   "locations": [
-    {
-     "name": "Αλεξανδρούπολη",
-     "lat": 40.85,
-     "lon": 25.87
-    },
-    {
-     "name": "Έβρος",
-     "lat": 41.12,
-     "lon": 26.35
-    },
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Θεσσαλονίκη",
-     "lat": 40.64,
-     "lon": 22.94
-    }
-   ]
-  },
-  {
-   "id": "1843ce9c038d6b20",
-   "title": "What Trump Can Get Out of the Trilateral Shenzhen Summit - The American Conservative",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkJac0hEVjhTbldnNk5KdlpUSExvOGZIdlJDdi1zTGNjYVNXcXJkdGpya1d4ckRlQ0c0dWJ1Y1lzemVsMkNsTkRnLVpWeUt3cjc3cVdwRmFjQklaT2RTQk5KdFRlQ0dVU3p1U2pMVzRFNm5TcmNwSGtwQ1MtZjRDV25pWjBIUEs5YURha2NwSXpwVjhjOFB5TlV1ZlgzTUVONGc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkJac0hEVjhTbldnNk5KdlpUSExvOGZIdlJDdi1zTGNjYVNXcXJkdGpya1d4ckRlQ0c0dWJ1Y1lzemVsMkNsTkRnLVpWeUt3cjc3cVdwRmFjQklaT2RTQk5KdFRlQ0dVU3p1U2pMVzRFNm5TcmNwSGtwQ1MtZjRDV25pWjBIUEs5YURha2NwSXpwVjhjOFB5TlV1ZlgzTUVONGc?oc=5\" target=\"_blank\">What Trump Can Get Out of the Trilateral Shenzhen Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Conservative</font>",
-   "source": "The American Conservative",
-   "side": "conservative_class",
-   "lang": "en",
-   "published": "2026-11-15T05:05:00+00:00",
-   "collected": "2026-11-15T17:46:56.012130+00:00",
-   "keywords_hit": [
-    "trump"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "What Trump Can Get Out of the Trilateral Shenzhen Summit The American Conservative",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "ad94bb92613446c4",
-   "title": "China Unleashes a Sweeping Crackdown on Christians - Hudson Institute",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPand2Um5rMWpydEdqN1lycGV5Z2l3Z244V2lKTXl5b1I4eGtJd1RDeXBOZmFFSm1Ddm9BTmxnR2JBZDUyUXRDUUdETnFnTzNGN0UxcUNQMjV5Zm5Fa1ozVUU3aXVDTEV0SlVMUjQ2Vzg5THVfRWdHbm9walE5eENmZDNLNGJMZlluTjJXRnp3aUdUMUtPaHc?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPand2Um5rMWpydEdqN1lycGV5Z2l3Z244V2lKTXl5b1I4eGtJd1RDeXBOZmFFSm1Ddm9BTmxnR2JBZDUyUXRDUUdETnFnTzNGN0UxcUNQMjV5Zm5Fa1ozVUU3aXVDTEV0SlVMUjQ2Vzg5THVfRWdHbm9walE5eENmZDNLNGJMZlluTjJXRnp3aUdUMUtPaHc?oc=5\" target=\"_blank\">China Unleashes a Sweeping Crackdown on Christians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hudson Institute</font>",
-   "source": "Hudson Institute",
-   "side": "conservative_tt",
-   "lang": "en",
-   "published": "2026-11-15T05:00:00+00:00",
-   "collected": "2026-11-17T04:33:32.969545+00:00",
-   "keywords_hit": [
-    "christian"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "China Unleashes a Sweeping Crackdown on Christians Hudson Institute",
-   "angle": null,
-   "corroborated_by": [
-    "Cato Institute",
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "e4ed778b1e874085",
-   "title": "Dem Rep.-elect Hamawy Dodges on if Israel Has Right to Exist, Defends Moral Equivalence Between U.S., Iran",
-   "link": "https://www.breitbart.com/clips/2026/11/14/dem-rep-elect-hamawy-dodges-on-if-israel-has-right-to-exist-defends-moral-equivalence-between-u-s-iran/",
-   "summary_raw": "<p>During an interview with &#8220;NJ PBS News,&#8221; Rep.-elect Adam Hamawy (D-NJ) responded to questions on if Israel has a right to exist by saying that &#8220;It currently exists. It&#8217;s the same question that everyone keeps asking over and over again. I</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/11/14/dem-rep-elect-hamawy-dodges-on-if-israel-has-right-to-exist-defends-moral-equivalence-between-u-s-iran/\" rel=\"nofollow\">Dem Rep.-elect Hamawy Dodges on if Israel Has Right to Exist, Defends Moral Equivalence Between U.S., Iran</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-15T03:37:46+00:00",
-   "collected": "2026-11-15T11:02:27.074077+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "During an interview with “NJ PBS News,” Rep.-elect Adam Hamawy (D-NJ) responded to questions on if Israel has a right to exist by saying that “It currently exists. It’s the same question that everyone",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "5d6af374f989a527",
-   "title": "Αυξάνει τις εισαγωγές LNG η Ευρώπη, αλλά υπολείπονται σε σχέση με πέρυσι - Energypress",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3ZUQm4zUE9reW5XVHlMbHlVWENDalJnMUhfX3lCX1F2SUhXeHVQSS1UWHhGQ1VLeUI1bnR5U3hpT0syOEN4VWdDTDYyN0t0TGlsMlp2SHhUTl9OMXhDelJkV0h6WU1BSGRhLWdQNTdadUJQbEtoUjhXZTJaTHZJRElRTEFyb182TXNaNUtsd0tHZnR4VjNhOVhqQW1NZWky?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3ZUQm4zUE9reW5XVHlMbHlVWENDalJnMUhfX3lCX1F2SUhXeHVQSS1UWHhGQ1VLeUI1bnR5U3hpT0syOEN4VWdDTDYyN0t0TGlsMlp2SHhUTl9OMXhDelJkV0h6WU1BSGRhLWdQNTdadUJQbEtoUjhXZTJaTHZJRElRTEFyb182TXNaNUtsd0tHZnR4VjNhOVhqQW1NZWky?oc=5\" target=\"_blank\">Αυξάνει τις εισαγωγές LNG η Ευρώπη, αλλά υπολείπονται σε σχέση με πέρυσι</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
-   "source": "Energypress",
-   "side": "greek_energy",
-   "lang": "el",
-   "published": "2026-11-15T02:46:12+00:00",
-   "collected": "2026-11-18T14:06:10.565871+00:00",
-   "keywords_hit": [
-    "lng"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Αυξάνει τις εισαγωγές LNG η Ευρώπη, αλλά υπολείπονται σε σχέση με πέρυσι Energypress",
-   "angle": null
-  },
-  {
-   "id": "6796817f1ef05889",
-   "title": "Yunanistan’da yağış ve fırtına alarmı: Batı Trakya’da da sağanak ve kuvvetli rüzgâr bekleniyor",
-   "link": "https://www.milletgazetesi.gr/yunanistan/yunanistanda-yagis-ve-firtina-alarmi-bati-trakyada-da-saganak-ve-kuvvetli-ruzgar-bekleniyor",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Yunanistan)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-11-15T02:45:19.384113+00:00",
-   "collected": "2026-11-15T02:45:19.384115+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null,
-   "corroborated_by": [
-    "Millet Gazetesi (Batı Trakya)"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "79d66b4ed21befbc",
-   "title": "ELAS Sözcü Yardımcısı Papadopulu Batı Trakya'da vatandaşlarla buluştu",
-   "link": "https://www.milletgazetesi.gr/bati-trakya/elas-sozcu-yardimcisi-papadopulu-bati-trakyada-vatandaslarla-bulustu",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Batı Trakya)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-11-15T02:45:17.696159+00:00",
-   "collected": "2026-11-15T02:45:17.696161+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null,
-   "corroborated_by": [
-    "Millet Gazetesi (Yunanistan)"
-   ],
-   "locations": [
-    {
-     "name": "Θράκη",
-     "lat": 41.1,
-     "lon": 25.5
-    }
-   ]
-  },
-  {
-   "id": "ea15a04d9c0155e3",
-   "title": "WarMonitor RT @visionergeo: BIG | 🇬🇧🇷🇺‼️‼️ PUTIN DEMANDS BRITAIN STOP EXTENDING ITS NUCLEAR DETERRENT TO EUROPEAN ALLIES! According to The Telegraph, Russian President Vladimir Put…",
-   "link": "https://t.me/OSINTLive/592731",
-   "summary_raw": "WarMonitor RT @visionergeo: BIG | 🇬🇧🇷🇺‼️‼️ PUTIN DEMANDS BRITAIN STOP EXTENDING ITS NUCLEAR DETERRENT TO EUROPEAN ALLIES! According to The Telegraph, Russian President Vladimir Putin wants the United Kingdom to abandon the use of its nuclear arsenal to protect other European countries, introducing another far-reaching demand into negotiations over ending the war in Ukraine.  The proposal is reportedly included in a package of demands prepared by Russian representatives for the peace negotiations. Britain maintains a submarine-based nuclear deterrent committed to NATO’s collective defense, making its nuclear forces an important component of the alliance’s security arrangements. Moscow’s demand would restrict London’s ability to extend nuclear protection to European allies, potentially altering NATO’s existing deterrence posture.  The proposal illustrates how Russia is seeking concessions extending well beyond the battlefield in Ukraine. Restricting Britain’s nuclear commitments could weaken NATO’s deterrence framework and increase uncertainty among European allies about their collective security. Incorporating such demands into peace negotiations would also raise fundamental questio",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-11-15T02:35:53+00:00",
-   "collected": "2026-11-15T02:45:14.385991+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Διπλωματία",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "WarMonitor RT @visionergeo: BIG | 🇬🇧🇷🇺‼️‼️ PUTIN DEMANDS BRITAIN STOP EXTENDING ITS NUCLEAR DETERRENT TO EUROPEAN ALLIES! According to The Telegraph, Russian President Vladimir Putin wants the United ",
-   "angle": null,
-   "corroborated_by": [
-    "OSINT613"
-   ]
-  },
-  {
-   "id": "5a9ce664fbf034ea",
-   "title": "2 commercial vessels struck by drones near Romania's Danube Delta: Defense Ministry",
-   "link": "https://www.aa.com.tr/en/europe/2-commercial-vessels-struck-by-drones-near-romanias-danube-delta-defense-ministry/4125475",
-   "summary_raw": "Ministry reports fires aboard Greek-flagged oil tanker and bulk carrier, with no casualties reported",
-   "source": "Anadolu Agency (EN)",
-   "side": "turkish_state",
-   "lang": "en",
-   "published": "2026-11-15T02:07:27+00:00",
-   "collected": "2026-11-15T11:01:29.791719+00:00",
-   "keywords_hit": [
-    "greek"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Ministry reports fires aboard Greek-flagged oil tanker and bulk carrier, with no casualties reported",
-   "angle": null
-  },
-  {
-   "id": "113ddbeb30cef268",
-   "title": "WarMonitor RT @nexta_tv: Rishi Sunak: Britain must prepare for a battle over the Arctic  The former British prime minister said London must be ready to strike Russian bases on the …",
-   "link": "https://t.me/OSINTLive/592719",
-   "summary_raw": "WarMonitor RT @nexta_tv: Rishi Sunak: Britain must prepare for a battle over the Arctic  The former British prime minister said London must be ready to strike Russian bases on the Kola Peninsula, home to Russia’s Northern Fleet and a significant part of its nuclear forces.  In his view, the West must show Moscow that it can inflict damage on Russian military infrastructure.  Sunak identified the potential loss of control over the North Atlantic as the main threat. In the event of a war, this could complicate the deployment of US troops and equipment to Europe.  Submarine cables carrying around 99% of global internet traffic would also be at risk.  Sunak called for increased underwater surveillance, closer cooperation with northern European allies and greater preparation of British commandos for operations in the Arctic.  Meanwhile, Russian naval activity off the British coast has increased by 41%. tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-11-15T01:35:27+00:00",
-   "collected": "2026-11-15T02:45:14.384377+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "WarMonitor RT @nexta_tv: Rishi Sunak: Britain must prepare for a battle over the Arctic The former British prime minister said London must be ready to strike Russian bases on the Kola Peninsula, home ",
-   "angle": null
-  },
-  {
-   "id": "b9473ea07438b8c9",
-   "title": "Open Source Intel Israel recorded its 5th consecutive year of record defense exports in 2025, reaching $19.2 billion in new contracts. High tech exports also hit a record $85 billi…",
-   "link": "https://t.me/OSINTLive/592716",
-   "summary_raw": "Open Source Intel Israel recorded its 5th consecutive year of record defense exports in 2025, reaching $19.2 billion in new contracts. High tech exports also hit a record $85 billion, accounting for 58% of total exports.  In 2026, Greece signed a €3 billion Achilles Shield deal alongside a $750 million PULS agreement. Several other major defense contracts have also been signed to European countries , with Israel on track for another potentially record year in defense exports. tweet",
-   "source": "Telegram @OSINTLive",
-   "side": "telegram_x_mirror",
-   "lang": "en",
-   "published": "2026-11-15T01:35:23+00:00",
-   "collected": "2026-11-15T02:45:14.383772+00:00",
-   "keywords_hit": [
-    "greece"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Open Source Intel Israel recorded its 5th consecutive year of record defense exports in 2025, reaching $19.2 billion in new contracts. High tech exports also hit a record $85 billion, accounting for 5",
-   "angle": null,
-   "corroborated_by": [
-    "OSINT613"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "6da5653d74e722f2",
-   "title": "Israel Defense Exports Hit $19.2B",
-   "link": "https://www.osint613.com/post/israel-defense-exports-hit-19-2b-27903",
-   "summary_raw": "Israel recorded its 5th consecutive year of record defense exports in 2025, reaching $19.2 billion in new contracts. High tech exports also hit a record $85 billion, accounting for 58% of total exports.\n\nIn 2026, Greece signed a €3 billion Achilles Shield deal alongside a $750 million PULS agreement. Several other major defense contracts have also been signed to European countries , with Israel on track for another potentially record year in defense exports.",
-   "source": "OSINT613",
-   "side": "osint_middle_east",
-   "lang": "en",
-   "published": "2026-11-15T01:24:21+00:00",
-   "collected": "2026-11-15T02:44:44.954818+00:00",
-   "keywords_hit": [
-    "greece"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 5,
-   "turkish_narrative": false,
-   "summary_el": "Israel recorded its 5th consecutive year of record defense exports in 2025, reaching $19.2 billion in new contracts. High tech exports also hit a record $85 billion, accounting for 58% of total export",
-   "angle": null,
-   "corroborated_by": [
-    "Telegram @OSINTLive"
-   ],
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "9032440d9df3f527",
-   "title": "GOP Sen. Cramer: I Suspect People Just Took Huang's Word Nothing Bad Was Happening",
-   "link": "https://www.breitbart.com/clips/2026/11/14/gop-sen-cramer-i-suspect-people-just-took-huangs-word-nothing-bad-was-happening/",
-   "summary_raw": "<p>On Friday&#8217;s broadcast of the Fox News Channel&#8217;s &#8220;The Story,&#8221; Sen. Kevin Cramer (R-ND) discussed NVIDIA and chips going to China and said that he suspects that &#8220;people were just taking Mr. Huang&#8217;s word for it that there was nothing</p>\n<p>The post <a href=\"https://www.breitbart.com/clips/2026/11/14/gop-sen-cramer-i-suspect-people-just-took-huangs-word-nothing-bad-was-happening/\" rel=\"nofollow\">GOP Sen. Cramer: I Suspect People Just Took Huang&#8217;s Word Nothing Bad Was Happening</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-15T01:22:55+00:00",
-   "collected": "2026-11-15T22:54:39.456451+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "On Friday’s broadcast of the Fox News Channel’s “The Story,” Sen. Kevin Cramer (R-ND) discussed NVIDIA and chips going to China and said that he suspects that “people were just taking Mr. Huang’s word",
-   "angle": null,
-   "corroborated_by": [
-    "UnHerd"
-   ]
-  },
-  {
-   "id": "efb19179cc1e7524",
-   "title": "#USA  The U.S. Navy is developing the SSN(X), a next-generation nuclear-powered attack submarine designed to enhance capabilities such as speed, payload capacity, and acoustic supe…",
-   "link": "https://t.me/OSINTdefender/20759",
-   "summary_raw": "#USA  The U.S. Navy is developing the SSN(X), a next-generation nuclear-powered attack submarine designed to enhance capabilities such as speed, payload capacity, and acoustic superiority. This submarine aims to succeed the Virginia-class and is expected to begin construction around 2040.  Subscribe to @OSINTdefender Chat room",
-   "source": "Telegram @OSINTdefender",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-11-15T00:35:17+00:00",
-   "collected": "2026-11-15T02:45:12.427214+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "#USA The U.S. Navy is developing the SSN(X), a next-generation nuclear-powered attack submarine designed to enhance capabilities such as speed, payload capacity, and acoustic superiority. This submari",
-   "angle": null
-  },
-  {
-   "id": "c98656172375adce",
-   "title": "Gerapetritis: French Research Ship Operating Only Under Greek Licence and NAVTEX",
-   "link": "https://greekcitytimes.com/2026/11/15/gerapetritis-abeille-marengo-greek-licence-navtex/",
-   "summary_raw": "<p>Foreign Minister Giorgos Gerapetritis told party leaders the French vessel surveying the Greece-Cyprus cable route is working solely under Greek licensing and a Greek NAVTEX.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/11/15/gerapetritis-abeille-marengo-greek-licence-navtex/\">Gerapetritis: French Research Ship Operating Only Under Greek Licence and NAVTEX</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-11-14T23:47:17+00:00",
-   "collected": "2026-11-15T02:44:14.540058+00:00",
-   "keywords_hit": [
-    "navtex",
-    "gerapetritis"
-   ],
-   "category": "Αιγαίο-ΑΟΖ",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Foreign Minister Giorgos Gerapetritis told party leaders the French vessel surveying the Greece-Cyprus cable route is working solely under Greek licensing and a Greek NAVTEX. The post Gerapetritis: Fr",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    },
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "a33208de5ad8cb95",
-   "title": "gov.gr’s AI Assistant Will Soon Collect Your Documents for You, Says EKT Chief",
-   "link": "https://greekcitytimes.com/2026/11/15/gov-gr-ai-digital-assistant-ekt-kyriakos-tolias/",
-   "summary_raw": "<p>Greece's gov.gr digital assistant is set to start gathering certificates and documents for citizens, while a new EKT tool will let 14,000 businesses benchmark their ESG performance.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/11/15/gov-gr-ai-digital-assistant-ekt-kyriakos-tolias/\">gov.gr’s AI Assistant Will Soon Collect Your Documents for You, Says EKT Chief</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-11-14T23:31:13+00:00",
-   "collected": "2026-11-15T02:44:14.540409+00:00",
-   "keywords_hit": [
-    "esg"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Greece's gov.gr digital assistant is set to start gathering certificates and documents for citizens, while a new EKT tool will let 14,000 businesses benchmark their ESG performance. The post gov.gr’s ",
-   "angle": null
   }
  ]
 }
