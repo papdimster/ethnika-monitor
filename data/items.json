@@ -1,7 +1,631 @@
 {
- "updated": "2026-11-22T21:52:44.320657+00:00",
- "count": 1446,
+ "updated": "2026-11-23T02:53:16.299247+00:00",
+ "count": 1461,
  "items": [
+  {
+   "id": "1be0ae5dbbcf9f7f",
+   "title": "Egypt denies withdrawing military experts from Libya’s Benghazi",
+   "link": "https://www.aa.com.tr/en/middle-east/egypt-denies-withdrawing-military-experts-from-libya-s-benghazi/4133902",
+   "summary_raw": "Eastern Libyan military command also dismisses reports of rift with Cairo",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-23T02:45:12+00:00",
+   "collected": "2026-11-23T02:50:54.789699+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Mεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Eastern Libyan military command also dismisses reports of rift with Cairo",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    },
+    {
+     "name": "Κάιρο",
+     "lat": 30.04,
+     "lon": 31.24
+    }
+   ]
+  },
+  {
+   "id": "462dfc29976abd3a",
+   "title": "GMI Within a matter of days, Ukraine has struck a Russian cargo vessel in the Baltic Sea, destroyed a Russian Navy Steregushchiy-class corvette in Benghazi, Libya, and hit another …",
+   "link": "https://t.me/OSINTLive/596028",
+   "summary_raw": "GMI Within a matter of days, Ukraine has struck a Russian cargo vessel in the Baltic Sea, destroyed a Russian Navy Steregushchiy-class corvette in Benghazi, Libya, and hit another Russian cargo ship off the Libyan coast.  Ukraine is increasingly extending its maritime strike campaign beyond traditional theaters, demonstrating an expanding ability to target Russian maritime assets wherever they operate. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-11-23T02:31:39+00:00",
+   "collected": "2026-11-23T02:52:21.947792+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "GMI Within a matter of days, Ukraine has struck a Russian cargo vessel in the Baltic Sea, destroyed a Russian Navy Steregushchiy-class corvette in Benghazi, Libya, and hit another Russian cargo ship o",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @AMK_Mapping"
+   ],
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "44f336840b6d2d1f",
+   "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+   "summary_raw": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-11-23T01:51:32+00:00",
+   "collected": "2026-11-23T02:51:23.584284+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+   "angle": null,
+   "corroborated_by": [
+    "Libya Observer",
+    "Libya Review",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ],
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "5e69496212d3d61e",
+   "title": "Η επόμενη ημέρα του ναυαγίου στην COP31 με βαθύ ρήγμα για τα ορυκτά καύσιμα και ανοιχτούς λογαριασμούς για το κλίμα",
+   "link": "https://www.protothema.gr/world/article/1915313/i-epomeni-imera-tou-nauagiou-stin-cop31-me-vathu-rigma-gia-ta-orukta-kausima-kai-anoihtous-logariasmous-gia-to-klima/?utm_source=rss",
+   "summary_raw": "Η ΕΕ αρνήθηκε να εγκρίνει το τελικό σχέδιο, ο Γκουτέρες εξέφρασε απογοήτευση και οι διαφωνίες μεταφέρονται στην επόμενη Σύνοδο - Τι συμφωνήθηκε παρά το αδιέξοδο",
+   "source": "Πρώτο Θέμα",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-11-23T01:43:07+00:00",
+   "collected": "2026-11-23T02:51:43.363068+00:00",
+   "keywords_hit": [
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Η ΕΕ αρνήθηκε να εγκρίνει το τελικό σχέδιο, ο Γκουτέρες εξέφρασε απογοήτευση και οι διαφωνίες μεταφέρονται στην επόμενη Σύνοδο - Τι συμφωνήθηκε παρά το αδιέξοδο",
+   "angle": null,
+   "corroborated_by": [
+    "ΕΡΤ News"
+   ]
+  },
+  {
+   "id": "8d988b6988acc664",
+   "title": "OSINTdefender The Libyan National Army’s Naval Operations officer, Abu Bakr al-Badri has made a statement on the recent Ukrainian strikes against Russian naval and military hardwar…",
+   "link": "https://t.me/OSINTLive/596019",
+   "summary_raw": "OSINTdefender The Libyan National Army’s Naval Operations officer, Abu Bakr al-Badri has made a statement on the recent Ukrainian strikes against Russian naval and military hardware-laden merchant vessels off the coast of Benghazi, Libya, saying that the “situation is under control” and that measures will be implemented to maintain the security and safety of facilities in the future. tweet",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-11-23T01:30:26+00:00",
+   "collected": "2026-11-23T02:52:21.946804+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "OSINTdefender The Libyan National Army’s Naval Operations officer, Abu Bakr al-Badri has made a statement on the recent Ukrainian strikes against Russian naval and military hardware-laden merchant ves",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "Libya Review",
+    "OSINT613"
+   ],
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "dfd3db3d51bd4859",
+   "title": "WarMonitor RT @InsiderGeo: NEW: Two Russian diplomats have been expelled from Cyprus following an intelligence operation that uncovered their alleged espionage activities.  Accordi…",
+   "link": "https://t.me/OSINTLive/596015",
+   "summary_raw": "WarMonitor RT @InsiderGeo: NEW: Two Russian diplomats have been expelled from Cyprus following an intelligence operation that uncovered their alleged espionage activities.  According to ANT1 Cyprus, the two diplomats were suspected of working as undercover agents for Russian intelligence services. The Cyprus Intelligence Service (KYP) reportedly placed them under surveillance and dismantled a network of Russian agents, uncovering their contacts with Cypriot citizens who had access to confidential information through their official positions.  The network was allegedly attempting to obtain classified information concerning the national security of Cyprus and the European Union, as well as access to sensitive technology in violation of EU sanctions against Russia.  The espionage activities reportedly took place during a particularly sensitive period, including the six-month period in which Cyprus held the Presidency of the Council of the European Union.  A security services official did not deny the reports and indicated that further operations against foreign intelligence activities could follow, adding that this was not the first time Cyprus had disrupted espionage activities invol",
+   "source": "Telegram @OSINTLive",
+   "side": "telegram_x_mirror",
+   "lang": "en",
+   "published": "2026-11-23T01:30:11+00:00",
+   "collected": "2026-11-23T02:52:21.946180+00:00",
+   "keywords_hit": [
+    "espionage",
+    "intelligence operation",
+    "cyprus",
+    "cypriot"
+   ],
+   "category": "Κυπριακό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "WarMonitor RT @InsiderGeo: NEW: Two Russian diplomats have been expelled from Cyprus following an intelligence operation that uncovered their alleged espionage activities. According to ANT1 Cyprus, th",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    }
+   ]
+  },
+  {
+   "id": "0fcfa2c3a86614b6",
+   "title": "Ανησυχία του ΟΗΕ για τις επιθέσεις σε πλοία ανοιχτά της Βεγγάζης",
+   "link": "https://www.ertnews.gr/eidiseis/diethni/anisyxia-tou-oie-gia-tis-epitheseis-se-ploia-anoixta-tis-veggazis/",
+   "summary_raw": "<img alt=\"stigmiotypo-othonis-2026-11-23-023921\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"606\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/11/stigmiotypo-othonis-2026-11-23-023921.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"994\" /><p>Την έντονη ανησυχία τους εξέφρασαν τις πρώτες πρωινές ώρες της Δευτέρας, τα Ηνωμένα Έθνη για τις επιθέσεις με μη επανδρωμένα αεροσκάφη (drones) εναντίον δύο πλοίων, ανοιχτά της Βεγγάζης στη Λιβύη. Η Αποστολή Υποστήριξης των Ηνωμένων Εθνών στη Λιβύη (UNSMIL), σε ανάρτησή της στην πλατφόρμα X, ανέφερε ότι «εκφράζει σοβαρή ανησυχία για τις επιθέσεις που σημειώθηκαν ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/anisyxia-tou-oie-gia-tis-epitheseis-se-ploia-anoixta-tis-veggazis/\" title=\"Ανησυχία του ΟΗΕ για τις επιθέσεις σε πλοία ανοιχτά της Βεγγάζης\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-11-23T01:27:00+00:00",
+   "collected": "2026-11-23T02:50:57.915993+00:00",
+   "keywords_hit": [
+    "λιβύη",
+    "βεγγάζη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Την έντονη ανησυχία τους εξέφρασαν τις πρώτες πρωινές ώρες της Δευτέρας, τα Ηνωμένα Έθνη για τις επιθέσεις με μη επανδρωμένα αεροσκάφη (drones) εναντίον δύο πλοίων, ανοιχτά της Βεγγάζης στη Λιβύη. Η Α",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "5b428460bf0c5976",
+   "title": "COP31: Γιατί ναυάγησαν οι συνομιλίες για το κλίμα  – Οι διαφωνίες για τα ορυκτά καύσιμα και το χάσμα μεταξύ πλούσιων και φτωχών χωρών",
+   "link": "https://www.ertnews.gr/eidiseis/cop31-giati-nayagisan-oi-synomilies-gia-to-klima-oi-diafonies-gia-ta-orykta-kaysima-kai-to-xasma-metaksy-plousion-kai-ftoxon-xoron/",
+   "summary_raw": "<img alt=\"Climate COP31 Turkey\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/11/ap26324356608674-2-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Χωρίς μια σημαντική νέα συμφωνία για την αντιμετώπιση της κλιματικής αλλαγής ολοκληρώθηκαν οι διαπραγματεύσεις της COP31 του ΟΗΕ στην Τουρκία, καθώς οι χώρες δεν κατάφεραν να γεφυρώσουν τις διαφωνίες τους για τα ορυκτά καύσιμα και τη χρηματοδότηση των φτωχότερων κρατών. Οι συνομιλίες, που επρόκειτο να ολοκληρωθούν την Παρασκευή, παρατάθηκαν έως αργά την Κυριακή, στην προσπάθεια ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/cop31-giati-nayagisan-oi-synomilies-gia-to-klima-oi-diafonies-gia-ta-orykta-kaysima-kai-to-xasma-metaksy-plousion-kai-ftoxon-xoron/\" title=\"COP31: Γιατί ναυάγησαν οι συνομιλίες για το κλίμα  &#8211; Οι διαφωνίες για τα ορυκτά καύσιμα και το χάσμα μεταξύ πλούσιων και φτωχών χωρών\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-11-23T01:10:00+00:00",
+   "collected": "2026-11-23T02:50:57.916296+00:00",
+   "keywords_hit": [
+    "κλιματικ",
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Χωρίς μια σημαντική νέα συμφωνία για την αντιμετώπιση της κλιματικής αλλαγής ολοκληρώθηκαν οι διαπραγματεύσεις της COP31 του ΟΗΕ στην Τουρκία, καθώς οι χώρες δεν κατάφεραν να γεφυρώσουν τις διαφωνίες ",
+   "angle": null,
+   "corroborated_by": [
+    "Πρώτο Θέμα"
+   ]
+  },
+  {
+   "id": "3cca81c88574db15",
+   "title": "UN warns Libya ‘must not become a battleground for foreign conflicts’ after Benghazi attacks",
+   "link": "https://www.aa.com.tr/en/middle-east/un-warns-libya-must-not-become-a-battleground-for-foreign-conflicts-after-benghazi-attacks/4133896",
+   "summary_raw": "Mission calls for immediate, independent and transparent investigation to hold those responsible to account",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-23T00:58:12+00:00",
+   "collected": "2026-11-23T02:50:54.790079+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Mεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Mission calls for immediate, independent and transparent investigation to hold those responsible to account",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "38e60b0d915fd6c1",
+   "title": "⚡️ The United Nations condemns attacks off the coast of Benghazi and calls for an independent investigation",
+   "link": "https://t.me/me_observer_TG/1136016",
+   "summary_raw": "⚡️ The United Nations condemns attacks off the coast of Benghazi and calls for an independent investigation",
+   "source": "Telegram @me_observer_TG",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-11-23T00:55:15+00:00",
+   "collected": "2026-11-23T02:52:21.206114+00:00",
+   "keywords_hit": [
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "⚡️ The United Nations condemns attacks off the coast of Benghazi and calls for an independent investigation",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "Libya Review",
+    "OSINT613"
+   ],
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "c3ebdea2a9369a70",
+   "title": "🇺🇦🇷🇺🇱🇾⚡️ — Satellite imagery released by Vantor shows the Russian Navy's Project 20380 corvette Mercury (734) sunk at the port of Benghazi, eastern Libya.  @OSINTWarfare",
+   "link": "https://t.me/AMK_Mapping/41086",
+   "summary_raw": "🇺🇦🇷🇺🇱🇾⚡️ — Satellite imagery released by Vantor shows the Russian Navy's Project 20380 corvette Mercury (734) sunk at the port of Benghazi, eastern Libya.  @OSINTWarfare",
+   "source": "Telegram @AMK_Mapping",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-11-23T00:25:31+00:00",
+   "collected": "2026-11-23T02:52:22.694118+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "🇺🇦🇷🇺🇱🇾⚡️ — Satellite imagery released by Vantor shows the Russian Navy's Project 20380 corvette Mercury (734) sunk at the port of Benghazi, eastern Libya. @OSINTWarfare",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive"
+   ],
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "a2338c073b1a4423",
+   "title": "The unmanned surface vehicles (USV) used in the Ukrainian attack on Russian naval and military hardware-laden merchant vessels off the coast of Libya have been identified as the Sa…",
+   "link": "https://t.me/AMK_Mapping/41084",
+   "summary_raw": "The unmanned surface vehicles (USV) used in the Ukrainian attack on Russian naval and military hardware-laden merchant vessels off the coast of Libya have been identified as the Sargan 3000, also known as the SeaWolf. The system, used before, has been involved in a number of notable operations, including what was ostensibly the first USV on USV engagement when a Sargan with a platformed turret engaged and destroyed a Russian USV.",
+   "source": "Telegram @AMK_Mapping",
+   "side": "telegram_middle_east",
+   "lang": "en",
+   "published": "2026-11-23T00:22:50+00:00",
+   "collected": "2026-11-23T02:52:22.693911+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "The unmanned surface vehicles (USV) used in the Ukrainian attack on Russian naval and military hardware-laden merchant vessels off the coast of Libya have been identified as the Sargan 3000, also know",
+   "angle": null,
+   "corroborated_by": [
+    "Telegram @OSINTLive"
+   ]
+  },
+  {
+   "id": "1092004be007ba02",
+   "title": "Why Europe is bunkering down",
+   "link": "https://unherd.com/2026/11/why-europe-is-bunkering-down/?edition=us",
+   "summary_raw": "Bomb shelters are hiding in plain sight",
+   "source": "UnHerd",
+   "side": "conservative_uk",
+   "lang": "en",
+   "published": "2026-11-23T00:00:40+00:00",
+   "collected": "2026-11-23T02:51:51.428476+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Bomb shelters are hiding in plain sight",
+   "angle": null
+  },
+  {
+   "id": "8e51905ddd2f177f",
+   "title": "Libyan Foreign Minister Reaffirms Army’s Role in Defending National Security",
+   "link": "https://libyareview.com/69900/libyan-foreign-minister-reaffirms-armys-role-in-defending-national-security/",
+   "summary_raw": "<p>Libya&#8217;s Minister of Foreign Affairs and International Cooperation, Abdulhadi Al-Hwaij, has reaffirmed that protecting the country&#8217;s sovereignty and securing its land, sea and air borders remain non-negotiable priorities, despite the government&#8217;s commitment to a policy of avoiding conflicts. Al-Hwaij, who serves in the Libyan Government-designate headed by Prime Minister Osama Hammad, said the country&#8217;s security [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/69900/libyan-foreign-minister-reaffirms-armys-role-in-defending-national-security/\">Libyan Foreign Minister Reaffirms Army&#8217;s Role in Defending National Security</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-11-22T23:35:20+00:00",
+   "collected": "2026-11-23T02:51:16.005567+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Libya’s Minister of Foreign Affairs and International Cooperation, Abdulhadi Al-Hwaij, has reaffirmed that protecting the country’s sovereignty and securing its land, sea and air borders remain non-ne",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "Libya Observer",
+    "OSINT613",
+    "Telegram @OSINTLive"
+   ]
+  },
+  {
+   "id": "3c75140c7926f708",
+   "title": "EU Links Deeper Economic Ties with Turkey to Concrete Progress on Cyprus",
+   "link": "https://greekcitytimes.com/2026/11/23/eu-links-deeper-economic-ties-with-turkey-to-concrete-progress-on-cyprus/",
+   "summary_raw": "<p>ANKARA — European Commission Executive Vice-President Raffaele Fitto, who also serves as the EU’s special envoy for the Cyprus issue, met with Turkish Foreign Minister Hakan Fidan in Ankara today, signaling that any advancement in EU–Turkey economic relations hinges on tangible movement toward a Cyprus settlement. Following the talks, Fitto described the meeting on social…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/11/23/eu-links-deeper-economic-ties-with-turkey-to-concrete-progress-on-cyprus/\">EU Links Deeper Economic Ties with Turkey to Concrete Progress on Cyprus</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-11-22T23:32:53+00:00",
+   "collected": "2026-11-23T02:51:20.131180+00:00",
+   "keywords_hit": [
+    "fidan"
+   ],
+   "category": "Κυπριακό",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "ANKARA — European Commission Executive Vice-President Raffaele Fitto, who also serves as the EU’s special envoy for the Cyprus issue, met with Turkish Foreign Minister Hakan Fidan in Ankara today, sig",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Κύπρος",
+     "lat": 34.9,
+     "lon": 33.2
+    },
+    {
+     "name": "Άγκυρα",
+     "lat": 39.93,
+     "lon": 32.86
+    }
+   ]
+  },
+  {
+   "id": "37f579c50dccf0fe",
+   "title": "Deaths & Injuries Reported in Third Attack on Benghazi Naval Base",
+   "link": "https://libyareview.com/69897/deaths-injuries-reported-in-third-attack-on-benghazi-naval-base/",
+   "summary_raw": "<p>Libyan military sources have reported a third attack involving explosive-laden drone boats on the Benghazi Naval Base in eastern Libya, claiming that several people were killed and injured in the latest incident on Sunday. The sources said that the attack caused casualties but provided no confirmed death toll or details about the victims. The reported [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/69897/deaths-injuries-reported-in-third-attack-on-benghazi-naval-base/\">Deaths &amp; Injuries Reported in Third Attack on Benghazi Naval Base</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
+   "source": "Libya Review",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-11-22T23:31:08+00:00",
+   "collected": "2026-11-23T02:51:16.005766+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Libyan military sources have reported a third attack involving explosive-laden drone boats on the Benghazi Naval Base in eastern Libya, claiming that several people were killed and injured in the late",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "Libya Observer",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ],
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "28b8cc79961bc723",
+   "title": "Libya rejects use of its territory and waters in foreign conflicts",
+   "link": "https://www.aa.com.tr/en/middle-east/libya-rejects-use-of-its-territory-and-waters-in-foreign-conflicts/4133889",
+   "summary_raw": "House of Representatives urges investigators to establish responsibility for attacks, calls for unified government",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-22T23:23:31+00:00",
+   "collected": "2026-11-23T02:50:54.790230+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Mεσόγειος",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "House of Representatives urges investigators to establish responsibility for attacks, calls for unified government",
+   "angle": null
+  },
+  {
+   "id": "1fe8abe31cea0f60",
+   "title": "Λιβύη: Επίθεση με θαλάσσια drones σε εμπορικό πλοίο με σημαία Μάλτας ανοιχτά της Βεγγάζης",
+   "link": "https://www.ertnews.gr/eidiseis/livyi-epithesi-me-thalassia-drones-se-emporiko-ploio-me-simaia-maltas-anoixta-tis-veggazis/",
+   "summary_raw": "<img alt=\"Taiwan Unmanned Surface Vehicle\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/11/ap25168075415145-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Εμπορικό πλοίο με σημαία Μάλτας έγινε στόχος μη επανδρωμένων σκαφών επιφανείας, φορτωμένων με εκρηκτικά, στα ανοιχτά της Βεγγάζης, σύμφωνα με ανακοίνωση των αρχών της ανατολικής Λιβύης. Πρόκειται για το δεύτερο παρόμοιο περιστατικό μέσα σε λίγες ώρες, καθώς νωρίτερα είχε αναφερθεί επίθεση σε ρωσικό πλοίο στην ίδια ευρύτερη θαλάσσια περιοχή. Το υπουργείο Υγείας των αρχών της ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/livyi-epithesi-me-thalassia-drones-se-emporiko-ploio-me-simaia-maltas-anoixta-tis-veggazis/\" title=\"Λιβύη: Επίθεση με θαλάσσια drones σε εμπορικό πλοίο με σημαία Μάλτας ανοιχτά της Βεγγάζης\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
+   "source": "ΕΡΤ News",
+   "side": "greek_media",
+   "lang": "el",
+   "published": "2026-11-22T23:14:00+00:00",
+   "collected": "2026-11-23T02:50:57.918294+00:00",
+   "keywords_hit": [
+    "λιβύη",
+    "βεγγάζη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Εμπορικό πλοίο με σημαία Μάλτας έγινε στόχος μη επανδρωμένων σκαφών επιφανείας, φορτωμένων με εκρηκτικά, στα ανοιχτά της Βεγγάζης, σύμφωνα με ανακοίνωση των αρχών της ανατολικής Λιβύης. Πρόκειται για ",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "c774aa1b7dc48a3b",
+   "title": "COP31 Talks Collapse as EU, UK Walk Over Failure to Address Fossil Fuels",
+   "link": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels",
+   "summary_raw": "<p><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"566\" src=\"https://www.esgtoday.com/wp-content/uploads/2026/11/COP31-President.jpg\" width=\"997\" /></p>After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31 [&#8230;]",
+   "source": "ESG Today",
+   "side": "green_esg",
+   "lang": "en",
+   "published": "2026-11-22T23:09:39+00:00",
+   "collected": "2026-11-23T02:51:29.747700+00:00",
+   "keywords_hit": [
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31 […]",
+   "angle": null,
+   "corroborated_by": [
+    "Greek City Times",
+    "Guardian Environment",
+    "Reuters Sustainability",
+    "TRT World"
+   ]
+  },
+  {
+   "id": "3b8e150f33429e8f",
+   "title": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
+   "link": "https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
+   "summary_raw": "<p>Co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia, which is exporting climate pain</p><p>The failure of Cop31 in Antalya was a line in the sand moment, a victory for multiculturalism as countries stood up to the big fossil fuel producers and said no. The text they rejected barely recognised the catastrophic climate emergency we’re facing, let alone signalled a definitive move away from fossil fuels.</p><p>The good news is that most of the world’s governments rejected an agreement stripped of meaning. And the power of one particular fossil fuel producer, Saudi Arabia, needs particular scrutiny. What we also know is that co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia. It didn’t work.</p> <a href=\"https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement\">Continue reading...</a>",
+   "source": "Guardian Environment",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-11-22T22:30:48+00:00",
+   "collected": "2026-11-23T02:51:30.000210+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia, which is exporting climate pain The failure of Cop31 in Antalya was a line in the sand moment, a v",
+   "angle": null,
+   "corroborated_by": [
+    "ESG Today",
+    "Greek City Times",
+    "Reuters Sustainability",
+    "TRT World"
+   ]
+  },
+  {
+   "id": "56e622bc084c0941",
+   "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+   "summary_raw": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+   "source": "Al Jazeera English",
+   "side": "international",
+   "lang": "en",
+   "published": "2026-11-22T22:01:48+00:00",
+   "collected": "2026-11-23T02:51:23.585097+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 5,
+   "turkish_narrative": false,
+   "summary_el": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+   "angle": null,
+   "corroborated_by": [
+    "Libya Review",
+    "OSINT613",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ],
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "fcac4e532650e001",
+   "title": "Libya’s eastern-based government files UN complaint over Benghazi ship attacks",
+   "link": "https://www.aa.com.tr/en/middle-east/libya-s-eastern-based-government-files-un-complaint-over-benghazi-ship-attacks/4133880",
+   "summary_raw": "Government demands answers from Ukraine over military activities after attacks on Russian and Maltese ships",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-22T21:55:52+00:00",
+   "collected": "2026-11-23T02:50:54.790568+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Mεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Government demands answers from Ukraine over military activities after attacks on Russian and Maltese ships",
+   "angle": null,
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "3cc552b202115f84",
+   "title": "Από που δρουν οι Ουκρανοί χειριστές drone που χτυπούν ρωσικά πλοία στη Μεσόγειο",
+   "link": "https://www.in.gr/2026/11/22/world/apo-pou-droun-oi-oukranoi-xeiristes-drone-pou-xtypoun-rosika-ploia-sti-mesogeio/",
+   "summary_raw": "<div><img alt=\"\" class=\"attachment-medium_large size-medium_large wp-post-image\" height=\"475\" src=\"https://www.in.gr/wp-content/uploads/2026/11/libya-hit-768x475.jpg\" style=\"margin-bottom: 15px;\" width=\"768\" /></div>\n<p>Δημοσιογραφικές έρευνες και αξιωματούχοι της Λιβύης αναφέρουν ότι Ουκρανοί ειδικοί σε θέματα μη επανδρωμένων αεροσκαφών δραστηριοποιούνται από στρατιωτικές εγκαταστάσεις εντός της χώρας</p>\n<p>The post <a href=\"https://www.in.gr/2026/11/22/world/apo-pou-droun-oi-oukranoi-xeiristes-drone-pou-xtypoun-rosika-ploia-sti-mesogeio/\">Από που δρουν οι Ουκρανοί χειριστές drone που χτυπούν ρωσικά πλοία στη Μεσόγειο</a> appeared first on <a href=\"https://www.in.gr\">in.gr</a>.</p>",
+   "source": "in.gr",
+   "side": "greek_mainstream",
+   "lang": "el",
+   "published": "2026-11-22T21:50:13+00:00",
+   "collected": "2026-11-23T02:51:45.412412+00:00",
+   "keywords_hit": [
+    "libya",
+    "λιβύη"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Δημοσιογραφικές έρευνες και αξιωματούχοι της Λιβύης αναφέρουν ότι Ουκρανοί ειδικοί σε θέματα μη επανδρωμένων αεροσκαφών δραστηριοποιούνται από στρατιωτικές εγκαταστάσεις εντός της χώρας The post Από π",
+   "angle": null
+  },
   {
    "id": "54f4a860170658b9",
    "title": "Nuno Felix RT @AlistairCarns: Strikes in Kaliningrad, a Russian ship struck in the Baltic Sea and a Russian Frigate going up in smoke in Libya. I don’t think any Russian military p…",
@@ -67,6 +691,32 @@
      "lat": 32.12,
      "lon": 20.07
     }
+   ]
+  },
+  {
+   "id": "4153f3881a3f19dd",
+   "title": "UN Chief Disappointed After Climate Change Talks Collapse",
+   "link": "https://greekcitytimes.com/2026/11/23/un-chief-disappointed-after-climate-change-talks-collapse-2/",
+   "summary_raw": "<p>COP31 climate talks collapsed in Antalya after the EU rejected a draft deal that omitted fossil fuels, prompting deep disappointment from UN chief António Guterres.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/11/23/un-chief-disappointed-after-climate-change-talks-collapse-2/\">UN Chief Disappointed After Climate Change Talks Collapse  </a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-11-22T21:44:15+00:00",
+   "collected": "2026-11-23T02:51:20.131890+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "COP31 climate talks collapsed in Antalya after the EU rejected a draft deal that omitted fossil fuels, prompting deep disappointment from UN chief António Guterres. The post UN Chief Disappointed Afte",
+   "angle": null,
+   "corroborated_by": [
+    "ESG Today",
+    "Guardian Environment",
+    "Reuters Sustainability",
+    "TRT World"
    ]
   },
   {
@@ -137,6 +787,78 @@
      "lat": 32.12,
      "lon": 20.07
     }
+   ]
+  },
+  {
+   "id": "1b2c8363e9718365",
+   "title": "Trump Says He Saved USA from Open Borders That 'Destroy Nations'",
+   "link": "https://www.breitbart.com/politics/2026/11/22/trump-says-he-saved-usa-from-open-borders-that-destroy-nations/",
+   "summary_raw": "<p>President Donald Trump warned that \"open borders destroy nations,\" and noted that he saved the United States from being destroyed by open borders.</p>\n<p>The post <a href=\"https://www.breitbart.com/politics/2026/11/22/trump-says-he-saved-usa-from-open-borders-that-destroy-nations/\" rel=\"nofollow\">Trump Says He Saved USA from Open Borders That &#8216;Destroy Nations&#8217;</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
+   "source": "Breitbart",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-22T21:23:04+00:00",
+   "collected": "2026-11-23T02:51:52.200280+00:00",
+   "keywords_hit": [
+    "open borders",
+    "trump"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "President Donald Trump warned that \"open borders destroy nations,\" and noted that he saved the United States from being destroyed by open borders. The post Trump Says He Saved USA from Open Borders Th",
+   "angle": null
+  },
+  {
+   "id": "f9a1af2528967354",
+   "title": "COP31 Climate Talks Collapse in Antalya as EU Rejects Draft Deal",
+   "link": "https://greekcitytimes.com/2026/11/23/cop31-climate-talks-collapse-antalya-eu-rejects-deal/",
+   "summary_raw": "<p>ANTALYA — UN climate negotiations in Antalya collapsed on Tuesday after the European Union and allied nations rejected a final draft agreement presented by COP31 co-chairs Turkey and Australia, arguing the text was far too weak to drive meaningful action against global warming. UN Secretary-General António Guterres expressed strong frustration following the breakdown of the…</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/11/23/cop31-climate-talks-collapse-antalya-eu-rejects-deal/\">COP31 Climate Talks Collapse in Antalya as EU Rejects Draft Deal</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
+   "source": "Greek City Times",
+   "side": "greek_diaspora",
+   "lang": "en",
+   "published": "2026-11-22T21:22:08+00:00",
+   "collected": "2026-11-23T02:51:20.133327+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "ANTALYA — UN climate negotiations in Antalya collapsed on Tuesday after the European Union and allied nations rejected a final draft agreement presented by COP31 co-chairs Turkey and Australia, arguin",
+   "angle": null,
+   "corroborated_by": [
+    "ESG Today",
+    "Guardian Environment",
+    "Reuters Sustainability",
+    "TRT World"
+   ]
+  },
+  {
+   "id": "3b09980c714c6bf2",
+   "title": "Can climate diplomacy build on the collapse of COP31? - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1RyOVZKTlV6bndHdTJhb3ZfZkI5R081UGttS1pZMDB4T0s0ekRPNGRQLW5FUERHRGVFLUxLQTFEcnFKSHpwVDBOQThBRGVaZkJfVTlMUzZPOFc3b3dZZllkVUVuRF9Lbnc3d3pzd01KQTE5WFpzR1h4alU4dUF1ZW0yYkpFeHF1RjRvbklfbWJqdDNXV1lkVkFCQnlRZw?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1RyOVZKTlV6bndHdTJhb3ZfZkI5R081UGttS1pZMDB4T0s0ekRPNGRQLW5FUERHRGVFLUxLQTFEcnFKSHpwVDBOQThBRGVaZkJfVTlMUzZPOFc3b3dZZllkVUVuRF9Lbnc3d3pzd01KQTE5WFpzR1h4alU4dUF1ZW0yYkpFeHF1RjRvbklfbWJqdDNXV1lkVkFCQnlRZw?oc=5\" target=\"_blank\">Can climate diplomacy build on the collapse of COP31?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "source": "Reuters Sustainability",
+   "side": "green_intl",
+   "lang": "en",
+   "published": "2026-11-22T21:14:00+00:00",
+   "collected": "2026-11-23T02:51:29.318762+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Can climate diplomacy build on the collapse of COP31? Reuters",
+   "angle": null,
+   "corroborated_by": [
+    "ESG Today",
+    "Greek City Times",
+    "Guardian Environment",
+    "TRT World"
    ]
   },
   {
@@ -321,6 +1043,25 @@
      "lon": 20.07
     }
    ]
+  },
+  {
+   "id": "e554711885f42b1d",
+   "title": "COP31 İklim Zirvesi hayal kırıklığı ile son buldu",
+   "link": "https://medyascope.tv/2026/11/22/cop31-iklim-zirvesi-hayal-kirikligi-ile-son-buldu/",
+   "summary_raw": "<p>Türkiye’nin ev sahipliği yaptığı COP31’de fosil yakıtlar ve finansman konularında uzlaşı sağlanamaması nedeniyle sonuç çıkmadı.</p>\n<p><a href=\"https://medyascope.tv/2026/11/22/cop31-iklim-zirvesi-hayal-kirikligi-ile-son-buldu/\">COP31 İklim Zirvesi hayal kırıklığı ile son buldu</a> <a href=\"https://medyascope.tv\">Medyascope</a></p>",
+   "source": "Medyascope (τουρκική αντιπολίτευση)",
+   "side": "turkish_opposition",
+   "lang": "tr",
+   "published": "2026-11-22T20:14:08+00:00",
+   "collected": "2026-11-23T02:51:27.420979+00:00",
+   "keywords_hit": [
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Türkiye’nin ev sahipliği yaptığı COP31’de fosil yakıtlar ve finansman konularında uzlaşı sağlanamaması nedeniyle sonuç çıkmadı. COP31 İklim Zirvesi hayal kırıklığı ile son buldu Medyascope",
+   "angle": null
   },
   {
    "id": "c5da5869efa5c916",
@@ -543,6 +1284,32 @@
      "lat": 32.12,
      "lon": 20.07
     }
+   ]
+  },
+  {
+   "id": "7abf98705cf75259",
+   "title": "COP31 chief closes climate summit without deal, says some countries lacked flexibility - TRT World",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aTFsU1BWdlJtVi1uWUlvM2Y1b0hBVHN6UXJiYXFjZWZHbEZLT1ZUeVhIUkpXX3hnUW85ZFk3U0tUR084SkloNU52OTVaYlNFcXY5NERtX3k?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aTFsU1BWdlJtVi1uWUlvM2Y1b0hBVHN6UXJiYXFjZWZHbEZLT1ZUeVhIUkpXX3hnUW85ZFk3U0tUR084SkloNU52OTVaYlNFcXY5NERtX3k?oc=5\" target=\"_blank\">COP31 chief closes climate summit without deal, says some countries lacked flexibility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font>",
+   "source": "TRT World",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-22T19:57:28+00:00",
+   "collected": "2026-11-23T02:50:55.244456+00:00",
+   "keywords_hit": [
+    "climate",
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "COP31 chief closes climate summit without deal, says some countries lacked flexibility TRT World",
+   "angle": null,
+   "corroborated_by": [
+    "ESG Today",
+    "Greek City Times",
+    "Guardian Environment",
+    "Reuters Sustainability"
    ]
   },
   {
@@ -822,6 +1589,25 @@
    ]
   },
   {
+   "id": "745bf05d64ffd2a3",
+   "title": "Over half of migrants surveyed in Poland report abuse, study finds",
+   "link": "https://www.aa.com.tr/en/europe/over-half-of-migrants-surveyed-in-poland-report-abuse-study-finds/4133813",
+   "summary_raw": "Verbal harassment, workplace exploitation and physical violence among incidents documented by migrant support organization",
+   "source": "Anadolu Agency (EN)",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-22T19:08:20+00:00",
+   "collected": "2026-11-23T02:50:54.790966+00:00",
+   "keywords_hit": [
+    "migrant"
+   ],
+   "category": "Μεταναστευτικό",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Verbal harassment, workplace exploitation and physical violence among incidents documented by migrant support organization",
+   "angle": null
+  },
+  {
    "id": "9e87bd981ac460c4",
    "title": "Τοψίδης: Απ’ τις βίζες της Πόλης στα 266 εκατ. της σίτισης και τον «κλειστό κύκλο» του Επιμελητηρίου",
    "link": "https://www.evros-news.gr/2026/11/22/topsidis-ap-tis-vizes-tis-polis-sta-266-ekat-tis-sitisis-kai-ton-kleisto-kyklo-tou-epimelitiriou/",
@@ -846,6 +1632,25 @@
      "lon": 25.5
     }
    ]
+  },
+  {
+   "id": "886ea250d3e65d4c",
+   "title": "Libya’da Rus korvetine saldırı",
+   "link": "https://www.defenceturk.net/libyada-rus-korvetine-saldiri",
+   "summary_raw": "<p>Libyalı yetkililer, Bingazi Deniz Üssü&#8217;nde demirli Rus Donanması&#8217;na ait Merkury korvetinin Ukrayna&#8217;ya ait İDA&#8217;larla ağır hasar aldığını öne sürdü. Libya’nın doğusundaki yönetim, Bingazi Deniz Üssü’nde meydana gelen patlamanın limana demirli bir Rus gemisinde gerçekleştiğini doğruladı. Libya Temsilciler Meclisinin atadığı doğudaki hükümet tarafından yapılan açıklamada, patlamanın ardından güvenlik ve askeri makamlara kapsamlı soruşturma başlatılması talimatı verildiği [&#8230;]</p>\n<p>The post <a href=\"https://www.defenceturk.net/libyada-rus-korvetine-saldiri\">Libya&#8217;da Rus korvetine saldırı</a> appeared first on <a href=\"https://www.defenceturk.net\">DefenceTurk</a>.</p>",
+   "source": "DefenceTurk",
+   "side": "turkish_defense",
+   "lang": "tr",
+   "published": "2026-11-22T18:54:59+00:00",
+   "collected": "2026-11-23T02:51:21.059785+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Libyalı yetkililer, Bingazi Deniz Üssü’nde demirli Rus Donanması’na ait Merkury korvetinin Ukrayna’ya ait İDA’larla ağır hasar aldığını öne sürdü. Libya’nın doğusundaki yönetim, Bingazi Deniz Üssü’nde",
+   "angle": null
   },
   {
    "id": "241d580154fc459e",
@@ -1029,6 +1834,73 @@
    "angle": null
   },
   {
+   "id": "2cee310af130dcbb",
+   "title": "Russian Corvette Hit at Benghazi Port",
+   "link": "https://www.osint613.com/post/russian-corvette-hit-benghazi-port-28764",
+   "summary_raw": "Russia's corvette Merkury sits destroyed and partially sunk at Benghazi port in Libya. Ukraine hit it with an unmanned surface drone last night.\n\n-Vantor tech",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-11-22T18:34:06+00:00",
+   "collected": "2026-11-23T02:51:52.649004+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Russia's corvette Merkury sits destroyed and partially sunk at Benghazi port in Libya. Ukraine hit it with an unmanned surface drone last night. -Vantor tech",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "Libya Observer",
+    "Libya Review",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ],
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
+   "id": "c3306cf6a0cacce6",
+   "title": "Drone Hits Cargo Ship Off Benghazi",
+   "link": "https://www.osint613.com/post/drone-hits-cargo-ship-off-benghazi-28765",
+   "summary_raw": "Footage filmed from a Libyan National Army Air Force helicopter shows a Ukrainian surface drone hitting a Russian military-linked cargo vessel off Benghazi earlier.",
+   "source": "OSINT613",
+   "side": "osint_middle_east",
+   "lang": "en",
+   "published": "2026-11-22T18:28:58+00:00",
+   "collected": "2026-11-23T02:51:52.649080+00:00",
+   "keywords_hit": [
+    "libya",
+    "benghazi"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Footage filmed from a Libyan National Army Air Force helicopter shows a Ukrainian surface drone hitting a Russian military-linked cargo vessel off Benghazi earlier.",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "Libya Review",
+    "Telegram @OSINTLive",
+    "Telegram @me_observer_TG"
+   ],
+   "locations": [
+    {
+     "name": "Βεγγάζη",
+     "lat": 32.12,
+     "lon": 20.07
+    }
+   ]
+  },
+  {
    "id": "b9801ae89f045c8d",
    "title": "Drone boats target commercial ship off Libya’s Benghazi port: Local media",
    "link": "https://www.aa.com.tr/en/africa/drone-boats-target-commercial-ship-off-libya-s-benghazi-port-local-media/4133795",
@@ -1154,6 +2026,25 @@
      "lon": 20.07
     }
    ]
+  },
+  {
+   "id": "7d426171a3a47d79",
+   "title": "COP31’de fosil yakıtlar anlaşmazlığı aşılamadı",
+   "link": "https://medyascope.tv/2026/11/22/cop31de-fosil-yakitlar-anlasmazligi-asilamadi/",
+   "summary_raw": "<p>COP31’de fosil yakıtlardan çıkış konusunda uzlaşma sağlanamadı. Yeni taslakta enerji, iklim finansmanı ve uyum hedefleri öne çıktı.</p>\n<p><a href=\"https://medyascope.tv/2026/11/22/cop31de-fosil-yakitlar-anlasmazligi-asilamadi/\">COP31’de fosil yakıtlar anlaşmazlığı aşılamadı</a> <a href=\"https://medyascope.tv\">Medyascope</a></p>",
+   "source": "Medyascope (τουρκική αντιπολίτευση)",
+   "side": "turkish_opposition",
+   "lang": "tr",
+   "published": "2026-11-22T17:24:41+00:00",
+   "collected": "2026-11-23T02:51:27.423819+00:00",
+   "keywords_hit": [
+    "cop31"
+   ],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "COP31’de fosil yakıtlardan çıkış konusunda uzlaşma sağlanamadı. Yeni taslakta enerji, iklim finansmanı ve uyum hedefleri öne çıktı. COP31’de fosil yakıtlar anlaşmazlığı aşılamadı Medyascope",
+   "angle": null
   },
   {
    "id": "73e3961b851819ac",
@@ -1860,6 +2751,23 @@
      "lon": 20.07
     }
    ]
+  },
+  {
+   "id": "d0a185b49dc4fc39",
+   "title": "Έργα αποθήκευσης ενέργειας: Το χρονοδιάγραμμα των καθυστερήσεων για 4.700 MW και οι «χαμένοι» ευρωπαϊκοί πόροι - B2Green",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndGZ5UmwzdzJhYVUtMVlSVUZFQ3VXVWRDMGx6ak1OeDU5Snc4OC0tMmpVV1g2UTZLc1FycHB3Z1AyRmlWZlplbnlFNVdxLVNUakMwRWZnTk1ncXhUY1NSMDlacjdMRkpjUk5PS3IzenJaOW83NGJv?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndGZ5UmwzdzJhYVUtMVlSVUZFQ3VXVWRDMGx6ak1OeDU5Snc4OC0tMmpVV1g2UTZLc1FycHB3Z1AyRmlWZlplbnlFNVdxLVNUakMwRWZnTk1ncXhUY1NSMDlacjdMRkpjUk5PS3IzenJaOW83NGJv?oc=5\" target=\"_blank\">Έργα αποθήκευσης ενέργειας: Το χρονοδιάγραμμα των καθυστερήσεων για 4.700 MW και οι «χαμένοι» ευρωπαϊκοί πόροι</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B2Green</font>",
+   "source": "B2Green",
+   "side": "green_greek",
+   "lang": "el",
+   "published": "2026-11-22T14:19:58+00:00",
+   "collected": "2026-11-23T02:51:28.352885+00:00",
+   "keywords_hit": [],
+   "category": "Πράσινη Ενέργεια-Περιβάλλον",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Έργα αποθήκευσης ενέργειας: Το χρονοδιάγραμμα των καθυστερήσεων για 4.700 MW και οι «χαμένοι» ευρωπαϊκοί πόροι B2Green",
+   "angle": null
   },
   {
    "id": "d8dd7aebe6c9a0b8",
@@ -2796,6 +3704,30 @@
    "angle": null
   },
   {
+   "id": "b61d1c24d9e2d7da",
+   "title": "Libya, UNDP discuss strengthening development cooperation in Naples - The Libya Observer",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2xaQ1VFbWQ3eWpNUmZ1YWNKb3BuWXRPS1lqZEJyZTBLcVEyNlFZd0lMa1dscTZhUlU1bjdpRUNDeGpkNmtsQ1BJX3VhY25fendLNlN1UU5xdEd0SWFFVnF5LXZLb1pOOUJYdjhjWEFRNm5ydk5MS0RwakpxcEQwODRmYUZILWc4OVgwU0pDR0NnY0ZwbUd6ZA?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2xaQ1VFbWQ3eWpNUmZ1YWNKb3BuWXRPS1lqZEJyZTBLcVEyNlFZd0lMa1dscTZhUlU1bjdpRUNDeGpkNmtsQ1BJX3VhY25fendLNlN1UU5xdEd0SWFFVnF5LXZLb1pOOUJYdjhjWEFRNm5ydk5MS0RwakpxcEQwODRmYUZILWc4OVgwU0pDR0NnY0ZwbUd6ZA?oc=5\" target=\"_blank\">Libya, UNDP discuss strengthening development cooperation in Naples</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Libya Observer</font>",
+   "source": "Libya Observer",
+   "side": "north_africa",
+   "lang": "en",
+   "published": "2026-11-22T11:35:58+00:00",
+   "collected": "2026-11-23T02:51:16.312038+00:00",
+   "keywords_hit": [
+    "libya"
+   ],
+   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "Libya, UNDP discuss strengthening development cooperation in Naples The Libya Observer",
+   "angle": null,
+   "corroborated_by": [
+    "Al Jazeera English",
+    "Libya Review",
+    "OSINT613"
+   ]
+  },
+  {
    "id": "cf734c7b8641cd0b",
    "title": "Dbeibah meets Turkish officials in Istanbul to discuss Libya’s stability - The Libya Observer",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSDFTZlk0dmdseE1QQ2loRG1PNUk4ek1qQWplbGh1MFlnaVVVX2Q1ZE1QTEJhb1BWS1liZS1aVjVxS0NiYnExNVhDMTRvUUM4Y3h1Mnl5Q3h5eE5xTUpfM1JPTkVyQlBJOGQ4eXNWWlhCbk05UGhnXzl2TGV0REQzTk5MbFBoNTJfNWxKUlN2NUNkckRUWnZkeFBkQ1JvczQ?oc=5",
@@ -3340,6 +4272,25 @@
      "lon": 22.0
     }
    ]
+  },
+  {
+   "id": "ebc51bad0102d4ca",
+   "title": "#Japan #NK  Japan's Defense Minister Shinjiro Koizumi has said the government will not rule out considering nuclear-powered submarines as part of a broader review of Japan's defens…",
+   "link": "https://t.me/OSINTdefender/20821",
+   "summary_raw": "#Japan #NK  Japan's Defense Minister Shinjiro Koizumi has said the government will not rule out considering nuclear-powered submarines as part of a broader review of Japan's defense strategy, citing their extended submerged endurance and speed as potential advantages. The debate is unfolding as Japan prepares to revise its three key national security documents by the end of 2026.  Subscribe to @OSINTdefender Chat room",
+   "source": "Telegram @OSINTdefender",
+   "side": "telegram_osint",
+   "lang": "en",
+   "published": "2026-11-22T07:11:41+00:00",
+   "collected": "2026-11-23T02:52:20.497307+00:00",
+   "keywords_hit": [
+    "nuclear"
+   ],
+   "category": "Άμυνα-Εξοπλισμοί",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "#Japan #NK Japan's Defense Minister Shinjiro Koizumi has said the government will not rule out considering nuclear-powered submarines as part of a broader review of Japan's defense strategy, citing th",
+   "angle": null
   },
   {
    "id": "f3b5804ad6783774",
@@ -5289,6 +6240,26 @@
    ]
   },
   {
+   "id": "4c3fc464a5c7859c",
+   "title": "It’s Time to Be American on Purpose",
+   "link": "https://www.dailysignal.com/2026/11/21/its-time-to-be-american-on-purpose/",
+   "summary_raw": "A republic can survive a bitter election. It cannot survive a generation of its most powerful institutions behaving as if the country’s principles and values that made them possible are optional. That is the quiet emergency of this moment. Not an individual bill. Not one campaign ad. The emergency is amnesia. And if the 2026...",
+   "source": "Daily Signal",
+   "side": "conservative_us",
+   "lang": "en",
+   "published": "2026-11-21T17:00:00+00:00",
+   "collected": "2026-11-23T02:51:52.444403+00:00",
+   "keywords_hit": [],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 3,
+   "turkish_narrative": false,
+   "summary_el": "A republic can survive a bitter election. It cannot survive a generation of its most powerful institutions behaving as if the country’s principles and values that made them possible are optional. That",
+   "angle": null,
+   "corroborated_by": [
+    "American Enterprise Institute"
+   ]
+  },
+  {
    "id": "4a349288964d429c",
    "title": "Κρήτη, το νέο «μέτωπο» μεταξύ Αθήνας και Αγκυρας – Crash test οι έρευνες της Chevron",
    "link": "https://www.zarpanews.gr/kriti-to-neo-metopo-metaxy-athinas-kai-agkyras-crash-test-oi-ereynes-tis-chevron/",
@@ -6216,6 +7187,25 @@
      "lon": 22.0
     }
    ]
+  },
+  {
+   "id": "5ccbbe6e449628ef",
+   "title": "Greek PM faces backlash for promoting mature-content GTA VI as Christmas gift for children - TRT World",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0SXh4TG9LaXZPRm41MmNjVzFWMm5QS1JnSWpiakFaMlpNRTJURVIxTWM4NGVVdDdBUWVxN2F0NXBJZDFyYXEtbUNUb0tLRUFvN3N3OFM0emM?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0SXh4TG9LaXZPRm41MmNjVzFWMm5QS1JnSWpiakFaMlpNRTJURVIxTWM4NGVVdDdBUWVxN2F0NXBJZDFyYXEtbUNUb0tLRUFvN3N3OFM0emM?oc=5\" target=\"_blank\">Greek PM faces backlash for promoting mature-content GTA VI as Christmas gift for children</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font>",
+   "source": "TRT World",
+   "side": "turkish_state",
+   "lang": "en",
+   "published": "2026-11-21T10:25:50+00:00",
+   "collected": "2026-11-23T02:50:55.243769+00:00",
+   "keywords_hit": [
+    "greek"
+   ],
+   "category": "Ελληνοτουρκικά",
+   "severity": 3,
+   "turkish_narrative": true,
+   "summary_el": "Greek PM faces backlash for promoting mature-content GTA VI as Christmas gift for children TRT World",
+   "angle": null
   },
   {
    "id": "dd7dd19c6795cbc9",
@@ -9087,6 +10077,28 @@
    "turkish_narrative": false,
    "summary_el": "Η Νορβηγία υπέγραψε συμφωνίες πιστώσεων άνθρακα με Ινδονησία και Μαρόκο για ανανεώσιμη ενέργεια Energypress",
    "angle": null
+  },
+  {
+   "id": "1c1ec1b7851770f8",
+   "title": "Can Congress Reclaim Its Constitutional Power? - American Enterprise Institute - AEI",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzdKajZiU2VDQVNGelNiRVFkU2tzRVFzaTRaZ0VlYkdCUmlOSW4xQzktSHNTV2dvbW13R2RlYnYxcUpHMDlTa1B2dFBCY2dWa2xPRFdreHFZUlYyLUhWQTczdEVNeEJBckNpSWRUaGtGZHpTN2kxV0tXQjhicG9DZmZlMA?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzdKajZiU2VDQVNGelNiRVFkU2tzRVFzaTRaZ0VlYkdCUmlOSW4xQzktSHNTV2dvbW13R2RlYnYxcUpHMDlTa1B2dFBCY2dWa2xPRFdreHFZUlYyLUhWQTczdEVNeEJBckNpSWRUaGtGZHpTN2kxV0tXQjhicG9DZmZlMA?oc=5\" target=\"_blank\">Can Congress Reclaim Its Constitutional Power?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Enterprise Institute - AEI</font>",
+   "source": "American Enterprise Institute",
+   "side": "conservative_tt",
+   "lang": "en",
+   "published": "2026-11-20T15:38:43+00:00",
+   "collected": "2026-11-23T02:51:54.223568+00:00",
+   "keywords_hit": [
+    "constitutional"
+   ],
+   "category": "Συντηρητική Ατζέντα",
+   "severity": 2,
+   "turkish_narrative": false,
+   "summary_el": "Can Congress Reclaim Its Constitutional Power? American Enterprise Institute - AEI",
+   "angle": null,
+   "corroborated_by": [
+    "Daily Signal"
+   ]
   },
   {
    "id": "64ca8b84ee69db92",
@@ -20973,6 +21985,25 @@
      "lon": 33.2
     }
    ]
+  },
+  {
+   "id": "ec3a9ffebab2f0fc",
+   "title": "Ξεκινούν οι σεισμικές έρευνες για τους υδρογονάνθρακες στα οικόπεδα Α2 και Νοτίως της Πελοποννήσου - Κατατέθηκε αίτημα για NAVTEX - Energypress",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc24zaHhTaGRHMjB6ejNVSkVtRldQUmFRZkVmTFprcWZGQl9kZk50WUg0MVhraWRzcWM5aklfb25PdHprcWh4NWZ1WXdCTUZXWm51SlFFVHNSQUFqSkhJa3RPcGdRZ3BXYXRoZlQwaUt3dDF3bl9Pdzg1cXJrODlvMUNSM2xlYzZGWUFXTTc2WWphYlZGNmQtSzlPQjFUTHdfNEE0MHppWWZST1hqc19PVG1NcW8?oc=5",
+   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPc24zaHhTaGRHMjB6ejNVSkVtRldQUmFRZkVmTFprcWZGQl9kZk50WUg0MVhraWRzcWM5aklfb25PdHprcWh4NWZ1WXdCTUZXWm51SlFFVHNSQUFqSkhJa3RPcGdRZ3BXYXRoZlQwaUt3dDF3bl9Pdzg1cXJrODlvMUNSM2xlYzZGWUFXTTc2WWphYlZGNmQtSzlPQjFUTHdfNEE0MHppWWZST1hqc19PVG1NcW8?oc=5\" target=\"_blank\">Ξεκινούν οι σεισμικές έρευνες για τους υδρογονάνθρακες στα οικόπεδα Α2 και Νοτίως της Πελοποννήσου - Κατατέθηκε αίτημα για NAVTEX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energypress</font>",
+   "source": "Energypress",
+   "side": "greek_energy",
+   "lang": "el",
+   "published": "2026-11-18T12:23:20+00:00",
+   "collected": "2026-11-23T02:51:24.037117+00:00",
+   "keywords_hit": [
+    "navtex"
+   ],
+   "category": "Ενέργεια",
+   "severity": 4,
+   "turkish_narrative": false,
+   "summary_el": "Ξεκινούν οι σεισμικές έρευνες για τους υδρογονάνθρακες στα οικόπεδα Α2 και Νοτίως της Πελοποννήσου - Κατατέθηκε αίτημα για NAVTEX Energypress",
+   "angle": null
   },
   {
    "id": "0e7b1e6909a0aac7",
@@ -33597,547 +34628,6 @@
    "turkish_narrative": false,
    "summary_el": "Ukrainian President Zelensky announced that over 55% of Russia's oil refining capacity is out of action due to Ukraine's strikes, asserting a significant impact on Russia's energy sector. Source",
    "angle": null
-  },
-  {
-   "id": "5269207fb28a55d5",
-   "title": "BTAYTD ve İskeçe Türk Birliği'nden gençlere meslek seçimi desteği",
-   "link": "https://www.milletgazetesi.gr/bati-trakya/btaytd-ve-iskece-turk-birliginden-genclere-meslek-secimi-destegi",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Batı Trakya)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-11-16T02:48:40.532425+00:00",
-   "collected": "2026-11-16T02:48:40.532426+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ξάνθη",
-     "lat": 41.14,
-     "lon": 24.89
-    }
-   ]
-  },
-  {
-   "id": "e6b573d395d86647",
-   "title": "Βουλή: Πως κόπηκε ρύθμιση λύσης για όλα τα αυθαίρετα κατηγορίας 5 - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CeW85bWh6QXdQSHBEdzA2NXJyN3ZOUGVjSTJlMEIwUzlEdTE3bURuNmRQUkRVbXpEZkNoNDBwc0phRU84Yk8zT0JqNDFyVU5fYWkyMG9ZV01OdTdQRHZoM2t4VWx0Y21kTEVfaA?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1CeW85bWh6QXdQSHBEdzA2NXJyN3ZOUGVjSTJlMEIwUzlEdTE3bURuNmRQUkRVbXpEZkNoNDBwc0phRU84Yk8zT0JqNDFyVU5fYWkyMG9ZV01OdTdQRHZoM2t4VWx0Y21kTEVfaA?oc=5\" target=\"_blank\">Βουλή: Πως κόπηκε ρύθμιση λύσης για όλα τα αυθαίρετα κατηγορίας 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-16T02:44:58+00:00",
-   "collected": "2026-11-16T11:32:18.658400+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Βουλή: Πως κόπηκε ρύθμιση λύσης για όλα τα αυθαίρετα κατηγορίας 5 ecopress",
-   "angle": null
-  },
-  {
-   "id": "b2cd5d2ae13bb3b1",
-   "title": "Άρειος Πάγος: Αποζημιώσεις από γείτονες για αυθαίρετα σε ταράτσες, ακόμη και εάν έχουν τακτοποιηθεί - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zYnY5akdIaDNRaUliTERiWnhQOWlUM0JZUXRWZ291d2NURkhUd2cteGtfbHJlNVUtVlYwQ0pYRVZPSE5YMXZUNGZQX21HM25jc2kyWUJhMngxd1hHOGg0RDM0VjlIUzE2?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zYnY5akdIaDNRaUliTERiWnhQOWlUM0JZUXRWZ291d2NURkhUd2cteGtfbHJlNVUtVlYwQ0pYRVZPSE5YMXZUNGZQX21HM25jc2kyWUJhMngxd1hHOGg0RDM0VjlIUzE2?oc=5\" target=\"_blank\">Άρειος Πάγος: Αποζημιώσεις από γείτονες για αυθαίρετα σε ταράτσες, ακόμη και εάν έχουν τακτοποιηθεί</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-16T02:37:23+00:00",
-   "collected": "2026-11-16T11:32:18.658712+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Άρειος Πάγος: Αποζημιώσεις από γείτονες για αυθαίρετα σε ταράτσες, ακόμη και εάν έχουν τακτοποιηθεί ecopress",
-   "angle": null
-  },
-  {
-   "id": "f1f7a8727125761e",
-   "title": "Europe’s uncertainty is a bill falling due",
-   "link": "https://brusselssignal.eu/2026/11/europes-uncertainty-is-a-bill-falling-due/",
-   "summary_raw": "Europe faces significant economic uncertainty, with inflation at a three-year high and rising public debt affecting essential services, reflecting a crisis of its own making.\n<p><a href=\"https://brusselssignal.eu/2026/11/europes-uncertainty-is-a-bill-falling-due/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-11-16T02:30:22+00:00",
-   "collected": "2026-11-16T11:32:39.566583+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Europe faces significant economic uncertainty, with inflation at a three-year high and rising public debt affecting essential services, reflecting a crisis of its own making. Source",
-   "angle": null
-  },
-  {
-   "id": "eb7c9bd2ed3677a6",
-   "title": "COP31: What has been achieved so far?",
-   "link": "https://cyprus-mail.com/2026/11/16/cop31-what-has-been-achieved-so-far",
-   "summary_raw": "As COP31 in Antalya reached its halfway point, a clearer picture is beginning to emerge. Despite initially low expectations, the summit has produced some meaningful developments. Beyond electrification, new initiatives have been presented on climate finance, methane emissions reduction, climate adaptation and the energy transition. However, announcing initiatives is one thing; reaching binding agreements is [&#8230;]",
-   "source": "Cyprus Mail",
-   "side": "cypriot_media",
-   "lang": "en",
-   "published": "2026-11-16T02:25:00+00:00",
-   "collected": "2026-11-16T02:47:22.239961+00:00",
-   "keywords_hit": [
-    "climate",
-    "cop31"
-   ],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "As COP31 in Antalya reached its halfway point, a clearer picture is beginning to emerge. Despite initially low expectations, the summit has produced some meaningful developments. Beyond electrificatio",
-   "angle": null,
-   "corroborated_by": [
-    "Fraser Institute",
-    "Reuters Sustainability"
-   ]
-  },
-  {
-   "id": "2248232cb06c8ccc",
-   "title": "Κληρονομιές: παγίδα δύο προθεσμιών μπλοκάρει χιλιάδες ακίνητα με αυθαίρετα κατηγορίας 5 - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lZmJrbUQtTnduQXhkQmJfSXFsUTNtZF8tRkVXTzE2QlhLNWQ3Z25WU243aTJjc3lsMDcwcnBNWnpXdmtYbkVlN2ZWQjRra0MzUGdxclV2c3pHbkIzLS1XV1pIejhka1Rq?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lZmJrbUQtTnduQXhkQmJfSXFsUTNtZF8tRkVXTzE2QlhLNWQ3Z25WU243aTJjc3lsMDcwcnBNWnpXdmtYbkVlN2ZWQjRra0MzUGdxclV2c3pHbkIzLS1XV1pIejhka1Rq?oc=5\" target=\"_blank\">Κληρονομιές: παγίδα δύο προθεσμιών μπλοκάρει χιλιάδες ακίνητα με αυθαίρετα κατηγορίας 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-16T02:21:05+00:00",
-   "collected": "2026-11-16T11:32:18.658257+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Κληρονομιές: παγίδα δύο προθεσμιών μπλοκάρει χιλιάδες ακίνητα με αυθαίρετα κατηγορίας 5 ecopress",
-   "angle": null
-  },
-  {
-   "id": "971b77dc6cc09801",
-   "title": "ΥΠΕΝ: επιταχύνεται η ανάπτυξη έργων αποθήκευσης ενέργειας - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PU2tEZ2wtMFI4WUN0MHFzNjFDcW9obnNXaGZTZkFHaktPRFlXMG13b0VSZUM0cUYzNEtsVFpXeTJRQi1IaEdacEhtNTBVTUJnbV9qbFRqQnNubk1wN2F3WUF6Q3d0dk1kT29F?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5PU2tEZ2wtMFI4WUN0MHFzNjFDcW9obnNXaGZTZkFHaktPRFlXMG13b0VSZUM0cUYzNEtsVFpXeTJRQi1IaEdacEhtNTBVTUJnbV9qbFRqQnNubk1wN2F3WUF6Q3d0dk1kT29F?oc=5\" target=\"_blank\">ΥΠΕΝ: επιταχύνεται η ανάπτυξη έργων αποθήκευσης ενέργειας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-16T02:11:14+00:00",
-   "collected": "2026-11-16T11:32:18.659455+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "ΥΠΕΝ: επιταχύνεται η ανάπτυξη έργων αποθήκευσης ενέργειας ecopress",
-   "angle": null
-  },
-  {
-   "id": "e38ce05fc2ca5834",
-   "title": "Νέο καραβάνι μεταναστών ξεκίνησε από την Ονδούρα με προορισμό τις ΗΠΑ παρά τις απειλές Τραμπ",
-   "link": "https://www.protothema.gr/world/article/1911383/neo-karavani-metanaston-xekinise-apo-tin-ondoura-me-proorismo-tis-ipa-para-tis-apeiles-trab/?utm_source=rss",
-   "summary_raw": "Πάνω από 100 άνθρωποι, ανάμεσά τους πολλά μικρά παιδιά, αναζητούν καλύτερη ζωή – Με διπλασιασμό δασμών απειλεί το Μεξικό ο Αμερικανός πρόεδρος",
-   "source": "Πρώτο Θέμα",
-   "side": "greek_mainstream",
-   "lang": "el",
-   "published": "2026-11-16T02:04:23+00:00",
-   "collected": "2026-11-16T02:47:55.845783+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Πάνω από 100 άνθρωποι, ανάμεσά τους πολλά μικρά παιδιά, αναζητούν καλύτερη ζωή – Με διπλασιασμό δασμών απειλεί το Μεξικό ο Αμερικανός πρόεδρος",
-   "angle": null,
-   "corroborated_by": [
-    "ΕΡΤ News"
-   ]
-  },
-  {
-   "id": "78a30c6180576137",
-   "title": "Φυσικές καταστροφές: Τι ετοιμάζεται για την ασφάλιση ιδιωτικών κατοικιών - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUVZGQUhNOHFtRDU4RmI2ZzFZTTY1RGJiY1NOZlNBa0R2UWwyczJUdGlmRzV4U1p4WkVYVTV2VzNNSlJKdVljQllULUdmUGtIaER5X1BBQ1NMNFdBbU51Z1JyU0FZdFlu?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUVZGQUhNOHFtRDU4RmI2ZzFZTTY1RGJiY1NOZlNBa0R2UWwyczJUdGlmRzV4U1p4WkVYVTV2VzNNSlJKdVljQllULUdmUGtIaER5X1BBQ1NMNFdBbU51Z1JyU0FZdFlu?oc=5\" target=\"_blank\">Φυσικές καταστροφές: Τι ετοιμάζεται για την ασφάλιση ιδιωτικών κατοικιών</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-16T02:02:53+00:00",
-   "collected": "2026-11-17T22:56:27.571190+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Φυσικές καταστροφές: Τι ετοιμάζεται για την ασφάλιση ιδιωτικών κατοικιών ecopress",
-   "angle": null
-  },
-  {
-   "id": "88faa87ab515b6b6",
-   "title": "Trump blames Biden for air traffic ‘disaster’ and presses Congress for funds",
-   "link": "https://brusselssignal.eu/2026/11/trump-blames-biden-for-air-traffic-disaster-and-presses-congress-for-funds/",
-   "summary_raw": "Trump criticized Biden for the FAA's recent communications failure, urging Congress to approve $50 billion for a new air traffic control system to avert future disasters.\n<p><a href=\"https://brusselssignal.eu/2026/11/trump-blames-biden-for-air-traffic-disaster-and-presses-congress-for-funds/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-11-16T02:00:33+00:00",
-   "collected": "2026-11-16T11:32:39.566829+00:00",
-   "keywords_hit": [
-    "trump"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Trump criticized Biden for the FAA's recent communications failure, urging Congress to approve $50 billion for a new air traffic control system to avert future disasters. Source",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal",
-    "Rod Dreher's Diary"
-   ]
-  },
-  {
-   "id": "795f645c4d766a84",
-   "title": "Cyprus heads to Schengen entrance",
-   "link": "https://www.ekathimerini.com/economy/1321410/cyprus-heads-to-schengen-entrance/",
-   "summary_raw": "Negotiations for Cyprus’ accession to the Schengen Area are \"proceeding normally,” President Nikos Christodoulides said.",
-   "source": "Kathimerini (EN)",
-   "side": "greek_media",
-   "lang": "en",
-   "published": "2026-11-16T02:00:00+00:00",
-   "collected": "2026-11-16T11:31:43.011360+00:00",
-   "keywords_hit": [
-    "christodoulides"
-   ],
-   "category": "Κυπριακό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Negotiations for Cyprus’ accession to the Schengen Area are \"proceeding normally,” President Nikos Christodoulides said.",
-   "angle": null,
-   "corroborated_by": [
-    "Kathimerini Cyprus (EN)"
-   ],
-   "locations": [
-    {
-     "name": "Κύπρος",
-     "lat": 34.9,
-     "lon": 33.2
-    }
-   ]
-  },
-  {
-   "id": "d55319f9310aacb4",
-   "title": "Ονδούρα: Νέο μεταναστευτικό καραβάνι προς τις ΗΠΑ παρά τις απειλές Τραμπ",
-   "link": "https://www.ertnews.gr/eidiseis/diethni/ondoura-neo-metanasteytiko-karavani-pros-tis-ipa-para-tis-apeiles-tramp/",
-   "summary_raw": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://www.ertnews.gr/wp-content/uploads/2026/11/000-d74g9k2-scaled.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Περισσότεροι από 100 μετανάστες εγκατέλειψαν πεζοί την Κυριακή την Ονδούρα, επιχειρώντας να ξεκινήσουν ένα δύσκολο ταξίδι με τελικό προορισμό τις Ηνωμένες Πολιτείες, παρά τις προειδοποιήσεις και τις απειλές του Ντόναλντ Τραμπ, διαπίστωσε δημοσιογράφος του Γαλλικού Πρακτορείου. Πρόκειται για το τέταρτο καραβάνι, αποτελούμενο από δεκάδες μετανάστες που ελπίζουν να βρουν καλύτερο μέλλον στις ΗΠΑ, που έχει ... <a class=\"read-more\" href=\"https://www.ertnews.gr/eidiseis/diethni/ondoura-neo-metanasteytiko-karavani-pros-tis-ipa-para-tis-apeiles-tramp/\" title=\"Ονδούρα: Νέο μεταναστευτικό καραβάνι προς τις ΗΠΑ παρά τις απειλές Τραμπ\">Περισσότερα</a></p>\n<p>www.ertnews.gr</p>",
-   "source": "ΕΡΤ News",
-   "side": "greek_media",
-   "lang": "el",
-   "published": "2026-11-16T01:56:00+00:00",
-   "collected": "2026-11-16T02:47:13.661054+00:00",
-   "keywords_hit": [
-    "μεταναστ"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "Περισσότεροι από 100 μετανάστες εγκατέλειψαν πεζοί την Κυριακή την Ονδούρα, επιχειρώντας να ξεκινήσουν ένα δύσκολο ταξίδι με τελικό προορισμό τις Ηνωμένες Πολιτείες, παρά τις προειδοποιήσεις και τις α",
-   "angle": null,
-   "corroborated_by": [
-    "Πρώτο Θέμα"
-   ]
-  },
-  {
-   "id": "3ec486e07f02a3a9",
-   "title": "Εθνικό σχέδιο ανασυγκρότησης 10 σημείων για υποδομές, πόλεις και στεγαστικό - ecopress",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FOEg3ZDRrbWQ2SlNGbUJacThQNTBoRXFkemFQZWY0X0g4S3NiOVVubkgwTFJnZXpIQnZmQnVmZlJ6REpDbWxkSUZLLWNKVkVmRHAwb3NDWF8xVlo1eTZxeGRsNEYxMG1ZQTJvVUhn?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9FOEg3ZDRrbWQ2SlNGbUJacThQNTBoRXFkemFQZWY0X0g4S3NiOVVubkgwTFJnZXpIQnZmQnVmZlJ6REpDbWxkSUZLLWNKVkVmRHAwb3NDWF8xVlo1eTZxeGRsNEYxMG1ZQTJvVUhn?oc=5\" target=\"_blank\">Εθνικό σχέδιο ανασυγκρότησης 10 σημείων για υποδομές, πόλεις και στεγαστικό</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecopress</font>",
-   "source": "Ecopress",
-   "side": "green_greek",
-   "lang": "el",
-   "published": "2026-11-16T01:47:14+00:00",
-   "collected": "2026-11-16T11:32:18.659306+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Εθνικό σχέδιο ανασυγκρότησης 10 σημείων για υποδομές, πόλεις και στεγαστικό ecopress",
-   "angle": null
-  },
-  {
-   "id": "1b8ebbd43f78db22",
-   "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-   "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-   "summary_raw": "<p>Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon</p><p>Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining.</p><p>On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon and channelled one of Pope Francis’s core teachings that links care for the most vulnerable with care for God’s creation.</p> <a href=\"https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment\">Continue reading...</a>",
-   "source": "Guardian Environment",
-   "side": "green_intl",
-   "lang": "en",
-   "published": "2026-11-16T01:13:44+00:00",
-   "collected": "2026-11-16T11:32:19.706543+00:00",
-   "keywords_hit": [],
-   "category": "Πράσινη Ενέργεια-Περιβάλλον",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed ",
-   "angle": null,
-   "corroborated_by": [
-    "ESG Today"
-   ]
-  },
-  {
-   "id": "f23b03ec3d343492",
-   "title": "Polish player performs Christian ‘crown’ celebration against Germany after Nmecha row",
-   "link": "https://brusselssignal.eu/2026/11/polish-player-performs-christian-crown-celebration-against-germany-after-nmecha-row/",
-   "summary_raw": "Fabian Bzdyl celebrated scoring against Germany with a Christian 'crown' gesture, igniting discussions on faith and free speech after Felix Nmecha's controversy.\n<p><a href=\"https://brusselssignal.eu/2026/11/polish-player-performs-christian-crown-celebration-against-germany-after-nmecha-row/\" rel=\"nofollow\">Source</a></p>",
-   "source": "Brussels Signal",
-   "side": "conservative_eu",
-   "lang": "en",
-   "published": "2026-11-16T01:00:14+00:00",
-   "collected": "2026-11-16T11:32:39.567074+00:00",
-   "keywords_hit": [
-    "christian",
-    "faith",
-    "free speech"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Fabian Bzdyl celebrated scoring against Germany with a Christian 'crown' gesture, igniting discussions on faith and free speech after Felix Nmecha's controversy. Source",
-   "angle": null,
-   "corroborated_by": [
-    "Rod Dreher's Diary"
-   ]
-  },
-  {
-   "id": "ed3c0d34b0d5e8e0",
-   "title": "Libya’s Parliament & Turkish Consul Discuss Political Solutions & Bilateral Relations",
-   "link": "https://libyareview.com/69724/libyas-parliament-turkish-consul-discuss-political-solutions-bilateral-relations/",
-   "summary_raw": "<p>Turkey&#8217;s Consul General in Benghazi, Hüseyin Hançer, has praised the Libyan House of Representatives&#8217; efforts to strengthen national unity and find political solutions to the country&#8217;s ongoing crises. The remarks came during a meeting on Sunday, 15 November 2026, with Yousef Al-Agouri, Chairman of the House of Representatives&#8217; Foreign Affairs and International Cooperation Committee, in [&#8230;]</p>\n<p>The post <a href=\"https://libyareview.com/69724/libyas-parliament-turkish-consul-discuss-political-solutions-bilateral-relations/\">Libya&#8217;s Parliament &amp; Turkish Consul Discuss Political Solutions &amp; Bilateral Relations</a> appeared first on <a href=\"https://libyareview.com\">LibyaReview</a>.</p>",
-   "source": "Libya Review",
-   "side": "north_africa",
-   "lang": "en",
-   "published": "2026-11-16T00:30:54+00:00",
-   "collected": "2026-11-16T02:47:30.070118+00:00",
-   "keywords_hit": [
-    "libya",
-    "benghazi"
-   ],
-   "category": "ΥΠΕΞ-Ανατ.Μεσόγειος",
-   "severity": 3,
-   "turkish_narrative": true,
-   "summary_el": "Turkey’s Consul General in Benghazi, Hüseyin Hançer, has praised the Libyan House of Representatives’ efforts to strengthen national unity and find political solutions to the country’s ongoing crises.",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Βεγγάζη",
-     "lat": 32.12,
-     "lon": 20.07
-    }
-   ]
-  },
-  {
-   "id": "214e9786ea84af32",
-   "title": "Greece in Lead Role as First EU Return Hubs Host to Be Named in Vienna",
-   "link": "https://greekcitytimes.com/2026/11/16/greece-eu-return-hubs-vienna/",
-   "summary_raw": "<p>Greece will take part in Monday’s Vienna announcement of the first country outside the EU to host a migrant Return Hub, as a five-country core group nears a deal.</p>\n<p>The post <a href=\"https://greekcitytimes.com/2026/11/16/greece-eu-return-hubs-vienna/\">Greece in Lead Role as First EU Return Hubs Host to Be Named in Vienna</a> appeared first on <a href=\"https://greekcitytimes.com\">Greek City Times</a>.</p>",
-   "source": "Greek City Times",
-   "side": "greek_diaspora",
-   "lang": "en",
-   "published": "2026-11-16T00:25:01+00:00",
-   "collected": "2026-11-16T02:47:33.899871+00:00",
-   "keywords_hit": [
-    "migrant"
-   ],
-   "category": "Μεταναστευτικό",
-   "severity": 4,
-   "turkish_narrative": false,
-   "summary_el": "Greece will take part in Monday’s Vienna announcement of the first country outside the EU to host a migrant Return Hub, as a five-country core group nears a deal. The post Greece in Lead Role as First",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ελλάδα",
-     "lat": 39.0,
-     "lon": 22.0
-    }
-   ]
-  },
-  {
-   "id": "b2e036340bcd0510",
-   "title": "Why America can't keep China down",
-   "link": "https://unherd.com/2026/11/why-america-cant-keep-china-down/?edition=us",
-   "summary_raw": "The great decoupling has only just begun",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-11-16T00:03:49+00:00",
-   "collected": "2026-11-16T11:32:41.308738+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The great decoupling has only just begun",
-   "angle": null,
-   "corroborated_by": [
-    "Breitbart",
-    "Daily Signal",
-    "Rod Dreher's Diary"
-   ]
-  },
-  {
-   "id": "cb6adceb54dc2988",
-   "title": "The capture of Tribune magazine",
-   "link": "https://unherd.com/2026/11/the-capture-of-tribune-magazine/?edition=us",
-   "summary_raw": "The worker’s rag is now obsessed with Israel",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-11-16T00:02:27+00:00",
-   "collected": "2026-11-17T04:33:30.188690+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "The worker’s rag is now obsessed with Israel",
-   "angle": null
-  },
-  {
-   "id": "e9975b9e4f9c806f",
-   "title": "What men’s magazines did to sex",
-   "link": "https://unherd.com/2026/11/what-lad-mags-did-to-sex/?edition=us",
-   "summary_raw": "They pornified Western culture",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-11-16T00:01:22+00:00",
-   "collected": "2026-11-18T22:01:13.191812+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "They pornified Western culture",
-   "angle": null,
-   "corroborated_by": [
-    "Daily Signal"
-   ]
-  },
-  {
-   "id": "af3270e053a47fb3",
-   "title": "Are trans politics moderating?",
-   "link": "https://unherd.com/2026/11/are-trans-politics-moderating/?edition=us",
-   "summary_raw": "A new crop of politicians portends a fresh start",
-   "source": "UnHerd",
-   "side": "conservative_uk",
-   "lang": "en",
-   "published": "2026-11-16T00:00:37+00:00",
-   "collected": "2026-11-16T02:48:04.328300+00:00",
-   "keywords_hit": [],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "A new crop of politicians portends a fresh start",
-   "angle": null
-  },
-  {
-   "id": "395b42dce2471b87",
-   "title": "US terrorism watchlist case reveals federal scrutiny of CAIR clients’ Turkey travel and contacts - Nordic Monitor",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWhqSVNCa3NGclFFc28wZV9hWHpTaEZsazRJbkFJdUxfTnc2dkwzZ2c2NHRjTjk4S3J0dkl1YUpCU1JGVmpIaWRBUlZ2TEpJTVp1SE1NOGY3aWVnX0wyMWdJQXRyb3ljVmdWOHVuYkIzaTVkUW5Tamg1NDdWMHZ6UnhZbG1VMmRrYmoyTVlDSjJJWVlNMWtOUHY5c3Bvd0E4RGdINGNGSEpPekNZR2tTYXlvRjVWRWw5cTBaS3V2N1o1bjlDNGRzMlJB?oc=5",
-   "summary_raw": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWhqSVNCa3NGclFFc28wZV9hWHpTaEZsazRJbkFJdUxfTnc2dkwzZ2c2NHRjTjk4S3J0dkl1YUpCU1JGVmpIaWRBUlZ2TEpJTVp1SE1NOGY3aWVnX0wyMWdJQXRyb3ljVmdWOHVuYkIzaTVkUW5Tamg1NDdWMHZ6UnhZbG1VMmRrYmoyTVlDSjJJWVlNMWtOUHY5c3Bvd0E4RGdINGNGSEpPekNZR2tTYXlvRjVWRWw5cTBaS3V2N1o1bjlDNGRzMlJB?oc=5\" target=\"_blank\">US terrorism watchlist case reveals federal scrutiny of CAIR clients’ Turkey travel and contacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nordic Monitor</font>",
-   "source": "Nordic Monitor",
-   "side": "international",
-   "lang": "en",
-   "published": "2026-11-15T23:26:01+00:00",
-   "collected": "2026-11-19T13:18:06.207199+00:00",
-   "keywords_hit": [],
-   "category": "Ελληνοτουρκικά",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "US terrorism watchlist case reveals federal scrutiny of CAIR clients’ Turkey travel and contacts Nordic Monitor",
-   "angle": null
-  },
-  {
-   "id": "cf476871d5cdb53e",
-   "title": "Qatari Prime Minister: No Route Can Replace the Strait of Hormuz You hear from countries like the UAE and Saudi Arabia that they have plans to create alternative routes for transpo…",
-   "link": "https://t.me/me_observer_TG/1132133",
-   "summary_raw": "Qatari Prime Minister: No Route Can Replace the Strait of Hormuz You hear from countries like the UAE and Saudi Arabia that they have plans to create alternative routes for transporting their energy out of the Persian Gulf. When we think of Qatar, this country has slightly different characteristics because its product, namely gas and liquefied natural gas, is unique. This can never replace the Strait for us. Therefore, the Strait will remain the main vital artery.",
-   "source": "Telegram @me_observer_TG",
-   "side": "telegram_middle_east",
-   "lang": "en",
-   "published": "2026-11-15T23:20:59+00:00",
-   "collected": "2026-11-16T02:48:37.541101+00:00",
-   "keywords_hit": [
-    "natural gas"
-   ],
-   "category": "Ενέργεια",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "Qatari Prime Minister: No Route Can Replace the Strait of Hormuz You hear from countries like the UAE and Saudi Arabia that they have plans to create alternative routes for transporting their energy o",
-   "angle": null,
-   "locations": [
-    {
-     "name": "Ορμούζ",
-     "lat": 26.57,
-     "lon": 56.25
-    }
-   ]
-  },
-  {
-   "id": "3e66d06616efa3e2",
-   "title": "Karakol nezarethanesinde şüpheli ölüm: 38 yaşındaki kadın hayatını kaybetti",
-   "link": "https://www.milletgazetesi.gr/yunanistan/karakol-nezarethanesinde-supheli-olum-38-yasindaki-kadin-hayatini-kaybetti",
-   "summary_raw": "",
-   "source": "Millet Gazetesi (Yunanistan)",
-   "side": "thrace_minority_media",
-   "lang": "tr",
-   "published": "2026-11-15T22:55:14.905685+00:00",
-   "collected": "2026-11-15T22:55:14.905688+00:00",
-   "keywords_hit": [],
-   "category": "Θράκη",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "",
-   "angle": null
-  },
-  {
-   "id": "87b178489dc7c350",
-   "title": "The son of assassinated Iranian nuclear scientist Mohsen Fakhrizadeh says his father told him Iran had reached a level of knowledge that makes a nuclear bomb look like “a joke.”   …",
-   "link": "https://t.me/ClashReport/106235",
-   "summary_raw": "The son of assassinated Iranian nuclear scientist Mohsen Fakhrizadeh says his father told him Iran had reached a level of knowledge that makes a nuclear bomb look like “a joke.”   He said he once asked his father, half-jokingly, whether Iran actually had a nuclear bomb.   His father replied, “My son, we have reached a level of knowledge compared to which a nuclear bomb is a joke,” adding that “the future war will not be a nuclear war.”   The son said any nuclear-related work was defensive, focused on what Iran should do if it ever came under nuclear attack.  READ MORE",
-   "source": "Telegram @clashreport",
-   "side": "telegram_osint",
-   "lang": "en",
-   "published": "2026-11-15T22:38:38+00:00",
-   "collected": "2026-11-16T11:33:08.015633+00:00",
-   "keywords_hit": [
-    "nuclear"
-   ],
-   "category": "Άμυνα-Εξοπλισμοί",
-   "severity": 2,
-   "turkish_narrative": false,
-   "summary_el": "The son of assassinated Iranian nuclear scientist Mohsen Fakhrizadeh says his father told him Iran had reached a level of knowledge that makes a nuclear bomb look like “a joke.” He said he once asked ",
-   "angle": null
-  },
-  {
-   "id": "a6f8777a4502a872",
-   "title": "New York Judges Stall Trump Efforts to End Illegal Migrant Trucker Licenses",
-   "link": "https://www.breitbart.com/immigration/2026/11/15/new-york-judges-stall-trump-efforts-to-end-illegal-migrant-trucker-licenses/",
-   "summary_raw": "<p>An appeals court in New York dealt a blow to the Trump administration's effort to cancel the commercial trucker licenses of illegal aliens.</p>\n<p>The post <a href=\"https://www.breitbart.com/immigration/2026/11/15/new-york-judges-stall-trump-efforts-to-end-illegal-migrant-trucker-licenses/\" rel=\"nofollow\">New York Judges Stall Trump Efforts to End Illegal Migrant Trucker Licenses</a> appeared first on <a href=\"https://www.breitbart.com\" rel=\"nofollow\">Breitbart</a>.</p>",
-   "source": "Breitbart",
-   "side": "conservative_us",
-   "lang": "en",
-   "published": "2026-11-15T22:38:07+00:00",
-   "collected": "2026-11-16T11:32:42.185183+00:00",
-   "keywords_hit": [
-    "migrant",
-    "trump"
-   ],
-   "category": "Συντηρητική Ατζέντα",
-   "severity": 3,
-   "turkish_narrative": false,
-   "summary_el": "An appeals court in New York dealt a blow to the Trump administration's effort to cancel the commercial trucker licenses of illegal aliens. The post New York Judges Stall Trump Efforts to End Illegal ",
-   "angle": null,
-   "corroborated_by": [
-    "Brussels Signal",
-    "Christopher Rufo",
-    "Rod Dreher's Diary"
-   ]
   }
  ]
 }
